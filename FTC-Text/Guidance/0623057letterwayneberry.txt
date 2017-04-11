@@ -1,0 +1,41 @@
+UNITED STATES OF AMERICA
+
+FEDERAL TRADE COMMISSION
+WASHINGTON, D.C. 20580
+
+Office of the Secretary
+
+March 30, 2007
+
+Mr. Wayne Berry
+377 Keahole Street,
+Suite D-10, PMB110,
+Honolulu, Hawaii 96825
+Re:
+
+Guidance Software, Inc.
+Matter No. 0623057
+
+Dear Mr. Berry:
+This acknowledges your letter commenting on the Federal Trade Commission’s consent
+agreement in the above-entitled proceeding. Your letter was placed on the public record pursuant
+to Rule 4.9(b)(6)(ii) of the Commission’s Rules of Practice, 16 C.F.R. § 4.9(b)(6)(ii), and was
+given serious consideration by the Commission.
+Your comment states that the proposed consent order should require Guidance Software,
+Inc. (“the respondent”) to protect copyrighted programs on its computer networks from
+unauthorized access, and to provide copies of assessments required under the order to the owners
+of copyrighted programs. In response, the Commission notes that the complaint in this matter
+alleges failure to secure information obtained from customers’ credit cards, and does not allege
+that the respondent failed to secure copyrighted programs. Accordingly, the order requires the
+respondent to take reasonable measures to secure personal information it collects from or about
+consumers. Finally, because security assessments could reveal information that could facilitate
+unauthorized access to the respondent’s computer systems, providing assessments to owners of
+copyrighted programs could put sensitive information at risk.
+After reviewing your comment, the Commission has determined that the public interest
+would be best served by accepting the consent order. Thank you again for your comment.
+By direction of the Commission.
+
+Donald S. Clark
+Secretary
+
+

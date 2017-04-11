@@ -1,0 +1,3121 @@
+PUBLIC
+RECORD REFERENCES AND GLOSSARY
+ALJ — FTC Chief Administrative Law Judge D. Michael Chappell
+Brief for Appellee Federal Trade Commission, LabMD, Inc. v. FTC, No. 14-12144 (July 24, 2014)
+(excerpt attached as Reply Exhibit 1)
+CC — Complaint Counsel
+CCAB — Complaint Counsel’s Appeal Brief (Exhibit 3 to LabMD Stay Application)1
+CC Motion to Enforce Briefing Limits — Compliant Counsel’s Motion to Enforce Limits on
+Appeal Briefing Pursuant to Rule 3.52 (Dec. 7, 2015)
+(excerpt attached as Reply Exhibit 2)
+CC Opposition to LabMD Cross-Motion to Strike — Complaint Counsel’s Opposition to
+Respondent’s Cross-Motion to Strike
+Notice of Appeal (Dec. 17, 2015)
+(excerpt attached as Reply Exhibit 3)
+CC Privilege Log — Excerpt from Complaint Counsel’s Opposition to Respondent’s Motion
+Compel A Proper Privilege Log and Complaint Counsel’s Revised Log of
+Privileged Documents Responsive to Respondent’s First Requests for
+Production (attached as Reply Exhibit 4)
+“Commission Opinion” or “Op.” — Opinion of the Commission, In the Matter of LabMD, Inc.,
+No. 9357 (July 28, 2016)
+(Exhibit 6 to LabMD Stay Application ).
+Commission Order Extending Deadlines — Order Extending Deadlines for Filing Petition for
+Reconsideration and Answer Thereto, In the Matter
+of LabMD, Inc., No. 9357 (Aug. 12, 2016)
+(Exhibit 7 to LabMD Stay Application)
+December 18 Order — Commission Order (Dec. 18, 2015) (attached as Reply Exhibit 5)
+“Compl.” or Complaint — Complaint, In the Matter of LabMD, Inc., No. 9357 (Aug. 28, 2013)
+(Exhibit 8 to LabMD Stay Application)
+Daugherty Decl. — Declaration of LabMD, Inc. President and Chief Executive Officer Michael J.
+Daugherty in Support of Respondent LabMD, Inc.’s Application for Stay of
+Order Pending Review in U.S. Court of Appeals
+(Exhibit 18 to LabMD Stay Application)
+
+1
+
+Materials attached to LabMD’s Stay Application as Exhibits, as required by Commission Rule
+3.56(c), 16 C.F.R. § 3.56(c), are not reattached to this Reply.
+
+PUBLIC
+FTC — Federal Trade Commission
+“ID” or “Initial Decision” — Initial Decision , In the Matter of LabMD, Inc., No. 9357
+(Nov. 13, 2015) (Exhibit 20 to LabMD Stay Application)
+HHS — U.S. Department of Health and Human Services
+HIPAA — Health Insurance Portability and Accountability Act of 1996
+HITECH — Health Information Technology for Economic and Clinical Health Act
+IDCOL — Numbered Conclusions of Law in the ALJ’s Initial Decision
+IDF — Numbered Findings of Fact in the ALJ’s Initial Decision
+January 16 Order — Commission Order Denying Respondent LabMD’s Motion to Dismiss, In the
+Matter of LabMD, Inc., No. 9357 (Jan. 16, 2014)
+(Exhibit 22 to LabMD Stay Application).
+KHG SA — Respondent’s Motion for Reconsideration or, In the Alternative, For a Stay of Final
+Order Pending Review by U.S. Court of Appeals, In the Matter of Kentucky Houshold
+Goods Carriers Association, Docket No. 9309 (July 20, 2005)
+(excerpt attached as Reply Exhibit 6)
+LabMD MSD Reply — Respondent LabMD Inc.’s Reply in Support of Motion for Summary
+Decision, In the Matter of LabMD, Inc., No. 9357
+(May 12, 2014) (Exhibit 23 to LabMD Stay Application)
+LabMD MSD Reply, Ex. 1 — Excerpt from Transcript of Proceedings
+Before the Honorable William S. Duffey, Jr.. United States District Judge,
+LabMD, Inc. v. FTC, No. 1:14-cv-810-WSD, (N.D. Ga. May 7, 2014)
+LabMD Notice of Conditional Cross-Appeal — Respondent LabMD, Inc.’s Notice of Conditional
+Cross-Appeal (Dec. 1, 2015)
+(attached as Reply Exhibit 7)
+May 19 Order — Commission Order Denying Respondent LabMD’s Motion for Summary
+Decision, In the Matter of LabMD, Inc., No. 9357 (May 19, 2014)
+(Exhibit 25 to LabMD Stay Application)
+PHI — Protected Health Information, as defined by HIPAA and HHS regulations.
+Order — Final Order, In the Matter of LabMD, Inc., No. 9357 (July 28, 2016)
+(Exhibit 29 to LabMD Stay Application )
+
+PUBLIC
+RX532 — Deposition Transcript of Testimony of Daniel Kaufman (May 12, 2014)
+(Exhibit 33 to LabMD Stay Application)
+RX644 — STAFF OF H. COMM. ON OVERSIGHT & GOV’T REFORM, 113TH CONG., TIVERSA, INC.:
+WHITE KNIGHT OR HIGH-TECH PROTECTION RACKET (2015)
+(prepared for Chairman Darrell E. Issa) (Exhibit 35 to LabMD Stay Application)
+Rosch Dissent — Dissenting Statement of Commissioner J. Thomas Rosch Petitions of LabMD,
+Inc. and Michael J. Daugherty to Limit or Quash the Civil Investigative
+Demands FTC File No. 1023099 (June 21, 2012) (attached as
+“SA” or “Stay Application” — Respondent LabMD Inc.’s Application for Stay of Final Order
+Pending Review by a United States Court of Appeals, In the
+Matter of LabMD, Inc., No. 9357 (Aug. 30, 2016).
+“SO” or “Opposition” — Complaint Counsel’s Opposition to Respondent’s Application for Stay
+of Final Order, In the Matter of LabMD, Inc., No. 9357 (Sept. 9, 2016)
+Tr. — Excerpts from Transcript of evidentiary hearing before the ALJ (Exhibit 37 to LabMD Stay
+Application and attached Reply Exhibit 9)
+Supp. Daugherty Decl. — Supplemental Declaration of LabMD, Inc. President and Chief
+Executive Officer Michael J. Daugherty in Support of Respondent
+LabMD, Inc.’s Reply to Complaint Counsel’s Opposition to
+Respondent’s Application for Stay of Order Pending Review in U.S.
+Court of Appeals (attached as Reply Exhibit 10)
+Exhibit A — Expert Opinion Declaration of Cliff Baker
+
+PUBLIC
+I.
+
+INTRODUCTION
+At a May 2014 hearing on a LabMD motion for preliminary injunction, the Honorable
+
+William S. Duffey, Jr.,1 commented on the FTC investigation of LabMD, stating to FTC counsel:
+“I could tell you as a result of that [2012] hearing [on the CID] that there was already a history of
+acrimony and I think on behalf of the agency the exertion of authority in a mean-spirited way.”
+LabMD MSD Reply, Ex. 1 at 47:17-21 (emphasis added)); see also id. 94:14-15 (stating to FTC
+counsel: “I think that you will admit that there are no security standards from the FTC.”).
+After learning that FTC was monitoring the website of LabMD CEO Michael Daugherty,2
+Judge Duffey said: “This is taking an interesting and troubling turn which…[the Court] never
+expected” due to “an admission by an FTC lawyer that they monitor blogs routinely of companies
+for whatever purposes….” Id. 27:5-9. Judge Duffey described aspects of the FTC investigation of
+LabMD “as almost being unconscionable.” Id. 77:9-10. Judge Duffey reached this conclusion
+before it came to light that FTC’s case against LabMD was predicated on false evidence and
+testimony relating to the 1718 File. See ID 6-11, 88; IDF 100-168. “The ALJ [subsequently]
+found…that after the meeting between Tiversa and FTC staff in the fall of 2009, Mr. Boback
+directed Mr. Wallace to generate false information purporting to show that the 1718 file had spread
+
+1
+
+U.S. District Judge for the Northern District of Georgia.
+
+2
+
+Alarm bells began going off in the corridors of FTC’s Division of Privacy and Identity Protection
+when Mr. Daugherty’s website previewed his soon-to-be-published book, The Devil Inside the
+Beltway, in July 2013. “Three days after Mr. Daugherty posted the [book] trailer online,…FTC
+gave notice of its intent to file a complaint against LabMD.” LabMD, Inc. v. FTC, 776 F.3d 1275,
+1277 (11th Cir. 2015). The book was critical of FTC’s gestapo tactics in pursuing LabMD
+generally, and particularly singled out misconduct on the part of CC Alain Sheer and Ruth
+Yodaikan. Mr. Sheer’s draconian obsession with destroying LabMD culminated in his
+importuning Tiversa to provide fraudulent evidence of “spread” regarding the 1718 File. It is a
+cautionary tale of agency retaliation and misconduct when confronted by a citizen who refused to
+capitulate to agency overregulation and malfeasance.
+1
+
+PUBLIC
+to multiple locations on the Internet….” Op. 32 n.84; see Op. 31 (Boback’s claims of “spread” are
+“false”).
+In an exercise of judicial restraint, Judge Duffey (and later the Eleventh Circuit) declined
+to address the legality of FTC’s actions to allow it to further consider those actions before it would
+need to defend its conduct in federal Court. See generally LabMD, Inc. v. FTC, 776 F.3d 1275
+(11th Cir. 2015).
+Judge Duffey further found that “there is significant merit to…[LabMD’s] argument that
+Section 5 does not justify an investigation into data security practices and consumer privacy
+issues[.]” FTC v. LabMD, No. 1:12-cv-3005-WSD, Dkt. No. 23, at 14 (N.D. Ga. 2012). Cf. FTC
+v. AT&T Mobility, No. 15-16585, 2016 U.S. App. LEXIS 15913, *24-25 (9th Cir. Aug. 29, 2016)
+(rejecting FTC’s claimed Section 5 jurisdiction over entities regulated by FCC).
+In November 2015, the Initial Decision authored by FTC Chief Administrative Law Judge
+D. Michael Chappell dismissed the FTC complaint against LabMD in its entirety for lack of
+evidence of harm, ID 88, rejecting in great detail Tiversa’s false evidence and perjured testimony,
+see ID 7-11; IDF 100-168.
+Three years earlier, FTC Commissioner J. Thomas Rosch warned the Commission to avoid
+reliance on the 1718 File (the sole basis for the Commission Opinion’s conclusion that LabMD’s
+alleged data-security practices harmed or likely harmed consumers, see Op. 17-25) as “evidence”
+in this case: “[T]he Commission should avoid even the appearance of bias or impropriety by not
+relying on such evidence or information [i.e., the 1718 File] in this investigation.” Rosch Dissent
+at 2 (emphasis added).
+Nonetheless, rather than prosecuting Tiversa for unfair-and-deceptive trade practices, 15
+U.S.C. § 45(a); see RX644, the Commission ignored these red flags, choosing instead to reverse
+
+2
+
+PUBLIC
+the Initial Decision dismissing the complaint. It did this even though the Commission Opinion
+acknowledges that after a meeting between Tiversa representatives and lead CC Alain Sheer and
+other FTC staff, Tiversa created false evidence for use by Mr. Sheer, Op. 31-32 & n.84;3 there is
+no evidence that any identifiable consumer has been harmed by Tiversa’s 2008 theft of the 1718
+File or LabMD’s alleged data-security practices, long-since discontinued, see Op. 17,36; ID 52,88;
+IDCOL 18; and LabMD is out of business, “with a computer that is shut down and not connected
+to the Internet,” Op. 36.
+As CC’s Opposition confirms, the Commission Opinion and Final Order are ultra vires,
+unconstitutional, unsupported by evidence, and contrary to law, serving only three (prohibited)
+purposes: first, to retaliate against LabMD for its CEO’s decision to exercise his First Amendment
+right to publicly criticize FTC; second, to give FTC that which, by its own admission,4 Congress
+refused to give it—new nationwide data-security “unfairness unreasonableness” civil-penalty
+powers under 15 U.S.C. § 45(m)(1)(B) to wield against all U.S. businesses; and third, to give FTC
+a new “tool” to attempt to demand Chevron deference in pursuit of its unilateral extra-statutory
+“expansion” of its “unfairness” powers.5
+Unless the Commission fully grants LabMD’s stay application or otherwise dismisses this
+case, a Court of Appeals will be forced to address the Commission’s decision to give itself new
+national data-security civil penalty powers (which Congress intentionally and specifically denied),
+
+3
+
+Tiversa’s false evidence formed the basis for FTC’s in-house prosecution of LabMD, see SA 47 & nn.6-7; IDF 100-168, as Mr. Sheer made clear in his opening statement, Tr. 16-17,31.
+4
+
+See Prepared Statement of the FTC, Privacy in the Digital Age: Preventing Data Breaches and
+Combating Cybercrime, Before the Senate Committee on the Judiciary, at 11 (Feb. 4, 2014);
+January 16 Order at 8 n.10.
+
+5
+
+FTC has tried this before without success. See LabMD, Inc., 776 F.3d at 1278-79 (rebuffing FTC
+deference demands).
+3
+
+PUBLIC
+while also punishing LabMD for speaking out and criticizing FTC, all on an emergency briefing
+schedule. Because LabMD has satisfied all four stay factors, there is no reason why an Article III
+Court should be forced to address the issues of national importance presented by this case on such
+an expedited basis.
+II.
+
+UNADDRESSED AND UNDISPUTED MATTERS
+Generally, an opposition must address arguments and factual assertions to avoid conceding
+
+points. See CREW v. Cheney, 593 F. Supp. 2d 194, 229 (D.D.C. 2009)(“failure to respond to an
+argument…acts as a concession”); see, e.g., DeVito v. Smithkline Beecham Corp., No.02-CV0745, 2004 U.S. Dist. LEXIS 27374, *13 (N.D.N.Y Nov. 29, 2004).
+Here, CC offers no response to most of LabMD’s arguments and facts. Instead, in an
+apparent attempt to avoid application of this principle to its Opposition, CC states in a footnote:
+“In addressing only the relevant facts and issues, Complaint Counsel does not concede any of the
+irrelevant factual assertions made by Respondent.” Op. 2 n.1. CC should not be allowed to avoid
+substantively responding to LabMD’s arguments and factual assertions through this disclaimer.
+In any event, LabMD’s Stay Application and supporting materials—and CC’s failure to
+rebut or challenge LabMD’s factual assertions and address LabMD’s arguments—speak for
+themselves. And a federal Court will ultimately decide for itself what facts and issues are relevant.
+III.
+
+CC’S OPPOSITION CONFIRMS ALL STAY FACTORS FAVOR LabMD
+A. LABMD LIKELY TO SUCCEED ON MERITS
+1. Stay Warranted Due to Complex Record and Important Issues
+There is no dispute that “[t]he Commission may…grant a stay if the case presents the
+
+application of difficult legal questions to a complex factual record….” SO 7 n.8. “Complaint
+Counsel agrees…this case involves an extensive and complex record and presents important
+
+4
+
+PUBLIC
+issues.” SO 7-8 n.8. The Commission has also recognized this. See SA 9-11. As demonstrated
+by LabMD’s stay application, SA 1-24, the issues here are far more complex than those in ECM
+Biofilms (unaddressed by CC), where this Commission granted a full stay. See In the Matter of
+ECM Biofilms, Inc., No. 9358, at 1-2 (Dec. 8, 2015).
+This case involves the application of difficult legal questions, as well as legal questions on
+which a wide range of reasonable jurists (and legal scholars) have disagreed with the positions set
+forth in the Commission Opinion. See, e.g., FTC v. LabMD, No. 1:12-cv-3005-WSD, Dkt. No.
+23, at 14 (N.D. Ga. 2012)(“Court finds there is significant merit to…[LabMD’s] argument that
+Section 5 does not justify an investigation into data security practices and consumer privacy
+issues[.]”); ID 88 (LabMD’s “alleged unreasonable data security cannot properly be
+declared…unfair….[T]he Complaint must be DISMISSED.”); Gus Horowitz, Data Security and
+the FTC’s UnCommon Law, 101 IOWA L. REV. 955, 958-59 (2016). Cf. FTC v. Wyndham
+Worldwide Corp., 10 F. Supp. 3d 602, 634 (D. N.J. 2014)(“[S]tatutory authority and fair-notice
+challenges [to FTC “unfairness” data-security regulation] confront this Court with novel, complex
+statutory interpretation issues that give rise to a substantial ground for difference of opinion.”).
+For this reason alone, the first stay factor is met. See SA 9-12.
+2. Stay Also Warranted Because LabMD Likely to Succeed on Appeal
+i.
+
+CC Misunderstands Stay Standard
+
+CC suggests LabMD must make a “strong showing on the merits,” arguing LabMD has not
+done so because it is only “recycling” arguments the Commission already rejected and expressing
+“mere disagreement” with the Commission. SO 5. Not so.
+In the administrative context, “likelihood of success” is not measured by whether the
+Commission believes the respondent likely to succeed on appeal. The stay standard does not
+
+5
+
+PUBLIC
+require that the Commission admit decisional error. In the Matter of Novartis, 128 F.T.C. 233,
+1999 FTC LEXIS 211, *2-5 (1999); see also Washington Metropolitan Area Transit Com. v.
+Holiday Tours, Inc., 559 F.2d 841, 843-44 (D.C. Cir. 1977).
+CC’s reliance on Daniel Chapter One, SO 5, 13, should be rejected on the facts and law.
+First, Daniel Chapter One states: “[T]he Commission need not harbor doubt about its decision in
+order to grant the stay. Respondents…may satisfy the ‘merits’ factor if their argument on at least
+one claim is ‘substantial’—so long as the other three factors weigh in their favor.” 2010 FTC
+LEXIS 23, *6 (2010)(citations and quotation marks omitted). Second, Daniel Chapter One is
+factually inapposite, as it involved routine deception claims and, unlike here, the Commission
+“affirm[ed] the Initial Decision…both as a matter of fact and…law.” Daniel Chapter One, 2009
+FTC LEXIS 259, *1 (Dec. 24, 2009).
+Regardless, for the reasons set forth in its Stay Application, LabMD has independently
+satisfied the first stay factor even under CC’s manufactured standard.
+ii.
+
+CC’s Failure to Respond to LabMD Arguments
+
+As discussed above, CC did not substantively respond to many of LabMD’s merits
+arguments, thereby conceding those points, notwithstanding its footnote disclaimer. See SO 2 n.1.
+Among other things, CC did not substantively address the following LabMD arguments:
+
+
+FTC lacks “unfairness” data-security jurisdiction, and its actions against LabMD are
+ultra vires. Cf. SA 12-13.
+
+
+
+FTC violations of LabMD’s due process rights for failure to give fair notice. Cf. SA
+12-14, 18.
+
+
+
+FTC abused its discretion by prosecuting LabMD in-house in an attempt to, inter alia,
+advance FTC’s national policy goals. Cf. SA 14.
+
+6
+
+PUBLIC
+
+
+Commission Opinion misinterpreted plain language of Section 5(n) and violated
+Section 5(n)’s prohibition against primary reliance on putative “public policy”
+evidence to prove harm. Cf. SA 14-15.
+
+
+
+FTC failure to establish constitutionally required objective-medical-industry-practice
+standard of care and deviations therefrom at specific points in time. Cf. SA 16-18.
+
+
+
+Commission Opinion wrongfully rejected Initial Decision’s conclusion that CC failed
+to meet its burden of proof even under CC’s claimed “significant risk” standard. Cf.
+SA 16.
+
+
+
+The Commission Opinion wrongfully relied on ex parte, uncross-examined statements
+for the truth of the matters asserted. Cf. SA 16.
+
+
+
+The Commission Opinion’s misapplication of HIPAA standards unsupported by any
+expert testimony (which it was CC’s burden to adduce), contrary to the Complaint, the
+Commission’s prior Orders, and CC’s representations. Cf. SA 17-19.
+
+
+
+Commission Opinion’s wrongful rejection of the Initial Decision’s determination that
+CC’s harm experts’ reports and testimony were not entitled to weight, speculative, and
+based on fabricated evidence and perjured testimony. Cf. SA 19-20.
+
+
+
+FTC’s relationship with Tiversa and use of 1718 File in the LabMD prosecution
+violates the Fourth Amendment. Cf. SA 20.
+
+
+
+The Commission Opinion’s cost-benefit analysis is fatally flawed. Cf. SA 20-21.
+
+
+
+The Order is invalid because it relates to alleged acts or practices occurring many years
+ago, long-since discontinued, which will never reoccur. Cf. SA 23-24.
+
+
+
+FTC’s retaliatory issuance of the LabMD complaint violates 15 U.S.C. § 45(b) and
+LabMD’s First Amendment rights. Cf. SA 24.
+
+7
+
+PUBLIC
+
+
+FTC’s in-house administrative process is unconstitutional. Cf. SA 24-25.
+
+CC’s silence speaks for itself. Because CC “did not bother to respond” to LabMD’s
+arguments, it conceded the points. See, e.g., DeVito, 2004 U.S. Dist. LEXIS 27374, at *13.
+iii.
+
+CC’s Limited Substantive Responses to LabMD’s Arguments Fail
+on Facts and Law
+
+CC’s reliance on POM Wonderful to claim that a federal Court should defer to the
+Commission’s rejection of the Initial Decision fails. See SO 5. POM Wonderful is a deceptivepractices case where the Commission affirmed the ALJ’s findings on liability. 777 F.3d 478, 489
+(D.C. Cir. 2015). Here, the Commission reversed the Initial Decision dismissing the complaint,
+and thus the reviewing Court “may…examine…FTC’s findings more closely[.]” Schering-Plough
+Corp. v. FTC, 402 F.3d 1056, 1062 (11th Cir. 2005)(vacating Commission decision).
+Next, CC’s repetition of the Commission Opinion’s defense of the Order, SO 6, fails for
+the reasons set forth in LabMD’s stay application, see SA 21-24, 27-29. The Commission may
+have some “discretion” to fashion a “cease and desist” order, but it did not issue a “cease and
+desist” order here. Therefore, the Order exceeds the Commission’s authority.
+CC does not state why it did not bring an action in federal Court under Section 13(b) of the
+FTC Act if it wanted additional (or expedited) relief. But whatever its rationale, the Commission
+cannot change or ignore the text of 15 U.S.C. § 45(b), which only allows it to order LabMD to
+stop doing something—and does not allow the Commission to require LabMD to affirmatively
+perform expensive, time-consuming, and burdensome tasks.
+CC’s attempt to distinguish Heater, SO 6-7, is also in error. The principles set forth in
+Heater extend beyond monetary redress to bar FTC from including HITECH notification
+
+8
+
+PUBLIC
+provisions in “cease and desist” orders.6 See AMREP Corp. v. FTC, 475 U.S. 1034, 1035 (1986)
+(White, J., dissenting from denial of cert.) (noting “decisions of the Fourth and Ninth Circuits
+holding that § 5 authorizes only cease-and-desist orders, and not notification orders”).
+Finally, CC’s admission that HITECH notification requirements applied “since 2010,” SO
+13-14, further confirms that Part III of the Order forces LabMD to retroactively comply with
+notification obligations it might have had after 2010 under HITECH—a statute FTC does not
+enforce (and has not accused LabMD of violating), SA 22-23 & n.30—enforced by a different
+agency, HHS, which declined to prosecute LabMD for Tiversa’s theft of the 1718 File in 2008,
+even though CC’s own privilege log shows it reached out repeatedly over a period of 3 years to
+HHS regarding LabMD. See CC Privilege Log.
+iv.
+
+CC’s Efforts to Shield FTC’s Actions From Judicial Scrutiny Fail
+
+CC also invokes procedural technicalities in an effort to shield FTC’s actions from judicial
+scrutiny, suggesting that issue-waiver principles bar LabMD from making its case on the merits.
+See SO 6-7, 13 & nn.5-7. That argument fails for at least three reasons.
+First, LabMD’s stay application itself is sufficient to preserve all issues raised therein and
+in supporting materials,7 see Busse Broadcasting Corp. v. FCC, 87 F.3d 1456, 1461 (D.C. Cir.
+1996), particularly because FTC has been given yet another opportunity to vacate its Opinion and
+Order. See 16 C.F.R. § 3.72(a); 15 U.S.C. § 45(b). See generally SA (explaining why FTC’s
+actions are unlawful). FTC cannot later complain that it was not on notice of LabMD’s arguments.
+
+6
+
+Part III is fundamentally different from affirmative disclosures and corrective advertising in
+deception cases.
+7
+
+Rule 3.51(b), 16 C.F.R. § 3.51(b), does not apply here because LabMD does not object to the
+Initial Decision dismissing the Complaint. CC apparently agrees. See CC Opposition to LabMD
+Cross-Motion to Strike at 2; CC Motion to Enforce Briefing Limits at 4 & n.3 (arguing that crossappeals based on absence of factual and legal rulings are not allowed).
+9
+
+PUBLIC
+See Getty Oil Co. v. Andrus, 607 F.2d 253, 255-56 (9th Cir. 1979); Chrysler Corp. v. FTC, 561
+F.2d 357, 364 n.7 (D.C. Cir. 1977).
+Second, CC’s reliance on the Commission Opinion to claim waiver fails. The Commission
+Opinion’s reliance on United States v. Jernigan, 341 F.3d 1273, 1283 n.8 (11th Cir. 2003), see Op.
+33, is badly misplaced. The issue-waiver principles in Jernigan apply only to appellants (here,
+CC because the Initial Decision dismissed the Complaint), requiring that issues be raised in the
+appellant’s opening brief. See Jernigan, 341 F.3d at 1283 n.8. The reason for that rule is
+procedural fairness to the appellee (here, LabMD). See id. (“‘[A]n appellee is entitled to rely on
+the content of an appellant’s brief for the scope of the issues appealed.”’ (citations omitted).
+There is no fairness for LabMD here, for had the Commission applied the Jernigan
+principles to CC’s appeal brief, it would have dismissed the case because CC declined to brief
+necessary elements of any Section 5 “unfairness” violation, which the Commission reached
+anyway, finding against LabMD (then claiming it was LabMD that did not dispute these issues).8
+See CCAB 1 n.1 (footnote declining to brief second prongs of Section 5(n)); Op. 25-27 (holding
+second two prongs of Section 5(n) met and stating that “LabMD has not disputed Complaint
+Counsel’s showing as to the availability and cost of these alternatives”).9
+Worse yet, the Commission doubled-down on its error by barring LabMD from filing a
+protective conditional cross-appeal and thus denied LabMD the opportunity even to file an opening
+
+8
+
+CC’s Opposition recycles this claim, SO 3-4, notwithstanding CC’s failure to brief these issues
+on appeal.
+9
+
+LabMD has no obligation to raise any issues in an optional Rule 3.55 reconsideration petition,
+just as a party is not required to file a FRAP 40 petition for panel rehearing to preserve issues for
+Supreme Court review. See 61 Fed. Reg. 50,640, 50,645 (Sept. 26, 1996)(Rule 3.55 deadline
+shortened to 14 days to track FRAP 40).
+10
+
+PUBLIC
+brief as a cross-appellant (without warning LabMD of its misinterpretation of Jernigan).10 See
+December 18 Order at 2 (“Respondent may not file an opening appeal brief[.]”).
+
+If the
+
+Commission interprets its Rules or Orders in this case to in any way cut off or limit LabMD’s
+appeal rights, it will violate LabMD’s due process rights—yet again—for failure to give fair notice
+of its extra-textual interpretations.11 See, e.g., Satellite Broadcasting Co. v. FCC, 824 F.2d 1, 3-4
+(D.C. Cir. 1987); PMD Brokerage Corp. v. USDA, 234 F.3d 48 (D.C. Cir. 2000).
+Third, the Commission is aware of LabMD’s constitutional and statutory objections,
+including but not limited to LabMD’s First Amendment retaliation claim. See LabMD, Inc. v.
+FTC, No. 1:14-cv-00810-WSD, 2014 U.S. Dist. LEXIS 65090, *5-7 (N.D. Ga. May 12, 2014)
+(discussing statutory and constitutional claims raised by LabMD in three collateral federal court
+actions seeking to enjoin FTC prosecution). A Court of Appeals may now address the merits of
+those claims and grant LabMD additional discovery to further develop its First and Fourth
+Amendment arguments.12 15 U.S.C. § 45(c); FTC v. Std. Oil Co., 449 U.S. 232, 244-46 (1980).
+
+10
+
+See also LabMD Notice of Conditional Cross-Appeal, 4 (Dec. 1, 2015).
+
+11
+
+The Commission Rules are, at best, not a model of clarity. See In re Graco Inc., 2012 FTC
+LEXIS 29, *5-6 (Feb. 13, 2012)(Chappell, Chief ALJ)(noting “confusing wording in…Rules”).
+
+12
+
+FTC posted on the website public docket of this case a Brief for Appellee Federal Trade
+Commission,
+LabMD,
+Inc.
+v.
+FTC,
+No.
+14-12144
+(July
+24,
+2014),
+https://www.ftc.gov/system/files/documents/cases/1407labmd11cirbrief.pdf. There, it not only
+responded to the substance of LabMD’s First Amendment retaliation claim, see id. 20-22, but
+represented to the Eleventh Circuit that “LabMD’s first amendment and due process claims, like
+its challenges to the FTC’s statutory authority, are properly considered as part of judicial review
+following an adverse decision by the FTC,” id. 17. It cannot change its tune now. N.H. v. Maine,
+532 U.S. 742, 749-51 (2001).
+11
+
+PUBLIC
+B. STAY NECESSARY TO PREVENT IRREPARABLE HARM TO LABMD
+1. Unpayable and Unrecoverable Compliance Costs
+CC does not deny that the Order will force LabMD to incur unrecoverable monetary and
+time costs. Cf. SO 10-12. Nor does CC deny that such costs are irreparable harm. Instead, CC
+claims that such costs are not sufficiently “substantial” and that, in its view, LabMD did not
+provide sufficient evidence and precise quantification of such costs. See SO 9-12. Those claims
+are contrary to fact and law.
+CC argues that “the Commission has denied stays in other cases in which notification
+provisions would have imposed similar, de minimis costs,” relying on In re N. Tex. Specialty
+Physicians (“NTSP”), 141 F.T.C. 456 (Jan. 20, 2006). SO 11-12. If anything, NTSP supports
+LabMD’s argument that the unrecoverable time-and-monetary costs associated with notifying
+around 9,300 people and their insurance companies irreparably harms LabMD:
+While NTSP cites California Dental, 1996 FTC LEXIS 277, as support…, that
+reliance is misplaced, because in California Dental the respondent would have had
+to notify, and potentially renotify, up to 19,000 member dentists. By contrast, in
+this case, NTSP will have to notify, and potentially renotify, only approximately
+400 member physicians, and a limited number of payors in a limited geographic
+region. Thus, the burden and expense involved in implementing the notice
+provisions in the two cases are not facially comparable.
+NTSP, 141 F.T.C. at 465-66 (emphasis added). Here, unlike NTSP, which involved notification
+targeting roughly 400 dentists, LabMD will be required to send roughly 10,000 letters—about
+twenty times more notification letters than NTSP.
+CC’s reliance on dicta from Kentucky Household Goods to suggest LabMD has not offered
+sufficient evidence of irreparable harm, SO 8, fails because it is untethered from facts. Unlike
+here, see Daugherty Decl.; SA 5,25-26, Kentucky Household Goods claimed irreparable harm
+
+12
+
+PUBLIC
+without citation or supporting declaration. See KHG SA 7-8. Cf. Cal. Dental Ass’n, 1996 FTC
+LEXIS 227, *6-7 (supporting affidavit established irreparable harm).
+CC also claims LabMD must precisely quantify its unrecoverable and unpayable
+compliance costs. See SO 9-12. Not so.
+First, contra CC, see SO 9, it is not the amount of the compliance cost but the fact that such
+costs are unrecoverable due to sovereign immunity that renders these costs irreparably harmful.
+See, e.g., Chamber of Commerce v. Edmondson, 594 F.3d 742, 756, 770-71 (10th Cir. 2010)
+(approximately $1,000-per-business-per-year compliance costs cause irreparable harm because
+such costs are unrecoverable due to sovereign immunity).
+Second, LabMD cannot precisely quantify the amount of money the Order would require
+it to spend because LabMD does not know what the Order requires LabMD to do, cf. RX532 (FTC
+testimony showing lack of data-security standards), because the Order is unconstitutionally vague,
+see SA 21-24, 26-29. Also, the Commission Opinion does not address at all what FTC thinks a
+“reasonable” “comprehensive information security program” for LabMD would require now that
+LabMD is out of business, except to say it would be different from what FTC apparently thinks
+LabMD should have had when it was operational. See Op. 36 (“[R]easonable and appropriate
+information security program for LabMD’s current operations…will undoubtedly differ from an
+appropriate comprehensive information security program if LabMD resumes more active
+operations.” (emphasis added)). Indeed, FTC’s sole expert on “reasonable” data-security limited
+her opinions to between 2005 and July 2010, i.e., when LabMD was operational. ID 87 n.45;
+RX0532 at 203:15-19 (Hill is sole source of standards).
+CC’s bald assertion that the Commission should not credit LabMD’s insolvency, SO 8, is
+contrary to reality, particularly because CC does not dispute the current state of LabMD’s business,
+
+13
+
+PUBLIC
+cf. SO 10-11, 14. Notwithstanding that LabMD amply met its burden of establishing irreparable
+harm in its Stay Application, LabMD has attached to this Reply a supplemental declaration
+providing additional factual evidence regarding the time-and-monetary costs associated with the
+Final Order. See Supp. Daugherty Decl. & Ex. A.
+2. FTC Violations of LabMD’s Constitutional Rights
+CC does not address LabMD’s argument that the Final Order will violate LabMD’s
+procedural due process rights by permanently depriving it of property before a meaningful hearing.
+Cf. SA 26-27. And CC does not deny that violation of constitutional rights is irreparable harm.
+Instead, they essentially argue that because the Commission has already rejected LabMD’s
+constitutional claims, LabMD’s constitutional rights will not be violated. See SO 12-13.
+Complaint Counsel’s dog won’t hunt. The Commission, which describes itself as “mainly
+a law enforcement agency,”13 cannot be the arbiter of whether the Commission has respected
+LabMD’s constitutional rights for the same reason a police officer cannot ultimately decide
+whether a challenged search violates a criminal defendant’s Fourth Amendment rights. FTC is not
+a Court nor its equal on interpreting the federal Constitution, and lacks expertise necessary to
+decide constitutional questions. See Hill v. SEC, No. 15-12831, 2016 U.S. App. LEXIS 10946,
+*38-40 (11th Cir. 2016) (recognizing lack of administrative-agency expertise to adjudicate
+constitutional claims); see also Yellow Taxi Co. v. NLRB, 721 F.2d 366, 382 (D.C. Cir. 1983).
+Irreparable harm to LabMD should be assessed assuming the correctness of LabMD’s position, cf.
+Barnes v. E-Systems, 501 U.S. 1301, 1302 (1991)(Scalia, J., in Chambers), a fortiori because
+
+13
+
+Hayley Tsukayama, “FTC Chairwoman Edith Ramirez Chats About Privacy,” WASHINGTON
+POST (Jan. 6, 2016), https://www.washingtonpost.com/news/the-switch/wp/2016/01/06/ftcchairwoman-edith-ramirez-chats-about-privacy-security-and-why-shes-at-ces/.
+14
+
+PUBLIC
+LabMD’s constitutional claims “fall[] outside the area generally entrusted to the agency…,
+i.e.,…the constitutional law.” Hi-Craft Clothing Co. v. NLRB, 660 F.2d 910, 914-15 (3d Cir.
+1981); see NMA v. Sec’y of Labor, 153 F.3d 1264, 1267 (11th Cir. 1998).
+Therefore, FTC must recognize that LabMD’s constitutional objections are meritorious and
+thus constitute irreparable harm.
+3. Reputational Harm
+CC does not deny that reputational harm is sufficient to support a stay, instead arguing
+(without citation) that because LabMD is no longer in business, it cannot suffer reputational harm.
+See SO 14. However, reputational harm can be irreparable even if no business is lost. See, e.g.,
+Kroupa v. Nielsen, 731 F.3d 813, 820-21 (8th Cir. 2013)(banishment from 4-H clubs due to alleged
+cheating at State Fair is irreparable reputational harm). Accordingly, CC’s argument again fails.
+C. BALANCE-OF-HARMS AND PUBLIC INTEREST TIP SHARPLY IN FAVOR OF STAY
+CC’s Opposition confirms that the final stay factors tip sharply in favor of protecting
+LabMD, and the public, from the Commission Opinion and Order pending review.
+CC does not dispute the absence of any evidence that any identifiable consumer has been
+harmed by LabMD’s alleged data-security practices many years ago, long-since discontinued. See
+SO 10-11, 14-16.
+Instead, CC focuses on alleged amorphous privacy harms they claim occurred as a result
+of Tiversa’s theft of the 1718 File in early 2008, and its alleged “availability” on Limewire, which
+ended no later than May 2008 according to them, Compl. ¶ 20, and a conclusory assertion that
+LabMD “continues to preserve tissue samples, provide past test results to healthcare providers,
+and maintain the personal data of 750,000 people on its computer system.” SO 14-17.
+
+15
+
+PUBLIC
+This argument is another dog with different fleas. CC here engages in bald speculation
+supported solely by the Commission Opinion’s ipse dixit. The fact that courts routinely conclude
+that claims of injury based on alleged risk-of-identity-theft or “privacy” harms do not rise to the
+identifiable trifle of an injury-in-fact necessary to sue, see, e.g., Khan v. Children’s Nat’l Health
+Sys., No. TDC-15-2125, 2016 U.S. Dist. LEXIS 66404, *7-22 (D.Md. May 18, 2016); Cox v.
+Valley Hope Ass’n, No. 2:16-cv-04127-NKL, 2016 U.S. Dist. LEXIS 119663 (W.D. Mo. Sept. 6,
+2016) (rejecting “risk of harm” and “privacy/embarrassment” theories of injury under Article III
+in healthcare data-breach context), underscores why CC’s speculation cannot change the absence
+of any evidence of actual harm to anyone caused by LabMD’s allegedly “unreasonable” data
+security. See ID 52, 88; IDCOL 18.
+CC acknowledges that “the 9,300 consumers [listed on the 1718 File] have gone without
+notification…for eight years.”14 SO 16. FTC’s inaction and sloth refute CC’s claimed urgency.
+They do not deny that if FTC felt LabMD’s alleged data-security practices between 2005 and 2010
+posed a time-sensitive public threat, it could have sought temporary relief in federal Court pursuant
+to Section 13(b) of the FTC Act. Cf. SO 16. CC received the 1718 File from Tiversa through the
+Privacy Institute in 2009. IDF 136-138. CC did not recommend issuance of the administrative
+complaint until July 2013 (three days after LabMD publicly criticized FTC). LabMD, Inc., 776
+F.3d at 1277. If FTC believed notification time-sensitive and necessary to protect consumers, and
+the time-and-monetary costs are “de minimis,” FTC would have notified the people listed on the
+1718 File many years ago. It did not. Neither it nor any of its experts have “notified” or otherwise
+
+14
+
+CC cannot rely on ECM Biofilms and Jerk, LLC, to support its notification demands, SO 16,
+because both are deception cases, which did not involve “notification” provisions resembling Part
+III of the Final Order. Ironically, the Commission fully granted ECM Biofilm’s stay application.
+16
+
+PUBLIC
+contacted even a single person listed therein at any point. FTC’s actions contradict CC’s claimed
+view that notification is time-sensitive.
+Likewise, CC’s claim that “[t]he harm or likelihood of harm to the 9,300 consumers [listed
+in the 1718 File] increases every day,” SO 15, should be rejected because it is belied by the facts
+developed through CC’s own multi-year investigation. “[T]he evidence fails to show that the 1718
+File was in fact downloaded by anyone other than Tiversa, who obtained the document in February
+2008.” ID 60. The record is devoid of any evidence that even a single identifiable “consumer” has
+suffered any harm due to Tiversa’s theft or LabMD’s alleged data-security practices, “even after
+the passage of many years.” ID 52. In any event, the Commission may grant a stay even where,
+unlike here, “there is some potential for ongoing harm to consumers[.]” N.C. Bd. of Dental
+Examiners, No. 9343, 2012 FTC LEXIS 28, *16 (Feb. 12, 2012).
+CC’s argument that LabMD’s declaration does not describe material changes to its
+business, SO 16, fails. The Commission Opinion justified its Order, in part, on the ground that
+LabMD “may resume operations at some future time[.]” Op. 36. LabMD’s declaration definitively
+closes the door on that possibility. Daugherty Decl. ¶¶ 14-16, 19-20. CC does not dispute that
+LabMD “does not expect ever to resume operations and does not see how that could ever happen.”
+See SO 11.
+CC’s claim that LabMD is still using alleged data-security practices the Commission found
+“unreasonable,” SO 17, strains credulity. The Commission assessed LabMD’s data-security
+practices when LabMD was an ongoing cancer-detection business with numerous employees
+(principally between 2005 and 2010), properly describing its alleged practices in the past tense.
+See Op. 11-25. The Commission Opinion recognizes that LabMD is now closed “with a computer
+that is shut down and not connected to the Internet.” Op. 36. The only FTC data-security
+
+17
+
+PUBLIC
+“unreasonableness” expert did not offer any opinions beyond July 2010—over six years ago. ID
+87 n.45.
+CC does not dispute that LabMD’s computers are turned off and not connected to the
+Internet, see SO 10-11,16, and even CC’s data-security expert testified that LabMD’s physical
+security was adequate. Tr. 293:3-7 (“Q.…[I]t’s your opinion that LabMD’s physical security was
+adequate; is that correct? [Hill] A. Yes. As far as providing locks to server rooms and access to
+their—physical access to their computers, yes.”). If anything, LabMD’s “physical security” has
+improved. Daugherty Decl. ¶ 11. And the FTC Complaint solely challenged “LabMD’s computer
+security practices.” Op. 25.
+CC does not deny that it is in the public interest to restrain FTC from violating the
+Constitution and exceeding its authority, or that a federal court has already found that there is
+significant merit to LabMD’s argument that FTC is improperly expanding its powers here. See
+FTC v. LabMD, No. 1:12-cv-3005-WSD, Dkt. No. 23, at 14 (N.D. Ga. 2012); SA 30-31. Instead,
+CC argues that “[t]here is no public interest in restraining agencies from fulfilling their duties while
+respondents challenge their authority with arguments…unlikely to succeed.” SO 17. Here, FTC
+is not fulfilling its duties; it is violating the law. See SA 12-24.
+Worse, the Commission Opinion and Final Order have national effects that radiate far
+beyond LabMD. Every U.S. business that uses computers has an interest in a full stay. Absent
+this, FTC will have obtained that which Congress refused to give it by FTC’s own admission
+through its administrative prosecution of LabMD:15 new data-security civil-penalty powers on a
+national scale. See 15 U.S.C. § 45(m)(1)(B). This is not an overstatement. Without a stay, FTC
+
+15
+
+See Prepared Statement of FTC, Privacy in the Digital Age: Preventing Data Breaches and
+Combating Cybercrime, Before the Senate Committee on the Judiciary, at 11 (Feb. 4, 2014).
+18
+
+PUBLIC
+will be able to use the Commission Opinion and Order to threaten any U.S. business at any time
+(even without a breach, with or without evidence of actual harm) with massive civil penalties
+unless they do what FTC says. See FTC v. Sears, 1983 U.S. Dist. LEXIS 12619, *1-2 (D. Colo.
+1983); Audubon Life Ins.. v. FTC, 543 F. Supp. 1362, 1363 (M.D. La. 1982); U.S. v. Braswell,
+Inc., 1981 U.S. Dist. LEXIS 15444, *5 (N.D. Ga. 1981).
+Absent a full stay, FTC will have this new data-security civil-penalty power even before
+a single federal court addresses the legality of the Commission’s Opinion and Order. This is
+contrary to the public interest. Instead, the strong public interest in enforcing Congress’s decision
+to “rein in” FTC through Section 5(n) to protect the public from FTC tips sharply in favor of a
+stay.16 S. Div. First Premier Bank v. CFPB, 819 F. Supp. 2d 906, 922 (D. S.D. 2011). The Order
+and Opinion must be stayed.
+CONCLUSION
+For these reasons, LabMD respectfully requests that the Commission GRANT its
+Application in full or otherwise dismiss this case.
+
+16
+
+See J. Howard Beales, FTC, “The FTC’s Use of Unfairness Authority: Its Rise, Fall, and
+Resurrection” (May 30, 2003)(recognizing that FTC’s abuse of its “unfairness” powers was
+“reined in by … the 1994 amendments to the FTC Act”), https://www.ftc.gov/publicstatements/2003/05/ftcs-use-unfairness-authority-its-rise-fall-and-resurrection.
+19
+
+PUBLIC
+
+REPLY
+EXHIBIT 1
+
+Case: 14-12144
+
+Date Filed: 07/24/2014
+
+Page: 1 of 39
+
+PUBLIC
+
+No. 14-12144
+IN THE UNITED STATES COURT OF APPEALS
+FOR THE ELEVENTH CIRCUIT
+LABMD, Inc.,
+Plaintiff-Appellant,
+v.
+FEDERAL TRADE COMMISSION,
+Defendant-Appellee.
+ON APPEAL FROM THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF GEORGIA
+BRIEF FOR APPELLEE FEDERAL TRADE COMMISSION
+STUART F. DELERY
+
+Assistant Attorney General
+
+SALLY QUILLIAN YATES
+
+United States Attorney
+
+MARK B. STERN
+ABBY C. WRIGHT
+
+(202) 514-0664
+Attorneys, Appellate Staff
+Civil Division, Room 7252
+U.S. Department of Justice
+950 Pennsylvania Ave., N.W.
+Washington, D.C. 20530
+
+Case: 14-12144
+
+Date Filed: 07/24/2014
+
+Page: 28 of 39
+
+PUBLIC
+
+(1984). Plaintiff invokes that assertion to urge that the order must therefore be final
+action reviewable under the APA. See LabMD Br. 19-20.
+Plaintiff gets matters backwards. The denial of a motion to dismiss is
+unquestionably interlocutory and non-final. The question posed by plaintiff’s
+argument is whether the District Court for the District of New Jersey could properly
+accord Chevron deference to a non-final order. The court in that case found it
+unnecessary to reach the question, ruling for the Commission without reaching the
+issue of deference. See Wyndham Worldwide, 2014 WL 1349019, at *9 n.8. Whether the
+denial of the motion to dismiss is properly accorded deference is not, of course, an
+issue before this Court. And the answer to that question has no bearing on the finality
+of the Commission’s order.
+B.
+
+The district court lacked jurisdiction over LabMD’s constitutional
+claims, as well as its statutory claims.
+1. LabMD’s first amendment and due process claims, like its challenges to the
+
+FTC’s statutory authority, are properly considered as part of judicial review following
+an adverse decision by the FTC. See Thunder Basin at 215; supra 12-13.8
+
+8
+
+LabMD’s citation to pre-enforcement first amendment cases misses the mark.
+See, e.g., Susan B. Anthony List v. Driehaus, No. 13-193, 573 U.S. __, 134 S. Ct. 2334
+(June 16, 2014); Babbitt v. United Farm Workers Nat’l Union, 442 U.S. 289, 302 n.13, 99
+S. Ct. 2301, 2311 n. 13 (1979). Susan B. Anthony did not involve whether a district
+court had jurisdiction over a challenge to non-final agency action, but rather whether
+the plaintiff had standing to challenge a law prior to its enforcement. In relevant part,
+Babbitt concerned the possibility of an order prohibiting certain speech. There was no
+Continued on next page.
+
+17
+
+Case: 14-12144
+
+Date Filed: 07/24/2014
+
+Page: 31 of 39
+
+PUBLIC
+
+have been satisfied. LabMD, however, asks this Court to assume ex ante that the
+Commission will fail to be a fair decisionmaker and on that basis to halt ongoing
+administrative proceedings. LabMD Br. 34-35. LabMD has cited no authority for such
+an extraordinary request.
+2. This Court may also affirm the district court’s decision on the alternative
+ground that LabMD has failed to state any valid constitutional claims. See Lucas v.
+W.W. Grainger, Inc., 257 F.3d 1249, 1256 (11th Cir. 2001) (noting that this Court may
+affirm a district court judgment on any basis disclosed by the record).
+a. First, LabMD has failed to move its first amendment claims “across the line
+from conceivable to plausible.” Bell Atlantic Corp. v. Twombly, 550 U.S. 544, 570, 127 S.
+Ct. 1955, 1974 (2007). Agency officials are entitled to a presumption “that they have
+properly discharged their official duties.” United States v. Armstrong, 517 U.S. 456, 46364, 116 S. Ct. 1480, 1485-1486 (1996) (quoting United States v. Chemical Foundation, 272
+U.S. 1, 14-15, 47 S. Ct. 1, 6 (1926)). And LabMD has not plausibly alleged that the
+FTC conduct at issue “adversely affected the protected speech,” or that “there is a
+causal connection between the [FTC’s purportedly] retaliatory actions and the adverse
+effect on speech.” Moton v. Cowart, 631 F.3d 1337, 1341 (11th Cir. 2011) (quotation
+omitted).
+The Court cannot plausibly infer a causal nexus between Mr. Daugherty’s first
+amendment activity—his public criticism of the FTC in his published book and in
+other public statements—and the FTC actions LabMD challenges in this lawsuit. Mr.
+
+20
+
+Case: 14-12144
+
+Date Filed: 07/24/2014
+
+Page: 32 of 39
+
+PUBLIC
+
+Daugherty’s criticism began after the investigation was well underway; indeed, the
+entire premise of LabMD’s public critique is that the agency’s investigation of LabMD
+was itself unfair or improper. The public complaints of a target of an agency
+enforcement action do not render any subsequent pursuit of the action
+unconstitutional, as LabMD urges. And Mr. Daugherty was not singled out for
+enforcement: FTC has brought other enforcement actions against firms across the
+country alleging unfair acts or practices in connection with data security. R1-3, at 9
+n.12.
+LabMD’s reliance on the fact that Mr. Daugherty’s publication of his book
+occurred at roughly the same time as the filing of the administrative complaint cannot
+withstand scrutiny. LabMD Br. 15. Mr. Daugherty’s book was published
+approximately three years after the FTC began investigating LabMD. See R1, ¶ 26.
+Courts have correctly declined to infer retaliation unless the timing is “unusually
+suggestive.” Lauren ex rel. Jean v. DeFlaminis, 480 F.3d 259, 267 (3d Cir. 2007)); see also
+Swanson v. Gen. Servs Admin., 110 F.3d 1180, 1188 (5th Cir. 1997) (timing must be
+“close” to support inference of retaliation). A causal connection cannot plausibly be
+inferred from timing when the allegedly protected speech occurs in the middle of an
+ongoing action. See Slattery v. Swiss Reinsurance Am. Corp., 248 F.3d 87, 95 (2d Cir. 2001)
+(“[Where] gradual adverse job actions began well before the plaintiff had ever engaged
+in any protected [first amendment] activity, an inference of retaliation does not
+arise.”).
+
+21
+
+Case: 14-12144
+
+Date Filed: 07/24/2014
+
+Page: 33 of 39
+
+PUBLIC
+
+Moreover, nothing in the FTC administrative complaint challenges anything
+LabMD or Mr. Daugherty said or expressed, and a cease-and-desist order connected
+to data security practices would not restrict their expression in the future. And there is
+no basis for a contention that the enforcement action had a “chilling” effect on
+protected speech; such an assertion cannot be squared with the reality that LabMD
+and Mr. Daugherty have continued to engage in public criticism of the FTC
+throughout the proceeding.
+b. LabMD’s due process claim regarding fair notice may also be dismissed for
+failure to state a claim. LabMD incorrectly contends that due process requires the
+FTC to issue data security regulations before bringing an enforcement action against
+LabMD. See R1, ¶ 128; LabMD Br. 31. But the Supreme Court has long rejected this
+position, explaining instead that problems may arise that require case-by-case
+adjudication, and that agencies “retain power to deal with the problems on a case-tocase basis if the administrative process is to be effective.” SEC v. Chenery Corp., 332
+U.S. 194, 202-03, 67 S. Ct. 1575, 1580-1581 (1947). As the Supreme Court has
+explained, “the proscriptions in § 5 are flexible, to be defined with particularity by the
+myriad of cases from the field of business, . . . [which] necessarily give[] the
+Commission an influential role in interpreting § 5 and in applying it to the facts of
+particular cases arising out of unprecedented situations.” FTC v. Colgate-Palmolive Co.,
+380 U.S. 374, 384-85, 85 S. Ct. 1035, 1042 (1965) (quoting FTC v. Motion Picture Adver.
+
+22
+
+PUBLIC
+
+REPLY
+EXHIBIT 2
+
+PUBLIC
+PUBLIC
+support of an order from which an appeal has been taken any matter appearing in the record, at
+least if the party relied on it in the district court”) (dismissing cross-appeal seeking affirmance on
+an alternate basis and disregarding cross-appeal reply brief).
+In Rambus, as in this case, the presiding administrative law judge dismissed the
+complaint and Complaint Counsel appealed. Rambus, 2006 FTC LEXIS 60, at *28-32. In
+Rambus, however, the respondent limited its cross-appeal to the narrow issue of whether the
+administrative law judge applied the correct burden of proof in the initial decision.2 Id. at *3334. The respondent did not, as LabMD proposes here, base its cross-appeal on “the absence of
+certain findings of fact and/or conclusions of law” in the initial decision and address twelve
+different issues that may have “provided additional and/or alternative grounds” for affirmance.
+Notice at 2. Nor is there any reason to. The Rules make clear that upon appeal the Commission
+will review the record de novo by considering “such parts of the record as are cited or as may be
+necessary to resolve the issues presented and … exercis[ing] all the powers which [the
+Commission] could have exercised if it had made the initial decision.” Rule 3.54, 16 C.F.R.
+§ 3.54; see also Rambus, 2006 FTC LEXIS 60, at *44.3
+
+2
+
+See Br. of Appellee and Cross-Appellant, Docket No. 9302, June 2, 2004, at 134, available at
+https://www.ftc.gov/enforcement/cases-proceedings/011-0017/rambus-inc-matter.
+3
+Respondent has previously briefed the principal issues of law and fact identified in
+Respondent’s Notice of Appeal. Complaint Counsel has no objection to the Commission’s
+consideration of those voluminous submissions as part of the Commission’s de novo review of
+the entire record in this proceeding. Rule 3.54(a), 16 C.F.R. § 3.54(a).
+4
+
+PUBLIC
+
+REPLY
+EXHIBIT 3
+
+PUBLIC
+PUBLIC
+resolves the matter.
+Because Complaint Counsel’s Notice of Appeal is proper, LabMD is not entitled to any
+of the relief sought in its cross-motion, including its request for a more definite statement and its
+request for leave to file an overlength answering brief in response to Complaint Counsel’s appeal
+brief.
+To the extent that the Commission nonetheless considers LabMD’s request for leave to
+file an overlength answering brief independently of LabMD’s cross-motion to strike, it should be
+denied for the additional reason that LabMD has failed to meet its burden. Cross-Motion at 7.
+“Extensions of word count limitations are disfavored, and will only be granted where a party can
+make a strong showing that undue prejudice would result from complying with the existing
+limit.” Rule 3.52(k), 16 C.F.R. § 3.52(k). LabMD claims that its compliance with Rule 3.51(b)
+somehow justifies increasing the existing word count limit. Cross-Motion at 7. LabMD does not
+identify “[a]ny objection to a ruling by the Administrative Law Judge, or to a finding, conclusion
+or a provision of the order in the initial decision,” as required by cited Rule 3.51(b), that LabMD
+seeks to challenge. Nor does LabMD make any showing – much less a “strong showing” – of
+how “undue prejudice would result from complying with the existing [word count] limit,” as
+required by Rule 3.52(k). In addition, LabMD has failed to marshal a single FTC decision in
+which the Commission extended the word count limitation for an answering appeal brief under
+similar circumstances. LabMD should not be permitted to do so here.
+
+2
+
+PUBLIC
+
+REPLY
+EXHIBIT 4
+
+PUBLIC
+PUBLIC
+
+the description “email regarding LabSoft,” which does not indicate that it involves attorneyclient communication or an attorney’s mental processes. Complaint Counsel did not challenge
+the immunity from production asserted as to this document because of the Commission’s broad
+Rule 3.31(c)(5) protection for documents prepared in anticipation of litigation.
+B.
+
+NOTES AND DRAFTS
+
+Each of the notes and drafts on Complaint Counsel’s privilege log was prepared in
+anticipation of litigation by or at the direction of Complaint Counsel. The documents relating to
+communications with the Sacramento Police Department relate to the incident referenced in
+Paragraph 21 of the Complaint. Mr. Wilmer’s materials relate to his work identifying consumers
+likely to be harmed by Respondent’s conduct, as alleged in Paragraph 22 of the Complaint.
+Complaint Counsel’s privilege log as to internal documents is sufficient under Rule 3.38A.
+III.
+
+COMPLAINT COUNSEL’S COMMUNICATION WITH HHS
+Complaint Counsel’s privilege log includes five categories of correspondence with HHS6:
+
+jurisdiction and venue for the Commission’s CID enforcement proceeding, LabMD’s compliance
+with HIPAA and other statutes, litigation strategy in the instant proceeding, analysis of the
+
+6
+
+Respondent’s requested remedy is a “proper privilege log,” not access to documents on the log.
+These documents are not relevant to any claim or defense. Complaint Counsel has not raised
+relevance in this Opposition because of the limited relief Respondent seeks, and does not herein
+waive its relevance assertions.
+If Respondent seeks production of protected communications with HHS, Complaint
+Counsel submits that HHS must be served with any such motion and permitted an opportunity to
+be heard by the Court. See, e.g., In re Grand Jury Subpoenas, 902 F.2d 244, 248 (4th Cir. 1990)
+(joint privilege cannot be waived without consent of all parties).
+
+-5-
+
+PUBLIC
+PUBLIC
+
+instant proceeding, and availability and retention of experts. Each of these categories constitute
+work product prepared in anticipation of litigation. Where its communications with HHS were
+not privileged, Complaint Counsel provided documents to Respondents.
+The FTC and HHS share a common interest in the protection of consumer information, as
+recognized by the Commission’s Order Denying Respondent LabMD’s Motion to Dismiss. See
+Comm’n Order at 11 ( “[T]he patient-information protection requirements of HIPAA are largely
+consistent with the data security duties that the Commission has enforced pursuant to the FTC
+Act.”). Indeed, Respondent has asserted throughout this proceeding that HHS has jurisdiction
+over its data security practices. See, e.g., Respondent LabMD, Inc.’s Motion to Dismiss
+Complaint with Prejudice and to Stay Administrative Proceedings at 10-14.
+Where parties share a common interest, privileged information may be shared without
+breaching the protection. All the HHS documents appearing on the log are protected work
+product prepared in anticipation of litigation. However, in order to preserve all the
+Commission’s and HHS’s privileges, Complaint Counsel also claimed Law Enforcement and
+Deliberative Process protections for certain of the documents.
+A.
+
+COMMON INTEREST DOCTRINE
+
+The common interest doctrine “permits parties whose legal interests coincide to share
+privileged materials with one another in order to more effectively prosecute … their claims.”
+Hunton & Williams v. U.S. Dept. of Justice, 590 F.3d 272, 277 (4th Cir. 2010). A common
+interest requires neither a written agreement nor participation in litigation. Am. Mgmt Services,
+LLC v. Dep’t of the Army, 842 F. Supp. 2d 859, 876 (E.D. Va. 2012); see also Nat’l Inst. Of Mil.
+
+-6-
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+FIMGLMD00007077
+
+FIMGLMD00007075
+
+FIMGLMD00007074
+
+FIMGLMD00007073
+
+FIMGLMD00007072
+
+Line Doc ID No.
+FIMGLMD00007070
+
+7/6/2012
+
+2/26/2013
+
+2/21/2013
+
+7/3/2012
+
+Alain Sheer
+
+Andy M. McKee,
+HHS
+
+Alain Sheer
+
+David Holtzman,
+HHS
+
+10/9/2012- Alain Sheer
+10/10/2012
+
+Doc. Date
+Author
+12/12/2013 Megan Cox
+
+Jennifer A Trussell,
+HHS; Anne L.
+MacArthur, HHS;
+Amitava Masumdar,
+HHS; Alain Sheer;
+Ruth Yodaiken; Laura
+Riposo VanDruff
+Cathy T. Carter, HHS
+
+Anne L. MacArthur,
+HHS
+
+Alain Sheer
+
+Recipient(s)
+
+Communication in anticipation of litigation with a
+federal agency whose legal interests coincide with the
+FTC regarding jurisdiction and venue that is
+predecisional and deliberative in nature, contains
+information that would reveal law enforcement
+techniques and procedures, and contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Common Interest;
+Deliberative Process; Law
+Enforcement; Work
+Product
+
+Communication in anticipation of litigation with a
+Common Interest; Work
+federal agency whose legal interests coincide with the Product
+FTC regarding the availability and retention of expert
+witness(es) and containing mental impressions,
+conclusions, opinions, or legal theories of an attorney
+or other representative of a party.
+
+Communication in anticipation of litigation with a
+Common Interest; Work
+federal agency whose legal interests coincide with the Product
+FTC regarding the availability and retention of expert
+witness(es) and containing mental impressions,
+conclusions, opinions, or legal theories of an attorney
+or other representative of a party.
+
+Communication in anticipation of litigation with a
+Common Interest; Law
+federal agency whose legal interests coincide with the Enforcement; Work
+FTC regarding jurisdiction and venue that contains
+Product
+information that would reveal law enforcement
+techniques and procedures, and contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Attorney notes regarding communication with
+Work Product
+Sacramento Police Department prepared in
+anticipation of litigation and containing mental
+impressions, conclusions, opinions, or legal theories.
+
+Description
+Privilege(s) Asserted
+Attorney notes regarding communication with
+Work Product
+Sacramento Police Department prepared in
+anticipation of litigation and containing mental
+impressions, conclusions, opinions, or legal theories.
+
+Complaint Counsel's Revised Log of Privileged Documents Responsive to Respondent's First Requests for Production
+
+PUBLIC
+
+11
+
+10
+
+9
+
+8
+
+7
+
+FIMGLMD00007087
+
+FIMGLMD00007086
+
+FIMGLMD00007081
+
+FIMGLMD00007080
+
+Line Doc ID No.
+FIMGLMD00007078
+
+Kathleen M.
+Kersell, HHS
+
+1/30/2014
+
+6/21/2011
+
+Alain Sheer
+
+Alain Sheer
+
+12/17/2013 Alain Sheer
+
+7/5/2012
+
+Doc. Date
+Author
+11/18/2011 David Holtzman,
+HHS
+
+Marilou King, HHS
+
+Communication in anticipation of litigation with a
+Common Interest; Law
+federal agency whose legal interests coincide with the Enforcement; Work
+FTC regarding compliance with HIPAA and other
+Product
+statutes that contains information that would reveal
+law enforcement techniques and procedures, and
+contains mental impressions, conclusions, opinions,
+or legal theories of an attorney or other representative
+of a party.
+Communication in anticipation of litigation with a
+Common Interest;
+federal agency whose legal interests coincide with the Deliberative Process; Law
+FTC regarding compliance with HIPAA and other
+Enforcement; Work
+statutes that is predecisional and deliberative in
+Product
+nature, contains information that would reveal law
+enforcement techniques and procedures, and
+contains mental impressions, conclusions, opinions,
+or legal theories of an attorney or other representative
+of a party.
+Communication in anticipation of litigation with a
+Common Interest; Work
+federal agency whose legal interests coincide with the Product; Attorney-Client
+FTC relaying analysis of a current legal proceeding
+and containing mental impressions, conclusions,
+opinions, or legal theories of an attorney or other
+representative of a party; and communication made to
+an attorney by an intra-agency client for the purpose
+of securing an opinion on the law, legal services, or
+assistance in a legal proceeding.
+
+Communication in anticipation of litigation with a
+Common Interest; Law
+federal agency whose legal interests coincide with the Enforcement; Work
+FTC regarding jurisdiction and venue that contains
+Product
+information that would reveal law enforcement
+techniques and procedures, and contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Description
+Privilege(s) Asserted
+Communication in anticipation of litigation with a
+Common Interest; Work
+federal agency whose legal interests coincide with the Product
+FTC regarding the availability and retention of expert
+witness(es) and containing mental impressions,
+conclusions, opinions, or legal theories of an attorney
+or other representative of a party.
+
+Page 2
+
+David Holtzman, HHS
+
+Marilou King, HHS
+
+Patricia A. Gill, HHS;
+Alain Sheer
+
+Recipient(s)
+Anne L. MacArthur,
+HHS; Alain Sheer
+
+PUBLIC
+
+16
+
+15
+
+14
+
+13
+
+12
+
+FIMGLMD00007097
+
+FIMGLMD00007095
+
+FIMGLMD00007093
+
+FIMGLMD00007092
+
+Line Doc ID No.
+FIMGLMD00007091
+
+Alain Sheer
+
+Alain Sheer
+
+Author
+Alain Sheer
+
+2/21/2013
+
+Alain Sheer
+
+11/21/2011 Alain Sheer
+
+2/21/2013
+
+7/5/2012
+
+Doc. Date
+7/10/2013
+
+Privilege(s) Asserted
+Common Interest; Law
+Enforcement; Work
+Product
+
+Communication in anticipation of litigation with a
+Common Interest; Work
+federal agency whose legal interests coincide with the Product
+FTC regarding the availability and retention of expert
+witness(es) and containing mental impressions,
+conclusions, opinions, or legal theories of an attorney
+or other representative of a party.
+
+Communication in anticipation of litigation with a
+Common Interest; Work
+federal agency whose legal interests coincide with the Product
+FTC regarding the availability and retention of expert
+witness(es) and containing mental impressions,
+conclusions, opinions, or legal theories of an attorney
+or other representative of a party.
+
+Communication in anticipation of litigation with a
+Common Interest; Work
+federal agency whose legal interests coincide with the Product
+FTC regarding the availability and retention of expert
+witness(es) and containing mental impressions,
+conclusions, opinions, or legal theories of an attorney
+or other representative of a party.
+
+Communication in anticipation of litigation with a
+Common Interest; Law
+federal agency whose legal interests coincide with the Enforcement; Work
+FTC regarding jurisdiction and venue that contains
+Product
+information that would reveal law enforcement
+techniques and procedures, and contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Description
+Communication in anticipation of litigation with a
+federal agency whose legal interests coincide with the
+FTC regarding jurisdiction and venue that contains
+information that would reveal law enforcement
+techniques and procedures, and contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Page 3
+
+Andy M. McKee, HHS
+
+Anne L. MacArthur,
+HHS
+
+Anne L. MacArthur,
+HHS
+
+David Holtzman, HHS
+
+Recipient(s)
+Michael S. Wroblewski,
+HHS; Anne E.
+Hauswald, HHS
+
+PUBLIC
+
+21
+
+20
+
+19
+
+18
+
+17
+
+FIMGLMD00007109
+
+FIMGLMD00007104
+
+FIMGLMD00007101
+
+FIMGLMD00007100
+
+Line Doc ID No.
+FIMGLMD00007098
+
+6/24/2011
+
+7/12/2012
+
+7/11/2012
+
+7/5/2012
+
+Doc. Date
+2/26/2013
+
+Alain Sheer
+
+Alain Sheer
+
+Alain Sheer
+
+Alain Sheer
+
+Author
+Alain Sheer
+
+Communication in anticipation of litigation with a
+federal agency whose legal interests coincide with the
+FTC regarding compliance with HIPAA and other
+statutes that is predecisional and deliberative in
+nature, contains information that would reveal law
+enforcement techniques and procedures, and
+contains mental impressions, conclusions, opinions,
+or legal theories of an attorney or other representative
+of a party.
+
+Communication in anticipation of litigation with a
+federal agency whose legal interests coincide with the
+FTC regarding jurisdiction and venue that is
+predecisional and deliberative in nature, contains
+information that would reveal law enforcement
+techniques and procedures, and contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Communication in anticipation of litigation with a
+federal agency whose legal interests coincide with the
+FTC regarding jurisdiction and venue that is
+predecisional and deliberative in nature, contains
+information that would reveal law enforcement
+techniques and procedures, and contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Common Interest;
+Deliberative Process; Law
+Enforcement; Work
+Product
+
+Common Interest;
+Deliberative Process; Law
+Enforcement; Work
+Product
+
+Common Interest;
+Deliberative Process; Law
+Enforcement; Work
+Product
+
+Communication in anticipation of litigation with a
+Common Interest; Law
+federal agency whose legal interests coincide with the Enforcement; Work
+FTC regarding jurisdiction and venue that contains
+Product
+information that would reveal law enforcement
+techniques and procedures, and contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Description
+Privilege(s) Asserted
+Communication in anticipation of litigation with a
+Common Interest; Work
+federal agency whose legal interests coincide with the Product
+FTC regarding the availability and retention of expert
+witness(es) and containing mental impressions,
+conclusions, opinions, or legal theories of an attorney
+or other representative of a party.
+
+Page 4
+
+David Holtzman, HHS
+
+Raghu Akkapeddi,
+HHS
+
+Raghu Akkapeddi,
+HHS; Paul Baranoski,
+HHS; Karen Brown,
+HHS; Dinah L. Horton,
+HHS
+
+Kathleen M. Kersell,
+HHS
+
+Recipient(s)
+Jennifer A. Trussell,
+HHS; Anne L.
+MacArthur, HHS;
+Amitava Mazumdar,
+HHS; Andy M. McKee,
+HHS; Ruth Yodaiken;
+Laura Riposo VanDruff
+
+PUBLIC
+
+26
+
+25
+
+24
+
+23
+
+22
+
+FIMGLMD00007122
+
+FIMGLMD00007115
+
+FIMGLMD00007114
+
+FIMGLMD00007113
+
+Line Doc ID No.
+FIMGLMD00007112
+Author
+Alain Sheer
+
+2/21/2013
+
+7/6/2012
+
+9/27/2010
+
+Alain Sheer
+
+Alain Sheer
+
+David Holtzman,
+HHS
+
+11/26/2013 Alain Sheer
+
+Doc. Date
+2/3/2014
+
+Common Interest;
+Deliberative Process; Law
+Enforcement; Work
+Product
+
+Common Interest;
+Deliberative Process; Law
+Enforcement; Work
+Product
+
+Common Interest;
+Deliberative Process; Law
+Enforcement; Work
+Product
+
+Communication in anticipation of litigation with a
+Common Interest; Work
+federal agency whose legal interests coincide with the Product
+FTC regarding the availability and retention of expert
+witness(es) and containing mental impressions,
+conclusions, opinions, or legal theories of an attorney
+or other representative of a party.
+
+Communication in anticipation of litigation with a
+federal agency whose legal interests coincide with the
+FTC regarding compliance with HIPAA and other
+statutes that is predecisional and deliberative in
+nature, contains information that would reveal law
+enforcement techniques and procedures, and
+contains mental impressions, conclusions, opinions,
+or legal theories of an attorney or other representative
+of a party.
+Communication in anticipation of litigation with a
+federal agency whose legal interests coincide with the
+FTC regarding compliance with HIPAA and other
+statutes that is predecisional and deliberative in
+nature, contains information that would reveal law
+enforcement techniques and procedures, and
+contains mental impressions, conclusions, opinions,
+or legal theories of an attorney or other representative
+of a party.
+Communication in anticipation of litigation with a
+federal agency whose legal interests coincide with the
+FTC regarding jurisdiction and venue that is
+predecisional and deliberative in nature, contains
+information that would reveal law enforcement
+techniques and procedures, and contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Description
+Privilege(s) Asserted
+Communication in anticipation of litigation with a
+Common Interest; Work
+federal agency whose legal interests coincide with the Product
+FTC regarding litigation strategy that contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Page 5
+
+Anne L. MacArthur,
+HHS
+
+Cathy T. Carter, HHS
+
+Alain Sheer
+
+Marilou King, HHS
+
+Recipient(s)
+Marilou King, HHS
+
+PUBLIC
+
+31
+
+30
+
+29
+
+28
+
+27
+
+FIMGLMD00007127
+
+FIMGLMD00007126
+
+FIMGLMD00007125
+
+FIMGLMD00007124
+
+Line Doc ID No.
+FIMGLMD00007123
+
+Alain Sheer
+
+Author
+Andy M. McKee,
+HHS
+
+7/11/2012
+
+6/23/2011
+
+Marilou King, HHS
+
+Marilou King, HHS
+
+Recipient(s)
+Alain Sheer
+
+Page 6
+
+Common Interest;
+Deliberative Process; Law
+Enforcement; Work
+Product
+
+Common Interest; Law
+Enforcement; Work
+Product
+
+Common Interest; Law
+Enforcement; Work
+Product
+
+Communication in anticipation of litigation with a
+Common Interest; Work
+federal agency whose legal interests coincide with the Product
+FTC regarding litigation strategy that contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Description
+Privilege(s) Asserted
+Communication in anticipation of litigation with a
+Common Interest; Work
+federal agency whose legal interests coincide with the Product
+FTC regarding the availability and retention of expert
+witness(es) and containing mental impressions,
+conclusions, opinions, or legal theories of an attorney
+or other representative of a party.
+
+Communication in anticipation of litigation with a
+federal agency whose legal interests coincide with the
+FTC regarding compliance with HIPAA and other
+statutes that contains information that would reveal
+law enforcement techniques and procedures, and
+contains mental impressions, conclusions, opinions,
+or legal theories of an attorney or other representative
+of a party.
+Alain Sheer
+David Holtzman, HHS Communication in anticipation of litigation with a
+federal agency whose legal interests coincide with the
+FTC regarding compliance with HIPAA and other
+statutes that contains information that would reveal
+law enforcement techniques and procedures, and
+contains mental impressions, conclusions, opinions,
+or legal theories of an attorney or other representative
+of a party.
+Raghu Akkapeddi, Paul Baranoski, HHS; Communication in anticipation of litigation with a
+HHS
+Karen Brown, HHS;
+federal agency whose legal interests coincide with the
+Dinah L. Horton, HHS; FTC regarding jurisdiction and venue that is
+Alain Sheer
+predecisional and deliberative in nature, contains
+information that would reveal law enforcement
+techniques and procedures, and contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+11/26/2013 Alain Sheer
+
+2/3/2014
+
+Doc. Date
+2/21/2013
+
+PUBLIC
+
+36
+
+35
+
+34
+
+33
+
+32
+
+FIMGLMD00007201
+
+FIMGLMD00007136
+
+FIMGLMD00007134
+
+FIMGLMD00007133
+
+Line Doc ID No.
+FIMGLMD00007130
+
+2/3/2014
+
+6/22/2011
+
+6/24/2011
+
+7/11/2012
+
+Doc. Date
+7/11/2012
+
+Alain Sheer
+
+Alain Sheer
+
+Marilou King, HHS Alain Sheer
+
+David Holtzman,
+HHS
+
+David Holtzman,
+HHS
+
+Communication in anticipation of litigation with a
+federal agency whose legal interests coincide with the
+FTC regarding compliance with HIPAA and other
+statutes that is predecisional and deliberative in
+nature, contains information that would reveal law
+enforcement techniques and procedures, and
+contains mental impressions, conclusions, opinions,
+or legal theories of an attorney or other representative
+of a party.
+Communication in anticipation of litigation with a
+federal agency whose legal interests coincide with the
+FTC regarding compliance with HIPAA and other
+statutes that is predecisional and deliberative in
+nature, contains information that would reveal law
+enforcement techniques and procedures, and
+contains mental impressions, conclusions, opinions,
+or legal theories of an attorney or other representative
+of a party.
+Communication in anticipation of litigation with a
+federal agency whose legal interests coincide with the
+FTC regarding litigation strategy that contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Communication in anticipation of litigation with a
+federal agency whose legal interests coincide with the
+FTC regarding jurisdiction and venue that is
+predecisional and deliberative in nature, contains
+information that would reveal law enforcement
+techniques and procedures, and contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Description
+Communication in anticipation of litigation with a
+federal agency whose legal interests coincide with the
+FTC regarding jurisdiction and venue that is
+predecisional and deliberative in nature, contains
+information that would reveal law enforcement
+techniques and procedures, and contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Page 7
+
+Raghu Akkapeddi, Paul Baranoski, HHS;
+HHS
+Karen Brown, HHS;
+Dinah L. Horton, HHS;
+Alain Sheer
+
+Author
+Recipient(s)
+Raghu Akkapeddi, Paul Baranoski, HHS;
+HHS
+Karen Brown, HHS;
+Dinah L. Horton, HHS;
+Alain Sheer
+
+Common Interest; Work
+Product
+
+Common Interest;
+Deliberative Process; Law
+Enforcement; Work
+Product
+
+Common Interest;
+Deliberative Process; Law
+Enforcement; Work
+Product
+
+Common Interest;
+Deliberative Process; Law
+Enforcement; Work
+Product
+
+Privilege(s) Asserted
+Common Interest;
+Deliberative Process; Law
+Enforcement; Work
+Product
+
+PUBLIC
+
+42
+
+41
+
+40
+
+39
+
+38
+
+37
+
+FIMGLMD00007250
+
+FIMGLMD00007249
+
+FIMGLMD00007245
+
+FIMGLMD00007243
+
+FIMGLMD00007240
+
+Line Doc ID No.
+FIMGLMD00007203
+
+Alain Sheer
+
+2/21/2013
+
+2/21/2013
+
+Anne L.
+MacArthur, HHS
+
+Anne L.
+MacArthur, HHS
+
+Alain Sheer
+
+Alain Sheer
+
+11/26/2013 Marilou King, HHS Alain Sheer
+
+Common Interest; Work
+Product
+
+Common Interest;
+Deliberative Process; Law
+Enforcement; Work
+Product
+
+Common Interest; Law
+Enforcement; Work
+Product
+
+Communication in anticipation of litigation with a
+Common Interest; Work
+federal agency whose legal interests coincide with the Product
+FTC regarding the availability and retention of expert
+witness(es) and containing mental impressions,
+conclusions, opinions, or legal theories of an attorney
+or other representative of a party.
+
+Communication in anticipation of litigation with a
+federal agency whose legal interests coincide with the
+FTC regarding compliance with HIPAA and other
+statutes that contains information that would reveal
+law enforcement techniques and procedures, and
+contains mental impressions, conclusions, opinions,
+or legal theories of an attorney or other representative
+of a party.
+Communication in anticipation of litigation with a
+federal agency whose legal interests coincide with the
+FTC regarding compliance with HIPAA and other
+statutes that is predecisional and deliberative in
+nature, contains information that would reveal law
+enforcement techniques and procedures, and
+contains mental impressions, conclusions, opinions,
+or legal theories of an attorney or other representative
+of a party.
+Communication in anticipation of litigation with a
+federal agency whose legal interests coincide with the
+FTC regarding the availability and retention of expert
+witness(es) and containing mental impressions,
+conclusions, opinions, or legal theories of an attorney
+or other representative of a party.
+
+Communication in anticipation of litigation with a
+Common Interest; Work
+federal agency whose legal interests coincide with the Product
+FTC regarding the availability and retention of expert
+witness(es) and containing mental impressions,
+conclusions, opinions, or legal theories of an attorney
+or other representative of a party.
+
+Description
+Privilege(s) Asserted
+Communication in anticipation of litigation with a
+Common Interest; Work
+federal agency whose legal interests coincide with the Product
+FTC regarding litigation strategy that contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Page 8
+
+Andy M. McKee, HHS
+
+Author
+Recipient(s)
+Marilou King, HHS Alain Sheer
+
+11/25/2013 Marilou King, HHS Alain Sheer
+
+2/25/2013
+
+Doc. Date
+2/3/2014
+
+PUBLIC
+
+49
+
+48
+
+47
+
+46
+
+45
+
+44
+
+43
+
+FIMGLMD00007257
+
+FIMGLMD00007256
+
+FIMGLMD00007255
+
+FIMGLMD00007254
+
+FIMGLMD00007253
+
+FIMGLMD00007252
+
+Line Doc ID No.
+FIMGLMD00007251
+
+5/8/2013
+
+5/2/2013
+
+5/2/2013
+
+12/5/2013
+
+Undated
+
+7/10/2012
+
+Doc. Date
+2/25/2013
+
+Kevin Wilmer
+
+Kevin Wilmer
+
+Kevin Wilmer
+
+Laura Riposo
+VanDruff
+
+Laura Riposo
+VanDruff
+
+Cathy T. Carter,
+HHS
+
+Author
+Andy M. McKee,
+HHS
+
+Alain Sheer
+
+Common Interest;
+Deliberative Process; Law
+Enforcement; Work
+Product
+
+Draft trial preparation materials prepared by a
+representative of the FTC at the direction of an
+attorney in anticipation of litigation and containing
+mental impressions, conclusions, opinions, or legal
+theories
+Draft trial preparation materials prepared by a
+representative of the FTC at the direction of an
+attorney in anticipation of litigation and containing
+mental impressions, conclusions, opinions, or legal
+theories
+Draft trial preparation materials prepared by a
+representative of the FTC at the direction of an
+attorney in anticipation of litigation and containing
+mental impressions, conclusions, opinions, or legal
+theories
+
+Work Product
+
+Work Product
+
+Work Product
+
+Attorney notes regarding communication with
+Work Product
+Sacramento Police Department prepared in
+anticipation of litigation and containing mental
+impressions, conclusions, opinions, or legal theories.
+
+Attorney notes regarding communication with
+Work Product
+Sacramento Police Department prepared in
+anticipation of litigation and containing mental
+impressions, conclusions, opinions, or legal theories.
+
+Communication in anticipation of litigation with a
+federal agency whose legal interests coincide with the
+FTC regarding jurisdiction and venue that is
+predecisional and deliberative in nature, contains
+information that would reveal law enforcement
+techniques and procedures, and contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Description
+Privilege(s) Asserted
+Communication in anticipation of litigation with a
+Common Interest; Work
+federal agency whose legal interests coincide with the Product
+FTC regarding the availability and retention of expert
+witness(es) and containing mental impressions,
+conclusions, opinions, or legal theories of an attorney
+or other representative of a party.
+
+Page 9
+
+Recipient(s)
+Jennifer A. Trussell,
+HHS; Alain Sheer
+
+PUBLIC
+
+57
+
+56
+
+55
+
+54
+
+53
+
+52
+
+51
+
+50
+
+FIMGLMD00007320
+
+FIMGLMD00007319
+
+FIMGLMD00007263
+
+FIMGLMD00007262
+
+FIMGLMD00007261
+
+FIMGLMD00007260
+
+FIMGLMD00007259
+
+Line Doc ID No.
+FIMGLMD00007258
+
+Undated
+
+Undated
+
+7/24/2013
+
+5/30/2013
+
+6/5/2013
+
+5/9/2013
+
+5/20/2013
+
+Doc. Date
+5/9/2013
+
+Kevin Wilmer
+
+Kevin Wilmer
+
+Kevin Wilmer
+
+Kevin Wilmer
+
+Kevin Wilmer
+
+Kevin Wilmer
+
+Kevin Wilmer
+
+Author
+Kevin Wilmer
+
+Recipient(s)
+
+Page 10
+
+Draft trial preparation materials prepared by a
+representative of the FTC at the direction of an
+attorney in anticipation of litigation or for an
+adminstrative hearing and containing mental
+impressions, conclusions, opinions, or legal theories
+
+Description
+Draft trial preparation materials prepared by a
+representative of the FTC at the direction of an
+attorney in anticipation of litigation and containing
+mental impressions, conclusions, opinions, or legal
+theories
+Draft trial preparation materials prepared by a
+representative of the FTC at the direction of an
+attorney in anticipation of litigation and containing
+mental impressions, conclusions, opinions, or legal
+theories
+Draft trial preparation materials prepared by a
+representative of the FTC at the direction of an
+attorney in anticipation of litigation and containing
+mental impressions, conclusions, opinions, or legal
+theories
+Draft trial preparation materials prepared by a
+representative of the FTC at the direction of an
+attorney in anticipation of litigation and containing
+mental impressions, conclusions, opinions, or legal
+theories
+Draft trial preparation materials prepared by a
+representative of the FTC at the direction of an
+attorney in anticipation of litigation and containing
+mental impressions, conclusions, opinions, or legal
+theories
+Draft trial preparation materials prepared by a
+representative of the FTC at the direction of an
+attorney in anticipation of litigation and containing
+mental impressions, conclusions, opinions, or legal
+theories
+Draft trial preparation materials prepared by a
+representative of the FTC at the direction of an
+attorney in anticipation of litigation or for an
+adminstrative hearing and containing mental
+impressions, conclusions, opinions, or legal theories
+Work Product
+
+Work Product
+
+Work Product
+
+Work Product
+
+Work Product
+
+Work Product
+
+Work Product
+
+Privilege(s) Asserted
+Work Product
+
+PUBLIC
+
+65
+
+64
+
+63
+
+62
+
+61
+
+60
+
+59
+
+58
+
+FIMGLMD00008706
+
+FIMGLMD00008705
+
+FIMGLMD00007327
+
+FIMGLMD00007326
+
+FIMGLMD00007325
+
+FIMGLMD00007324
+
+FIMGLMD00007323
+
+Line Doc ID No.
+FIMGLMD00007321
+
+2/3/2014
+
+2/5/2014
+
+1/29/2012
+
+Undated
+
+1/16/2013
+
+1/8/2013
+
+Undated
+
+Recipient(s)
+
+Marilou King, HHS Alain Sheer
+
+Marilou King, HHS Alain Sheer
+
+Ruth Yodaiken
+
+Ruth Yodaiken
+
+Ruth Yodaiken
+
+Ruth Yodaiken
+
+Ruth Yodaiken
+
+Doc. Date
+Author
+10/11/2012 Ruth Yodaiken
+
+Page 11
+
+Communication in anticipation of litigation with a
+Common Interest; Work
+federal agency whose legal interests coincide with the Product
+FTC regarding litigation strategy that contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Communication in anticipation of litigation with a
+Common Interest;
+federal agency whose legal interests coincide with the Deliberative Process;
+FTC regarding litigation strategy that is predecisional Work Product
+and deliberative in nature and contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Attorney notes regarding communication with
+Work Product
+Sacramento Police Department prepared in
+anticipation of litigation and containing mental
+impressions, conclusions, opinions, or legal theories.
+
+Attorney notes regarding communication with
+Work Product
+Sacramento Police Department prepared in
+anticipation of litigation and containing mental
+impressions, conclusions, opinions, or legal theories.
+
+Attorney notes regarding communication with
+Work Product
+Sacramento Police Department prepared in
+anticipation of litigation and containing mental
+impressions, conclusions, opinions, or legal theories.
+
+Attorney notes regarding communication with
+Work Product
+Sacramento Police Department prepared in
+anticipation of litigation and containing mental
+impressions, conclusions, opinions, or legal theories.
+
+Attorney notes regarding communication with
+Work Product
+Sacramento Police Department prepared in
+anticipation of litigation and containing mental
+impressions, conclusions, opinions, or legal theories.
+
+Description
+Privilege(s) Asserted
+Attorney notes regarding communication with
+Work Product
+Sacramento Police Department prepared in
+anticipation of litigation and containing mental
+impressions, conclusions, opinions, or legal theories.
+
+PUBLIC
+
+72
+
+71
+
+70
+
+69
+
+68
+
+67
+
+66
+
+FIMGLMD00008713
+
+FIMGLMD00008712
+
+FIMGLMD00008711
+
+FIMGLMD00008710
+
+FIMGLMD00008709
+
+FIMGLMD00008708
+
+Line Doc ID No.
+FIMGLMD00008707
+
+2/7/2014
+
+2/7/2014
+
+2/7/2014
+
+2/8/2014
+
+2/3/2014
+
+2/3/2014
+
+Doc. Date
+2/3/2014
+
+Communication in anticipation of litigation with a
+Common Interest; Work
+federal agency whose legal interests coincide with the Product
+FTC regarding litigation strategy that contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Communication in anticipation of litigation with a
+Common Interest; Work
+federal agency whose legal interests coincide with the Product
+FTC regarding litigation strategy that contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Description
+Privilege(s) Asserted
+Communication in anticipation of litigation with a
+Common Interest; Work
+federal agency whose legal interests coincide with the Product
+FTC regarding litigation strategy that contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Laura Riposo
+VanDruff
+
+Communication in anticipation of litigation with a
+Common Interest; Work
+federal agency whose legal interests coincide with the Product
+FTC regarding litigation strategy that contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Page 12
+
+Marilou King, HHS;
+Alain Sheer
+
+Marilou King, HHS Laura Riposo VanDruff Communication in anticipation of litigation with a
+Common Interest;
+federal agency whose legal interests coincide with the Deliberative Process;
+FTC regarding litigation strategy that is predecisional Work Product
+and deliberative in nature and contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Marilou King, HHS Laura Riposo VanDruff Communication in anticipation of litigation with a
+Common Interest;
+federal agency whose legal interests coincide with the Deliberative Process;
+FTC regarding litigation strategy that is predecisional Work Product
+and deliberative in nature and contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Marilou King, HHS Laura Riposo VanDruff Communication in anticipation of litigation with a
+Common Interest; Work
+federal agency whose legal interests coincide with the Product
+FTC regarding litigation strategy that contains mental
+impressions, conclusions, opinions, or legal theories
+of an attorney or other representative of a party.
+
+Marilou King, HHS Alain Sheer
+
+Marilou King, HHS Alain Sheer
+
+Author
+Recipient(s)
+Marilou King, HHS Alain Sheer
+
+PUBLIC
+
+PUBLIC
+
+REPLY
+EXHIBIT 5
+
+PUBLIC
+
+UNITED STATES OF AMERICA
+BEFORE THE FEDERAL TRADE COMMISSION
+COMMISSIONERS:
+
+Edith Ramirez, Chairwoman
+Julie Brill
+Maureen K. Ohlhausen
+Terrell McSweeny
+
+---------------------------------------------------------------)
+In the Matter of
+)
+)
+LabMD, Inc.,
+)
+a corporation.
+)
+__________________________________________)
+
+Docket No. 9357
+PUBLIC
+
+ORDER
+In an Initial Decision and Order issued on November 13, 2015, Chief Administrative Law
+Judge D. Michael Chappell dismissed the complaint against Respondent LabMD, Inc., finding
+that Complaint Counsel failed to prove that the alleged conduct at issue caused or was likely to
+cause substantial injury to consumers. We address two motions filed by the parties relating to
+the ensuing appeal to the Commission.
+On November 24, 2015, Complaint Counsel filed a Notice of Appeal of the Initial
+Decision. Despite having prevailed before the ALJ, Respondent filed a “Notice of Conditional
+Cross-Appeal” a week later, arguing that a “conditional, protective cross-appeal in response to
+Complaint Counsel’s notice of appeal is proper even where, as here, the administrative law
+judge’s initial decision and proposed order dismissed the complaint in its entirety.” CrossAppeal Notice at 1. Thereafter, on December 7, 2015, Complaint Counsel filed a “Motion to
+Enforce Limits on Appeal Briefing” arguing that LabMD’s “cross-appeal” is improper and
+seeking an order requiring that LabMD present all of its arguments in support of the Initial
+Decision in its answering brief, including any alternate grounds for affirming. On December 14,
+2015, LabMD filed its opposition to Complaint Counsel’s motion; alternatively, LabMD seeks
+leave to file an over-length answering brief. LabMD also moved to strike Complaint Counsel’s
+Notice of Appeal claiming it is too indefinite. On December 17, 2015, Complaint Counsel filed
+its opposition to LabMD’s motion to strike.
+While our rules plainly permit the filing of cross-appeals 1 – that is, appeals challenging
+all or part of a given initial decision or order that are filed by parties other than the party that
+filed the first notice of appeal – LabMD is not challenging any part of the ALJ’s Initial Decision.
+1
+
+See Commission Rule of Practice 3.52, 16 C.F.R. § 3.52(b)(1); see also Federal Trade Commission Amendments
+to Parts 3 and 4 of its Rules of Practice, 74 Fed. Reg. 1804, 1819 (Jan. 13, 2009), available at
+https://www.ftc.gov/sites/default/files/documents/federal register notices/rules-practice-16-cfr-parts-3-and4/090113rulesofpractice.pdf.
+
+PUBLIC
+
+LabMD states instead that the ALJ’s Initial Decision and Order “were both correct and should be
+affirmed.” Cross-Appeal Notice at 2. Moreover, we disagree with LabMD’s argument that it
+must file a “protective cross-appeal” in order to preserve issues for appeal to a federal circuit
+court. 16 C.F.R. § 3.54(a). Under LabMD’s reasoning, every case in which one party prevails
+could result in an appeal by the unsuccessful party and a second, purported “protective crossappeal” by the victor. Such a result would be inconsistent with general appellate practice and
+would prove highly burdensome and wasteful for all involved. Consequently, LabMD is not
+entitled to file an opening appeal brief.
+Of course, LabMD is certainly entitled to make, in an answering brief, conditional
+arguments setting forth alternate grounds for affirmance of the ALJ’s decision. In view of the
+number of issues that may be raised in connection with Complaint Counsel’s appeal, we find that
+LabMD’s request for leave to file a longer answering brief is justified in this case. We have
+determined to increase the word limit for LabMD’s answering brief by 7,000 words. We
+likewise increase Complaint Counsel’s word limit for its reply brief by 7,000 words and extend
+by a few days the deadline by which it must be filed.
+We now turn to LabMD’s cross-motion to strike Complaint Counsel’s Notice of Appeal.
+We disagree with LabMD’s assertion that Complaint Counsel’s notice is deficient due to a lack
+of specificity. Commission Rule of Practice 3.52 requires only that a notice of appeal “specify
+the party or parties against whom the appeal is taken and shall designate the initial decision and
+order or part thereof appealed from.” 16 C.F.R. § 3.52(b)(1). There is no question that
+Complaint Counsel’s Notice of Appeal complies with Rule 3.52. There is thus no basis for
+striking it. 2
+Accordingly,
+IT IS HEREBY ORDERED THAT while Respondent may not file an opening appeal
+brief, it may file an answering brief that shall not exceed 21,000 words. Any such answering
+brief must be filed on or before February 5, 2016; and
+IT IS FURTHER ORDERED THAT Complaint Counsel may file a reply brief that
+shall not exceed 14,000 words. Any such reply brief must be filed on or before February 23,
+2016.
+By the Commission, Commissioner Brill not participating.
+
+Donald S. Clark
+Secretary
+SEAL:
+ISSUED: December 18, 2015
+
+2
+
+Commissioner Brill did not take part in the consideration of, or decision regarding, any of the issues herein.
+
+PUBLIC
+
+REPLY
+EXHIBIT 6
+
+PUBLIC
+
+PUBLIC
+
+PUBLIC
+
+PUBLIC
+
+PUBLIC
+
+PUBLIC
+
+REPLY
+EXHIBIT 7
+
+PUBLIC
+
+PUBLIC
+
+PUBLIC
+
+PUBLIC
+
+PUBLIC
+
+REPLY
+EXHIBIT 8
+
+PUBLIC
+
+Dissenting Statement of Commissioner J. Thomas Rosch
+Petitions of LabMD, Inc. and Michael J. Daugherty
+to Limit or Quash the Civil Investigative Demands
+FTC File No. 1023099
+June 21, 2012
+I dissent from the Commission’s vote affirming Commissioner Brill’s letter decision,
+dated April 20, 2012, that denied the petitions of LabMD, Inc. and Michael J. Daugherty to limit
+or quash the civil investigative demands.
+I generally agree with Commissioner Brill’s decision to enforce the document requests
+and interrogatories, and to allow investigational hearings to proceed. As she has concluded,
+further discovery may establish that there is indeed reason to believe there is Section 5 liability
+regarding petitioners’ security failings independent of the “1,718 File” (the 1,718 page
+spreadsheet containing sensitive personally identifiable information regarding approximately
+9,000 patients) that was originally discovered through the efforts of Dartmouth Professor M. Eric
+Johnson and Tiversa, Inc. In my view, however, as a matter of prosecutorial discretion under the
+unique circumstances posed by this investigation, the CIDs should be limited. Accordingly,
+without reaching the merits of petitioners’ legal claims, I do not agree that staff should further
+inquire – either by document request, interrogatory, or investigational hearing – about the 1,718
+File.
+Specifically, I am concerned that Tiversa is more than an ordinary witness, informant, or
+“whistle-blower.” It is a commercial entity that has a financial interest in intentionally exposing
+and capturing sensitive files on computer networks, and a business model of offering its services
+to help organizations protect against similar infiltrations. Indeed, in the instant matter, an
+argument has been raised that Tiversa used its robust, patented peer-to-peer monitoring
+technology to retrieve the 1,718 File, and then repeatedly solicited LabMD, offering
+
+PUBLIC
+
+investigative and remediation services regarding the breach, long before Commission staff
+contacted LabMD. In my view, while there appears to be nothing per se unlawful about this
+evidence, the Commission should avoid even the appearance of bias or impropriety by not
+relying on such evidence or information in this investigation.
+
+-2-
+
+PUBLIC
+
+REPLY
+EXHIBIT 9
+
+PUBLIC
+
+PUBLIC
+
+PUBLIC
+
+PUBLIC
+
+REPLY
+EXHIBIT 10
+
+PUBLIC
+
+EXHIBIT A
+
+Case 1:14-cv-00810-WSD Document 17-6 Filed 04/11/14 Page 1 of 14
+PUBLIC
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE NORTHERN DISTRICT OF GEORGIA
+ATLANTA DIVISION
+LabMD, INC.,
+Plaintiff,
+v.
+FEDERAL TRADE COMMISSION,
+Defendant.
+
+)
+)
+)
+)
+) Civil Action No.: 1:14-CV-810-WSD
+)
+)
+)
+
+EXPERT OPINION DECLARATION OF CLIFF BAKER
+In accordance with 28 U.S.C. § 1746, the declarant, Cliff Baker states:
+1.
+
+I am Cliff Baker. I submit this declaration for use in the lawsuit
+
+LabMD v. Federal Trade Commission. I offer this declaration to respond to
+statements in the Expert Report of Professor Hill and how her opinions on data
+security relate to requirements on data security for HIPAA-covered medical
+service providers imposed by the Department of Health and Human Services.
+HIPAA stands for the Health Insurance Portability and Accountability Act of 1996.
+I base my declaration on my personal knowledge and professional experiences.
+2.
+
+I, Cliff Baker, have had the following roles in my career in the field of
+
+data security:
+
+Case 1:14-cv-00810-WSD Document 17-6 Filed 04/11/14 Page 2 of 14
+PUBLIC
+
+a. Director in the Healthcare Information Security practice at
+PricewaterhouseCoopers. I led the security practice nationally for
+the Healthcare Consulting practice. I worked at
+PricewatershouseCoopers for 14 years and consulted with clients
+nationally on implementing security programs and practices. An
+example of a project I led was a establishing a program that
+included four state healthcare associations. The program included
+meeting, discussing and educating over 50 organizations on
+adopting security measures to comply with HIPAA.
+b. Chief Strategy Officer for HITRUST. I joined HITRUST in 2008
+to lead the creation of the Common Security Framework, which is
+a healthcare industry framework based on globally recognized
+standards, such as ISO 27001/2 and NIST. A key objective of the
+framework is to provide a prescriptive and scalable reference for
+covered entities to determine reasonable and appropriate controls
+to implement for their organizations. The controls are tailored to
+the size and operations of the organization. I facilitated working
+sessions with over 200 security professionals from the healthcare
+
+2
+
+Case 1:14-cv-00810-WSD Document 17-6 Filed 04/11/14 Page 3 of 14
+PUBLIC
+
+industry, security technology companies, consulting companies,
+and government entities in the development of the framework.
+c. Founder and Managing Partner of Meditology Services.
+Meditology Services was founded in 2010 to provide privacy and
+security services to healthcare clients. I employ former Chief
+Information Security and Privacy Officers that were responsible
+for implementing security at their healthcare organizations. We
+provide consulting services in the areas of compliance with
+HIPAA and the implementation of privacy and security programs
+for healthcare organizations ranging from small providers to global
+healthcare organizations.
+3.
+
+I have spent over 19 years working in the healthcare and information
+
+security fields. This experience has provided me with first-hand knowledge about
+the challenges and practical realities faced by healthcare organizations in securing
+Protected Health Information (PHI).
+4.
+
+The 1996 HIPAA Statute states that in promulgating information
+
+security regulations, the Secretary must take into account “the needs and
+capabilities of small health care providers and rural health care providers (as such
+providers are defined by the Secretary),” and the preamble to the HIPAA Security
+3
+
+Case 1:14-cv-00810-WSD Document 17-6 Filed 04/11/14 Page 4 of 14
+PUBLIC
+
+Rule (p. 8335) states accordingly that one of the foundations of the rule is that “it
+should be scalable, so that it can be effectively implemented by covered entities of
+all types and sizes.”
+5.
+
+The process by which HHS promulgated the initial final HIPAA
+
+Security Rule involved reviewing and responding to approximately 2,350 timely
+public comments, balancing the interests of health care professionals and firms
+with patient-related interests. Based on these public comments, HHS crafted a
+unique information security regulatory scheme that separated “implementation
+specifications” – the types of very specific security requirements emphasized by
+the FTC’s expert – into two classes: “required” and “addressable”. HHS stayed
+consistent with this structure in its most recent updates to the HIPAA Privacy and
+Security rules in 2013. This structure reflects HHS’ challenge in complying with
+Congressional intent in establishing a security rule to address reasonable and
+appropriate security requirements for the range of organizations in healthcare that
+differ greatly in operations, size, complexity, and resources. For example, a single
+physician practice may differ significantly from the way in which it addresses
+security as compared to a multi-national health plan. The physician practice will
+probably not employ dedicated technology or security personnel and will rely
+heavily on guidance from HHS. The practice will also rely predominantly on
+4
+
+Case 1:14-cv-00810-WSD Document 17-6 Filed 04/11/14 Page 5 of 14
+PUBLIC
+
+security that is provided by default settings and software vendor recommendations
+and will implement mostly manual procedures to manage and monitor access to
+patient information and associated Information Technology (IT) systems. On the
+other end of the spectrum, a national health system will likely hire a team of
+experienced security professionals that may even exceed the total number of
+employees in these small practices. These larger organizations will buy and build
+the most advanced and sophisticated solutions available in their efforts to protect
+sensitive patient data.
+6.
+
+HIPAA demands that a covered entity perform a risk assessment in
+
+good faith and take actions to secure Electronic Protected Health Information
+(EPHI) based on the findings of that risk assessment. HIPAA’s security
+requirements are also explicitly “scalable” based on the size of the
+entity. Therefore, to assess HIPAA noncompliance, it is necessary to determine if
+a risk assessment was performed in good faith, and resulted in a process that
+included implementation of requirements and appropriate responses to
+“addressable” issues. These responses are all subject to different standards and
+scalable so that they could be implemented effectively by covered entities of all
+types and sizes. Given the limited knowledge of information technology by many
+small health care providers, especially during the early years of HIPAA Security,
+5
+
+Case 1:14-cv-00810-WSD Document 17-6 Filed 04/11/14 Page 6 of 14
+PUBLIC
+
+many of the security measures they were advised to adopt by HHS issued guidance
+related to physical and administrative security rather than specific technical
+security.
+7.
+
+The preamble to the Rule makes the balancing of interests and the
+
+assessment of feasibility for small providers by HHS, employing notice and
+comment rulemaking, quite transparent at many points. For example, in
+connection with encryption of data in transit, which corresponds to Section
+164.312(e)(1) of the Rule on Transmission Security, the preamble notes (FR V. 68,
+#34 at 8357):
+[W]e agree that encryption should not be a mandatory requirement for
+transmission over dial-up lines. We also agree with commenters who
+mentioned the financial and technical burdens associated with the
+employment of encryption tools. Particularly when considering situations
+faced by small and rural providers, it became clear that there is not yet
+available a simple and interoperable solution to encrypting email
+communications with patients. As a result, we decided to make the use of
+encryption in the transmission process an addressable implementation
+specification.
+8.
+
+This concept was reinforced by CMS in a seven-part series published
+
+to provide guidance to the industry for complying with HIPAA. In Volume 2
+Security Standards: Implementation for Small Provider of the HIPAA Security
+Series published in December 2007, CMS states:
+
+6
+
+Case 1:14-cv-00810-WSD Document 17-6 Filed 04/11/14 Page 7 of 14
+PUBLIC
+
+All covered entities must comply with the applicable standards,
+implementation specifications, and requirements of the Security Rule with
+respect to EPHI (see 45 C.F.R § 164.302.). Small providers that are covered
+entities have unique business and technical environments that provide both
+opportunities and challenges related to compliance with the Security Rule.
+As such, this paper provides general guidance to providers such as
+physicians and dentists in solo or small group practices, small clinics,
+independent pharmacies, and others who may be less likely to have IT staff
+and whose approach to compliance would generally be very different from
+that of a large health care system. It is important to note however, that this
+paper does not define a small provider, nor does it prescribe specific actions
+that small providers must take to become compliant with the Security Rule.
+9.
+
+These comments reflect the challenges of small providers in the early
+
+years of HIPAA, but even as more recently as 2013 and 2014, HHS is still
+publishing security guidance for small providers, and the guidance is still
+elementary in nature. This is reflected by the following list of recommendations
+published in the most recent version of the Guide to Privacy and Security of Health
+Information, published by the Office of the National Coordinator for Health
+Information Technology in 2013:
+Remember the Basics
+•
+
+Is your server in a room only accessible by authorized
+staff? Do you keep the door locked?
+
+•
+
+Are your passwords easily found (e.g., taped to a
+monitor)? Easy to guess?
+
+7
+
+Case 1:14-cv-00810-WSD Document 17-6 Filed 04/11/14 Page 8 of 14
+PUBLIC
+
+•
+
+Do you have a fire extinguisher that works?
+
+•
+
+Where, when, and how often do you back-up? Is at least
+one back-up kept offsite? Can your data be recovered
+from the back-ups?
+
+•
+
+How often is your EHR server checked for viruses?
+
+•
+
+Who has keys to your building? Any former employees
+or contractors?
+
+•
+
+What is your plan for what to do if your server crashes
+and you cannot directly recover data? Do you have
+documentation about what kind of server it was, what
+software it used, etc.?
+
+10.
+
+These recommendations reflect HHS’ understanding of the realities
+
+associated with implementing security for small providers in the healthcare
+industry. After almost ten years of complying with HIPAA security rules, the
+guidance has not changed substantively for small practices. In more recent years,
+HHS has focused on requiring security functionality to be built into applications
+for the healthcare industry, so providers will have many security controls by
+default and not have to rely on expertise, additional tools and resource intensive
+processes to protect information.
+8
+
+Case 1:14-cv-00810-WSD Document 17-6 Filed 04/11/14 Page 9 of 14
+PUBLIC
+
+11.
+
+I have reviewed Dr. Hill’s Report, and believe that the standards
+
+articulated by Dr. Hill are:
+a. Confusing by introducing additional security principles (i.e., 7
+security principles referenced by Dr. Hill) that are difficult to
+reconcile with the Administrative, Technical and Physical main
+structure of the HIPAA security rule.
+b. Not scalable in accordance with the Security Rule, and not taking
+account as required by the 1996 HIPAA Statute of “the needs and
+capabilities of small health care providers and rural health care
+providers (as such providers are defined by the Secretary). For
+example, the recommendation for file integrity monitoring requires
+expertise to implement and configure these solutions and can be
+even more resource intensive to understand, investigate and
+resolve alerts produced by the solution. In my experience, I very
+rarely observe adoption of this technology by small providers in
+the industry.
+c. More prescriptive than HIPAA or inconsistent with HHS guidance,
+including encryption at rest (an addressable requirement of
+164.312(a)(1)), encryption in transit (an addressable requirement
+9
+
+Case 1:14-cv-00810-WSD Document 17-6 Filed 04/11/14 Page 10 of 14
+PUBLIC
+
+of 164.312(e)(1)), intrusion detection (not addressed specifically
+by the Security Rule), virus protection (an addressable requirement
+of 164.308(a)(5) (ii)(B)), firewalls (not addressed specifically by
+the Security Rule), penetration testing (not addressed by the
+Security Rule), and file integrity monitoring (not addressed
+specifically by the Security Rule). While many of these standards
+are good security practices, controls such as broad scale encryption
+at rest are generally not adopted across the industry. The
+electronic health record certification requirements published for
+HHS for Meaningful Use Stage 2 in 2012 do not even require this
+level of encryption for all PHI stored by the system. In addition,
+tools such as intrusion detection and file integrity monitoring
+systems require experienced and committed technical resources to
+configure and manage. Dr. Hill’s standards presume a level of
+knowledge of technical information security generally not
+available to small health care providers.
+d. Contradictory to the guidance provided by HHS. For example, Dr.
+Hill almost exclusively focuses on technologies or technical
+processes for the risk assessment process (i.e., antivirus
+10
+
+Case 1:14-cv-00810-WSD Document 17-6 Filed 04/11/14 Page 11 of 14
+PUBLIC
+
+applications, firewalls, various types of vulnerability scans,
+intrusion detection systems, penetration tests, file integrity
+monitoring, and other measures). This is inconsistent with HHS
+guidance that the risk assessment can be a qualitative and manual
+process as outlined in the standard referenced by Dr. Hill: Special
+Publication NIST 800-30 Guide for Conducting Risk Assessments.
+12.
+
+If health care providers are going to be held to a compliance standard
+
+that is simply an expert’s opinion of best practices in information security at any
+point in time, when that expert standard exceeds the published compliance
+standard developed under HIPAA and the historical guidance provided by HHS,
+then the standard developed under HIPAA is made effectively meaningless. This
+will create confusion for Health care providers that will not know what is required
+of them.
+13.
+
+I have not reviewed whether LabMD is or was compliant with the
+
+HIPAA Security Rule; I suggest only that for HIPAA not to be contradicted and
+Congressional intent and constitutional process not to be undermined, the
+information security of HIPAA-covered health care providers must be regulated by
+an agency with jurisdiction under the properly promulgated HIPAA Security Rule,
+
+11
+
+Case 1:14-cv-00810-WSD Document 17-6 Filed 04/11/14 Page 12 of 14
+PUBLIC
+
+which during the time period in question was only the Department of Health and
+Human Services.
+
+12
+
+Case 1:14-cv-00810-WSD Document 17-6 Filed 04/11/14 Page 13 of 14
+PUBLIC
+
+Case 1:14-cv-00810-WSD Document 17-6 Filed 04/11/14 Page 14 of 14
+PUBLIC
+
+CERTIFICATE OF SERVICE
+This is to certify that, on April 11, 2014, I electronically filed the foregoing
+EXPERT OPINION DECLARATION OF CLIFF BAKER with the Clerk of
+Court using the CM/ECF system, and served the following by e-mail and U.S.
+Mail as follows:
+LAUREN E. FASCETT, Esq.
+Trial Attorney
+U.S. Department of Justice
+Civil Division
+Consumer Protection Branch
+450 5th Street, N.W.
+Washington, D.C. 20530
+Lauren.Fascett@usdoj.gov
+This 11th day of April, 2014.
+/s/ Burleigh L. Singleton
+Counsel for Plaintiff
+
+Notice of Electronic Service
+I hereby certify that on September 15, 2016, I filed an electronic copy of the foregoing Respondent LabMD,
+Inc.'s Reply to Complaint Counsel's Opposition to LabMD's Application for Stay of Final Order Pending
+Review By A United States Circuit Court of Appeals, with:
+D. Michael Chappell
+Chief Administrative Law Judge
+600 Pennsylvania Ave., NW
+Suite 110
+Washington, DC, 20580
+Donald Clark
+600 Pennsylvania Ave., NW
+Suite 172
+Washington, DC, 20580
+I hereby certify that on September 15, 2016, I served via E-Service an electronic copy of the foregoing
+Respondent LabMD, Inc.'s Reply to Complaint Counsel's Opposition to LabMD's Application for Stay of Final
+Order Pending Review By A United States Circuit Court of Appeals, upon:
+John Krebs
+Attorney
+Federal Trade Commission
+jkrebs@ftc.gov
+Complaint
+Hallee Morgan
+Cause of Action
+cmccoyhunter@ftc.gov
+Respondent
+Jarad Brown
+Attorney
+Federal Trade Commission
+jbrown4@ftc.gov
+Complaint
+Kent Huntington
+Counsel
+Cause of Action
+cmccoyhunter@ftc.gov
+Respondent
+Sunni Harris
+Esq.
+Dinsmore & Shohl LLP
+sunni.harris@dinsmore.com
+Respondent
+Daniel Epstein
+Cause of Action
+daniel.epstein@causeofaction.org
+Respondent
+Patrick Massari
+Counsel
+Cause of Action
+patrick.massari@causeofaction.org
+
+Respondent
+Alain Sheer
+attorney
+Federal Trade Commission
+asheer@ftc.gov
+Complaint
+Laura Riposo VanDruff
+General Attorney
+Federal Trade Commission
+lvandruff@ftc.gov
+Complaint
+Megan Cox
+Attorney
+Federal Trade Commission
+mcox1@ftc.gov
+Complaint
+Ryan Mehm
+Attorney
+Federal Trade Commission
+rmehm@ftc.gov
+Complaint
+Erica Marshall
+Counsel
+Cause of Action
+erica.marshall@causeofaction.org
+Respondent
+Alfred Lechner
+President & CEO
+Cause of Action Institute
+jlechner@causeofaction.org
+Respondent
+
+Patrick Massari
+Attorney
+
+

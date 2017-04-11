@@ -1,0 +1,614 @@
+Case 2:13-cv-01887-ES-JAD Document 283 Filed 12111115 Page 1 of 18 PageiD: 5020
+
+THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF NEW JERSEY
+
+CLOSED
+
+Federal Trade Commission,
+CIVIL ACTION NO.
+2:13-CV-01887-ES-JAD
+
+Plaintiff,
+
+v.
+
+STIPULATED ORDER FOR
+INJUNCTION
+
+Wyndham Worldwide Corporation, eta/.,
+Defendants.
+
+Plaintiff, the Federal Trade Commission ("Commission"), filed its Complaint for
+Injunctive and Other Equitable Relief, subsequently amended as First Amended Complaint for
+Injunctive and Other Equitable Relief (''Complaint''), for a permanent injunction, and other
+equitable relief in this matter, pursuant to Section 13(b) of the Federal Trade Commission Act
+("FTC Act"), 15 U.S.C. § 53(b). The Commission and Defendants stipulate to the entry of this
+Stipulated Order for Injunction ("Order") to resolve all matters in dispute in this action between
+them.
+THEREFORE, IT IS ORDERED as follows:
+
+FINDINGS
+1. This Court has jurisdiction over this matter.
+2. The Complaint alleges that Defendants participated in deceptive and unfair acts or practices
+in violation of Section 5 of the FTC Act, 15 U.S.C. § 45, related to their data security.
+3. The agreement contained in this Order is for settlement purposes only.
+4. This Order does not constitute an admission by Defendants that the law has been violated as
+alleged in the complaint, or that the facts as alleged in the complaint, other than the
+jurisdictional facts, are true.
+
+Case 2:13-cv-01887-ES-JAD Document 283 Filed 12/11/15 Page 2 of 18 PageiD: 5021
+
+S. Defendants waive any claim that they may have under the Equal Access to Justice Act, 28
+U.S.C. § 2412, concerning the prosecution of this action through the date of this Order, and
+agree to bear their own costs and attorney fees. The Commission also agrees to bear its own
+costs and attorney fees. The parties agree that this Order resolves all allegations in the
+Complaint.
+6. Defendants and the Commission waive all rights to appeal or otherwise challenge or contest
+the validity of this Order.
+
+DEFINITIONS
+For the pUipose of this Order, the following definitions apply:
+1. "Approved Standard" shall mean PCI DSS or, at the election of Hotels and Resorts, any
+
+standard of comparable scope and thoroughness approved by the Associate Director for
+Enforcement, Bureau of Consumer Protection, Federal Trade Commission.
+2.
+
+"Breach'~
+
+shall be defined as an intrusion into a Cardholder Data Environment within a
+
+network that, as to Hotels and Resorts, is not an untrusted network, where Hotels and Resorts
+
+bas reason to suspect the unauthorized disclosure, theft, modification, or destruction of
+Cardholder Data.
+3. "Cardholder Data" shall have the meaning PCI DSS Version 3.1, attached hereto as
+Appendix A, gives to the term "Cardholder Data," ie., "cardholder data" shall be defined, at
+a minimum, as the full PAN. The PAN is the unique payment card number(typically for
+credit or debit cards) that identifies the issuer and the particular cardholder account.
+Cardholder data may also appear in the form of the full PAN plus any of the following:
+cardholder name, expiration date, and/or service code.
+
+2
+
+Case 2:13-cv-01887-ES-JAD Document 283 Filed 12/11/15 Page 3 of 18 PageiD: 5022
+
+4. "Cardholder Data Environment'' shall have the meaning PCI DSS Version 3.1, attached
+hereto as Appendix A, gives to the term "cardholder data environment," i.e., the people,
+processes, and technology that store, process, or transmit cardholder data or sensitive
+authentication data.
+
+5. ''Defendants" shall mean (1) Hotels and Resorts; (2) Wyndham Hotel Management, Inc.; (3)
+Wyndham Hotel Group, LLC and its successors and assigns; and (4) Wyndham Worldwide
+Corporation and its successors and assigns.
+6. "Hotels and Resorts" shall mean Wyndham Hotels and Resorts, LLC, its subsidiaries and
+divisions, and its successors and assigns; provided, however, that in no event shall ''Hotels
+and Resorts" include any of the Wyndham-branded Hotels. No entity shall be considered a
+subsidiary or a division for purposes of the definition of Hotels and Resorts in the event such
+entity is no longer a subsidiary or division of Hotels and Resorts.
+7.
+
+upcJ DSS" shall mean the Payment Card Industry Data Security Standard, Requirements
+and Security Assessment Procedures, Version 3.1, attached hereto as Appendix A, or, in the
+event such standard no longer exists, any successor standard established or approved by the
+Payment Card Industry Security Standards Council, any successor entity to said Council, or
+all of the major payment card brands. In the event no such successor standard or successor
+entity exists, PCI DSS shall mean a standard of comparable scope and thoroughness
+approved by the Associate Director for Enforcement, Bureau of Consumer Protection,
+Federal Trade Commission.
+
+8. "Practice" shall mean any act or omission implicating information security, including any
+conduct, implementation, control, configuration, procedure, process, or policy.
+
+3
+
+Case 2:13-cv-01887 -ES-JAD Document 283 Filed 12/11/15 Page 4 of 18 Page tO: 5023
+
+9. ''Treat as an untrusted network" shall mean to implement the security protections that PCI
+DSS Version 3.1, attached hereto as Appendix A, requires to be put in place with regard to an
+untrusted network.
+10. ''Untrusted network'' shall have the meaning that Requirement 1.2 of PCI DSS Version 3.1,
+attached hereto as Appendix A, gives to the term ''untrusted network," i.e., any network that
+
+is external to the networks belonging to the entity under review, and/or which is out of the
+entity's ability to control or manage.
+11. "Wyndham-branded Hotel" shall mean an independently-owned hotel that is operated in the
+United States pursuant to a management or franchise agreement with Hotels and Resorts or
+Wyndham Hotel Management, Inc. or any of their respective subsidiaries (a) under one of the
+following brand names or any successor brand name to one of the following brand names:
+Wyndham Hotels and Resorts, Wyndham Grand, and Wyndham Garden Hotels, or (b) under
+any other hotel brand name that is marketed by Hotels and Resorts to potential licensees of
+such brand name by means of a Franchise Disclosure Document or any other regulatory
+disclosure document generally required by the Federal Trade Commission to be delivered to
+a potential licensee in connection with the sale of a franchise.
+ORDER
+
+I.
+
+COMPREHENSIVE INFORMATION SECURITY PROGRAM
+
+IT IS ORDERED that Hotels and Resorts shall, no later than the date of entry of this
+Order, establish and implement, and thereafter maintain, for twenty (20) years after entry of this
+Order, a comprehensive information security program that is reasonably designed to protect the
+security, confidentiality, and integrity of Cardholder Data that it collects or receives in the United
+States from or about consumers. Such program, the content and implementation of which must
+
+4
+
+Case 2:13-cv-01887-ES-JAD Document 283 Filed 12/11/15 Page 5 of 18 Pagei D: 5024
+
+be fully documented in writing, shall consist of the following administrative, technical, and
+physical safeguards appropriate to Hotels and Resorts' size and complexity, the nature and scope
+of Hotels and Resorts' activities, and the sensitivity of the Cardholder Data at issue:
+A
+
+the designation of an employee or employees to coordinate and be accountable for
+the information security program;
+
+B.
+
+the identification of material internal and external risks to the security,
+confidentiality, and integrity of Cardholder Data that could result in the
+unauthorized disclosure, misuse, loss, alteration, destruction, or other compromise
+of such information, and assessment of the sufficiency of any safeguards in place
+to control these risks. At a minimum, this risk assessment should include
+consideration of risks in each area of relevant operation, including, but not limited
+to, (1) employee training and management, (2) information systems, including
+network and software design, information processing, storage, transmission, and
+disposal, (3) risks emanating from the Wyndham-branded Hotels, and
+(4) prevention, detection, and response to attacks, intrusions, or other systems
+
+failure;
+C.
+
+the design and implementation of reasonable safeguards to control the risks
+identified through risk assessment (including any risks emanating from the
+Wyndham-branded Hotels), and regular testing or monitoring of the effectiveness
+of the safeguards' key controls, systems, and procedures;
+
+D.
+
+the development and use of reasonable steps to select and retain service providers
+capable of appropriately safeguarding Cardholder Data they receive from Hotels
+
+5
+
+Case 2:13-cv-01887-ES-JAD Document 283 Filed 12/11/15 Page 6 of 18 PageiD: 5025
+
+and Resorts and requiring such service providers by contract to implement and
+maintain appropriate safeguards for such information; and
+E.
+
+the evaluation and adjustment of Hotels and Resorts' information security
+program described herein in light of the results of the testing and monitoring
+required by Part I.C or any other circumstances (including any material changes
+to Hotels and Resorts' operations or business arrangements) that Hotels and
+Resorts knows or has reason to know may have a material impact on the
+effectiveness of such information security program.
+U.
+
+CARDHOLDER DATA ASSESSMENTS
+
+IT IS FURTHER ORDERED that, Hotels and Resorts shall, so long as there is a
+
+Cardholder Data Environment within a network that, as to Hotels and Resorts, is not an untrusted
+network, but in any event, for no longer than a period of twenty (20) years after entry of this
+Order:
+A.
+
+Annually obtain a written assessment of the extent of Hotels and Resorts'
+compliance with the Approved Standard (each such annual assessment, together
+with any certification relative to such assessment that may be obtained pursuant to
+Part ll.B, being defined as an "Assessment"). Each annual Assessment shall be
+completed by December 31. For each annual Assessment, the assessor
+conducting the Assessment must certify as to the extent ofHotels and Resorts'
+compliance with the Approved Standard. In addition, the assessor must:
+1.
+
+certify individually, as to each Wyndham-branded Hotel, whether Hotels
+and Resorts treats as an untrusted network any Wyndham-branded Hotel's
+network that has a Cardholder Data Environment, and if any such network
+
+6
+
+Case 2:13-cv-01887-ES-JAD Document 283 Filed 12/11/15 Page 7 of 18 PageiD: 5026
+
+is not treated as untrusted, certify that such network either is included in
+the Assessment or has during the 12 months preceding the Assessment
+separately been validated to be fully compliant with the Approved
+Standard;
+2.
+
+certify as to the extent of Hotels and Resorts' compliance with each
+element of a risk management protocol at least as thorough as Version 2.0
+of the PCI DSS Risk Assessment Guidelines, attached hereto as
+Appendix B; and
+
+3.
+
+certify that the Assessment was conducted by a qualified, objective,
+independent third-party professional, who uses procedures and standards
+generally accepted in the profession, adheres to professional and business
+ethics, performs all duties objectively, and is free from any conflicts of
+interest that might compromise the assessor's independent judgment in
+performing Assessments. Professionals qualified to prepare Assessments
+shall be: a person qualified as a Certified Information Systems Security
+Professional (CISSP) or as a Certified Information Systems Auditor
+(CISA); a person holding Global Information Assurance Certification
+(GIAC) from the SysAdmin, Audit, Network, Security (SANS) Institute; a
+Qualified Security Assessor under PCI DSS (QSA); or, at the election of
+Hotels and Resorts, a similarly qualified person or organization approved
+by the Associate Director for Enforcement, Bureau of Consumer
+Protection, Federal Trade Commission.
+
+7
+
+Case 2:13-cv-01887-ES-JAD Document 283 Filed 12111115 Page 8 of 18 PageiD: 5027
+
+B.
+
+If the assessor that conducts an Assessment descnbed in Part ll.A does not certify
+
+that Hotels and Resorts is fully compliant with the Approved Standard on which
+the Assessment in question is based and with the risk protocol referenced in
+Part ll.A.2 (a ''Noncompliant Assessment"), Hotels and Resorts shall, within sixty
+(60) days from the completion of the Noncompliant Assessment in question, obtain
+a certification from an assessor qualified under Part ll.A.3 attesting as to the extent
+of Hotels and Resorts' compliance with any requirements under the Approved
+Standard and/or the risk protocol in question that were not certified as being in
+place by the assessor that conducted the Assessment.
+C.
+
+Within one hundred and eighty (180) days following discovery of a Breach
+involving more than 10,000 unique payment card numbers, Hotels and Resorts
+shall obtain an assessment that meets the requirements, established by the PCI
+Security Standards Council, of a PCI Forensic Investigator Final Incident Report
+(or the equivalent of such a report under then-current standards established by the
+PCI Security Standards Council, any successor entity to said council, or the major
+card brands), or, at the election of Hotels and Resorts, a standard of comparable
+
+scope and thoroughness approved by the Associate Director for Enforcement,
+Bureau of Consumer Protection, Federal Trade Commission.
+D.
+
+If Hotels and Resorts obtains (i) an Assessment certifying that Hotels and Resorts
+is fully compliant with the Approved Standard and (ii) such Assessment includes
+or is accompanied by the certifications called for by Part ll.A.l-ll.A3, Hotels and
+Resorts shall be deemed in compliance with Part I of this Order for one year from
+
+8
+
+Case 2:13-cv-01887-ES-JAD Document 283 Filed 12111115 Page 9 of 18 PageiD: 5028
+
+the date of that Assessment or until the next December 31 Assessment deadline,
+whichever is earlier. Provided, however:
+1.
+
+A Practice by Hotels and Resorts shall not be deemed in compliance with
+Part I of this Order based upon a Part ll.A Assessment if Hotels and
+Resorts made a representation, express or implied, regarding the Practice
+that either misrepresented or omitted a material fact and such
+misrepresentation or omission would likely affect a reasonable Assessor's
+decision about whether the Practice complied with the Approved Standard.
+Further, in the event that such a misrepresentation or omission was made
+for the purpose of deceiving the assessor, Hotels and Resorts shall not be
+deemed compliant with any portion of Part I or Part ll.A of this Order
+based on that Assessment.
+
+2.
+
+Hotels and Resorts shall not be deemed in compliance with Part I of this
+Order based upon a Part ll.A Assessment as to any Practice that is a
+significant change from any Practice in place at the time of the
+Assessment in question, unless, at the time of the significant change, an
+assessor qualified under Part ll.A.3 certifies that the significant change
+does not cause Hotels and Resorts to fall out of compliance with the
+Approved Standard on which the Assessment in question was based.
+
+This Court shall have exclusive jurisdiction over the construction of this Order in any matter or
+proceeding involving or relating to unfair data security practices for Cardholder Data. Hotels
+and Resorts shall provide each Assessment required by this Part II, including any Part II.B
+certification or Part II.C report, to the Associate Director for Enforcement, Bureau of Consumer
+
+9
+
+Case 2:13-cv-01887-ES-JAD Document 283 Filed 12/11115 Page 10 of 18 PageiD: 5029
+
+Protection, Federal Trade Commission, within ten (10) days after the Assessment, certification,
+or report is delivered to Hotels and Resorts by the assessor or investigator in question. Unless
+otherwise directed by a representative of the Commission in writing, Hotels and Resorts shall
+email these materials to Debrief@ftc.gov or send them by overnight courier (not the U.S. Postal
+
+Service) to: Associate Director for Enforcement, Bureau of Consumer Protection, Federal Trade
+Commission, 600 Pennsylvania Avenue NW, Washington, D.C. 20580. The subject line must
+begin: FTC v. Wyndham Worldwide Corp., et. al., FTC File No. X120032.
+
+m.
+
+ORDER ACKNOWLEDGEMENTS
+
+IT IS FURTHER ORDERED that Wyndham Worldwide Corporation, Wyndham Hotel
+Group, LLC, and Hotels and Resorts obtain acknowledgements of receipt of this Order:
+A.
+
+Wyndham Worldwide Corporation, Wyndham Hotel Group, LLC, and Hotels and
+Resorts, within seven (7) days of entry of this Order, must submit to the
+Commission an acknowledgement of receipt of this Order.
+
+B.
+
+Hotels and Resorts shall deliver a copy of this Order: (1) to all its current
+subsidiaries within thirty (30) days after entry of this Order; and (2) for ten (10)
+years after entry of this Order, to any future subsidiary within thirty (30) days
+after its acquisition by Hotels and Resorts.
+
+C.
+
+For ten (10) years after entry of this Order, Wyndham Worldwide Corporation,
+Wyndham Hotel Group, LLC, and Hotels and Resorts must deliver a copy of this
+Order to (1) all controlling principals, board of directors members, and LLC
+managers and members; (2) all officers, employees, agents, and representatives
+having responsibilities relating to the subject matter of this Order; and (3) any
+business entity resulting from any change in structure as set forth in the Part titled
+
+10
+
+Case 2:13-cv-01887 -ES-JAD Document 283 Filed 12/11115 Page 11 of 18 PageiD: 5030
+
+Compliance Reporting. Delivery must occur within fourteen (14) days of entry of
+this Order for current personnel. For all other personnel, delivery must occur
+before they assume their responsibilities.
+IV.
+
+COMPLIANCE REPORTING
+
+IT IS FURTHER ORDERED that Wyndham Worldwide Corporation, Wyndham Hotel
+Group, LLC, and Hotels and Resorts make timely submissions to the Commission:
+A.
+
+One year after entry of this Order, Wyndham Worldwide Corporation, Wyndham
+Hotel Group, LLC, and Hotels and Resorts each must submit a compliance report
+certified as truthful by a senior corporate officer with the requisite corporate and
+organizational authority that (a) identifies the primary physical, postal, and email
+address and telephone number, as designated points of contact, which
+representatives of the Commission may use to communicate with that Defendant;
+
+(b) identifies all of that Defendant's United States businesses by all of their
+names, telephone numbers, and physical, postal, email, and Internet addresses;
+(c) describes the activities of that Defendant's business and the involvement of
+any other Defendant; (d) describes in detail (either directly or by incorporating by
+reference a Part ll.A. Assessment) whether and how that Defendant is in
+compliance with each Part of this Order; and (e) provides a copy of each Order
+Acknowledgement obtained pursuant to this Order, unless previously submitted to
+the Commission.
+B.
+
+For ten (I 0) years after entry of this Order, each of Wyndham Worldwide
+Corporation, Wyndham Hotel Group, LLC, and Hotels and Resorts must submit a
+compliance notice within fourteen (14) days of any change in the following:
+
+11
+
+Case 2:13-cv-01887-ES-JAD Document 283 Filed 12/11/15 Page 12 of 18 PageiD: 5031
+
+(a) any designated point of contact; or (b) the structure of that Defendant or any
+entity that that Defendant bas any ownership interest in or controls directly or
+indirectly that may affect compliance obligations arising under this Order,
+including: creation, assignment, sale, merger, or dissolution of the entity or any
+subsidiary, parent, or affiliate that engages in any act or practice subject to this
+Order.
+C.
+
+Unless otherwise directed by a representative of the Commission in writing, all
+submissions to the Commission pursuant to this Order shall be emailed to
+Debrief@ftc.gov or sent by overnight courier (not the U.S. Postal Service) to:
+Associate Director for Enforcement, Bureau of Consumer Protection, Federal
+Trade Commission, 600 Pennsylvania Avenue NW, Washington, D.C. 20580.
+The subject line must begin; FTC v. Wyndham Worldwide Corp., et al., Fl'C File
+No. X120032.
+
+V.
+
+RECORDKEEPING
+
+IT IS FURTHER ORDERED that Wyndham Worldwide Corporation, Wyndham Hotel
+Group, LLC, and Hotels and Resorts shall maintain and upon request make available to the
+Commission for inspection and copying, a print or electronic copy of:
+A.
+
+For a period of three (3) years after the date of preparation of each Assessment
+required under Part n of this Order, all materials relied upon to prepare the
+Assessment, whether prepared by or on behalf of Hotels and Resorts, including
+but not limited to all plans, reports, studies, reviews, audits, audit trails, policies,
+training materials, and assessments, and any other materials relied upon to prepare
+the Assessment.
+
+12
+
+case 2:13-cv-01887-ES-JAD Document 283 Filed 12/11/15 Page 13 of 18 PageiD: 5032
+
+VI.
+
+COMPLIANCE MONITORING
+
+IT IS FURTHER ORDERED that, for pUipOse of monitoring Wyndham Worldwide
+Corporation's, Wyndham Hotel Group, LLC's, and Hotels and Resorts' compliance with this
+Order:
+A.
+
+The Commission is authorized to seek discovery, without further leave of Court,
+using any of the procedures prescribed by Federal Rules of Civil Procedure 29, 30
+(including telephonic depositions), 31, 33, 34, 36, 45, and 69. Defendants may
+assert any and all objections, defenses, rights, or privileges in the Federal Rules of
+Civil Procedure, the Federal Rules of Evidence, or any other applicable law, as to
+any such discovery request.
+
+B.
+
+Nothing in this Order limits the Commission's lawful use of compulsory process,
+pursuant to Sections 9 and 20 of the FTC Act, 15 U.S.C. §§ 49, 57b-l.
+Defendants may assert any and all objections, defenses, rights, or privileges
+available to them, as to any such process.
+
+C.
+
+This Part shall apply so long as Defendants are subject to any obligation in Part I
+or II of this Order, and for three years thereafter.
+
+VD.
+
+WYNDHAM WORLDWIDE CORPORATION AND
+WYNDHAM HOTEL GROUP, LLC
+
+IT IS FURTHER ORDERED that, so long as Wyndham Worldwide Corporation or
+Wyndham Hotel Group, LLC directly or indirectly holds Hotels and Resorts as a subsidiary, but
+in any event no longer than 20 years after entry of this Order, it shall ensure that Hotels and
+Resorts complies with this Order. In the event Wyndham Worldwide Corporation or Wyndham
+Hotel Group, LLC no longer directly or indirectly holds Hotels and Resorts as a subsidiary, but
+in any event no later than 20 years after entry of this Order, the obligations of Wyndham
+13
+
+Case 2:13-cv-01887 -ES-JAD Document 283 Filed 12/11115 Page 14 of 18 PageiD: 5033
+
+Worldwide Corporation and Wyndham Hotel Group, LLC under this Order shall cease
+immediately.
+
+Vlll. RETENTION OF JURISDICTION
+IT IS Fl.JRTHER ORDERED that this Court shall and does retain jurisdiction of this
+matter for purposes of, and shall have exclusive jurisdiction over, any matter or proceeding
+involving or relating to the modification and/or enforcement of this Order.
+
+SO ORDERED this
+
+J1 tyof
+
+14
+
+Case 2:13-cv-01887 -ES-JAD Document 283 Filed 12/11115 Page 15 of 18 PageiD: 5034
+
+SO STIPULATED AND AGREED:
+FOR FEDERAL TRADE COMMISSION
+
+Date:
+Ke
+. on
+No. 975904) .
+Katherine E. McCarron
+Bar No. 486335)
+James A. Trilling (DC Bar No. 467273)
+Federal Trade Commission
+600 Pennsylvania Avenue
+Washington, D.C. 20580
+Attorneys for Plaintiff Federal Trade Commission
+
+15
+
+\';2J~ J \$"
+
+Case 2:13-cv-01887 -ES-JAD Document 283 Filed 12/11115 Page 16 of 18 PageiD: 5035
+
+Oat~; cJ/t1/1.9
+
+(
+Eugene F.l\ssaf( C Bar No. 449
+Kirkland & Ellis LiP
+655 Fifteenth Street, N.\Y.
+Washington, .DC 20008
+Tel: (202) 879-5196
+Fnx: ·(202) 879-5200
+Email: eugette.assaf@kirkland.c.om
+AU~meys for Oefen~ant~ Wyndham Worldwide Gorporati_
+on, Wyndham Hotel Groupt LLC,
+Wyndham Hotels and Resorts, LLC, and Wyndham Hotel Manag~m~nt, lnc.
+QEFENDANTS:
+
+Pate: _ _ __
+Wyndham Worldwide Cotporation
+
+Date: _ _ _ _ __
+Wyndh.am Hotel Group,. LLC
+
+Date:._ _ _ _ __
+Wyndham Hotels and Rt!sorts, LLC
+
+Date;_ _ _ _ __
+Wyndham Hotel Management, Inc.
+
+IS
+
+Case 2:13-cv-01887-ES-JAD Document 283 Filed 12/11/15 Page 17 of 18 PageiD: 5036
+
+SUf3 tl Ue-Q
+
+n.o.:
+
+[adt/l'ut
+{plw1tl ti]
+{fox I}
+[mtaJI]
+
+tolt•t,r-
+
+A1tm:Deyl fer De.&maots Wyodbam Worldwide Corpoxaticm, Wyndham Hotel Group,
+
+Wyndham Hotels aDd Resort~, U.C, aad Wyndham Hotel Mauagcmc:nt.lllc.
+
+DUJ:.NnANTS:
+
+16
+
+u.c.
+
+Case 2:13-cv-01887-ES-JAD Document 283 Filed 12/11/15 Page 18 of 18 PageiD: 5037
+
+FOR DEFENDANTS:
+Date: _ _ __
+{address]
+
+[phorre #)
+ffax#)
+[email]
+
+Attorneys for Defendants Wyndham Worldwide Corporation, Wyndham Hotel Group, LLC,
+Wyndham Hotels and Resorts, LLC, and Wyndham Hotel Management, Inc.
+DEFENDANTS:
+
+Date:
+
+I r;!J
+
+Date:
+
+I
+
+Wyndham Worldwide Corporation
+
+~LLC
+
+~--
+
+Date:
+
+Hotels and Resorts, LLC
+
+~
+
+16
+
+f/t£
+
+0 / I 5 ../
+~
+
+I 0/
+
+I Cj /
+
+1
+
+s'
+
+I !:>-
+
+

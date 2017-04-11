@@ -1,0 +1,2536 @@
+Case 2:12-cv-01365-SPL Document 1 Filed 06/26/12 Page 1 of 21
+
+1
+
+7
+
+Willard K. Tom
+General Counsel
+Lisa Weintraub Schifferle (DC Bar No. 463928)
+Kristin Krause Cohen (DC Bar No. 485946)
+Kevin H. Moriarty (DC Bar No. 975904)
+Katherine E. McCarron (DC Bar No. 486335)
+John A. Krebs (MA Bar No. 633535)
+Federal Trade Commission
+600 Pennsylvania Ave, NW Mail Stop NJ-8100
+Washington, D.C. 20580
+Facsimile: (202) 326-3062
+E-mail: lschifferle@ftc.gov
+Telephone: (202) 326-3377
+
+8
+
+Attorneys for Plaintiff Federal Trade Commission
+
+2
+3
+4
+5
+6
+
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+
+IN THE UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF ARIZONA
+______________________________________
+)
+Federal Trade Commission,
+)
+)
+Plaintiff,
+)
+)
+v.
+)
+)
+Wyndham Worldwide Corporation, a Delaware )
+corporation;
+)
+)
+Wyndham Hotel Group, LLC, a Delaware
+)
+limited liability company;
+)
+)
+Wyndham Hotels and Resorts, LLC, a Delaware)
+limited liability company; and
+)
+)
+Wyndham Hotel Management, Inc., a
+)
+Delaware Corporation,
+)
+)
+Defendants.
+)
+______________________________________ )
+
+No. ___________
+
+COMPLAINT FOR
+INJUNCTIVE AND
+OTHER EQUITABLE
+RELIEF
+
+Case 2:12-cv-01365-SPL Document 1 Filed 06/26/12 Page 2 of 21
+
+1
+2
+
+Plaintiff, the Federal Trade Commission (“FTC”), for its Complaint alleges:
+1.
+
+The FTC brings this action under Section 13(b) of the Federal Trade
+
+3
+
+Commission Act (“FTC Act”), 15 U.S.C. § 53(b), to obtain permanent injunctive
+
+4
+
+relief and other equitable relief for Defendants’ acts or practices in violation of
+
+5
+
+Section 5(a) of the FTC Act, 15 U.S.C. § 45(a), in connection with Defendants’
+
+6
+
+failure to maintain reasonable and appropriate data security for consumers’
+
+7
+
+sensitive personal information.
+
+8
+
+2.
+
+Defendants’ failure to maintain reasonable security allowed intruders
+
+9
+
+to obtain unauthorized access to the computer networks of Wyndham Hotels and
+
+10
+
+Resorts, LLC, and several hotels franchised and managed by Defendants on three
+
+11
+
+separate occasions in less than two years. Defendants’ security failures led to
+
+12
+
+fraudulent charges on consumers’ accounts, more than $10.6 million in fraud loss,
+
+13
+
+and the export of hundreds of thousands of consumers’ payment card account
+
+14
+
+information to a domain registered in Russia. In all three security breaches,
+
+15
+
+hackers accessed sensitive consumer data by compromising Defendants’ Phoenix,
+
+16
+
+Arizona data center.
+
+17
+18
+19
+20
+21
+
+JURISDICTION AND VENUE
+3.
+
+This Court has subject matter jurisdiction pursuant to 28 U.S.C.
+
+§§ 1331, 1337(a), and 1345, and 15 U.S.C. §§ 45(a) and 53(b).
+4.
+
+Venue is proper in this district under 28 U.S.C. § 1391(b), (c), and
+
+15 U.S.C. § 53(b).
+
+22
+‐2‐
+
+Case 2:12-cv-01365-SPL Document 1 Filed 06/26/12 Page 3 of 21
+
+1
+2
+
+PLAINTIFF
+5.
+
+The FTC is an independent agency of the United States Government
+
+3
+
+created by statute. 15 U.S.C. §§ 41-58. The FTC enforces Section 5(a) of the
+
+4
+
+FTC Act, 15 U.S.C. § 45(a), which prohibits unfair or deceptive acts or practices
+
+5
+
+in or affecting commerce.
+
+6
+
+6.
+
+The FTC is authorized to initiate federal district court proceedings,
+
+7
+
+by its own attorneys, to enjoin violations of the FTC Act and to secure such
+
+8
+
+equitable relief as may be appropriate in each case. 15 U.S.C. § 53(b).
+
+9
+10
+
+DEFENDANTS
+7.
+
+Defendant Wyndham Worldwide Corporation (“Wyndham
+
+11
+
+Worldwide”) is a Delaware corporation with its principal office or place of
+
+12
+
+business at 22 Sylvan Way, Parsipanny, New Jersey 07054. At all times material
+
+13
+
+to this Complaint, Wyndham Worldwide has been in the hospitality business,
+
+14
+
+franchising and managing hotels throughout the United States. Wyndham
+
+15
+
+Worldwide transacts or has transacted business in this district and throughout the
+
+16
+
+United States. At all relevant times, it has controlled the acts and practices of its
+
+17
+
+subsidiaries described below and approved of or benefitted from such subsidiaries’
+
+18
+
+acts and practices at issue in this Complaint. See Exhibit A for an organizational
+
+19
+
+chart depicting the entities named as Defendants in this Complaint.
+
+20
+
+8.
+
+Defendant Wyndham Hotel Group, LLC (“Hotel Group”) is a
+
+21
+
+Delaware limited liability company with its principal office or place of business at
+
+22
+
+22 Sylvan Way, Parsipanny, New Jersey 07054. Hotel Group operates a data
+‐3‐
+
+Case 2:12-cv-01365-SPL Document 1 Filed 06/26/12 Page 4 of 21
+
+1
+
+center in Phoenix, Arizona (the “Phoenix data center”) that it uses to store and
+
+2
+
+process payment card data, and the payment card data of some of its subsidiaries,
+
+3
+
+including Wyndham Hotels and Resorts, LLC. Hotel Group is a wholly-owned
+
+4
+
+subsidiary of Wyndham Worldwide, and through its subsidiaries it franchises and
+
+5
+
+manages approximately 7,000 hotels under twelve hotel brands, one of which is
+
+6
+
+the Wyndham brand. It transacts or has transacted business in this district and
+
+7
+
+throughout the United States. At all relevant times, Hotel Group has controlled
+
+8
+
+the acts and practices of its subsidiaries described below and approved of or
+
+9
+
+benefitted from such subsidiaries’ acts and practices at issue in this Complaint.
+
+10
+
+9.
+
+Defendant Wyndham Hotels and Resorts, LLC (“Hotels and
+
+11
+
+Resorts”) is a Delaware limited liability company with its principal office or place
+
+12
+
+of business at 22 Sylvan Way, Parsipanny, New Jersey 07054. Hotels and Resorts
+
+13
+
+is a wholly-owned subsidiary of Hotel Group. Throughout the relevant time
+
+14
+
+period, Hotels and Resorts has licensed the Wyndham name to independent hotels
+
+15
+
+through franchise agreements, and provided various services to those hotels,
+
+16
+
+including information technology services. At all times material to this
+
+17
+
+Complaint, Hotels and Resorts has licensed the Wyndham name to approximately
+
+18
+
+seventy-five independently-owned hotels under franchise agreements. Hotels and
+
+19
+
+Resorts transacts or has transacted business in this district and throughout the
+
+20
+
+United States, including franchising hotels located in Arizona. At all relevant
+
+21
+
+times, Hotel Group and Wyndham Worldwide have performed various business
+
+22
+
+functions on behalf of Hotels and Resorts, or overseen such business functions,
+‐4‐
+
+Case 2:12-cv-01365-SPL Document 1 Filed 06/26/12 Page 5 of 21
+
+1
+
+including legal assistance, human resources, finance, and information technology
+
+2
+
+and security. Hotel Group and Wyndham Worldwide controlled the acts and
+
+3
+
+practices of Hotels and Resorts that are at issue in this Complaint.
+
+4
+
+10.
+
+Defendant Wyndham Hotel Management, Inc. (“Hotel
+
+5
+
+Management”) is a Delaware corporation with its principal office or place of
+
+6
+
+business at 22 Sylvan Way, Parsippany, New Jersey 07054. Hotel Management is
+
+7
+
+also a wholly-owned subsidiary of Hotel Group. Like Hotels and Resorts, Hotel
+
+8
+
+Management licenses the Wyndham name to independently-owned hotels, but
+
+9
+
+does so under management agreements in which it agrees to fully operate the hotel
+
+10
+
+on behalf of the owner. At all times material to this Complaint, Hotel
+
+11
+
+Management has licensed the Wyndham name to approximately fifteen
+
+12
+
+independently-owned hotels under management agreements. Hotel Management
+
+13
+
+transacts or has transacted business in this district and throughout the United
+
+14
+
+States, including managing at least one hotel in Arizona. At all relevant times,
+
+15
+
+Hotel Group and Wyndham Worldwide have performed various business
+
+16
+
+functions on Hotel Management’s behalf, or overseen such business functions,
+
+17
+
+including legal assistance and information technology and security. Hotel Group
+
+18
+
+and Wyndham Worldwide controlled the acts and practices of Hotel Management
+
+19
+
+that are at issue in this Complaint.
+
+20
+
+11.
+
+Defendants Wyndham Worldwide, Hotel Group, Hotels and Resorts,
+
+21
+
+and Hotel Management have operated as a common business enterprise while
+
+22
+
+engaging in the unfair and deceptive acts and practices alleged in this Complaint.
+‐5‐
+
+Case 2:12-cv-01365-SPL Document 1 Filed 06/26/12 Page 6 of 21
+
+1
+
+Defendants have conducted their business practices described below through an
+
+2
+
+interrelated network of companies that have common ownership, business
+
+3
+
+functions, employees, and office locations. Because these Defendants have
+
+4
+
+operated as a common enterprise, they are jointly and severally liable for the
+
+5
+
+unfair and deceptive acts and practices alleged below.
+
+6
+7
+
+COMMERCE
+12.
+
+At all times material to this Complaint, Defendants have maintained
+
+8
+
+a substantial course of trade in or affecting commerce, as “commerce” is defined
+
+9
+
+in Section 4 of the FTC Act, 15 U.S.C. § 44.
+
+10
+
+DEFENDANTS’ BUSINESS ACTIVITIES
+
+11
+
+Defendants’ Business Structure
+
+12
+
+13.
+
+Wyndham Worldwide is a hospitality business that, through its
+
+13
+
+subsidiaries, franchises and manages hotels and sells timeshares. It conducts its
+
+14
+
+business through three subsidiaries, including Hotel Group. At all times relevant
+
+15
+
+to this Complaint, Hotel Group’s wholly-owned subsidiaries, Hotels and Resorts
+
+16
+
+and Hotel Management, licensed the Wyndham brand name to approximately
+
+17
+
+ninety independently-owned hotels under franchise or management agreements
+
+18
+
+(collectively hereinafter “Wyndham-branded hotels”).
+
+19
+20
+
+Defendants’ Network Infrastructure
+14.
+
+Throughout the relevant time period, Wyndham Worldwide has been
+
+21
+
+responsible for creating information security policies for itself and its subsidiaries,
+
+22
+
+including Hotel Group and Hotels and Resorts, as well as providing oversight of
+‐6‐
+
+Case 2:12-cv-01365-SPL Document 1 Filed 06/26/12 Page 7 of 21
+
+1
+
+their information security programs. From at least 2008 until approximately June
+
+2
+
+2009, Hotel Group had responsibility for managing Hotels and Resorts’
+
+3
+
+information security program. In June 2009, Wyndham Worldwide took over
+
+4
+
+management and responsibility for Hotels and Resorts’ information security
+
+5
+
+program.
+
+6
+
+15.
+
+Under their franchise and management agreements, Hotels and
+
+7
+
+Resorts and Hotel Management require each Wyndham-branded hotel to purchase,
+
+8
+
+and configure to their specifications, a designated computer system, known as a
+
+9
+
+property management system, that handles reservations, checks guests in and out,
+
+10
+
+assigns rooms, manages room inventory, and handles payment card transactions.
+
+11
+
+These property management systems store personal information about consumers,
+
+12
+
+including names, addresses, email addresses, telephone numbers, payment card
+
+13
+
+account numbers, expiration dates, and security codes (hereinafter “personal
+
+14
+
+information”).
+
+15
+
+16.
+
+The property management systems for all Wyndham-branded hotels,
+
+16
+
+including those managed by Hotel Management, are part of Hotels and Resorts’
+
+17
+
+computer network, and are linked to its corporate network, much of which is
+
+18
+
+located in the Phoenix data center. Hotels and Resorts’ corporate network
+
+19
+
+includes its central reservation system, which coordinates reservations across the
+
+20
+
+Wyndham brand.
+
+21
+
+17.
+
+22
+
+Each Wyndham-branded hotel’s property management system is
+
+managed by Defendants. Only Defendants, and not the owners of the Wyndham‐7‐
+
+Case 2:12-cv-01365-SPL Document 1 Filed 06/26/12 Page 8 of 21
+
+1
+
+branded hotels, have administrator access that allows Defendants to control the
+
+2
+
+property management systems at the hotels. Defendants set the rules, including all
+
+3
+
+password requirements, that allow the Wyndham-branded hotels’ employees to
+
+4
+
+access their property management systems.
+
+5
+
+18.
+
+Defendants have even more direct control over the computer
+
+6
+
+networks of the Wyndham-branded hotels managed by Hotel Management. Hotel
+
+7
+
+Management controls the “operation” of those hotels pursuant to its management
+
+8
+
+agreements, including their information technology and security functions and the
+
+9
+
+hiring of employees to administer the hotels’ computer networks.
+
+10
+
+19.
+
+The owners of the Wyndham-branded hotels pay Defendants fees to
+
+11
+
+support their property management systems and to connect them to Hotels and
+
+12
+
+Resorts’ computer network. Defendants’ technical support team is responsible for
+
+13
+
+addressing and resolving any technical issues that a Wyndham-branded hotel has
+
+14
+
+with its property management system. As explained further below, Defendants’
+
+15
+
+information security failures led to the compromise of many of the Wyndham-
+
+16
+
+branded-hotels’ property management system servers, resulting in the exposure of
+
+17
+
+thousands of consumers’ payment card accounts.
+
+18
+19
+
+DEFENDANTS’ DECEPTIVE STATEMENTS
+20.
+
+Hotels and Resorts operates a website where consumers can make
+
+20
+
+reservations at any Wyndham-branded hotel. In addition, some Wyndham-
+
+21
+
+branded hotels operate their own individual websites, which describe the
+
+22
+
+individual hotel and its amenities. Customers making reservations from a
+‐8‐
+
+Case 2:12-cv-01365-SPL Document 1 Filed 06/26/12 Page 9 of 21
+
+1
+
+Wyndham-branded hotel’s individual website are directed back to Hotels and
+
+2
+
+Resorts’ website to make the reservation.
+
+3
+
+21.
+
+Since at least 2008, Defendants have disseminated, or caused to be
+
+4
+
+disseminated, privacy policies or statements on their website to their customers
+
+5
+
+and potential customers. These policies or statements include, but are not limited
+
+6
+
+to, the following statement regarding the privacy and confidentiality of personal
+
+7
+
+information, disseminated on the Hotels and Resorts’ website:
+
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+
+. . . We recognize the importance of protecting the privacy of
+individual-specific (personally identifiable) information
+collected about guests, callers to our central reservation
+centers, visitors to our Web sites, and members participating
+in our Loyalty Program (collectively, “Customers”). . . .
+This Policy applies to residents of the United States, hotels
+of our Brands located in the United States, and Loyalty
+Program activities in the United States only. . . .
+We safeguard our Customers’ personally identifiable
+information by using standard industry practices. Although
+“guaranteed security” does not exist on or off the Internet,
+we take commercially reasonable efforts to create and
+maintain “fire walls” and other appropriate safeguards to
+ensure that to the extent we control the Information, the
+Information is used only as authorized by us and consistent
+with this Policy, and that the Information is not improperly
+altered or destroyed.
+22.
+
+There is a link to this privacy policy on each page of the Hotels and
+
+Resorts’ website, including its reservations page.
+23.
+
+Although this statement is disseminated on the Hotels and Resorts’
+
+website, it states that it is the privacy policy of Hotel Group.
+
+22
+‐9‐
+
+Case 2:12-cv-01365-SPL Document 1 Filed 06/26/12 Page 10 of 21
+
+1
+2
+
+DEFENDANTS’ INADEQUATE DATA SECURITY PRACTICES
+24.
+
+Since at least April 2008, Defendants failed to provide reasonable
+
+3
+
+and appropriate security for the personal information collected and maintained by
+
+4
+
+Hotels and Resorts, Hotel Management, and the Wyndham-branded hotels, by
+
+5
+
+engaging in a number of practices that, taken together, unreasonably and
+
+6
+
+unnecessarily exposed consumers’ personal data to unauthorized access and theft.
+
+7
+
+Among other things, Defendants:
+
+8
+
+a.
+
+failed to use readily available security measures to limit
+
+9
+
+access between and among the Wyndham-branded hotels’
+
+10
+
+property management systems, the Hotels and Resorts’
+
+11
+
+corporate network, and the Internet, such as by employing
+
+12
+
+firewalls;
+
+13
+
+b.
+
+allowed software at the Wyndham-branded hotels to be
+
+14
+
+configured inappropriately, resulting in the storage of
+
+15
+
+payment card information in clear readable text;
+
+16
+
+c.
+
+failed to ensure the Wyndham-branded hotels implemented
+
+17
+
+adequate information security policies and procedures prior to
+
+18
+
+connecting their local computer networks to Hotels and
+
+19
+
+Resorts’ computer network;
+
+20
+
+d.
+
+failed to remedy known security vulnerabilities on Wyndham-
+
+21
+
+branded hotels’ servers that were connected to Hotels and
+
+22
+
+Resorts’ computer network, thereby putting personal
+‐ 10 ‐
+
+Case 2:12-cv-01365-SPL Document 1 Filed 06/26/12 Page 11 of 21
+
+1
+
+information held by Defendants and the other Wyndham-
+
+2
+
+branded hotels at risk. For example, Defendants permitted
+
+3
+
+Wyndham-branded hotels to connect insecure servers to the
+
+4
+
+Hotels and Resorts’ network, including servers using outdated
+
+5
+
+operating systems that could not receive security updates or
+
+6
+
+patches to address known security vulnerabilities;
+
+7
+
+e.
+
+allowed servers to connect to Hotels and Resorts’ network,
+
+8
+
+despite the fact that well-known default user IDs and
+
+9
+
+passwords were enabled on the servers, which were easily
+
+10
+
+available to hackers through simple Internet searches;
+
+11
+
+f.
+
+failed to employ commonly-used methods to require user IDs
+
+12
+
+and passwords that are difficult for hackers to guess.
+
+13
+
+Defendants did not require the use of complex passwords for
+
+14
+
+access to the Wyndham-branded hotels’ property
+
+15
+
+management systems and allowed the use of easily guessed
+
+16
+
+passwords. For example, to allow remote access to a hotel’s
+
+17
+
+property management system, which was developed by
+
+18
+
+software developer Micros Systems, Inc., Defendants used
+
+19
+
+the phrase “micros” as both the user ID and the password;
+
+20
+
+g.
+
+failed to adequately inventory computers connected to the
+
+21
+
+Hotels and Resorts’ network so that Defendants could
+
+22
+
+appropriately manage the devices on its network;
+‐ 11 ‐
+
+Case 2:12-cv-01365-SPL Document 1 Filed 06/26/12 Page 12 of 21
+
+1
+
+h.
+
+failed to employ reasonable measures to detect and prevent
+
+2
+
+unauthorized access to Defendants’ computer network or to
+
+3
+
+conduct security investigations;
+
+4
+
+i.
+
+failed to follow proper incident response procedures,
+
+5
+
+including failing to monitor Hotels and Resorts’ computer
+
+6
+
+network for malware used in a previous intrusion; and
+
+7
+
+j.
+
+failed to adequately restrict third-party vendors’ access to
+
+8
+
+Hotels and Resorts’ network and the Wyndham-branded
+
+9
+
+hotels’ property management systems, such as by restricting
+
+10
+
+connections to specified IP addresses or granting temporary,
+
+11
+
+limited access, as necessary.
+
+12
+
+INTRUSIONS INTO DEFENDANTS’ COMPUTER NETWORK
+
+13
+
+25.
+
+As a result of the failures described above, between April 2008 and
+
+14
+
+January 2010, intruders were able to gain unauthorized access to Hotels and
+
+15
+
+Resorts’ computer network, including the Wyndham-branded hotels’ property
+
+16
+
+management systems, on three separate occasions. The intruders used similar
+
+17
+
+techniques on each occasion to access personal information stored on the
+
+18
+
+Wyndham-branded hotels’ property management system servers, including
+
+19
+
+customers’ payment card account numbers, expiration dates, and security codes.
+
+20
+
+After discovering each of the first two breaches, Defendants failed to take
+
+21
+
+appropriate steps in a reasonable time frame to prevent the further compromise of
+
+22
+
+the Hotels and Resorts’ network.
+‐ 12 ‐
+
+Case 2:12-cv-01365-SPL Document 1 Filed 06/26/12 Page 13 of 21
+
+1
+2
+
+First Breach
+26.
+
+In April 2008, intruders first gained access to a Phoenix, Arizona
+
+3
+
+Wyndham-branded hotel’s local computer network that was connected to the
+
+4
+
+Internet. The hotel’s local network was also connected to Hotels and Resorts’
+
+5
+
+network through the hotel’s property management system. Using this access, in
+
+6
+
+May 2008, the intruders attempted to compromise an administrator account on the
+
+7
+
+Hotels and Resorts’ network by guessing multiple user IDs and passwords –
+
+8
+
+known as a brute force attack.
+
+9
+
+27.
+
+This brute force attack caused multiple user account lockouts over
+
+10
+
+several days, including one instance in which 212 user accounts were locked out,
+
+11
+
+before the intruders were ultimately successful. Account lockouts occur when a
+
+12
+
+user inputs an incorrect password multiple times, and are a well-known warning
+
+13
+
+sign that a computer network is being attacked. Defendants did not have an
+
+14
+
+adequate inventory of the Wyndham-branded hotels’ computers connected to its
+
+15
+
+network, and, therefore, although they were able to determine that the account
+
+16
+
+lockouts were coming from two computers on Hotels and Resorts’ network, they
+
+17
+
+were unable to physically locate those computers. As a result, Defendants did not
+
+18
+
+determine that the Hotels and Resorts’ network had been compromised until
+
+19
+
+almost four months later.
+
+20
+
+28.
+
+The intruders’ brute force attack led to the compromise of an
+
+21
+
+administrator account on the Hotels and Resorts’ network. Because Defendants
+
+22
+
+did not appropriately limit access between and among the Wyndham-branded
+‐ 13 ‐
+
+Case 2:12-cv-01365-SPL Document 1 Filed 06/26/12 Page 14 of 21
+
+1
+
+hotels’ property management systems, the Hotels and Resorts’ own corporate
+
+2
+
+network, and the Internet – such as through the use of firewalls – once the
+
+3
+
+intruders had access to the administrator account, they were able to gain unfettered
+
+4
+
+access to the property management system servers of a number of hotels.
+
+5
+
+29.
+
+Additionally, the Phoenix hotel’s property management system
+
+6
+
+server was using an operating system that its vendor had stopped supporting,
+
+7
+
+including providing security updates and patch distribution, more than three years
+
+8
+
+prior to the intrusion. Defendants were aware the hotel was using this unsupported
+
+9
+
+and insecure server, yet continued to allow it to connect to Hotels and Resorts’
+
+10
+
+computer network.
+
+11
+
+30.
+
+In this first breach, the intruders installed memory-scraping malware
+
+12
+
+on numerous Wyndham-branded hotels’ property management system servers,
+
+13
+
+thereby accessing payment card data associated with the authorization of payment
+
+14
+
+card transactions that was present temporarily on the hotels’ servers.
+
+15
+
+31.
+
+In addition, the intruders located files on some of the Wyndham-
+
+16
+
+branded hotels’ property management system servers that contained payment card
+
+17
+
+account information for large numbers of consumers, stored in clear readable text.
+
+18
+
+These files were created and stored in clear text because Defendants had allowed
+
+19
+
+the property management systems to be configured inappropriately to create these
+
+20
+
+files and store the payment card information that way.
+
+21
+22
+
+32.
+
+As a result of Defendants’ unreasonable data security practices,
+
+intruders were able to gain unauthorized access to the Hotels and Resorts’
+‐ 14 ‐
+
+Case 2:12-cv-01365-SPL Document 1 Filed 06/26/12 Page 15 of 21
+
+1
+
+corporate network, and the property management system servers of forty-one
+
+2
+
+Wyndham-branded hotels – twelve managed by Hotel Management and twenty-
+
+3
+
+nine franchisees of Hotels and Resorts. This resulted in the compromise of more
+
+4
+
+than 500,000 payment card accounts, and the export of hundreds of thousands of
+
+5
+
+consumers’ payment card account numbers to a domain registered in Russia.
+
+6
+7
+
+Second Breach
+33.
+
+In March 2009, approximately six months after Defendants
+
+8
+
+discovered the first breach, intruders were able again to gain unauthorized access
+
+9
+
+to the Hotels and Resorts’ network, this time through a service provider’s
+
+10
+
+administrator account in the Phoenix data center.
+
+11
+
+34.
+
+In May 2009, Defendants learned that several Wyndham-branded
+
+12
+
+hotels had received complaints from consumers about fraudulent charges made to
+
+13
+
+their payment card accounts after using those cards to pay for stays at Wyndham-
+
+14
+
+branded hotels. At that point, Defendants searched Hotels and Resorts’ network
+
+15
+
+for the memory-scraping malware used in the previous attack, and found it on the
+
+16
+
+property management system servers of more than thirty Wyndham-branded
+
+17
+
+hotels. As a result of Defendants’ failure to monitor Hotels and Resorts’ network
+
+18
+
+for the malware used in the previous attack, hackers had unauthorized access to
+
+19
+
+the Hotels and Resorts’ network for approximately two months.
+
+20
+
+35.
+
+In addition to again using memory-scraping malware to access
+
+21
+
+personal information, in this second breach the intruders reconfigured software at
+
+22
+
+the Wyndham-branded hotels to cause their property management systems to
+‐ 15 ‐
+
+Case 2:12-cv-01365-SPL Document 1 Filed 06/26/12 Page 16 of 21
+
+1
+
+create clear text files containing the payment card account numbers of guests using
+
+2
+
+their payment cards at the hotels.
+
+3
+
+36.
+
+Ultimately, the intruders exploited Defendants’ data security
+
+4
+
+vulnerabilities to gain access to the Hotels and Resorts’ network and the property
+
+5
+
+management system servers of thirty-nine Wyndham-branded hotels – nine of
+
+6
+
+which were managed by Hotel Management and thirty franchisees of Hotels and
+
+7
+
+Resorts. In this second incident, the intruders were able to access information for
+
+8
+
+more than 50,000 consumer payment card accounts and use that information to
+
+9
+
+make fraudulent charges on consumers’ accounts.
+
+10
+11
+
+Third Breach
+37.
+
+In late 2009, intruders again compromised an administrator account
+
+12
+
+on Hotels and Resorts’ network. Because Defendants had still not adequately
+
+13
+
+limited access between and among the Wyndham-branded hotels’ property
+
+14
+
+management systems, Hotels and Resorts’ corporate network, and the Internet –
+
+15
+
+such as through the use of firewalls – once the intruders had access to this
+
+16
+
+administrator account they were able again to access multiple Wyndham-branded
+
+17
+
+hotels’ property management system servers. As in the previous attacks, the
+
+18
+
+intruders installed memory-scraping malware to access payment card account
+
+19
+
+information held at the Wyndham-branded hotels.
+
+20
+
+38.
+
+Again, Defendants did not detect this intrusion themselves, but
+
+21
+
+rather learned of the breach from a credit card issuer. The credit card issuer
+
+22
+
+contacted Defendants in January 2010, and indicated that the account numbers of
+‐ 16 ‐
+
+Case 2:12-cv-01365-SPL Document 1 Filed 06/26/12 Page 17 of 21
+
+1
+
+credit cards it had issued were used fraudulently shortly after its customers used
+
+2
+
+their credit cards to pay for stays at Wyndham-branded hotels.
+
+3
+
+39.
+
+As a result of Defendants’ security failures, in this instance,
+
+4
+
+intruders compromised Hotels and Resorts’ corporate network and the property
+
+5
+
+management system servers of twenty-eight Wyndham-branded hotels – eight
+
+6
+
+managed by Hotel Management and twenty franchisees of Hotels and Resorts. As
+
+7
+
+a result of this third incident, the intruders were able to access information for
+
+8
+
+approximately 69,000 consumer payment card accounts and again make fraudulent
+
+9
+
+purchases on those accounts.
+
+10
+11
+
+Total Impact of Breaches
+40.
+
+Defendants’ failure to implement reasonable and appropriate
+
+12
+
+security measures exposed consumers’ personal information to unauthorized
+
+13
+
+access, collection, and use. Such exposure of consumers’ personal information
+
+14
+
+has caused and is likely to cause substantial consumer injury, including financial
+
+15
+
+injury, to consumers and businesses. For example, Defendants’ failure to
+
+16
+
+implement reasonable and appropriate security measures resulted in the three data
+
+17
+
+breaches described above, the compromise of more than 619,000 consumer
+
+18
+
+payment card account numbers, the exportation of many of those account numbers
+
+19
+
+to a domain registered in Russia, fraudulent charges on many consumers’
+
+20
+
+accounts, and more than $10.6 million in fraud loss. Consumers and businesses
+
+21
+
+suffered financial injury, including, but not limited to, unreimbursed fraudulent
+
+22
+
+charges, increased costs, and lost access to funds or credit. Consumers and
+‐ 17 ‐
+
+Case 2:12-cv-01365-SPL Document 1 Filed 06/26/12 Page 18 of 21
+
+1
+
+businesses also expended time and money resolving fraudulent charges and
+
+2
+
+mitigating subsequent harm.
+
+3
+4
+5
+6
+7
+8
+
+VIOLATIONS OF THE FTC ACT
+41.
+
+Section 5(a) of the FTC Act, 15 U.S.C. § 45(a), prohibits “unfair or
+
+deceptive acts or practices in or affecting commerce.”
+42.
+
+Misrepresentations or deceptive omissions of material fact constitute
+
+deceptive acts or practices prohibited by Section 5(a) of the FTC Act.
+43.
+
+Acts or practices are unfair under Section 5 of the FTC Act if they
+
+9
+
+cause or are likely to cause substantial injury to consumers that consumers cannot
+
+10
+
+reasonably avoid themselves and that is not outweighed by countervailing benefits
+
+11
+
+to consumers or competition. 15 U.S.C. § 45(n).
+
+12
+
+Count I
+
+13
+
+Deception
+
+14
+
+44.
+
+In numerous instances through the means described in Paragraph 21,
+
+15
+
+in connection with the advertising, marketing, promotion, offering for sale, or sale
+
+16
+
+of hotel services, Defendants have represented, directly or indirectly, expressly or
+
+17
+
+by implication, that they had implemented reasonable and appropriate measures to
+
+18
+
+protect personal information against unauthorized access.
+
+19
+
+45.
+
+In truth and in fact, in numerous instances in which Defendants have
+
+20
+
+made the representations set forth in Paragraph 44 of this Complaint, Defendants
+
+21
+
+did not implement reasonable and appropriate measures to protect personal
+
+22
+
+information against unauthorized access.
+‐ 18 ‐
+
+Case 2:12-cv-01365-SPL Document 1 Filed 06/26/12 Page 19 of 21
+
+1
+
+46.
+
+Therefore, Defendants’ representations as set forth in Paragraph 44
+
+2
+
+of this Complaint are false or misleading and constitute deceptive acts or practices
+
+3
+
+in violation of Section 5(a) of the FTC Act, 15 U.S.C. § 45(a).
+
+4
+
+Count II
+
+5
+
+Unfairness
+
+6
+
+47.
+
+In numerous instances Defendants have failed to employ reasonable
+
+7
+
+and appropriate measures to protect personal information against unauthorized
+
+8
+
+access.
+
+9
+
+48.
+
+Defendants’ actions caused or are likely to cause substantial injury
+
+10
+
+to consumers that consumers cannot reasonably avoid themselves and that is not
+
+11
+
+outweighed by countervailing benefits to consumers or competition.
+
+12
+
+49.
+
+Therefore, Defendants’ acts and practices as described in Paragraph
+
+13
+
+47 above constitute unfair acts or practices in violation of Section 5 of the FTC
+
+14
+
+Act, 15 U.S.C. §§ 45(a) and 45(n).
+
+15
+16
+
+CONSUMER INJURY
+50.
+
+Consumers have suffered and will continue to suffer substantial
+
+17
+
+injury as a result of Defendants’ violations of the FTC Act. In addition,
+
+18
+
+Defendants have been unjustly enriched as a result of their unlawful acts or
+
+19
+
+practices. Absent injunctive relief by this Court, Defendants are likely to continue
+
+20
+
+to injure consumers, reap unjust enrichment, and harm the public interest.
+
+21
+22
+
+THIS COURT’S POWER TO GRANT RELIEF
+51.
+
+Section 13(b) of the FTC Act, 15 U.S.C. § 53(b), empowers this
+‐ 19 ‐
+
+Case 2:12-cv-01365-SPL Document 1 Filed 06/26/12 Page 20 of 21
+
+1
+
+Court to grant injunctive and such other relief as the Court may deem appropriate
+
+2
+
+to halt and redress violations of any provision of law enforced by the FTC. The
+
+3
+
+Court, in the exercise of its equitable jurisdiction, may award ancillary relief,
+
+4
+
+including rescission or reformation of contracts, restitution, the refund of monies
+
+5
+
+paid, and the disgorgement of ill-gotten monies, to prevent and remedy any
+
+6
+
+violation of any provision of law enforced by the FTC.
+
+7
+
+PRAYER FOR RELIEF
+
+8
+
+Wherefore, Plaintiff FTC, pursuant to Section 13(b) of the FTC Act, 15
+
+9
+
+U.S.C. § 53(b), and the Court’s own equitable powers, requests that the Court:
+
+10
+11
+12
+
+A.
+
+Enter a permanent injunction to prevent future violations of the FTC
+
+Act by Defendants;
+B.
+
+Award such relief as the Court finds necessary to redress injury to
+
+13
+
+consumers resulting from Defendants’ violations of the FTC Act, including but not
+
+14
+
+limited to, rescission or reformation of contracts, restitution, the refund of monies
+
+15
+
+paid, and the disgorgement of ill-gotten monies; and
+
+16
+17
+
+C.
+
+Award Plaintiff the costs of bringing this action, as well as such
+
+other and additional relief as the Court may determine to be just and proper.
+
+18
+19
+20
+21
+22
+‐ 20 ‐
+
+Case 2:12-cv-01365-SPL Document 1 Filed 06/26/12 Page 21 of 21
+
+1
+
+Respectfully submitted,
+
+2
+
+Willard K. Tom
+General Counsel
+
+3
+Dated: June 26, 2012
+4
+5
+6
+7
+8
+9
+
+Kristin Krause Cohen
+Kevin H. Moriarty
+Katherine E. McCarron
+John A. Krebs
+Federal Trade Commission
+600 Pennsylvania Ave
+N.W. Mail Stop NJ-8100
+Washington, D.C. 20580
+Facsimile: (202) 326-3062
+E-mail: lschifferle@ftc.gov
+Telephone: (202) 326-3377
+
+10
+11
+
+Attorneys for Plaintiff
+Federal Trade Commission
+
+12
+13
+
+14
+15
+16
+17
+18
+19
+20
+21
+22
+- 21
+
+Case 2:12-cv-01365-SPL Document 1-1 Filed 06/26/12 Page 1 of 1
+
+EXHIBIT A
+
+Defendants’ Corporate Structure
+Wyndham Worldwide Corporation
+(Wyndham Worldwide)
+
+Wyndham Hotel Group
+(Hotel Group)
+
+Wyndham Hotels and Resorts
+(Hotels and Resorts)
+
+Wyndhambranded hotels
+under franchise
+agreements
+
+Wyndham Hotel Management
+(Hotel Management)
+
+Wyndham-branded
+hotels under
+management
+agreements
+
+Case 2:12-cv-01365-SPL Document 1-2 Filed 06/26/12 Page 1 of 4
+
+CIVIL COVER SHEET
+
+JS 44 (Rev. 09111)
+
+The JS 44 civil coversheetand the infonmtion contained herein neither replace nor suppletrent the filing and service of pleadngs or other papers as required by law. except as povided
+by local niles of court. This form, approved by the JudIcial Conference of the United States inSe ptember 1974, is required for the use of the Clerk ofCburt for the purpose of lIlitiating
+the civil docket sheet. (SEE INSTRUCTIONS ON NI;"),'?" PAGE OF 7H1S FORM)
+
+l. (a) PLA lNTIFF'S
+
+DEFENDANTS
+
+Federal Trade Commission
+
+Wyndham Worldwide Corporation; Wynd ham Hotel Group , LLC;
+Wyndham Hotels & Resorts, LLC; and Wyndham Hotel Management,
+Inc,
+
+(b) County of Residence of First Listed Plaintiff __ __ __ _ _ ____ _ _
+
+County of Residence of First Li sted Defendant
+
+(/;X CEPT IN II. S. PlAINT! />'1" CASES)
+
+NOTE:
+
+(c) Attorneys (Firm Name, Address. and Telephone Number)
+
+u.s. Government
+u.s. Government
+
+4
+
+Citizen of Anoti1er State
+
+0
+
+2
+
+0
+
+2
+
+Incorporated and Principal Place
+of Business In Anoth er State
+
+0
+
+Citizen or Su bject of a
+Forcinn Country
+
+0
+
+3
+
+0
+
+3
+
+Foreign Nation
+
+0
+
+PERSONAL INJlJRY
+625 Drug Rel ated Seizure
+of Property 21 US C 881
+0 365 Personallnjury 0690 Other
+Product Liability
+0 367 Health Carel
+Pharmaceutical
+Personallnjuty
+Product Liabi lity
+0 368 Asbestos Personal
+Injuty Product
+Liability
+I.A80R
+PERSONAL PROPERTY
+710 Fair Labor Standards
+370
+Other
+Fraud
+Act
+0
+720 LaborlMgmt. Re lations
+0 371 Truth in Lending
+740 Railway Labor Act
+0 380 Other Personal
+751 Fanlily and Medical
+Property Damage
+0 385 Property Danlage
+Leave Act
+Product Liability
+790 Other Labor Litigation
+791 EmpJ. Ret. Inc.
+PRISON1'lR PETI1'IONS
+Security Act
+0 5 10 Motions to Vacate
+Senten ce
+Habeas Corpus:
+0 530 Genera l
+II'<BUGRATJO/\
+0 535 Death Penalty
+0 540 Mandamus & Other
+462 Natural izanon Application
+0 550 Civil Rights
+463 Habeas Corpus 0 555 Prison Condit ion
+Alien Detainee
+(Prisoner Petition)
+0 560 Civil Detainee 465 Other Immigration
+Conditions of
+Confinement
+Actions
+
+o
+o
+
+Diversity
+(7ndicate Citizenship a/Parlies in Irem III)
+
+110 Insurance
+PERSONAL INJU RY
+3 10 Airp lane
+120 Marine
+3 15 Airplane Product
+130 Miller Act
+140 Negotiable Instrument
+Liability
+320 Assault, Libel &
+I 50 Recovety of Overpayment
+Slander
+& Enforcement of Judgment
+330 Federal Employers'
+lSI Medicare Act
+152 Recovety of Defaulted
+Liability
+0340 Marine
+Student Loans
+(Exd . Veterans)
+345 Marine Product
+Liability
+153 Recovery of Overpayment
+350 Motor Vehicle
+of Veteran 's Benefits
+355 Motor Vehicle
+160 Stockholders' Suits
+190 Other Contract
+Product Liability
+360 Other Personal
+195 Contract Product Liability
+Injury
+196 Franchise
+362 Personal Injury Med. M.lllftWIice
+R£AL PROPERn'
+CIVIL RICI1TS"
+440 Other Civil Ri ghts
+21 0 Land Condemnation
+0441 Voting
+220 Foreclosure
+230 Rent Lease & Ejeclment
+442 Employment
+443 Housi ng!
+240 Tons to Land
+Accommodations
+245 Ton Product Liability
+445 Anter. wlDisabi lities 290 All Other Real Property
+Employment
+446 Amer wlDisabilities Odler
+448 Education
+
+o
+
+o
+
+o
+o
+
+0
+0
+0
+0
+
+o
+o
+
+o
+o
+o
+o
+o
+o
+
+o
+
+o
+o
+o
+o
+
+o
+
+V. ORIGIN
+QJ: I
+
+Ori ginal
+Proceeding
+
+o
+
+"X" In One Box/or Plainlif!)
+and One Box ji)r Defendant)
+PTF
+DEF
+In corporated or Principal Place
+0
+4
+0 4
+of BUSiness In This State
+
+o
+
+o
+
+0
+
+III. CITIZENSHIP OF PRINCIPAL PARTIES (Place an
+
+3 Federal Question
+(US Guvernment NUl a Parry)
+
+o
+o
+
+0
+0
+
+One Box OnM
+
+(Place on "X"inOneBoxOnly)
+'FORTS
+
+-col'tnUCT
+0
+0
+0
+0
+0
+
+In
+
+o
+
+Defendant
+
+IV NATURE OF SUIT
+
+rPlace an "X "
+
+(l'or lJiversity Cases On!v)
+PTF
+Citizen of Th is State
+0 I
+
+Pl aintiff
+
+o
+
+IN LAND CONDEMNATION CASES, USE THE LOCATION OF
+THE TRACT OF LAND INVOLVED.
+
+See attachment.
+
+BASIS OF JURISDICTION
+
+():: I
+
+____.________.__
+
+Attorneys (l/Known)
+
+See attachment.
+
+n.
+
+EQf~kuL
+
+(IN U s. PlAINTIFF CAS£,:, ONLY)
+
+""
+
+FORJ'&rnTRFJPEJ'i.\ TV
+
+o
+
+o
+
+o
+o
+o
+
+DEF
+0 I
+
+i;~i~PR'()P.ER'J)\1>RJatt; Si;"';,*
+
+o 820 Copyrights
+o 830 Patent
+o 840 Trademark
+
+o
+o
+o
+o
+o
+
+0
+0
+0
+0
+
+0
+0
+0
+
+SOCJALSE( R!IT
+861 HI A (139511)
+862 Black Lung (923)
+863 DlWC/DlWW (405(g»
+864 SSI D Title XVI
+865 RSI (405(g»
+
+o
+o
+
+0
+0
+0
+
+M
+0
+0
+0
+0
+
+o
+o
+
+f'ED£RALTAX~UI~
+
+870 Taxes (U.S . Plaintiff
+or Defendant)
+871 IRS-Third Party
+26 USC 7609
+
+5
+
+0
+
+6
+
+Onl£Rsr.t·I'trn:~
+
+BAN KRUPTCY
+
+422 Appeal 28 USC 158
+423 Withdrawal
+28 USC 157
+
+6
+
+0
+
+0
+
+0
+
+375 False Claims Act
+400 State Reapportionment
+410 Antitrust
+430 Banks and Ballking
+450 Commerce
+460 Deportation
+470 Racketeer Influenced and
+Conupt Organizations
+480 Consumer Credit
+490 CableiSat TV
+850 Securiti esiCommoditiesi
+Exchange
+890 Other Statutoty Actions
+89 1 Agricultural Acts
+893 Environmental Matters
+895 Freedom of Infoon"tion
+Act
+896 Arbitration
+899 Admini strative Procedure
+Act/Review or Appeal of
+Agency Decision
+950 Constitutionality of
+State Statutes
+
+o
+o
+
+o
+
+Transferred from
+0 3 Remanded from
+0 4 Reinstated or 0
+another district
+0 6 Multidistrict
+State Court
+Appellate Court
+Reopened
+s eci
+Litigation
+Cite the U.S Civil Statute under which you arc filing (Do not citejurisdicti()nal stOfules unless diversify):
+
+(Place an "X" in One Box Only)
+
+2 Removed from
+
+VI. CAUSEOFACTION~15~U~.S~.C~.~~~~~~~~----------------------------------------------­
+Brief description of cause:
+
+Obtain relief under Section 5 of FTC Act due to Defs' failure to maintain reasonab le and a
+
+VII. REQUESTED IN
+COMPLAINT:
+
+o
+
+VIII. RELATED CASE(S)
+IF ANY
+DATE
+
+CHECK IF THIS IS A CLASS ACTION
+UNDER F.Rep 23
+(See mS(YlIc i/um):
+
+DEMAND $
+
+JUDGE
+
+DOCKET NUMB ER
+
+SIGNATURE OF ATrORNEY OF RECORD
+
+FOR OFFICE USE O NLY
+RECEI PT #
+
+AMOUNT
+
+APPLY!NG !F?
+
+ro riate data securit
+
+CHECK YES only if demanded in complaInt:
+,JUR Y DEMAND:
+0 Yes
+IX No
+
+JU DG E
+
+MAG. JUDGE
+
+Case 2:12-cv-01365-SPL Document 1-2 Filed 06/26/12 Page 2 of 4
+JS 44
+
+(Rey 09i! I)
+
+INSTRUCTIONS FOR ATTORNEYS COMPLETING CIVIL COVER SHEET FORM JS 44
+Authority For Civil Cover Sheet
+The 1S 44 civil cover sheet and the infonnation contained herein neither replaces nor supplerrents the filings and service of pleading or other papers as required
+by law,
+as provided by local rules of court. This torm, approved by the Judicial Conference of the United States in September 1974, is required for the
+of Court for the purpose of initiating the civil docket sheet. Consequently, a civil cover sheet is submitted to the Clerk of Court for each civil
+use of the
+complaint tiled. The attorney filing a case should complete the fonn as follows:
+I.
+(a) Plaintiffs-Defendants. Enter naIreS (last, first, middle initial) of plaintiff and defendant. If the plaintiff or defendant is a governrrent ageney. use only
+the full name or standard abbreviations. If the plaintiff or defendant is an official within a government agency, identify first the agency and then the official, giving
+both name and title.
+(b) County of Reside nee. For eaeh civil case filed, except U.S. plaintitr cases. enter the name of the county \vhcre the first listed plaintiff resides at the
+time of filing. In U.S. plaintitI cases. enter the uan1e of the county in whieh the first listed defendant resides at the time of fIling. (NOTE: In land condemnation
+cases. the county of residence of the "defendant" is the location of the tract ofland involyed.)
+(c) Attorneys. Enter the finn name, address. telephone number. and attorney of record. If there are several attorneys, list them on an attachment, noting
+in this section ""(see attachment)".
+Jurisdiction. The basis of jurisdiction is set forth under Rule 8(a), F.R.CP., which requires thatjurisdictions be shown in pleadings. Place an "X" in one
+II.
+of the boxes. If there is more than one basis of jurisdiction, precedence is given in the order shown below.
+United States plaintiff. (I) Jurisdiction based on 28 U.S.c. 1345 and 1348. Suits by agencies and offIcers of the United States are included here.
+United States defendant. (2) When the plaintiff is suing the United States, its officers or agencies, place an "X" in this box.
+Federal question. (3) This refers to suits under 28 USc. 1331, where jurisdicti on arises under the Constitution of the United States, an amendment to ilie
+Constitution, an act of Congress or a treaty of the United States. In cases where ilie U.S. is aparty, the U.S. plaintiff or defendant code takes precedence, and box
+1 or 2 should be marked.
+Diversity of citizenship. (4) This refers to suits under 28 U.S.c. 1332. where parties are citizens of different states. When Box 4 is checked, the citizenship of
+the different parties must be checked. (See Section III below; federal question actions take precedence OYer diversity cases.)
+III.
+Residence (eitizenship) of Principal Parties. This section of the JS 44 is to be completed if diver3ty of citizenship was indicated above. Mark this section
+for each principal party.
+IV.
+Nature of Suit. Place an "X' in the appropri ate box. If ilie nature of suit cannot be determined, be sure the cause of action, in Section VI below. is
+sufficient to enable the deputy clerk or the statistical clerks in the Administrative Office to detennine the nature of suit. If the cause fits more than one nature of
+suit, select ilie most definitive.
+V.
+
+Origin. Place an "X" in one of the seven boxes.
+
+Original Proceedings. (1) Cases which originate in ilie United States district courts.
+Removed from State Court. (2) Proceedings initiated in state courts may be removed to the district courts under Title 28U.S.C., Section 1441. When the petition
+for removal is granted, check this box.
+Remanded from Appellate Court. (3) Check this box for cases remanded to the district court for further action. Use the date of remand as the filing date.
+Reinstated or Reopened. (4) Check this box for cases reinstated or reopened in the district court. Use the reopening date as the filing date.
+Transferred from Another District. (5) For cases transferred under Title 28 U.S.C. Section 1404(a). Do not use this for within district transfers or multidistrict
+litigation transfers.
+Multidistrict Litigation. (6) Check this box when a multidistrict case is transferred into the district under authority of Title 28 U.S.c. Section 1407. When this
+box is checked, do not check (5) above.
+Appeal to District Judge from Magistrate Judgment. (7) Check this box for an appeal from a magistrate judge's decision.
+Cause of Action. Report the civil statute directly related to the cause of action and give a brief description of the cause Do not cite jurisdictionalstatutes
+VI.
+unless diversity.
+Example:
+U.S. Civil Statute: 47 USC 553
+Brief Description: Unauthorized reception of cable service
+VII.
+
+Requested in Complaint. Class Action. Place an "X" in this box if you are filing a class action under Rule 23, F.R.Cv.P.
+
+Demand. In this space enter the dollar amount (in thousands of dollars) being demanded or indicate other demand such as a preliminary injunction.
+Jury Demand. Check the appropriate box to indicate whether or not a jury is being demanded.
+VIII. Related Cases. This section of the JS 44 is used to reference related pending cases, if any. Ifthere are related pending cases, insert the docket numbers
+and the corresponding judge names for such cases.
+Date and Attorney Signature. Date and
+
+the civil cover sheet.
+
+Case 2:12-cv-01365-SPL Document 1-2 Filed 06/26/12 Page 3 of 4
+
+Attorneys of Record for Federal Trade Commission
+Lisa Weintraub Schifferle
+Federal Trade Commission
+600 Pennsylvania Avenue, NW
+Mail Stop NJ-8100
+Washington, DC 20580
+(202) 326-3377
+Kristin Krause Cohen
+Federal Trade Commission
+600 Pennsylvania Avenue, NW
+Mail Stop NJ-81 00
+Washington, DC 20580
+(202) 326-2276
+Kevin H. Moriarty
+Federal Trade Commission
+600 Pennsylvania Avenue, NW
+Mail Stop NJ-8100
+Washington, DC 20580
+(202) 326-2949
+Katherine E. McCarron
+Federal Trade Commission
+600 Pennsylvania A venue, NW
+Mail Stop NJ-8100
+Washington, DC 20580
+(202) 326-2333
+John A. Krebs
+Federal Trade Commission
+600 Pennsylvania Avenue, NW
+Mail Stop NJ-8100
+Washington, DC 20580
+(202) 326-2692
+
+Attorneys of Record for Wyndham Worldwide Corp., et al.
+Douglas H. Meal, Esq.
+Ropes & Gray LLP
+Prudential Tower
+800 Boylston Street
+Boston, MA 02199-3600
+(617) 951-7517
+
+Case 2:12-cv-01365-SPL Document 1-2 Filed 06/26/12 Page 4 of 4
+
+Lydia B. Parnes, Esq.
+Wilson Sonsini Goodrich & Rosati
+1700 K Street, NW
+Fifth Floor
+Washington, DC 20006
+(202) 973-8801
+Seth Silber, Esq.
+Wilson Sonsini Goodrich & Rosati
+1700 K Street, NW
+Fifth Floor
+Washington, DC 20006
+202-973-8824
+
+

@@ -1,0 +1,472 @@
+Case 2:13-cv-01887-ES-JAD Document 282-2 Filed 12/09/15 Page 1 of 116 PageID: 4879
+
+Appendix A
+
+Case 2:13-cv-01887-ES-JAD Document 282-2 Filed 12/09/15 Page 2 of 116 PageID: 4880
+
+Payment Card Industry (PCI)
+
+Data Security Standard
+
+Requirements and Security Assessment Procedures
+Version 3.1
+April 2015
+
+Case 2:13-cv-01887-ES-JAD Document 282-2 Filed 12/09/15 Page 4 of 116 PageID: 4882
+
+Table of Contents
+Document Changes ........................................................................................................................................................................... 2
+Introduction and PCI Data Security Standard Overview ................................................................................................................. 5
+PCI DSS Resources .................................................................................................................................................................................................... 6
+
+PCI DSS Applicability Information .................................................................................................................................................... 7
+Relationship between PCI DSS and PA-DSS.................................................................................................................................... 9
+Applicability of PCI DSS to PA-DSS Applications ....................................................................................................................................................... 9
+Applicability of PCI DSS to Payment Application Vendors .......................................................................................................................................... 9
+
+Scope of PCI DSS Requirements .................................................................................................................................................... 10
+Network Segmentation .............................................................................................................................................................................................. 11
+Wireless
+..................................................................................................................................................................................................... 11
+Use of Third-Party Service Providers / Outsourcing ................................................................................................................................................. 12
+
+Best Practices for Implementing PCI DSS into Business-as-Usual Processes ........................................................................... 13
+For Assessors: Sampling of Business Facilities/System Components ....................................................................................... 15
+Compensating Controls .................................................................................................................................................................. 16
+Instructions and Content for Report on Compliance .................................................................................................................... 17
+PCI DSS Assessment Process ........................................................................................................................................................ 17
+Detailed PCI DSS Requirements and Security Assessment Procedures ..................................................................................... 18
+Build and Maintain a Secure Network and Systems ............................................................................................................................................. 19
+Requirement 1: Install and maintain a firewall configuration to protect cardholder data ...................................................................................... 19
+Requirement 2: Do not use vendor-supplied defaults for system passwords and other security parameters ...................................................... 28
+Protect Cardholder Data .......................................................................................................................................................................................... 36
+Requirement 3: Protect stored cardholder data .................................................................................................................................................... 36
+Requirement 4: Encrypt transmission of cardholder data across open, public networks ..................................................................................... 46
+Maintain a Vulnerability Management Program .................................................................................................................................................... 49
+Requirement 5: Protect all systems against malware and regularly update anti-virus software or programs ...................................................... 49
+Requirement 6: Develop and maintain secure systems and applications ............................................................................................................ 52
+Implement Strong Access Control Measures ........................................................................................................................................................ 64
+Requirement 7: Restrict access to cardholder data by business need to know ................................................................................................... 64
+Requirement 8: Identify and authenticate access to system components ............................................................................................................ 67
+Payment Card Industry (PCI) Data Security Standard, v3.1
+© 2006-2015 PCI Security Standards Council, LLC. All Rights Reserved.
+
+Page 3
+April 2015
+
+Case 2:13-cv-01887-ES-JAD Document 282-2 Filed 12/09/15 Page 5 of 116 PageID: 4883
+
+Requirement 9:
+
+Restrict physical access to cardholder data ................................................................................................................................ 76
+
+Regularly Monitor and Test Networks .................................................................................................................................................................... 85
+Requirement 10: Track and monitor all access to network resources and cardholder data ................................................................................... 85
+Requirement 11: Regularly test security systems and processes. ......................................................................................................................... 92
+Maintain an Information Security Policy .............................................................................................................................................................. 100
+Requirement 12: Maintain a policy that addresses information security for all personnel. ..................................................................................... 100
+
+Appendix A:
+
+Additional PCI DSS Requirements for Shared Hosting Providers ................................................................. 110
+
+Requirement A.1: Shared hosting providers must protect the cardholder data environment ................................................................................. 110
+
+Appendix B:
+
+Compensating Controls .................................................................................................................................... 112
+
+Appendix C:
+
+Compensating Controls Worksheet................................................................................................................. 113
+
+Appendix D:
+
+Segmentation and Sampling of Business Facilities/System Components ................................................... 115
+
+Payment Card Industry (PCI) Data Security Standard, v3.1
+© 2006-2015 PCI Security Standards Council, LLC. All Rights Reserved.
+
+Page 4
+April 2015
+
+Case 2:13-cv-01887-ES-JAD Document 282-2 Filed 12/09/15 Page 10 of 116 PageID: 4888
+
+Relationship between PCI DSS and PA-DSS
+Applicability of PCI DSS to PA-DSS Applications
+Use of a Payment Application Data Security Standard (PA-DSS) compliant application by itself does not make an entity PCI DSS compliant, since
+that application must be implemented into a PCI DSS compliant environment and according to the PA-DSS Implementation Guide provided by the
+payment application vendor.
+All applications that store, process, or transmit cardholder data are in scope for an entity’s PCI DSS assessment, including applications that have
+been validated to PA-DSS. The PCI DSS assessment should verify the PA-DSS validated payment application is properly configured and securely
+implemented per PCI DSS requirements. If the payment application has undergone any customization, a more in-depth review will be required
+during the PCI DSS assessment, as the application may no longer be representative of the version that was validated to PA-DSS.
+The PA-DSS requirements are derived from the PCI DSS Requirements and Security Assessment Procedures (defined in this document). The
+PA-DSS details the requirements a payment application must meet in order to facilitate a customer’s PCI DSS compliance.
+Secure payment applications, when implemented in a PCI DSS-compliant environment, will minimize the potential for security breaches leading to
+compromises of PAN, full track data, card verification codes and values (CAV2, CID, CVC2, CVV2), and PINs and PIN blocks, along with the
+damaging fraud resulting from these breaches.
+To determine whether PA-DSS applies to a given payment application, please refer to the PA-DSS Program Guide, which can be found at
+www.pcisecuritystandards.org.
+
+Applicability of PCI DSS to Payment Application Vendors
+PCI DSS may apply to payment application vendors if the vendor stores, processes, or transmits cardholder data, or has access to their
+customers’ cardholder data (for example, in the role of a service provider).
+
+Payment Card Industry (PCI) Data Security Standard, v3.1
+© 2006-2015 PCI Security Standards Council, LLC. All Rights Reserved.
+
+Page 9
+April 2015
+
+Case 2:13-cv-01887-ES-JAD Document 282-2 Filed 12/09/15 Page 11 of 116 PageID: 4889
+
+Scope of PCI DSS Requirements
+The PCI DSS security requirements apply to all system components included in or connected to the cardholder data environment. The cardholder
+data environment (CDE) is comprised of people, processes and technologies that store, process , or transmit cardholder data or sensitive
+authentication data. “System components” include network devices, servers, computing devices, and applications. Examples of system
+components include but are not limited to the following:
+
+
+Systems that provide security services (for example, authentication servers), facilitate segmentation (for example, internal firewalls), or
+may impact the security of (for example, name resolution or web redirection servers) the CDE.
+
+
+
+Virtualization components such as virtual machines, virtual switches/routers, virtual appliances, virtual applications/desktops, and
+hypervisors.
+
+
+
+Network components including but not limited to firewalls, switches, routers, wireless access points, network appliances, and other
+security appliances.
+
+
+
+Server types including but not limited to web, application, database, authentication, mail, proxy, Network Time Protocol (NTP), and
+Domain Name System (DNS).
+
+
+
+Applications including all purchased and custom applications, including internal and external (for example, Internet) applications.
+
+
+
+Any other component or device located within or connected to the CDE.
+
+The first step of a PCI DSS assessment is to accurately determine the scope of the review. At least annually and prior to the annual assessment,
+the assessed entity should confirm the accuracy of their PCI DSS scope by identifying all locations and flows of cardholder data, and identify all
+systems that are connected to or, if compromised, could impact the CDE (for example, authentication servers) to ensure they are included in the
+PCI DSS scope.
+To confirm the accuracy of the defined CDE, perform the following:
+
+
+The assessed entity identifies and documents the existence of all cardholder data in their environment, to verify that no cardholder data
+exists outside of the currently defined CDE.
+
+
+
+Once all locations of cardholder data are identified and documented, the entity uses the results to verify that PCI DSS scope is appropriate
+(for example, the results may be a diagram or an inventory of cardholder data locations).
+
+
+
+The entity considers any cardholder data found to be in scope of the PCI DSS assessment and part of the CDE. If the entity identifies data
+that is not currently included in the CDE, such data should be securely deleted, migrated into the currently defined CDE, or the CDE
+redefined to include this data.
+
+The entity retains documentation that shows how PCI DSS scope was determined. The documentation is retained for assessor review and/or for
+reference during the next annual PCI DSS scope confirmation activity.
+For each PCI DSS assessment, the assessor is required to validate that the scope of the assessment is accurately defined and documented.
+
+Payment Card Industry (PCI) Data Security Standard, v3.1
+© 2006-2015 PCI Security Standards Council, LLC. All Rights Reserved.
+
+Page 10
+April 2015
+
+Case 2:13-cv-01887-ES-JAD Document 282-2 Filed 12/09/15 Page 12 of 116 PageID: 4890
+
+Network Segmentation
+Network segmentation of, or isolating (segmenting), the cardholder data environment from the remainder of an entity’s network is not a PCI DSS
+requirement. However, it is strongly recommended as a method that may reduce:
+
+
+The scope of the PCI DSS assessment
+
+
+
+The cost of the PCI DSS assessment
+
+
+
+The cost and difficulty of implementing and maintaining PCI DSS controls
+
+
+
+The risk to an organization (reduced by consolidating cardholder data into fewer, more controlled locations)
+
+Without adequate network segmentation (sometimes called a "flat network") the entire network is in scope of the PCI DSS assessment. Network
+segmentation can be achieved through a number of physical or logical means, such as properly configured internal network firewalls, routers with
+strong access control lists, or other technologies that restrict access to a particular segment of a network. To be considered out of scope for PCI
+DSS, a system component must be properly isolated (segmented) from the CDE, such that even if the out-of-scope system component was
+compromised it could not impact the security of the CDE.
+An important prerequisite to reduce the scope of the cardholder data environment is a clear understanding of business needs and processes
+related to the storage, processing or transmission of cardholder data. Restricting cardholder data to as few locations as possible by elimination of
+unnecessary data, and consolidation of necessary data, may require reengineering of long-standing business practices.
+Documenting cardholder data flows via a dataflow diagram helps fully understand all cardholder data flows and ensures that any network
+segmentation is effective at isolating the cardholder data environment.
+If network segmentation is in place and being used to reduce the scope of the PCI DSS assessment, the assessor must verify that the
+segmentation is adequate to reduce the scope of the assessment. At a high level, adequate network segmentation isolates systems that store,
+process, or transmit cardholder data from those that do not. However, the adequacy of a specific implementation of network segmentation is highly
+variable and dependent upon a number of factors, such as a given network's configuration, the technologies deployed, and other controls that may
+be implemented.
+Appendix D: Segmentation and Sampling of Business Facilities/System Components provides more information on the effect of network
+segmentation and sampling on the scope of a PCI DSS assessment.
+
+Wireless
+If wireless technology is used to store, process, or transmit cardholder data (for example, point-of-sale transactions, “line-busting”), or if a wireless
+local area network (WLAN) is part of, or connected to the cardholder data environment, the PCI DSS requirements and testing procedures for
+wireless environments apply and must be performed (for example, Requirements 1.2.3, 2.1.1, and 4.1.1). Before wireless technology is
+implemented, an entity should carefully evaluate the need for the technology against the risk. Consider deploying wireless technology only for nonsensitive data transmission.
+
+Payment Card Industry (PCI) Data Security Standard, v3.1
+© 2006-2015 PCI Security Standards Council, LLC. All Rights Reserved.
+
+Page 11
+April 2015
+
+Case 2:13-cv-01887-ES-JAD Document 282-2 Filed 12/09/15 Page 13 of 116 PageID: 4891
+
+Use of Third-Party Service Providers / Outsourcing
+A service provider or merchant may use a third-party service provider to store, process, or transmit cardholder data on their behalf, or to manage
+components such as routers, firewalls, databases, physical security, and/or servers. If so, there may be an impact on the security of the cardholder
+data environment.
+Parties should clearly identify the services and system components which are included in the scope of the service provider’s PCI DSS
+assessment, the specific PCI DSS requirements covered by the service provider, and any requirements which are the responsibility of the service
+provider’s customers to include in their own PCI DSS reviews. For example, a managed hosting provider should clearly define which of their IP
+addresses are scanned as part of their quarterly vulnerability scan process and which IP addresses are their customer’s responsibility to include in
+their own quarterly scans.
+Service providers are responsible for demonstrating their PCI DSS compliance, and may be required to do so by the payment brands. Service
+providers should contact their acquirer and/or payment brand to determine the appropriate compliance validation.
+There are two options for third-party service providers to validate compliance:
+1) Annual assessment: Service providers can undergo an annual PCI DSS assessment(s) on their own and provide evidence to their
+customers to demonstrate their compliance; or
+2) Multiple, on-demand assessments: If they do not undergo their own annual PCI DSS assessments, service providers must undergo
+assessments upon request of their customers and/or participate in each of their customer’s PCI DSS reviews, with the results of each
+review provided to the respective customer(s)
+If the third party undergoes their own PCI DSS assessment, they should provide sufficient evidence to their customers to verify that the scope of
+the service provider’s PCI DSS assessment covered the services applicable to the customer and that the relevant PCI DSS requirements were
+examined and determined to be in place. The specific type of evidence provided by the service provider to their customers will depend on the
+agreements/contracts in place between those parties. For example, providing the AOC and/or relevant sections of the service provider’s ROC
+(redacted to protect any confidential information) could help provide all or some of the information.
+Additionally, merchants and service providers must manage and monitor the PCI DSS compliance of all associated third-party service providers
+with access to cardholder data. Refer to Requirement 12.8 in this document for details.
+
+Payment Card Industry (PCI) Data Security Standard, v3.1
+© 2006-2015 PCI Security Standards Council, LLC. All Rights Reserved.
+
+Page 12
+April 2015
+
+Case 2:13-cv-01887-ES-JAD Document 282-2 Filed 12/09/15 Page 14 of 116 PageID: 4892
+
+Best Practices for Implementing PCI DSS into Business-as-Usual Processes
+To ensure security controls continue to be properly implemented, PCI DSS should be implemented into business-as-usual (BAU) activities as part
+of an entity’s overall security strategy. This enables an entity to monitor the effectiveness of their security controls on an ongoing basis, and
+maintain their PCI DSS compliant environment in between PCI DSS assessments. Examples of how to incorporate PCI DSS into BAU activities
+include but are not limited to:
+1. Monitoring of security controls—such as firewalls, intrusion-detection systems/intrusion-prevention systems (IDS/IPS), file-integrity
+monitoring (FIM), anti-virus, access controls, etc.—to ensure they are operating effectively and as intended.
+2. Ensuring that all failures in security controls are detected and responded to in a timely manner. Processes to respond to security control
+failures should include:
+
+
+Restoring the security control
+
+
+
+Identifying the cause of failure
+
+
+
+Identifying and addressing any security issues that arose during the failure of the security control
+
+
+
+Implementing mitigation (such as process or technical controls) to prevent the cause of the failure recurring
+
+
+
+Resuming monitoring of the security control, perhaps with enhanced monitoring for a period of time, to verify the control is operating
+effectively
+
+3. Reviewing changes to the environment (for example, addition of new systems, changes in system or network configurations) prior to
+completion of the change, and perform the following:
+
+
+Determine the potential impact to PCI DSS scope (for example, a new firewall rule that permits connectivity between a system in the
+CDE and another system could bring additional systems or networks into scope for PCI DSS).
+
+
+
+Identify PCI DSS requirements applicable to systems and networks affected by the changes (for example, if a new system is in scope
+for PCI DSS, it would need to be configured per system configuration standards, including FIM, AV, patches, audit logging, etc., and
+would need to be added to the quarterly vulnerability scan schedule).
+
+
+
+Update PCI DSS scope and implement security controls as appropriate.
+
+4. Changes to organizational structure (for example, a company merger or acquisition) resulting in formal review of the impact to PCI DSS
+scope and requirements.
+5. Performing periodic reviews and communications to confirm that PCI DSS requirements continue to be in place and personnel are following
+secure processes. These periodic reviews should cover all facilities and locations, including retail outlets, data centers, etc., and include
+reviewing system components (or samples of system components), to verify that PCI DSS requirements continue to be in place—for
+example, configuration standards have been applied, patches and AV are up to date, audit logs are being reviewed, and so on. The
+frequency of periodic reviews should be determined by the entity as appropriate for the size and complexity of their environment.
+These reviews can also be used to verify that appropriate evidence is being maintained—for example, audit logs, vulnerability scan reports,
+firewall reviews, etc.—to assist the entity’s preparation for their next compliance assessment.
+Payment Card Industry (PCI) Data Security Standard, v3.1
+© 2006-2015 PCI Security Standards Council, LLC. All Rights Reserved.
+
+Page 13
+April 2015
+
+Case 2:13-cv-01887-ES-JAD Document 282-2 Filed 12/09/15 Page 16 of 116 PageID: 4894
+
+For Assessors: Sampling of Business Facilities/System Components
+Sampling is an option for assessors to facilitate the assessment process where there are large numbers of business facilities and/or system
+components.
+While it is acceptable for an assessor to sample business facilities/system components as part of their review of an entity’s PCI DSS compliance, it
+is not acceptable for an entity to apply PCI DSS requirements to only a sample of their environment (for example, requirements for quarterly
+vulnerability scans apply to all system components). Similarly, it is not acceptable for an assessor to only review a sample of PCI DSS
+requirements for compliance.
+After considering the overall scope and complexity of the environment being assessed, the assessor may independently select representative
+samples of business facilities/system components in order to assess the entity’s compliance with PCI DSS requirements. These samples must be
+defined first for business facilities and then for system components within each selected business facility. Samples must be a representative
+selection of all of the types and locations of business facilities, as well as all of the types of system components within selected business facilities.
+Samples must be sufficiently large to provide the assessor with assurance that controls are implemented as expected.
+Examples of business facilities include but are not limited to: corporate offices, stores, franchise locations, processing facilities, data centers, and
+other facility types in different locations. Sampling should include system components within each selected business facility. For example, for each
+business facility selected, include a variety of operating systems, functions, and applications that are applicable to the area under review.
+As an example, the assessor may define a sample at a business facility to include Sun servers running Apache, Windows servers running Oracle,
+mainframe systems running legacy card processing applications, data-transfer servers running HP-UX, and Linux Servers running MySQL. If all
+applications run from a single version of an OS (for example, Windows 7 or Solaris 10), the sample should still include a variety of applications (for
+example, database servers, web servers, data-transfer servers).
+When independently selecting samples of business facilities/system components, assessors should consider the following:
+
+
+If there are standardized, centralized PCI DSS security and operational processes and controls in place that ensure consistency and that
+each business facility/system component must follow, the sample can be smaller than if there are no standard processes/controls in place.
+The sample must be large enough to provide the assessor with reasonable assurance that all business facilities/system components are
+configured per the standard processes. The assessor must verify that the standardized, centralized controls are implemented and working
+effectively.
+
+
+
+If there is more than one type of standard security and/or operational process in place (for example, for different types of business
+facilities/system components), the sample must be large enough to include business facilities/system components secured with each type
+of process.
+
+
+
+If there are no standard PCI DSS processes/controls in place and each business facility/system component is managed through nonstandard processes, the sample must be larger for the assessor to be assured that each business facility/system component has
+implemented PCI DSS requirements appropriately.
+
+Payment Card Industry (PCI) Data Security Standard, v3.1
+© 2006-2015 PCI Security Standards Council, LLC. All Rights Reserved.
+
+Page 15
+April 2015
+
+Case 2:13-cv-01887-ES-JAD Document 282-2 Filed 12/09/15 Page 18 of 116 PageID: 4896
+
+Instructions and Content for Report on Compliance
+Instructions and content for the Report on Compliance (ROC) are now provided in the PCI DSS ROC Reporting Template.
+The PCI DSS ROC Reporting Template must be used as the template for creating the Report on Compliance. The assessed entity should follow
+each payment brand’s respective reporting requirements to ensure each payment brand acknowledges the entity’s compliance status. Contact
+each payment brand or the acquirer to determine reporting requirements and instructions.
+
+PCI DSS Assessment Process
+1. Confirm the scope of the PCI DSS assessment.
+2. Perform the PCI DSS assessment of the environment, following the testing procedures for each requirement.
+3. Complete the applicable report for the assessment (i.e., Self-Assessment Questionnaire (SAQ) or Report on Compliance (ROC)),
+including documentation of all compensating controls, according to the applicable PCI guidance and instructions.
+4. Complete the Attestation of Compliance for Service Providers or Merchants, as applicable, in its entirety. Attestations of Compliance are
+available on the PCI SSC website.
+5. Submit the SAQ or ROC, and the Attestation of Compliance, along with any other requested documentation—such as ASV scan reports—
+to the acquirer (for merchants) or to the payment brand or other requester (for service providers).
+6. If required, perform remediation to address requirements that are not in place, and provide an updated report.
+
+Payment Card Industry (PCI) Data Security Standard, v3.1
+© 2006-2015 PCI Security Standards Council, LLC. All Rights Reserved.
+
+Page 17
+April 2015
+
+Case 2:13-cv-01887-ES-JAD Document 282-2 Filed 12/09/15 Page 113 of 116 PageID: 4991
+
+Appendix B: Compensating Controls
+Compensating controls may be considered for most PCI DSS requirements when an entity cannot meet a
+requirement explicitly as stated, due to legitimate technical or documented business constraints, but has
+sufficiently mitigated the risk associated with the requirement through implementation of other, or
+compensating, controls.
+Compensating controls must satisfy the following criteria:
+1. Meet the intent and rigor of the original PCI DSS requirement.
+2. Provide a similar level of defense as the original PCI DSS requirement, such that the compensating
+control sufficiently offsets the risk that the original PCI DSS requirement was designed to defend
+against. (See Navigating PCI DSS for the intent of each PCI DSS requirement.)
+3. Be “above and beyond” other PCI DSS requirements. (Simply being in compliance with other PCI
+DSS requirements is not a compensating control.)
+When evaluating “above and beyond” for compensating controls, consider the following:
+Note: The items at a) through c) below are intended as examples only. All compensating controls must be
+reviewed and validated for sufficiency by the assessor who conducts the PCI DSS review. The
+effectiveness of a compensating control is dependent on the specifics of the environment in which the
+control is implemented, the surrounding security controls, and the configuration of the control. Companies
+should be aware that a particular compensating control will not be effective in all environments.
+a) Existing PCI DSS requirements CANNOT be considered as compensating controls if they are
+already required for the item under review. For example, passwords for non-console
+administrative access must be sent encrypted to mitigate the risk of intercepting clear-text
+administrative passwords. An entity cannot use other PCI DSS password requirements (intruder
+lockout, complex passwords, etc.) to compensate for lack of encrypted passwords, since those
+other password requirements do not mitigate the risk of interception of clear-text passwords. Also,
+the other password controls are already PCI DSS requirements for the item under review
+(passwords).
+b) Existing PCI DSS requirements MAY be considered as compensating controls if they are required
+for another area, but are not required for the item under review. For example, two-factor
+authentication is a PCI DSS requirement for remote access. Two-factor authentication from within
+the internal network can also be considered as a compensating control for non-console
+administrative access when transmission of encrypted passwords cannot be supported. Twofactor authentication may be an acceptable compensating control if: (1) it meets the intent of the
+original requirement by addressing the risk of intercepting clear-text administrative passwords;
+and (2) it is set up properly and in a secure environment.
+c) Existing PCI DSS requirements may be combined with new controls to become a compensating
+control. For example, if a company is unable to render cardholder data unreadable per
+Requirement 3.4 (for example, by encryption), a compensating control could consist of a device
+or combination of devices, applications, and controls that address all of the following: (1) internal
+network segmentation; (2) IP address or MAC address filtering; and (3) two-factor authentication
+from within the internal network.
+4. Be commensurate with the additional risk imposed by not adhering to the PCI DSS requirement
+The assessor is required to thoroughly evaluate compensating controls during each annual PCI DSS
+assessment to validate that each compensating control adequately addresses the risk the original PCI
+DSS requirement was designed to address, per items 1-4 above. To maintain compliance, processes and
+controls must be in place to ensure compensating controls remain effective after the assessment is
+complete.
+Payment Card Industry (PCI) Data Security Standard, v3.1
+© 2006-2015 PCI Security Standards Council, LLC. All Rights Reserved.
+
+April 2015
+Page 112
+
+Case 2:13-cv-01887-ES-JAD Document 282-2 Filed 12/09/15 Page 116 of 116 PageID: 4994
+
+Appendix D: Segmentation and Sampling of Business Facilities/System
+Components
+
+Payment Card Industry (PCI) Data Security Standard, v3.1
+© 2006-2015 PCI Security Standards Council, LLC. All Rights Reserved.
+
+Page 115
+April 2015
+
+

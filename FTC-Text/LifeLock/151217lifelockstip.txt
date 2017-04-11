@@ -1,0 +1,606 @@
+Case 2:10-cv-00530-JJT Document 64-1 Filed 12/17/15 Page 1 of 16
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF ARIZONA
+
+Federal Trade Commission,
+Plaintiff,
+v.
+
+No. CV-10-00530-PHX-JJT
+[PROPOSED]
+
+LifeLock, Inc., et al.,
+Defendants.
+
+STIPULATED ORDER RESOLVING FTC’S
+ALLEGATIONS OF CONTEMPT AND
+MODIFYING STIPULATED FINAL
+JUDGMENT AND ORDER FOR
+PERMANENT INJUNCTION
+
+Plaintiff Federal Trade Commission (“FTC” or “Commission”) and defendant LifeLock,
+Inc. (“LifeLock”) settle and resolve all matters in dispute arising from the FTC’s Contempt
+action initiated against LifeLock on July 21, 2015 (DE #20), and pursuant to Federal Rule of
+Civil Procedure 60(b), to modify this Court’s March 15, 2010 Stipulated Final Judgment and
+Order for Permanent Injunction and Other Equitable Relief (DE #9) (“Permanent Injunction”).
+FINDINGS
+1.
+
+This Court entered the Permanent Injunction enjoining LifeLock from, inter alia,
+
+“misrepresenting in any manner, expressly or by implication, the means, methods, procedures,
+effects, effectiveness, coverage, or scope” of its identity theft protection service (Section I.A.5);
+2.
+
+The Permanent Injunction enjoins LifeLock from “misrepresenting in any
+
+manner, expressly or by implication, the manner or extent to which they maintain and protect the
+privacy, confidentiality, or security of any personal information collected from or about
+consumers” (Section I.B.);
+-1-
+
+Case 2:10-cv-00530-JJT Document 64-1 Filed 12/17/15 Page 2 of 16
+
+3.
+
+The Permanent Injunction requires LifeLock to “establish and implement, and
+
+thereafter maintain, a comprehensive information security program” (Section II);
+4.
+
+The Permanent Injunction further requires LifeLock to create and retain “[a]ll
+
+records and documents necessary to determine full compliance with each provision” of the
+Permanent Injunction (Section VIII.A.7);
+5.
+
+On July 21, 2015, the Commission alleged that LifeLock violated the Permanent
+
+Injunction by: (a) failing to establish and maintain a comprehensive information security
+program to protect its users’ sensitive personal data, including credit card, social security, and
+bank account numbers; (b) falsely advertising that it protected consumers’ sensitive data with the
+same high-level safeguards as financial institutions; (c) failing to meet the Permanent
+Injunction’s recordkeeping requirements; and (d) falsely claiming it protected consumers’
+identity 24/7/365 by providing alerts “as soon as” it received any indication there was a problem;
+6.
+
+LifeLock neither admits nor denies the allegations identified in Paragraph 5
+
+7.
+
+These findings constitute an appropriate change in circumstances to warrant
+
+above;
+
+modifying Sections VI through IX of the Permanent Injunction pursuant to Rule 60(b) of the
+Federal Rules of Civil Procedure; and
+8.
+
+The parties have agreed to settle the Commission’s allegations with the entry of
+
+this Order.
+
+-2-
+
+Case 2:10-cv-00530-JJT Document 64-1 Filed 12/17/15 Page 3 of 16
+
+DEFINITIONS
+1.
+
+“Affected Consumer(s)” means any person(s) who has subscribed to any
+
+LifeLock fee-based identity theft protection service, and could assert a claim arising from the
+types of violations alleged in Paragraph 5 of the Findings, excluding: LifeLock; any parent,
+subsidiary, affiliate, or controlled person of LifeLock; the officers, directors, agents, employees
+of LifeLock; any counsel in the Covered Class Action; and any judge or court staff presiding
+over the Covered Class Action or this action.
+2.
+
+“Covered Class Action” means Napoleon Ebarle et al. v. LifeLock, Inc., No. 3:15-
+
+cv-258 (N.D. Cal. filed Jan. 19, 2015).
+3.
+
+“Money Received” means money paid as restitution by LifeLock to Affected
+
+Consumers by check, charge-back, or other transfer of funds, to the extent:
+a.
+
+Such money was issued by LifeLock pursuant to settlement: (i) of the
+Covered Class Action, or (ii) with any State Attorney General’s Office
+entered within four (4) months from the date of this Order;
+
+b.
+
+Either: (i) a credit card company, bank, or other financial institution has
+credited the Affected Consumer’s financial account with such money, or
+(ii) any such check has been cashed by the Affected Consumer; and
+
+c.
+
+Consumer information involved in payment of such money is handled in a
+manner that is consistent with the Commission’s privacy and data security
+standards, policies, and practices.
+
+For the purpose of clarification, Money Received shall not include any
+administrative fees, attorneys’ fees, or any other amount not directly issued to an
+Affected Consumer, or any coupons, credits, or other consideration applicable
+
+-3-
+
+Case 2:10-cv-00530-JJT Document 64-1 Filed 12/17/15 Page 4 of 16
+
+towards the purchase of products or services offered by LifeLock or any other
+entity.
+ORDER
+I.
+
+PERMANENT INJUNCTION
+
+IT IS ORDERED that the Permanent Injunction shall remain in full force and effect
+except Sections VI through IX of the Permanent Injunction as to LifeLock, which are replaced
+with Sections V through VIII below.
+II.
+
+MONETARY JUDGMENT AND CONSUMER REDRESS
+
+IT IS FURTHER ORDERED that:
+A.
+
+Judgment in the amount of One Hundred Million Dollars ($100,000,000) is
+
+entered in favor of the Commission against LifeLock as equitable monetary relief.
+B.
+
+LifeLock shall satisfy the judgment as follows:
+1.
+
+Pursuant to L.R. Civ. 67.1 and Fed. R. Civ. P. 67, LifeLock shall: (a)
+deposit One Hundred Million Dollars ($100,000,000) (“Settlement
+Funds”) into the Court’s Registry within five (5) business days of entry of
+this Order to be held in escrow for the sole purpose of distributing the
+funds in accordance with this Order, and (b) comply fully with all of its
+obligations under Section II of this Order. LifeLock is hereby authorized
+to deposit One Hundred Million Dollars ($100,000,000) into the Court’s
+Registry.
+
+2.
+
+If LifeLock fails to comply with Section II.B.1(a), the judgment amount of
+One Hundred Million Dollars ($100,000,000) shall become immediately
+due and payable to the Commission, and LifeLock shall not have any right
+
+-4-
+
+Case 2:10-cv-00530-JJT Document 64-1 Filed 12/17/15 Page 5 of 16
+
+to any credit, offset, or any other reimbursement for any Money Received
+by Affected Consumers as provided in this Order.
+C.
+
+The Settlement Funds shall include any interest that the funds accrue while in the
+
+Court’s Registry, minus costs pursuant to L.R. Civ. 67.1.
+D.
+
+The Settlement Funds shall be disbursed by motions pursuant to this Section II, if
+
+both of the following conditions are met: (1) LifeLock acts expeditiously to obtain final court
+approval of the settlement agreement in the Covered Class Action; and (2) all such motions are
+filed by the earlier of eighteen (18) months from the date of this Order or two hundred seventy
+(270) days from the date of final court approval of the settlement agreement in the Covered Class
+Action.
+E.
+
+Subject to Section II.D, LifeLock may use up to Sixty Eight Million Dollars
+
+($68,000,000) of the Settlement Funds to fund an escrow account established in the Covered
+Class Action if all of the following conditions are met:
+1.
+
+LifeLock has obtained preliminary court approval of the settlement
+agreement in the Covered Class Action; and
+
+2.
+
+The agreement governing the escrow fund ensures that:
+i.
+
+All payments from the escrow account are issued directly to
+Affected Consumers for the sole purpose of providing consumer
+redress;
+
+ii.
+
+All payments from the escrow account either become Money
+Received by Affected Consumers within one hundred twenty (120)
+days of such payment or are returned immediately to the escrow
+account;
+
+-5-
+
+Case 2:10-cv-00530-JJT Document 64-1 Filed 12/17/15 Page 6 of 16
+
+iii.
+
+The escrow account transfers all remaining funds, including any
+interest that has accrued in the escrow account, to the Commission
+after the expiration of the deadline for motions in Section II.D.2;
+and
+
+iv.
+
+As many Affected Consumers as reasonably practicable receive
+payments from the escrow fund.
+
+F.
+
+If an agreement governing an escrow account funded pursuant to Section II.E
+
+ceases to comply with any of the criteria in Section II.E.2, or such escrow account ceases to be
+administered in compliance with all of the criteria in Section II.E.2, LifeLock shall immediately:
+(1) deposit into the Court’s Registry as Settlement Funds the amount of money in the escrow
+fund immediately prior to such non-compliance, or if the Settlement Funds have already been
+transferred by the Court to the Commission under Section II.J, (2) pay such amount directly to
+the Commission.
+G.
+
+Subject to Sections II.D and H through M, LifeLock shall have a right to the
+
+amount of Settlement Funds remaining in the Court’s Registry equal to: (1) Money Received by
+Affected Consumers, other than such Money Received that was paid out of an escrow account
+funded under Section II.D and compliant with Section II.D.2 at the time of issuance of payment
+to the Affected Consumer, plus (2) the interest accrued on such amount specified in subsection
+(1) while in the Court’s Registry.
+H.
+
+LifeLock shall have a right to seek disbursement of the funds identified in Section
+
+II.G by motion in up to three (3) installments.
+I.
+
+Under no circumstances shall LifeLock receive more than one (1) disbursement
+
+from the Settlement Funds for each payment of Money Received by Affected Consumers.
+
+-6-
+
+Case 2:10-cv-00530-JJT Document 64-1 Filed 12/17/15 Page 7 of 16
+
+J.
+
+The Commission shall be entitled to all remaining Settlement Funds in the Court’s
+
+Registry: (1) upon the Court’s resolution of all motions timely filed under this Section II, or if
+no such timely filed motion is pending, (2) upon the expiration of the deadline for motions in
+Section II.D.2.
+K.
+
+If any portion of the Money Received by Affected Consumers for which LifeLock
+
+received disbursement from the Settlement Funds is returned to LifeLock, LifeLock shall remit
+such portion to the Commission within ten (10) business days.
+L.
+
+All money paid to the Commission pursuant to this Order may be deposited into a
+
+fund administered by the Commission or its designee to be used for equitable relief, including
+consumer redress and any attendant expenses for the administration of any redress fund. If a
+representative of the Commission decides that direct redress to consumers is wholly or partially
+impracticable or money remains after redress is completed, the Commission may apply any
+remaining money for such other equitable relief (including consumer information remedies) as it
+determines to be reasonably related to LifeLock’s practices as set forth in this Order. Any
+money not used for such equitable relief is to be deposited to the U.S. Treasury as disgorgement.
+LifeLock has no right to challenge any actions the Commission or its representatives may take
+pursuant to this Subsection.
+M.
+
+LifeLock relinquishes dominion and all legal and equitable right, title, and interest
+
+in all assets transferred to the Court’s Registry or to the Commission pursuant to this Order,
+except as specified in Sections II.D through II.J.
+N.
+
+Lifelock warrants and represents that as of the date it executes this Order, after
+
+giving effect to Section II, Lifelock will not: (1) be insolvent (either because its financial
+condition is such that the sum of its debts is greater than the fair market value of its assets or
+
+-7-
+
+Case 2:10-cv-00530-JJT Document 64-1 Filed 12/17/15 Page 8 of 16
+
+because the fair saleable value of its assets is less than the amount required to pay its probable
+liabilities on its existing debts as they mature); (2) have unreasonably small capital with which to
+engage in its business; or (3) have incurred debts beyond its ability to pay as they become due.
+O.
+
+LifeLock acknowledges that its Taxpayer Identification Numbers which it
+
+previously submitted to the Commission may be used for collecting and reporting any delinquent
+amount arising out of this Order, in accordance with 31 U.S.C. §7701.
+P.
+
+All payments to the Commission under this Order must be made by electronic
+
+fund transfer in accordance with instructions previously provided by a representative of the
+Commission.
+III.
+
+CUSTOMER INFORMATION
+
+IT IS FURTHER ORDERED that LifeLock shall provide customer information
+requested by the Commission to enable the Commission to efficiently administer customer
+redress. If a representative of the Commission requests in writing any information related to
+redress, LifeLock must provide it, in the form prescribed by the Commission, within ten (10)
+days.
+IV.
+
+ENTRY OF ORDER
+
+IT IS FURTHER ORDERED that there is no just reason for delay of entry of this
+Order, and the clerk shall enter this Order immediately.
+V.
+
+COMPLIANCE REPORTING
+
+IT IS FURTHER ORDERED that, in order that compliance with the provisions of the
+Permanent Injunction and this Order may be monitored:
+A.
+
+For a period of five (5) years from the date of entry of this Order, LifeLock shall
+
+notify the Commission of any changes in its corporate structure or any business entity that
+
+-8-
+
+Case 2:10-cv-00530-JJT Document 64-1 Filed 12/17/15 Page 9 of 16
+
+LifeLock directly or indirectly controls, or has ownership interest in, that may affect compliance
+obligations under the Permanent Injunction or this Order, including, but not limited to:
+incorporation or other organization; a dissolution, assignment, sale, merger, or other action; the
+creation or dissolution of a subsidiary, parent, or affiliate that engages in any practices subject to
+the Permanent Injunction or this Order; or a change in the business name or address, at least
+thirty (30) days prior to such change, provided that, with respect to any proposed change in the
+business entity of which LifeLock learns less than thirty (30) days prior to the date such action is
+to take place, LifeLock shall notify the Commission as soon as practicable after obtaining such
+knowledge.
+B.
+
+One hundred eighty (180) days after the date of entry of this Order and annually
+
+thereafter for a period of five (5) years, LifeLock shall provide a written report to the FTC,
+which is true and accurate and sworn to under penalty of perjury, setting forth in detail the
+manner and form in which it has complied and is complying with the Permanent Injunction and
+this Order. This report shall include, but not be limited to: (1) a copy of each acknowledgement
+of receipt of the Permanent Injunction and this Order obtained pursuant to the Section titled
+“Distribution of Order;” and (2) any other changes required to be reported under Subsection A of
+this Section.
+C.
+
+LifeLock shall notify the Commission of the filing of any bankruptcy petition,
+
+insolvency proceeding, or similar proceeding within fifteen (15) days of its filing. Unless
+directed otherwise by a Commission representative in writing, all submissions to the
+Commission pursuant to this Order must be emailed to DEbrief@ftc.gov or sent by overnight
+courier (not the U.S. Postal Service) to: Associate Director for Enforcement, Bureau of
+
+-9-
+
+Case 2:10-cv-00530-JJT Document 64-1 Filed 12/17/15 Page 10 of 16
+
+Consumer Protection, Federal Trade Commission, 600 Pennsylvania Avenue, NW, Washington,
+DC 20580. The subject line must begin: FTC v. LifeLock, Inc., X100023.
+VI. COMPLIANCE MONITORING
+IT IS FURTHER ORDERED that, for the purpose of monitoring LifeLock’s compliance
+with the Permanent Injunction and this Order:
+A.
+
+Within fourteen (14) days of receipt of written notice from a representative of the
+
+Commission, LifeLock shall submit additional written reports or other requested information,
+which are true and accurate and sworn to under penalty of perjury; produce documents for
+inspection and copying; appear for deposition; and provide entry during normal business hours to
+any business location in LifeLock’s possession or direct or indirect control to inspect the
+business operation;
+B.
+
+In addition, the Commission is authorized to use all other lawful means, including
+
+but not limited to:
+1.
+
+Obtaining discovery from any person, without further leave of court, using
+any of the procedures prescribed by Federal Rules of Civil Procedure 29,
+30 (including telephonic depositions), 31, 33, 34, 36, 45, and 69;
+
+2.
+
+Posing as consumers and suppliers to LifeLock, their employees, or any
+other entity managed or controlled in whole or in part by LifeLock without
+the necessity of identification or prior notice;
+
+C.
+
+LifeLock shall permit representatives of the Commission to interview any
+
+employer, consultant, independent contractor, representative, agent or employee who has agreed
+to such an interview, relating in any way to any conduct subject to the Permanent Injunction or
+this Order. The person interviewed may have counsel present; and
+
+- 10 -
+
+Case 2:10-cv-00530-JJT Document 64-1 Filed 12/17/15 Page 11 of 16
+
+D.
+
+Nothing in this Order limits the Commission’s lawful use of compulsory process,
+
+pursuant to Sections 9 and 20 of the FTC Act, 15 U.S.C. §§ 49, 57b-1, to obtain any
+documentary material, tangible things, testimony, or information relevant to unfair or deceptive
+acts or practices in or affecting commerce (within the meaning of 15 U.S.C. § 45(a)(1)).
+VII.
+
+RECORD KEEPING PROVISIONS
+
+IT IS FURTHER ORDERED that:
+LifeLock is hereby restrained and enjoined from failing to create and retain the following
+records for the following periods:
+A.
+
+For a period of thirteen (13) years from the date of entry of the Permanent
+
+Injunction, the following records in connection with the sale or provision of products or services
+related to identity theft:
+1.
+
+Accounting records that reflect the cost of goods or services sold, revenues
+generated, and the distribution of such revenues;
+
+2.
+
+Personnel records accurately reflecting: the name, address, and telephone
+number of each person employed in any capacity by such business,
+including as an independent contractor; that person’s job title or position;
+the date upon which the person commenced work; and the date and reason
+for the person’s termination, if applicable;
+
+3.
+
+Consumer files containing the names, addresses, phone numbers, dollar
+amounts paid, quantity of items or services purchased, and description of
+items or services purchased, to the extent such information is obtained in
+the ordinary course of business;
+
+- 11 -
+
+Case 2:10-cv-00530-JJT Document 64-1 Filed 12/17/15 Page 12 of 16
+
+4.
+
+Complaints and refund requests (whether received directly, indirectly, or
+through any third party) and any responses to those complaints and
+requests;
+
+5.
+
+Copies of all sales scripts, training materials, advertisements, or other
+marketing materials;
+
+6.
+
+Any documents, whether prepared by or on behalf of LifeLock, that
+contradict, qualify or call into question LifeLock’s compliance with
+Sections I, II, and III of the Permanent Injunction; and
+
+7.
+
+All records and documents necessary to demonstrate full compliance with
+each provision of the Permanent Injunction and this Order, including but
+not limited to, copies of acknowledgments of receipt required by the
+Permanent Injunction and this Order, all reports submitted to the FTC
+pursuant to the Section of this Order titled “Compliance Reporting.”
+
+B.
+
+For a period of three (3) years after the date of preparation of each Assessment
+
+required under the Section of the Permanent Injunction titled “Biennial Assessment
+Requirements”: All materials relied upon to prepare the Assessment, whether prepared by or on
+behalf of LifeLock, including but not limited to all plans, reports, studies, reviews, audits, audit
+trails, policies, training materials, and assessments, and any other materials relating to
+LifeLock’s compliance with the Section of the Permanent Injunction titled “Biennial Assessment
+Requirements.”
+C.
+
+For a period of five (5) years from the date of entry of this Order, records and
+
+documents sufficient to provide all material facts regarding Money Received by Affected
+Consumers and the administration of the escrow account funded under Section II.E, including
+
+- 12 -
+
+Case 2:10-cv-00530-JJT Document 64-1 Filed 12/17/15 Page 13 of 16
+
+but not limited to: (1) identity of each Affected Consumer who received a payment, (2) the
+amount of each payment, (3) the manner in which LifeLock issued each payment, (4) the date of
+each payment, (5) evidence that each payment was credited to an Affected Consumer’s financial
+account or was otherwise cashed, and (6) all escrow account activity and balances.
+VIII. DISTRIBUTION OF ORDER
+IT IS FURTHER ORDERED that:
+For a period of five (5) years from the date of entry of this Order, LifeLock shall deliver
+copies of the Permanent Injunction and this Order as directed below:
+A.
+
+LifeLock must deliver a copy of the Permanent Injunction and this Order to: (1)
+
+all of its principals, officers, directors, and managers; (2) all of its employees, agents, and
+representatives who engage in conduct related to the subject matter of the Permanent Injunction
+and this Order; and (3) any business entity resulting from any change in structure set forth in
+Subsection A of the Section of this Order titled “Compliance Reporting.” For current personnel,
+delivery shall occur within seven (7) days of entry of this Order. For all others, delivery shall
+occur prior to them assuming their responsibilities. For any business entity resulting from any
+change in structure set forth in Subsection A of the Section of this Order titled “Compliance
+Reporting,” delivery shall be at least ten (10) days prior to the change in structure.
+B.
+
+LifeLock must secure a signed and dated statement acknowledging receipt of the
+
+Permanent Injunction and this Order, within thirty (30) days of delivery, from all persons
+receiving a copy of the Permanent Injunction and this Order pursuant to this Section.
+
+- 13 -
+
+Case 2:10-cv-00530-JJT Document 64-1 Filed 12/17/15 Page 14 of 16
+
+IX.
+
+ACKNOWLEDGEMENT OF RECEIPT OF THIS ORDER
+
+IT IS FURTHER ORDERED that LifeLock, within five (5) business days of receipt of
+this Order as entered by the Court, must submit to the Commission a truthful sworn statement
+acknowledging receipt of this Order.
+X.
+
+RETENTION OF JURISDICTION
+
+IT IS FURTHER ORDERED that the Court shall continue to retain jurisdiction of this
+matter for all purposes.
+IT IS SO ORDERED, this _____ day of ________ 2015.
+
+_________________________________
+U.S. District Judge
+United States District Court for the
+District of Arizona
+
+- 14 -
+
+Case 2:10-cv-00530-JJT Document 64-1 Filed 12/17/15 Page 15 of 16
+
+STIPULATED AND AGREED TO BY:
+FOR DEFENDANT LIFELOCK:
+
+___________________________
+Richard Todd Davis
+Chief Executive Officer, LifeLock, Inc.
+
+____________________________
+David Boies
+Boies, Schiller & Flexner LLP
+333 Main Street
+Armonk, NY 10504
+(914) 749-8200 (telephone)
+(914) 749-8300 (facsimile)
+dboies@bsfllp.com
+Counsel for LifeLock, Inc.
+
+- 15 -
+
+Case 2:10-cv-00530-JJT Document 64-1 Filed 12/17/15 Page 16 of 16
+
+FOR PLAINTIFF FEDERAL TRADE COMMISSION
+
+- 16 -
+
+

@@ -1,0 +1,612 @@
+UNITED STATES OF AMERICA
+BEFORE THE FEDERAL TRADE COMMISSION
+
+09 09 2016
+583962
+
+COMMISSIONERS:
+
+In the Matter of
+LabMD, Inc.,
+a corporation,
+Respondent.
+
+Edith Ramirez, Chairwoman
+Maureen K. Ohlhausen
+Terrell McSweeny
+
+)
+)
+)
+)
+)
+)
+)
+
+PUBLIC
+Docket No. 9357
+
+COMPLAINT COUNSEL’S OPPOSITION TO
+RESPONDENT’S APPLICATION FOR STAY OF FINAL ORDER
+Respondent has failed to meet its burden to show that a stay of the Commission’s Final
+Order pending appeal is warranted. See Resp’t LabMD, Inc.’s Appl. for Stay of Final Order
+Pending Review by a U.S. Ct. of Appeals (Aug. 30, 2016) (“Application for Stay”). Respondent
+holds the most sensitive personal data of hundreds of thousands of consumers, employing data
+security practices that the Commission has found to be unfair. Additionally, 9,300 consumers
+whose data was exposed by those practices remain in the dark about that exposure, powerless to
+take the steps necessary to remedy the serious effects of that exposure. The harm consumers
+continue to suffer without that relief far outweighs any claimed harm to Respondent.
+Respondent has failed to show that is likely to succeed on appeal with its recycled arguments.
+And Respondent has also failed to substantiate its claims of the harm it will suffer if the
+Commission does not grant a stay. In light of the overwhelming interest of the consumers in
+the relief provided by the Final Order, the Commission should deny Respondent’s Application
+for Stay.
+
+PUBLIC
+BACKGROUND
+The Commission issued the Complaint in the matter of LabMD, Inc. on August 28,
+2013.1 On January 6, 2014, Respondent LabMD, Inc. informed its customers—physicians and
+physician-practices for whom it provided testing services—that it would stop accepting new
+specimens for testing on January 11, 2014. CX0291 (LabMD Letter to Physicians Office re:
+Closing). In its March 3, 2014 responses to discovery propounded by Complaint Counsel,
+Respondent stated that it intended to employ the same policies and procedures to protect
+consumers’ information in the future that it had before it stopped accepting new testing orders.
+CX0765 (LabMD Resps. to 2d Set of Disc.) at 5-6, 7. Respondent also stated that it did not
+intend to dissolve as a Corporation. Id. at 7.2
+The evidentiary hearing commenced on May 20, 2014 and concluded on July 15, 2015.
+Op. of the Comm’n at 6. The parties filed post-trial briefs and proposed findings of fact and
+
+1
+
+Respondent makes a number of factual assertions throughout its Application to Stay that
+Complaint Counsel disputes. For example, incredibly, Respondent states, without citation, that
+its witness Richard Wallace “never testified that he accessed the 1718 File through LimeWire.”
+Appl. for Stay at 8 n.9. To the contrary, Mr. Wallace testified that he downloaded the 1718 File
+“using a stand-alone desktop computer.” Tr. 1372. And he further testified that he searched for
+files on the stand-alone computer “using a standard, off-the-shelf peer-to-peer client, such as
+LimeWire or BearShare or Kazaa or Morpheus, any of those that are, you know, affiliated with
+the Gnutella network.” Tr. 1342; see also Op. of the Comm’n at 3 (citing Init. Decision Finding
+¶ 121-22). Complaint Counsel has limited its response to only those facts and issues that are
+germane to the Commission’s consideration of the Application for Stay. In addressing only the
+relevant facts and issues, Complaint Counsel does not concede any of the irrelevant factual
+assertions made by Respondent.
+2
+
+By March 2014, Respondent had no employees other than Michael Daugherty, its President and
+Chief Executive Officer; had moved all operations to its current premises; and had disconnected
+all but one system from the internet. CX0873 (Suppl. Decl. of Michael J. Daugherty in support
+of Plf.’s Resp. to Def.’s Mot. to Amend Sched. Order in LabMD, Inc. v. FTC (N.D. Ga.)) at 2-3;
+Compl. Counsel’s Proposed Findings of Fact ¶ 69 (Aug. 10, 2015); CX0709 (Daugherty, Dep. at
+42-43). Thus the state of Respondent’s operations as described in Mr. Daugherty’s declaration,
+Appl. for Stay, Exhibit 18 ¶¶ 4, 8-12, 17 (“Daugherty Decl.”), is nearly identical to the state of
+operations that Commission considered when concluding that it was necessary to enter the Final
+Order. Op. of the Comm’n at 36.
+2
+
+PUBLIC
+conclusions of law on August 10, 20153 and replies thereto on September 4, 2015. Order on
+Post-Trial Briefs at 1-2 (July 16, 2015). The Chief Administrative Law Judge issued his initial
+decision on November 13, 2015 dismissing the case. Initial Decision (Nov. 13, 2015).
+Complaint Counsel appealed the Initial Decision on December 22, 2016,4 Respondent filed its
+Answering Brief on February 5, 2016, and Complaint Counsel filed a Reply on February 23,
+2016. At no time before the close of the evidentiary record, during the aforementioned briefing,
+or since did Respondent seek to submit evidence regarding its alleged insolvency or its financial
+condition. Likewise, Respondent did not argue this point in any of the briefing.
+On July 29, 2016, the Commission issued its Opinion, reversing the Initial Decision. Op.
+of the Comm’n at 1. The Commission found that Respondent did not put reasonable security
+measures in place, and supported its finding with extensive citations to the evidentiary record.
+Id. at 11-16. The Commission held that Respondent’s data security practices were unfair
+because its practices caused substantial injury in the form of the disclosure of sensitive health or
+medical information, citing to expert testimony and wide-ranging sources recognizing the harm
+in disclosure of health or medical information. Id. at 16-19. The Commission also held that
+Respondent’s practices were likely to cause substantial injury, overruling the Initial Decision’s
+holding on the meaning of “likely to cause,” and grounding its interpretation in the Unfairness
+Statement and caselaw. Id. at 20-25.
+The Commission further held that consumers could not reasonably avoid the harm caused
+by Respondent’s practices. Id. at 25-26. And it held that no countervailing benefits to
+consumers or competition outweighed the substantial injury caused by Respondent’s practices,
+3
+
+Both parties subsequently filed corrected versions of some of their initial post-trial briefing on
+August 11 and 12, 2015.
+
+4
+
+Complaint Counsel filed a Corrected Appeal Brief on January 14, 2016, correcting errors in the
+Table of Authorities.
+3
+
+PUBLIC
+based on unrebutted evidence of the many low cost solutions Respondent could have
+implemented. Id. at 26-28. Consequently, the Commission held that “LabMD’s data security
+practices constitute an unfair act or practice within the meaning of Section 5 of the FTC Act.”
+Id. at 1. The Commission also carefully considered and ruled against Respondent’s affirmative
+defenses and miscellaneous objections. Id. at 28-33. The Commission entered the Final Order,
+“requiring that LabMD notify affected individuals, establish a comprehensive information
+security program, and obtain assessments regarding its implementation of the program.” Id. at
+37; Final Order (July 29, 2016). The Commission noted that the Final Order “takes account of
+LabMD’s current limited operations.” Id. at 36.
+
+LEGAL STANDARD
+Under Commission Rule 3.56(c), an application for a stay must address the following
+four factors: “[1] the likelihood of the applicant’s success on appeal, [2] whether the applicant
+will suffer irreparable harm if a stay is not granted, [3] the degree of injury to other parties if a
+stay is granted, and [4] why the stay is in the public interest.” 16 C.F.R. § 3.56(c). It is the
+applicant’s burden to establish that a stay is warranted. Toys “R” Us, Inc., 126 F.T.C. 695, 698
+(1998). Respondent’s application must therefore be supported by “affidavits or other sworn
+statements, and a copy of the relevant portions of the record.” 16 C.F.R. § 3.56(c); Ky.
+Household Goods Carriers Ass’n, Inc., Docket No. 9309, 2005 WL 2114221, at *4-5 (F.T.C.
+Aug.19, 2005) (denying stay because Respondents provided “no specific factual support for
+[their] assertions”).
+
+4
+
+PUBLIC
+ARGUMENT
+I.
+
+Respondent Is Not Likely to Succeed on the Merits on Appeal
+Respondent has not made a strong showing of likelihood of success on the merits on
+
+appeal. See N.C. Bd. of Dental Exam’rs, Docket No. 9343, 2012 WL 588756, at *1 (F.T.C. Feb.
+10, 2012) (“If the balance of the equities (i.e., the last three factors) is not heavily tilted in the
+petitioner’s favor, the petitioner must make a more substantial showing of likelihood of success
+on the merits in order to obtain a stay pending appeal.”); Cal. Dental Ass’n, Docket No. 9259,
+1996 FTC LEXIS 277, at *10 (May 22, 1996). Respondent recites a litany of its past arguments
+as reasons its petition for review will be granted, Appl. for Stay at 12-25, but has failed to
+demonstrate that its arguments will fare any better on appeal. “[M]erely repeating arguments the
+Commission rejected before does not provide the Commission with sufficient reason to question
+its prior decision or any of the bases for it, and Respondent[’]s renewal of its legal arguments,
+without more, is insufficient to justify granting a stay.” Daniel Chapter One, Docket No. 9329,
+2010 WL 9434821, at *3 (F.T.C. Mar. 22, 2010) (internal quotation omitted). Similarly,
+disagreement with the Opinion of the Commission does not alone establish a likelihood of
+success on appeal. Id. at *2.
+Nor do Respondent’s ostensibly new arguments criticizing the Opinion of the
+Commission demonstrate a likelihood of success. First, Respondent argues that the Opinion of
+the Commission is not supported by substantial evidence. Appl. for Stay at 15-19. But
+Respondent’s points in support of this argument are themselves only renewals of its past
+arguments, which are no more persuasive now. In any event, the Opinion of the Commission is
+well-supported legally and amply sustained by substantial evidence, and is thus not likely to be
+overturned on appeal. See POM Wonderful, LLC v. FTC, 777 F.3d 478, 499-500 (D.C. Cir.
+
+5
+
+PUBLIC
+2015) (reviewing courts give deference to Commission’s factual findings supported by
+substantial evidence); FTC v. Ind. Fed’n of Dentists, 476 U.S. 447, 454 (1986) (“[T]he court
+must accept the Commission’s findings of fact if they are supported by such relevant evidence as
+a reasonable mind might accept as adequate to support a conclusion.”) (internal quotation
+omitted).
+Respondent’s next argument, that the Final Order is unlawful because it is not a ceaseand-desist order, is belied by the caselaw. Appl. for Stay at 21-22.5 Even when bringing a case
+in the administrative context, “[t]he Commission is not limited to prohibiting the illegal practice
+in the precise form in which it is found to have existed in the past.” Op. of the Comm’n at 34
+(quoting FTC v. Colgate-Palmolive Co., 380 U.S. 374, 395 (1965)). To the contrary, “the
+Commission has wide latitude in fashioning orders to prevent . . . respondents from pursuing a
+course of conduct similar to that found to have been unfair.” Id. (quoting Thompson Med. Co.,
+104 F.T.C. 648, 832-33 (1984), aff’d, 791 F.2d 189 (D.C. Cir. 1986) (internal quotation marks
+omitted). Respondent’s inapposite citation to FTC v. World Travel Vacation Brokers, Inc.,
+which concerns the limits of the Commission’s power to bring cases in federal court under
+Section 13(b) of the FTC Act, does not support its argument that the Final Order exceeds the
+Commission’s authority. See 861 F.2d 1020, 1027-28 (7th Cir. 1988).
+Respondent’s argument that Part III of the Final Order constitutes redress is equally
+without merit. See Appl. for Stay at 22.6 Respondent’s argument seems to be that a notification
+requirement is equivalent to redress. However, the sole authority to which Respondent cites
+stands only for the proposition that the Commission cannot include actual monetary redress in an
+
+5
+
+Respondent failed to raise this argument on appeal or in its prior briefing.
+
+6
+
+Respondent failed to raise this argument on appeal or in its prior briefing.
+6
+
+PUBLIC
+administrative order. Heater v. FTC, 503 F.2d 321, 323-27 (9th Cir. 1974). Because the Final
+Order does not include a monetary redress requirement, Heater is inapposite.
+Finally, Respondent argues that the Final Order forces it to retroactively comply with
+obligations under HITECH. See Appl. for Stay at 22-23.7 It is irrelevant that the Commission’s
+order bears a resemblance to certain regulatory obligations subsequently imposed on businesses
+by the United States Department of Health and Human Services. See Ruberoid v. FTC, 343 U.S.
+470, 473 (1952) (“[T]he Commission has wide discretion in its choice of a remedy deemed
+adequate to cope with unlawful practices . . . .”) (quoting Jacob Siegel Co. v. FTC, 327 U.S. 608,
+611 (1946) (internal quotation marks omitted).
+For the reasons above, Respondent has failed to show a likelihood of success on appeal
+on the merits.8
+
+7
+
+Respondent failed to raise this argument on appeal or in its prior briefing. Also, in support of
+this argument, Respondent cites to its proposed exhibit RX659—a closing letter in the LimeWire
+LLC matter—that (1) was excluded from the evidentiary record (Order on Resp’t’s Mot. to
+Admit Exs. at 2-3 (July 15, 2015)); (2) Respondent did not attach to its filing; and (3) is
+completely unrelated to the proposition for which it is cited. See Appl. for Stay at 23; Resp’t’s
+Mot. to Admit Select Exs. at RX659 (June 12, 2015) (PDF pp. 512-514). To the extent
+Respondent argues on reply that it intended to cite to RX649 (Exhibit 36 to its Application), that
+proposed exhibit was also excluded from the evidentiary record (Order on Resp’t’s Mot. to
+Admit Exs. at 2-3 (July 15, 2015)), and furthermore should be disregarded because it is
+unreliable hearsay within hearsay—a blind quote in a blog post by a pseudonymous blogger—
+and not probative. See Compl. Counsel’s Reply Brief to Resp’t’s Answering Brief at 39 (Feb.
+23, 2016) (stating arguments against consideration of RX649).
+8
+
+The Commission may also grant a stay if the case presents the application of difficult legal
+questions to a complex factual record, provided that the balance of the equities weighs heavily in
+favor of a stay. See N. Tex. Specialty Physicians, Docket. No. 9312, 2006 WL 271513, at *2, *2
+n.2 (F.T.C. Jan. 20, 2006) (noting that the “Commission additionally considers the complexity of
+the case; whether the Commission has ruled on a difficult legal question; and whether the
+balance of the equities supports a stay,” and the “probability of success that must be
+demonstrated is inversely proportional to the amount of irreparable injury suffered absent the
+stay”); Daniel Chapter One, Docket No. 9329, 2010 WL 9434821, at *2 (F.T.C. Mar. 22, 2010)
+(“[I]f the equities decidedly tip in favor of the Respondents it is enough that they raise questions
+sufficiently serious and substantial to constitute fair ground for litigation.”) (internal quotation
+marks omitted). Complaint Counsel agrees that this case involves an extensive and complex
+7
+
+PUBLIC
+II.
+
+Respondent Has Not Established Irreparable Harm Absent a Stay
+Respondent bears the burden of establishing that a denial of a stay will cause irreparable
+
+harm. Ky. Household Goods Carriers Ass’n, Inc., 2005 WL 2114221, at *4. “Simple assertions
+of harm or conclusory statements based on unsupported assumptions will not suffice.
+[Respondent] must show, with particularity, that the irreparable injury alleged is both substantial
+and likely to occur absent a stay.” Id. (quoting Cal. Dental Ass’n, 1996 FTC LEXIS 277, at *67). As discussed below, Respondent has failed to provide factual support for its claim that the
+costs of complying with the Order would be substantial; Respondent’s arguments that the Order
+would cause irreparable harm by violating Respondent’s constitutional rights are meritless; and
+Respondent has failed to show that any effect on its reputation would cause irreparable harm.
+As a threshold matter, for purposes of considering a stay, the Commission should not
+credit Respondent’s claim that it is insolvent. See Daugherty Decl. ¶¶ 6-8. The only evidence
+Respondent provides in support of this claim is the self-serving declaration of Mr. Daugherty.
+Complaint Counsel has not had an opportunity to test these new statements by deposition or
+other discovery. Respondent’s current operations, as described in the Declaration, Daugherty
+Decl. ¶¶ 3-4, 7-10, 17, are nearly unchanged from their state in February 2014, before the close
+of discovery. See Note 2, supra. However, Respondent never supplemented its discovery
+responses or suggested in its briefing that it would be financially unable to comply with the
+proposed notice order.9
+
+record and presents important issues. See Comm’n Order Extending Deadlines for Filing
+Petition for Reconsideration and Answer Thereto (Aug. 12, 2016). But, as discussed in Sections
+II and III below, Respondent has failed to meet the high burden of showing that a stay is merited
+on the equities, and thus the Commission should not grant it.
+9
+
+The Commission should be further skeptical of this claim because throughout the period of its
+claimed impoverishment, Respondent has employed six law firms and eleven attorneys (not
+including the attorneys who represented it in this proceeding) to represent it in four actions it has
+8
+
+PUBLIC
+A.
+
+Respondent Has Failed to Supports its Claims of Substantial Compliance
+Costs
+
+Respondent asserts that it would incur substantial monetary costs to comply with the
+Order, claiming that such costs “may be more than $250,000.00.” Appl. for Stay at 25.
+However, Respondent has failed to provide any competent factual support for this claim. See
+Mich. Coal. of Radioactive Material Users, Inc. v. Griepentrog, 945 F.2d 150, 154 (6th Cir.
+1991) (citation omitted) (stating that movant must provide “specific facts and affidavits
+supporting assertions”). Respondent cites to Novartis, 128 F.T.C 233 (1999), for the proposition
+that unrecoverable compliance costs constitute irreparable injury. Appl. for Stay at 25. In
+Novartis, however, respondent showed that it would necessarily spend $8 million for corrective
+advertising absent a partial stay. N. Tex. Specialty Physicians, Docket No. 9312, 2006 WL
+271513, at *4 (F.T.C. Jan. 20, 2016) (distinguishing Novartis). Respondent has failed to provide
+any evidence that, absent a stay, it would be subject to substantial compliance costs.
+Respondent’s only supporting documentation for its alleged compliance costs is the selfserving declaration of Mr. Daugherty. However, Mr. Daugherty’s declaration simply reasserts
+the same unsubstantiated claims made in Respondent’s Application for Stay. Daugherty Decl.
+initiated as a plaintiff. LabMD, Inc. v. FTC, No. 1:14-cv-00810-WSD (N.D. Ga. 2014)
+(Respondent represented by Burleigh L. Singleton, Ronald L. Raider, and William D. Meyer of
+Kilpatrick Townsend & Stockton, LLP and two attorneys who also appeared in this matter);
+LabMD, Inc. v. Tiversa Holding Corp. et al., No. 2:15-cv-00092-MPK (W.D. Pa. 2015)
+(Respondent represented by John R. Gotaskie, Jr. of Fox Rothschild LLP; Michael E. Ross and
+Eric S. Fisher of Taylor English Duma LLP; Kenneth M. Argentieri and Julie S. Greenberg of
+Duane Morris LLP; and James W. Hawkins of James W. Hawkins, LLC); Daugherty et al. v.
+Sheer et al., No. 1:15-cv-02034 (D.D.C. 2015) (Respondent represented by Jason H. Ehrenberg
+and Peter K. Tompa of Bailey and Ehrenberg PLLC and James W. Hawkins); Daugherty et al. v.
+Adams et al., No. 1:16-cv-02480-LMM (N.D. Ga. 2016) (Respondent represented by James W.
+Hawkins). Respondent has also announced that it has hired three attorneys from Ropes &
+Gray—partners Douglas Meal and Michelle Visser and counsel David Cohen—to represent it in
+its anticipated appeal of the Commission’s order in this action. See Ropes & Gray to Represent
+LabMD in FTC Data Security Challenge, available at https://www.ropesgray.com/newsroom/
+news/2016/08/Ropes-Gray-to-Represent-LabMD-in-FTC-Data-Security-Challenge.aspx (last
+visited Sept. 7, 2016).
+9
+
+PUBLIC
+¶ 22. For example, Mr. Daugherty states that he has “been told that such assessments [as
+required by Part II of the Order] can cost in the neighborhood of $250,000.00.” Id. Respondent
+offers no competent evidence or documentation to corroborate this bare assertion of a hearsay
+statement made by an unidentified party.
+The cost of an information security assessment is highly specific to a business’s size and
+complexity and the nature and scope of a business’s activities. Respondent states that it has not
+had an operational computer network since July 2014, that its computer systems are not
+connected to or accessible via the Internet, and that its servers and other devices remain
+unplugged except when necessary to retrieve records for its former clients. Daugherty Decl.
+¶¶ 9, 16-18. Respondent does not assert, let alone provide any evidence showing, that an
+information security assessment of this particular size and scope would cost $250,000. Given the
+limited nature and scope of its current operations, Respondent has failed to provide any facts to
+support its assertion that the assessments required by Part II of the Order constitute a substantial
+expense.
+Similarly, Respondent contends that establishing and implementing a comprehensive
+information security program, as required by Part I of the Order, would impose substantial costs,
+but provides no factual support for this assertion. First, Respondent claims that even attempting
+to adopt a comprehensive information security program would require consulting with and
+paying Information Technology (“IT”) professionals and attorneys. Daugherty Decl. ¶ 22(a)(iv).
+However, Respondent has failed to quantify or otherwise provide any specific facts regarding the
+costs associated with these activities. In light of the limited nature and scope of Respondent’s
+current operations, the Commission cannot presume, without appropriate quantification and
+supporting evidence, that such expenses would be substantial.
+
+10
+
+PUBLIC
+Second, Respondent claims that “if Part I is interpreted to require the rebuilding of
+Respondent’s computer network, [Mr. Daugherty’s] understanding is that this will cost at least
+$10,000.00 plus maintenance fees.” Daugherty Decl. ¶ 22(a)(v). This assertion is speculative,
+unsupported by any evidence, and reflects a bizarre misreading of the Order. The Order does not
+require Respondent to rebuild its computer network or otherwise resume more active operations.
+As the Opinion of the Commission explained:
+[T]he Order takes account of LabMD’s current limited operations. The Order
+requires LabMD to establish and implement a comprehensive information
+security program that provides administrative, technical, and physical safeguards
+that are appropriate for the nature and scope of LabMD’s activities. A reasonable
+and appropriate information security program for LabMD’s current operations
+with a computer that is shut down and not connected to the Internet will
+undoubtedly differ from an appropriate comprehensive information security
+program if LabMD resumes more active operations.
+Op. of the Comm’n at 36. Importantly, Respondent also claims that it “does not expect ever to
+resume operations and does not see how that could ever happen.” Daugherty Decl. ¶ 19.
+Therefore, Respondent’s assertions regarding the costs of rebuilding its computer network are
+purely speculative and cannot substantiate a claim of irreparable harm. See Mich. Coal. of
+Radioactive Material Users, Inc., 945 F.2d at 154 (holding that “the harm alleged must be both
+certain and immediate, rather than speculative or theoretical”).
+Respondent also contends that notifying Affected Individuals regarding the unauthorized
+disclosure of their personal information, as required by Part III of the Order, would impose
+substantial costs in monies, time, and effort. For example, citing the price of a first-class mail
+stamp, Respondent estimates that the cost of postage to notify the 9,300 consumers whose
+personal information was contained in the Insurance File would be $4,371.00. Daugherty Decl.
+¶ 22. However, the Commission has denied stays in other cases in which notification provisions
+would have imposed similar, de minimis costs. See, e.g., N. Tex. Specialty Physicians, 2006 WL
+11
+
+PUBLIC
+271513, at *5-6 (denying stay of notification provision). Furthermore, Respondent provides no
+quantification or evidence in support of the “time and attention” costs it claims it will incur in
+notifying Affected Individuals. See Appl. for Stay at 25-26; Daugherty Decl. ¶ 22-23. Given the
+limited facts Respondent has presented, it has failed to support its assertion that the notification
+provision would impose substantial costs. Moreover, as noted below, the Order’s notification
+provision is necessary to ensure that Affected Individuals can reduce the risk of harm from
+identity theft and medical identity theft.
+Finally, Respondent asserts that the requirement under Part VII of the Order to submit a
+written compliance report would impose a substantial expense. Mr. Daugherty’s declaration
+asserts that Respondent would need to pay attorneys and IT professionals to assist in the
+preparation of the report, and that he “ha[s] been informed that this will cost about $20,000.00.”
+Daugherty Decl. ¶ 22(d). However, as with the assessments required by Part II of the Order, the
+time and effort needed to prepare a written compliance report is proportionate to the nature and
+scope of Respondent’s current operations. In light of the limited nature and scope of
+Respondent’s current operations, the Commission should not accept, without appropriate
+evidence, that a written compliance report would impose a substantial cost. Respondent has
+failed to provide any evidence to support its estimate for the cost of the written compliance
+report, and has not established that any such cost would constitute irreparable harm.
+B.
+
+The Order Will Not Cause Irreparable Harm to Respondent’s Constitutional
+Rights
+
+Respondent contends that Parts I and III of the Final Order are unconstitutionally vague,
+and would therefore violate Respondent’s due process right to fair notice. Appl. for Stay at 2729. The Commission has considered this argument before and implicitly rejected it. Op. of the
+Comm’n at 34-36; see Resp’t’s Post-Trial Reply Brief, Attachment 1 at 11-28 (Sept. 4, 2015)
+12
+
+PUBLIC
+(raising vagueness and other arguments regarding the Notice Order). Renewal of these failed
+arguments does not support Respondent’s claim that it will suffer irreparable harm. See Daniel
+Chapter One, 2010 WL 9434821, at *3 (renewal of arguments does not warrant a stay).
+Furthermore, as the Commission’s Opinion noted, “[i]n light of the discussion in our opinion and
+the availability of guidance about comprehensive information security programs from HIPAA
+and organizations such as NIST and the SANS Institute, this provision is sufficiently clear and
+precise that its requirements can be readily understood and met.” Op. of the Comm’n at 34.
+Respondent further contends that the notification requirement in Part III of the Order
+would irreparably harm Respondent by violating its First Amendment rights. Appl. for Stay at
+29. The Commission considered and disposed of this argument. Op. of the Comm’n at
+33 n.85.10 Rather, to ensure that consumers can reduce the risk of harm from identity theft or
+medical identity theft, the Commission imposed appropriate relief. As the Commission’s
+Opinion notes, “[w]ithout notification, consumers . . . would not know to take actions to reduce
+their risk of harm from identity theft or medical identity theft.” Op. of the Comm’n at 35. The
+required notification is carefully tailored to provide only Affected Individuals with the
+information they would need to help protect themselves, and is similar in form and substance to
+
+10
+
+Respondent’s vague assertion that it “disagrees” with the truthful, non-misleading, factual
+information required by Part III of the Order, Appl. for Stay at 29, does not transform its
+objection to complying with the Commission’s Order into a constitutional claim on which
+Respondent is likely to prevail. Cf. N.Y. State Rest. Ass’n v. N.Y.C. Bd. of Health, 556 F.3d 114,
+132-34 (2d Cir. 2009) (concluding that laws mandating certain factual disclosures are
+permissible as long as there is a rational basis for such disclosures). Moreover, Respondent’s
+assertion that Part III would require it to disseminate facts that “remain disputed,” Appl. for Stay
+at 29 n.36, is contradicted by its briefing. Compare id. (“For example, whether the factual
+circumstances under which Tiversa obtained the 1718 File can be accurately described as an
+‘unauthorized disclosure’ and ‘approximate time period’ remain disputed.”), with Resp’t’s PostTrial Reply Brief at 23 (Sept. 4, 2015) (stating that “contrary to company policy,” employee
+Rosalind Woodson was running LimeWire on February 25, 2008 when Richard Wallace “was
+able to download the 1718 file” from LabMD by searching P2P networks).
+13
+
+PUBLIC
+the type of notice required under HIPAA for disclosures of personal medical information that
+have occurred since 2010. See id. Therefore, the notification requirement in Part III of the Order
+does not violate Respondent’s First Amendment rights and does not constitute irreparable harm.
+C.
+
+Respondent’s Has Not Shown Irreparable Harm to its Reputation
+
+Finally, Respondent claims that the notification provision in Part III of the Order would
+cause it reputational harm by requiring it to send Commission-approved letters to thousands of
+individuals and business entities. Appl. for Stay at 29. However, Mr. Daugherty’s declaration
+explains that Respondent began winding down its operations in mid-January 2014, and that the
+business has not generated any revenue from testing medical samples since that time. Daugherty
+Decl. ¶¶ 3-5. Given its limited operations, Respondent has failed to show that any effect the
+required notifications would have on its reputation would lead to irreparable harm (e.g., a loss of
+business). To the contrary, the required notification will ensure that affected consumers know to
+take to action to reduce their risk of harm from identity theft or medical identity theft. Under
+these circumstances, any effect the Order has on Respondent’s reputation is a proper remedial
+consequence of correcting its unfair data security practices.
+For all the forgoing reasons, Respondent has failed to establish that it will suffer
+irreparable harm if a stay is not granted.
+
+III.
+
+A Stay of the Commission’s Order Will Harm Consumers and is Contrary to the
+Public Interest
+The Commission considers the third and fourth factors together because Complaint
+
+Counsel is responsible for representing the public interest by enforcing the law. Daniel Chapter
+One, 2010 WL 9434821, at *7; Cal. Dental Ass’n, 1996 FTC LEXIS 277, at *8; see 16 C.F.R.
+§ 3.56(c) (listing factors). Even were Respondent to suffer some irreparable harm from the final
+
+14
+
+PUBLIC
+order, which it has not established, a stay should not be granted because the interest of impacted
+consumers and the public outweighs any such harm. Respondent contends that “[a] stay will not
+harm anyone” given the “absence of any evidence that any consumer has suffered harm as a
+result of Respondent’s alleged unreasonable data security, even after the passage of many years.”
+Appl. for Stay at 2, 30 (quoting Init. Decision at 52). But this contention is contravened by the
+Commission’s findings that Respondent’s disclosure of the 1718 file was itself a substantial
+privacy harm to the 9,300 consumers with sensitive personal information in the file, and that the
+file’s exposure on LimeWire for 11 months “was also likely to cause substantial privacy harm”
+to the consumers. Op. of the Comm’n at 19, 25 (July 29, 2016). Respondent’s mere
+disagreement with the Opinion of the Commission does not support a stay under the third and
+fourth factors any more than it supported a stay under the first two factors.
+The harm or likelihood of harm to the 9,300 consumers increases every day that
+Respondent does not notify them and their insurance companies of the disclosure of their
+sensitive personal information. Without notification, consumers and their insurance companies
+can do little to reduce the risk of harms from identity and medical identity theft. Op. of the
+Comm’n at 26, 35. The only manner through which these consumers would know that their
+personal information was breached is notification from Respondent, especially given that
+“LabMD typically interacted only with physicians’ offices and had no direct dealings with
+consumers, other than billing when insurance did not pay.” Op. of the Comm’n at 23 n.68. In
+addition, the risk of harm is ongoing given the nature of the sensitive information breached. See
+Op. of the Comm’n at 24 (relying on expert testimony that “information like names, addresses,
+and Social Security numbers cannot be readily changed so that, once compromised, these types
+of personal information can often be used by malicious actors for an extended period . . . .”).
+
+15
+
+PUBLIC
+Respondent cites the fact that the 9,300 consumers have gone without notification of the
+exposure of their most sensitive personal data for eight years to argue that the Commission
+should have brought a federal district court action and sought a preliminary injunction. See
+Appl. for Stay at 2, 30 n.37. The Commission regularly seeks injunctive relief in administrative
+adjudications instead of seeking preliminary injunctions, and doing so does not mean the
+Commission gives up its ability and duty to protect consumers in a timely manner. See, e.g.,
+ECM Biofilms, Inc., Docket No. 9358 (F.T.C. Oct. 19, 2015); Jerk, LLC, Docket No. 9361
+(F.T.C. Mar. 25, 2015). Amendments to the Commission’s Part 3 and Part 4 Rules of Practice in
+2009 and 2011 expedited the adjudicative review process to ensure the process is as efficient as
+possible. See FTC Modifies Part 3 of Agency’s Rules of Practice: Rule Changes will Further
+Improve the FTC’s Adjudicative Process, Aug. 12, 2011, https://www.ftc.gov/news-events/pressreleases/2011/08/ftc-modifies-part-3-agencys-rules-practice (last visited Sept. 2, 2016); FTC
+Issues Final Rules Amending Parts 3 and 4 of the Agency’s Rules of Practice, Apr. 27, 2009,
+https://www.ftc.gov/news-events/press-releases/2009/04/ftc-issues-final-rules-amending-parts-34-agencys-rules-practice (last visited Sept. 2, 2016). Here, the anticipated expedited
+administrative process was delayed while Respondent’s witness sought immunity. Op. of the
+Comm’n at 6 n.17.
+Respondent further contends that a stay will not harm anyone because “LabMD is no
+longer in business, and its computer networks are not connected to the Internet.” Appl. for Stay
+at 2, 30. However, Respondent continues to preserve tissue samples, provide past test results to
+healthcare providers, and maintain the personal data of 750,000 people on its computer system.
+Op. of the Comm’n at 4, 36. Moreover, nothing Respondent describes has materially changed
+from the state of its business in March 2014, see Note 2, supra, when Respondent stated that it
+
+16
+
+PUBLIC
+intended to apply the same policies and procedures going forward that it had in the past11—the
+very practices the Commission found to be unreasonable. And the state of Respondent’s
+business and systems is immaterial to the risk of ongoing harm to the consumers whose
+information Respondent disclosed in the 1718 File. Op. of the Comm’n at 3, 26 n.76.
+Respondent’s argument therefore fails to provide any rationale for staying the Final Order.
+Finally, Respondent’s constitutional and overreach arguments—mirroring several of the
+arguments it intends to raise on appeal—also fail. See Appl. for Stay at 30-31. As discussed in
+Section I above, Respondent has failed to show that it is likely to succeed on appeal with its
+recitation of past arguments and its new arguments disagreeing with the Opinion of the
+Commission. See Daniel Chapter One, 2010 WL 9434821, at *2-3 (renewal of arguments or
+disagreement with Commission’s opinion do not warrant a stay). There is no public interest in
+restraining agencies from fulfilling their duties while respondents challenge their authority with
+arguments that are unlikely to succeed.
+
+CONCLUSION
+Together, the four factors weigh against granting a stay while Respondent appeals. The
+risk of harm to the 9,300 consumers whose sensitive personal information Respondent disclosed
+in the 1718 file is ongoing. Moreover, Respondent continues to maintain the personal data of
+750,000 people on its computer system without any comprehensive security program appropriate
+for its current operations. Consumers should not have to wait any longer to be notified or to
+have their personal information protected. Both the harm to consumers and the public interest if
+a stay is granted outweigh any ostensible harm Respondent may suffer if a stay is not granted.
+And although this case involves important issues and a complex record, Respondent has failed to
+11
+
+CX0765 (LabMD Resps. to 2d Set of Disc.) at 5-6, 7.
+17
+
+PUBLIC
+show that it is likely to succeed on appeal. For all the foregoing reasons, the Commission should
+deny Respondent's Application for Stay of the Final Order.
+
+Dated: September 9 , 2016
+
+Respectfully submitted,
+
+Jafao~~
+
+Federal Trade Commission
+600 Pennsylvania Ave., NW
+Room CC-8232
+Washington, DC 20580
+Telephone: (202) 326-2927
+Facsimile: (202) 326-3062
+Electronic mail: jbrown4@ftc. gov
+
+Complaint Counsel
+
+18
+
+CERTIFICATE OF SERVICE
+I hereby certify that on September 9, 2016, l caused the foregoing document to be filed
+electronically through the Office of the Secretary ' s FTC E-filing system, which will send
+notification of such filing to:
+Donald S. Clark
+Secretary
+Federal Trade Commission
+600 Pennsylvania Avenue, NW, Room H-113
+Washington, DC 20580
+l also certify that 1 caused a copy of the foregoing document to be transmitted via
+electronic mail and delivered by hand to:
+The Honorable D. Michael Chappell
+Chief Administrative Law Judge
+Federal Trade Commission
+600 Pennsylvania Avenue, NW, Room H-110
+Washington, DC 20580
+I further certify that 1 caused a copy of the foregoing document to be served via electronic
+mail to:
+Patrick J. Massari
+Erica Marshall
+Cause of Action
+1875 I Street NW, Suite 800
+Washington, DC 20006
+patrick.massari@causeofaction.org
+erica.marshall@causeofaction.org
+
+Counsel for Respondent LabMD, Inc.
+
+CERTIFICATE FOR ELECTRONIC FILING
+I certify that the electronic copy sent to the Secretary of the Commission is a true and
+correct copy of the paper original and that 1 possess a paper original of the signed document that
+is available for review by the parties and the adjudica
+September 9, 2016
+Jarad Brow
+Federal Tracfe Commission
+Bureau of Consumer Protection
+
+

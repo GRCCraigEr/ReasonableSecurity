@@ -1,0 +1,184 @@
+1323219
+UNITED STATES OF AMERICA
+FEDERAL TRADE COMMISSION
+COMMISSIONERS:
+
+Edith Ramirez, Chairwoman
+Julie Brill
+Maureen K. Ohlhausen
+Joshua D. Wright
+Terrell McSweeny
+
+____________________________________
+)
+)
+)
+TRUE ULTIMATE STANDARDS
+)
+EVERYWHERE, INC., a corporation,
+)
+d/b/a TRUSTe, Inc.
+)
+____________________________________)
+In the Matter of
+
+DOCKET NO. C-
+
+COMPLAINT
+The Federal Trade Commission (“Commission”), having reason to believe that True
+Ultimate Standards Everywhere, Inc., a corporation, has violated the provisions of the Federal
+Trade Commission Act (“FTC Act”), and it appearing to the Commission that this proceeding is
+in the public interest, alleges:
+1. Respondent True Ultimate Standards Everywhere, Inc., also doing business as TRUSTe,
+Inc. (“TRUSTe”), is a privately-owned, Delaware corporation with its principal office or
+place of business at 835 Market Street, Suite 800, San Francisco, California 94103.
+2. TRUSTe was formed as a California non-profit corporation on June 10, 1997. On June
+20, 2008, TRUSTe formed a for-profit Delaware corporation and transferred all of the
+assets of the California non-profit entity to the for-profit corporation pursuant to an Asset
+Purchase Agreement effective July 3, 2008.
+3. Respondent has advertised, offered for sale, and sold data privacy services to companies,
+including a variety of assessments and certifications, monitoring tools, and compliance
+controls.
+4. The acts and practices of Respondent as alleged in this complaint are in or affecting
+commerce, as “commerce” is defined in Section 4 of the FTC Act, 15 U.S.C. § 44.
+
+1
+
+TRUSTe’s Certified Privacy Seals
+5. Since approximately June 1997, Respondent has offered clients Certified Privacy Seals
+(“Privacy Seals”) for display on clients’ websites. TRUSTe has more recently offered
+these seals for mobile applications. Respondent provides these seals to clients that meet
+designated requirements for the programs that Respondent administers (“Program
+Requirements”). These requirements include specifications related to transparency of
+company practices, verification of privacy practices, and consumer choice regarding the
+collection and use of consumer personal information.
+6. Respondent advertises itself as “the #1 privacy brand” and asserts that its “Certified
+Privacy Seal is recognized globally by consumers, businesses, and regulators as
+demonstrating privacy best practices.”
+7. Respondent’s Privacy Seal programs include, but are not limited to, TRUSTed Websites
+(since 1997), which certifies websites; COPPA/Children’s Privacy (2001), which certifies
+compliance with the FTC’s Children’s Online Privacy Protection Act Rule; EU Safe
+Harbor (2002), which assists with certification to the EU-US Safe Harbor framework for
+transatlantic data transfers; TRUSTed Downloads (2006), which certifies software;
+TRUSTed Cloud (2011), which certifies data processing services through cloud
+platforms; TRUSTed Apps (2011), which certifies mobile applications; and TRUSTed
+Data (2011), which certifies data collection practices of non-consumer facing entities.
+8. Companies that meet the Program Requirements of a particular Privacy Seal must display
+to consumers a corresponding seal on their websites and mobile applications to
+demonstrate publicly to consumers their compliance with the relevant TRUSTe program.
+9. In connection with its Privacy Seal programs, Respondent has provided clients with
+images of seals to display on their websites and mobile applications, including, but not
+limited to “Click-to-verify” seals containing a graphic icon, and text indicating to
+consumers an ability to click on the seal:
+
+These “Click-to-verify” seals are required and must be displayed by a client on its
+privacy policy webpage. They are linked to a webpage hosted on the www.truste.com
+website, which provides verification of the sealholder’s name, the specific privacy seal(s)
+held, and the validity date for each seal. The website also links to the Program
+Requirements for the Privacy Seals.
+
+2
+
+10. Respondent tests and verifies client compliance with its Program Requirements
+underlying its Privacy Seals through scanning technology, client interviews, document
+collection, and manual testing and review of client websites and mobile applications.
+11. TRUSTe purports to recertify privacy sealholders on an annual basis to identify, for
+example: (1) material changes to privacy policies (e.g., new or expanded collection/uses
+of personal information such as use of cookies for behavioral advertising); (2) seal
+validation (e.g., improper placement, old versions, and bad links); (3) changes in
+company ownership or business model (e.g., adoption of advertising supported content);
+and (4) where relevant, compliance with external third-party program requirements (e.g.,
+Federal Trade Commission Children’s Online Privacy Protection Act safe harbor, or U.S.
+Department of Commerce self-certification to the US/EU Safe Harbor).
+12. At all times relevant to this complaint, Respondent has controlled the design of its seals,
+as well as the design, content, and format of the www.truste.com webpage to which these
+seals link.
+Violations of Section 5 of the FTC Act
+Misrepresentation of certification status of TRUSTe clients
+13. Since approximately 2011, Respondent has disseminated or has caused to be
+disseminated to consumers, on the www.truste.com website, Program Requirements
+containing the following statement:
+III.
+
+Minimum Program Requirements
+…
+B. Participant Accountability
+…
+3.
+
+Annual Recertification
+a. Participant shall undergo recertification to verify ongoing compliance
+with these Program Requirements annually.
+(Exhibit A, Program Requirements, February 2011, available at
+www.truste.com)
+
+Prior to 2011, Respondent disseminated or had caused to be disseminated to consumers
+Program Requirements containing the following statement:
+
+3
+
+II.
+
+Participant Responsibilities
+...
+C.
+
+Recertification.
+
+Participant must seek recertification by TRUSTe annually
+
+...
+14. The statements set forth in Paragraph 13 have been included in Respondent’s Program
+Requirements for at least each of the following programs: TRUSTed Websites (since
+1997), COPPA/Children’s Privacy (2001), EU Safe Harbor (2002), TRUSTed Cloud
+(2011), TRUSTed Apps (2011), TRUSTed Data (2011), and TRUSTed Smart Grid
+(2012).
+Count 1
+15. Through the means described in Paragraph 13, Respondent has represented, expressly or
+by implication, that TRUSTe has recertified annually all companies displaying a
+TRUSTe Certified Privacy Seal to ensure ongoing compliance with the Program
+Requirements.
+16. In fact, from 2006 until January 2013, Respondent did not conduct annual recertifications
+for all companies holding TRUSTe Certified Privacy Seals. In over 1,000 instances,
+TRUSTe conducted no annual review of the company’s compliance with applicable
+Program Requirements. Therefore, the representation set forth in Paragraph 13 was
+false or misleading.
+Misrepresentations regarding non-profit status of TRUSTe
+17. Prior to its transition to a for-profit entity on July 3, 2008, Respondent required its clients
+to display in their privacy policies the following language TRUSTe developed:
+“TRUSTe is an independent, non-profit organization whose mission is to build
+users’ trust and confidence in the Internet by promoting the use of fair
+information practices.”
+18. In early July 2008, Respondent notified all active and current clients that its tax status
+would change from non-profit to for-profit status. On July 15, 2008, the company
+issued a public press release announcing the company’s transition to a for-profit entity.
+19. In numerous instances since July 3, 2008, the date when TRUSTe formed a for-profit
+Delaware corporation and ceased to be a non-profit California corporation, Respondent
+has recertified clients who have failed to update references to the company’s for-profit
+status. Some TRUSTe clients’ privacy policies continued to describe TRUSTe as a
+non-profit entity until fall of 2013.
+4
+
+Count 2
+20. Through the means described in Paragraphs 17 and 19, Respondent has represented,
+expressly or by implication, that TRUSTe is a non-profit organization.
+21. In fact, Respondent has not been a non-profit organization since July 3, 2008.
+Therefore, the representation set forth in Paragraph 20 was false or misleading.
+22. By providing clients with the language in Paragraph 17 and continuing to certify clients
+using that language as described in Paragraph 19, Respondent has furnished the means
+and instrumentalities for the commission of the deceptive acts or practices alleged in
+Paragraph 21.
+23. The acts and practices of Respondent as alleged in this complaint constitute deceptive
+acts or practices in or affecting commerce in violation of Section 5(a) of the Federal
+Trade Commission Act, 15 U.S.C. § 45(a).
+THEREFORE, the Federal Trade Commission this ___ day of __________, ____, has
+issued this complaint against Respondent.
+By the Commission.
+
+Donald S. Clark
+Secretary
+SEAL:
+
+5
+
+

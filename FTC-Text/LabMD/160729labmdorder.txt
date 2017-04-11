@@ -1,0 +1,321 @@
+UNITED STATES OF AMERICA
+BEFORE THE FEDERAL TRADE COMMISSION
+COMMISSIONERS:
+
+Edith Ramirez, Chairwoman
+Maureen K. Ohlhausen
+Terrell McSweeny
+
+__________________________________________
+)
+)
+)
+LabMD, Inc.,
+)
+a corporation.
+)
+_________________________________________ )
+
+In the Matter of
+
+DOCKET NO. 9357
+PUBLIC
+
+FINAL ORDER
+The Commission has heard this matter upon the appeal of Complaint Counsel from the
+Initial Decision of the Administrative Law Judge, and upon briefs and oral argument in support
+thereof and in opposition thereto. For the reasons stated in the accompanying opinion of the
+Commission, the Commission has concluded that LabMD’s data security practices were
+unreasonable and constitute an unfair act or practice that violates Section 5 of the Federal Trade
+Commission Act. The Commission has therefore determined to vacate the Initial Decision and
+issue the following order:
+ORDER
+DEFINITIONS
+For purposes of this order, the following definitions shall apply:
+1.
+
+“Commerce” shall mean as defined in Section 4 of the Federal Trade Commission Act,
+15 U.S.C. § 44.
+
+2.
+
+Unless otherwise specified, “respondent” shall mean LabMD, Inc., and its successors
+and assigns.
+
+3.
+
+“Affected Individual” shall mean any consumer whose personal information LabMD has
+reason to believe was, or could have been, accessible to unauthorized persons before
+July 28, 2016, including, but not limited to, consumers listed in the Insurance File and
+other documents available to a peer-to-peer file sharing network, but excluding
+consumers whom LabMD has notified, before July 28, 2016, of a data security breach.
+
+4.
+
+“Insurance File” shall mean the file containing personal information about approximately
+9,300 consumers, including names, dates of birth, Social Security numbers, health
+insurance company names and policy numbers, and medical test codes, that was available
+to a peer-to-peer file sharing network through a peer-to-peer file sharing application
+installed on a computer on respondent’s computer network.
+
+5.
+
+“Personal information” shall mean individually identifiable information from or about an
+individual consumer including, but not limited to: (a) first and last name; (b) telephone
+number; (c) a home or other physical address, including street name and name of city or
+town; (d) date of birth; (e) Social Security number; (f) medical record number; (g) bank
+routing, account, and check numbers; (h) credit or debit card information, such as account
+number; (i) laboratory test result, medical test code, or diagnosis, or clinical history;
+(j) health insurance company name and policy number; or (k) a persistent identifier, such
+as a customer number held in a “cookie” or processor serial number.
+I.
+
+IT IS ORDERED that the respondent shall, no later than the date this order becomes
+final and effective, establish and implement, and thereafter maintain, a comprehensive
+information security program that is reasonably designed to protect the security, confidentiality,
+and integrity of personal information collected from or about consumers by respondent or by any
+corporation, subsidiary, division, website, or other device or affiliate owned or controlled by
+respondent. Such program, the content and implementation of which must be fully documented
+in writing, shall contain administrative, technical, and physical safeguards appropriate to
+respondent’s size and complexity, the nature and scope of respondent’s activities, and the
+sensitivity of the personal information collected from or about consumers, including:
+A.
+
+the designation of an employee or employees to coordinate and be accountable for
+the information security program;
+
+B.
+
+the identification of material internal and external risks to the security,
+confidentiality, and integrity of personal information that could result in the
+unauthorized disclosure, misuse, loss, alteration, destruction, or other compromise
+of such information, and assessment of the sufficiency of any safeguards in place
+to control these risks. At a minimum, this risk assessment should include
+consideration of risks in each area of relevant operation, including, but not limited
+to: (1) employee training and management; (2) information systems, including
+network and software design, information processing, storage, transmission, and
+disposal; and (3) prevention, detection, and response to attacks, intrusions, or
+other systems failures;
+
+C.
+
+the design and implementation of reasonable safeguards to control the risks
+identified through risk assessment, and regular testing or monitoring of the
+effectiveness of the safeguards’ key controls, systems, and procedures;
+
+2
+
+D.
+
+the development and use of reasonable steps to select and retain service providers
+capable of appropriately safeguarding personal information they receive from
+respondent, and requiring service providers by contract to implement and
+maintain appropriate safeguards; and
+
+E.
+
+the evaluation and adjustment of respondent’s information security program in
+light of the results of the testing and monitoring required by Subpart C, any
+material changes to respondent’s operations or business arrangements, or any
+other circumstances that respondent knows or has reason to know may have a
+material impact on the effectiveness of its information security program.
+II.
+
+IT IS FURTHER ORDERED that, in connection with its compliance with Part I of this
+order, respondent shall obtain initial and biennial assessments and reports (“Assessments”) from
+a qualified, objective, independent third-party professional, who uses procedures and standards
+generally accepted in the profession. Professionals qualified to prepare such assessments shall
+be: a person qualified as a Certified Information System Security Professional (CISSP) or as a
+Certified Information Systems Auditor (CISA); a person holding Global Information Assurance
+Certification (GIAC) from the SysAdmin, Audit, Network, Security (SANS) Institute; or a
+similarly qualified person or organization approved by the Associate Director for Enforcement,
+Bureau of Consumer Protection, Federal Trade Commission, Washington, D.C. 20580. The
+reporting period for the Assessments shall cover: (1) the first one hundred and eighty (180)
+days after July 28, 2016, for the initial Assessment, and (2) each two (2) year period thereafter
+for twenty (20) years after July 28, 2016, for the biennial Assessments. Each Assessment shall:
+A.
+
+set forth the specific administrative, technical, and physical safeguards that
+respondent has implemented and maintained during the reporting period;
+
+B.
+
+explain how such safeguards are appropriate to respondent’s size and
+complexity, the nature and scope of respondent’s activities, and the sensitivity
+of the personal information collected from or about consumers;
+
+C.
+
+explain how the safeguards that have been implemented meet or exceed the
+protections required by Part I of this order; and
+
+D.
+
+certify that respondent’s security program is operating with sufficient
+effectiveness to provide reasonable assurance that the security, confidentiality,
+and integrity of personal information is protected, and has so operated
+throughout the reporting period.
+
+Each Assessment shall be prepared and completed within sixty (60) days after the end of the
+reporting period to which the Assessment applies. Respondent shall provide the initial
+Assessment to the Associate Director for Enforcement, Bureau of Consumer Protection, Federal
+Trade Commission, Washington, D.C. 20580, within ten (10) days after the Assessment has
+been prepared. All subsequent biennial Assessments shall be retained by respondent until the
+order is terminated and provided to the Associate Director for Enforcement within ten (10) days
+of request. Unless otherwise directed by a representative of the Commission, the initial
+Assessment, and any subsequent Assessments requested, shall be sent by overnight courier (not
+3
+
+the U.S. Postal Service) to the Associate Director for Enforcement, Bureau of Consumer
+Protection, Federal Trade Commission, 600 Pennsylvania Avenue NW, Washington, D.C.
+20580, with the subject line In the Matter of LabMD, Inc., FTC Docket No. 9357. Provided,
+however, that in lieu of overnight courier, Assessments may be sent by first-class mail, but only
+if an electronic version of any such Assessment is contemporaneously sent to the Commission at
+Debrief@ftc.gov.
+III.
+IT IS FURTHER ORDERED that respondent shall provide notice to Affected
+Individuals and their health insurance companies within 60 days of the date this order becomes
+final and effective unless an appropriate notice has already been provided, as follows:
+A.
+
+Respondent shall send the notice to each Affected Individual by first class mail,
+only after obtaining acknowledgment from the Commission or its staff that the
+form and substance of the notice satisfies the provisions of the order. The notice
+must be easy to understand and must include:
+1.
+
+a brief description of why the notice is being sent, including the
+approximate time period of the unauthorized disclosure, the types of
+personal information that were or may have been disclosed without
+authorization (e.g., insurance information, Social Security numbers, etc.),
+and the steps respondent has taken to investigate the unauthorized
+disclosure and protect against future unauthorized disclosures;
+
+2.
+
+advice on how Affected Individuals can protect themselves from identity
+theft or related harms. Respondent may refer Affected Individuals to the
+Commission’s identity theft website (www.ftc.gov/idtheft), advise them to
+contact their health care providers or insurance companies if bills don’t
+arrive on time or contain irregularities, or to obtain a free copy of their
+credit report from www.annualcreditreport.com and monitor it and their
+accounts for suspicious activity, or take such other steps as respondent
+deems appropriate; and
+
+3.
+
+methods by which Affected Individuals can contact respondent for more
+information, including a toll-free number for 90 days after notice to
+Affected Individuals, an email address, a website, and mailing address.
+
+B.
+
+Respondent shall send a copy of the notice to each Affected Individual’s health
+insurance company by first class mail.
+
+C.
+
+If respondent does not have an Affected Individual’s mailing address in its
+possession, it shall make reasonable efforts to find such mailing address, such as
+by reviewing online directories, and once found, shall provide the notice
+described in Subpart A, above.
+
+4
+
+IV.
+IT IS FURTHER ORDERED that respondent shall maintain and, upon request, make
+available to the Federal Trade Commission for inspection and copying:
+A.
+
+for a period of five (5) years, a print or electronic copy of each document relating
+to compliance, including, but not limited to, notice letters required by Part III of
+this order and documents, prepared by or on behalf of respondent, that contradict,
+qualify, or call into question respondent’s compliance with this order; and
+
+B.
+
+for a period of three (3) years after the date of preparation of each Assessment
+required under Part II of this order, all materials relied upon to prepare the
+Assessment, whether prepared by or on behalf of respondent, including, but not
+limited to, all plans, reports, studies, reviews, audits, audit trails, policies, training
+materials, and assessments, and any other materials relating to respondent’s
+compliance with Parts I and II of this order, for the compliance period covered by
+such Assessment.
+V.
+
+IT IS FURTHER ORDERED that respondent shall deliver a copy of this order to:
+(1) all current and future principals, officers, directors, and managers; (2) all current and future
+employees, agents, and representatives having responsibilities relating to the subject matter of
+this order; and (3) any business entity resulting from any change in structure set forth in Part VI.
+Respondent shall deliver this order to such current personnel within thirty (30) days after the
+date this order becomes final and effective, and to such future personnel within thirty (30) days
+after the person assumes such position or responsibilities. For any business entity resulting from
+any change in structure set forth in Part VI, delivery shall be at least ten (10) days prior to the
+change in structure.
+VI.
+IT IS FURTHER ORDERED that respondent shall notify the Commission at least
+thirty (30) days prior to any change in respondent that may affect compliance obligations arising
+under this order, including, but not limited to, a dissolution, assignment, sale, merger, or other
+action that would result in the emergence of a successor company; the creation or dissolution of a
+subsidiary, parent, or affiliate that engages in any acts or practices subject to this order; the
+proposed filing of a bankruptcy petition; or a change in either corporate name or address.
+Provided, however, that, with respect to any proposed change in the corporation about which
+respondent learns less than thirty (30) days prior to the date such action is to take place,
+respondent shall notify the Commission as soon as is practicable after obtaining such knowledge.
+Unless otherwise directed by a representative of the Commission, all notices required by this
+Part shall be sent by overnight courier (not the U.S. Postal Service) to the Associate Director for
+Enforcement, Bureau of Consumer Protection, Federal Trade Commission, 600 Pennsylvania
+Avenue NW, Washington, D.C. 20580, with the subject line In the Matter of LabMD, Inc., FTC
+Docket No. 9357. Provided, however, that in lieu of overnight courier, notices may be sent by
+first-class mail, but only if an electronic version of any such notice is contemporaneously sent to
+the Commission at Debrief@ftc.gov.
+5
+
+VII.
+IT IS FURTHER ORDERED that respondent, within sixty (60) days after the date this
+order becomes final and effective, shall file with the Commission a true and accurate report, in
+writing, setting forth in detail the manner and form of their compliance with this order. Within
+ten (10) days of receipt of written notice from a representative of the Commission, they shall
+submit additional true and accurate written reports. Unless otherwise directed by a representative
+of the Commission in writing, all notices required by this Part shall be emailed to
+Debrief@ftc.gov or sent by overnight courier (not the U.S. Postal Service) to the Associate
+Director for Enforcement, Bureau of Consumer Protection, Federal Trade Commission, 600
+Pennsylvania Avenue NW, Washington, D.C. 20580, with the subject line In the Matter of
+LabMD, Inc., FTC Docket No. 9357. Provided, however, that in lieu of overnight courier,
+notices may be sent by first-class mail, but only if an electronic version of any such notice is
+contemporaneously sent to the Commission at Debrief@ftc.gov.
+VIII.
+This order will terminate on July 28, 2036, or twenty (20) years from the most recent date
+that the United States or the Federal Trade Commission files a complaint (with or without an
+accompanying consent decree) in federal court alleging any violation of the order, whichever
+comes later; provided, however, that the filing of such a complaint will not affect the duration of:
+A.
+
+any Part in this order that terminates in less than twenty (20) years;
+
+B.
+
+this order’s application to any respondent that is not named as a defendant in such
+complaint; and
+
+C.
+
+this order if such complaint is filed after the order has terminated pursuant to
+this Part.
+
+Provided, further, that if such complaint is dismissed or a federal court rules that each
+respondent did not violate any provision of the order, and the dismissal or ruling is either not
+appealed or upheld on appeal, then the order will terminate according to this Part as though the
+complaint had never been filed, except that the order will not terminate between the date such
+complaint is filed and the later of the deadline for appealing such dismissal or ruling and the date
+such dismissal or ruling is upheld on appeal.
+By the Commission.
+
+Donald S. Clark
+Secretary
+SEAL:
+ISSUED: July 28, 2016
+
+6
+
+

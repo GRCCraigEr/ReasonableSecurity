@@ -1,0 +1,546 @@
+No. 14-3514
+
+IN THE UNITED STATES COURT OF APPEALS
+FOR THE THIRD CIRCUIT
+
+FEDERAL TRADE COMMISSION,
+Plaintiff-Appellee,
+v.
+WYNDHAM HOTELS & RESORTS, LLC, et al.,
+Defendants-Appellant.
+
+On Interlocutory Appeal From An Order Of The United States District Court
+For the District Of New Jersey, Case No. 2:13-cv-01887-ES-JAD
+
+SUPPLEMENTAL MEMORANDUM OF
+THE FEDERAL TRADE COMMISSION
+
+JONATHAN E. NUECHTERLEIN
+General Counsel
+Of Counsel:
+KEVIN H. MORIARTY
+JAMES A. TRILLING
+KATHERINE E. MCCARRON
+Attorneys
+Bureau of Consumer Protection
+
+DAVID C. SHONKA
+Principal Deputy General Counsel
+JOEL MARCUS
+DAVID SIERADZKI
+Attorneys
+FEDERAL TRADE COMMISSION
+600 Pennsylvania Avenue, N.W.
+Washington, D.C. 20580
+
+TABLE OF CONTENTS
+Page
+
+TABLE OF AUTHORITIES .................................................................................... ii
+I. The FTC Has Determined That Inadequate
+Data Security Can Be An “Unfair Practice” ........................................................2
+II. This Is A “Proper Case”.......................................................................................5
+III. Any New Subject-Matter Limitation On Section 13(b)
+Actions Would Contradict Years of Antitrust And
+Consumer-Protection Case Law ........................................................................10
+
+i
+
+TABLE OF AUTHORITIES
+CASES
+
+Page
+
+American Tobacco Co. v. Patterson, 456 U.S. 63 (1982) .........................................7
+Berckeley Inv. Group, Ltd. v. Colkitt, 455 F.3d 195 (3d Cir. 2006) ..........................3
+FTC v. Actavis, Inc., 133 S. Ct. 2223 (2013) ...........................................................13
+FTC v. Ameridebt, 373 F. Supp. 2d 558 (D. Md. 2005) ............................. 10, 11, 12
+FTC v. Direct Mktg. Concepts, Inc.,
+569 F. Supp. 2d 285 (D. Mass. 2008) ..................................................................13
+FTC v. Evans Products Co., 775 F.2d 1084 (9th Cir. 1985) ............................ 10, 11
+FTC v. H.N. Singer, Inc., 668 F.2d 1107 (9th Cir. 1982) ....................................6, 10
+FTC v. Mylan Labs., Inc., 62 F. Supp. 2d 25 (D.D.C. 1999) ........................... 10, 11
+FTC v. QT, Inc., 448 F. Supp. 2d 908 (N.D. Ill. 2006)............................................13
+FTC v. Seismic Entertainment Productions, Inc.,
+2004 WL 2403124 (D. N.H. 2004) ......................................................................12
+FTC v. United States Oil & Gas Corp.,
+748 F.2d 1431 (11th Cir. 1984) .............................................................................6
+FTC v. Virginia Homes Mfg. Co., 509 F. Supp. 51 (D. Md. 1981) .................. 10, 11
+FTC v. World Travel Vacation Brokers, Inc.,
+861 F.2d 1020 (7th Cir. 1988) .................................................................. 6, 10, 11
+Graham Cty. Soil & Water Cons. Dist. v. U.S. ex rel. Wilson,
+559 U.S. 280 (2010) ...............................................................................................7
+Omnipoint Corp. v. FCC, 78 F.3d 620 (D.C. Cir. 1996) ...........................................4
+Steel Co. v. Citizens for a Better Environment, 523 U.S. 83 (1988) .........................5
+Transky v. Dep’t of Health & Human Services,
+760 F.3d 307 (3d Cir. 2014)...................................................................................3
+
+ii
+
+ADMINISTRATIVE DECISIONS
+BJ's Wholesale Club, 140 F.T.C. 465 (Sept. 20, 2005) .............................................4
+R.R. Donnelley & Sons Co., 120 F.T.C. 36 (1995) ....................................................9
+STATUTES AND RULE
+15 U.S.C. § 53(b) .......................................................................................................6
+28 U.S.C. § 1331 ........................................................................................................5
+28 U.S.C. § 1337 ........................................................................................................5
+28 U.S.C. § 1345 ........................................................................................................5
+28 U.S.C. § 1605(c) ...................................................................................................7
+48 U.S.C. § 872 ..........................................................................................................7
+9 U.S.C. § 7 ................................................................................................................7
+Fed. R. Civ. P. 19(a)(2) ..............................................................................................7
+OTHER AUTHORITIES
+American Heritage Dictionary of the English Language (3d ed. 1992) ...................7
+Prepared Statement of the Federal Trade Commission before the
+Senate Committee on Science, Commerce, and Transportation (July
+27, 2010) ................................................................................................................3
+Prepared Statement of the Federal Trade Commission before the
+Senate Committee on the Judiciary (Feb. 4, 2014) ................................................3
+LEGISLATIVE HISTORY
+119 Cong. Rec. 23,620 (daily ed. July 12, 1973) (Statement of Sen.
+Philip Hart) .............................................................................................................9
+S. Rep. 93-151 ............................................................................................................8
+
+iii
+
+DISTRICT COURT COMPLAINTS
+FTC v. Amazon.com, Inc., No. 2:14-cv-01038
+(W.D. Wash. July 2014).......................................................................................13
+FTC v. Certified Merchant Servs., Ltd, No. 4:02-cv-44
+(E.D. Tex. Feb. 2002) ..........................................................................................12
+FTC v. Cornerstone & Co., LLC, No. 14-cv-01479
+(D.D.C. Aug. 2014) ..............................................................................................12
+FTC v. D Squared Solutions, LLC, No. 03-cv-3018
+(D. Md. Oct. 2003) ...............................................................................................12
+FTC v. Pricewert, LLC, No. 09-CV-2407 (N.D. Cal. June 2009) ...........................13
+FTC v. Zuccarini, No. 01-CV-4854 (E.D. Pa. 2001)...............................................13
+U.S. v. ChoicePoint, Inc., No. 1-06-CV0198 (N.D. Ga. Jan. 2006) ........................12
+
+iv
+
+In its February 20 letter, the Court asks, at bottom, whether a federal court
+can hear a case charging a violation of the FTC Act if the Commission has not
+already decided, in its adjudicative capacity, that the Act prohibits the particular
+conduct at issue. The answer is yes. Congress empowered the Commission to
+choose in any given case between two alternative avenues for enforcing the FTC
+Act: (1) conducting an administrative adjudication or (2) filing suit for equitable
+relief in federal court under Section 13(b). Congress nowhere limited that second
+option to “fraud” cases or cases that are “routine” under some amorphous
+definition. Any such limitation would be inadministrable and highly disruptive to
+the FTC’s enforcement program. Indeed, it would contradict years of judicial
+decisions under Section 13(b) that address a wide variety of decidedly non-routine
+issues involving both consumer-protection and antitrust.
+This case presents no basis for upsetting that settled judicial practice. To
+begin with, Wyndham has expressly waived any argument that this case should
+have been brought in an administrative rather than a judicial tribunal, and that
+waiver is dispositive because, as Wyndham itself pointed out at argument, this
+Court need not rely on Section 13(b) for subject-matter jurisdiction. In any event,
+the statutory text of Section 13(b) clearly empowers the FTC, in its discretion, to
+bring suit in a district court for an injunction to remedy the violation of “any
+provision of law enforced by” the agency. If Congress had meant to restrict that
+
+authority to “fraud” cases or “routine” cases, it would have said so expressly in the
+statute rather than using the open-ended term “proper.”
+Finally, Congress did nothing unusual when it empowered federal courts to
+decide in the first instance whether commercial conduct violates the three-part test
+set forth in Section 5(n), which prohibits practices that cause harm to consumers
+they cannot reasonably avoid but that is not outweighed by countervailing benefits.
+Federal district courts make similar determinations every day, often in novel and
+complex legal contexts. Indeed, given the nature of the security lapses alleged in
+the Commission’s complaint, this case may be, if anything, more straightforward
+than many other cases that federal courts routinely adjudicate.
+I.
+
+THE FTC HAS DETERMINED THAT INADEQUATE DATA SECURITY CAN BE
+AN “UNFAIR PRACTICE”
+The first question in this Court’s February 20 letter asks whether the FTC
+
+has “declared that unreasonable cybersecurity practices are ‘unfair’ … through the
+procedures provided” in the FTC Act. The second question—which relates to
+Section 13(b) and is the focus of this submission—expressly “[a]ssum[es]” that the
+answer to that first question is no. Feb. 20, 2015 Letter at 1.
+In fact, the answer is yes: the FTC has acted under its procedures to
+establish that unreasonable data security practices that harm consumers are indeed
+unfair within the meaning of Section 5. First, the LabMD Order directly states the
+Commission’s considered determination that inadequate data security can be an
+2
+
+unfair practice. See FTC Br. 37-38. Second, the FTC has voted to issue more than
+20 complaints—two of them filed in federal court before this case was filed—
+charging deficient data security as unfair practices. See, e.g., FTC Br. 6-8. The
+complaints are akin to policy statements or interpretive rulings, which, though not
+binding, “reflect a body of experience and informed judgment to which courts and
+litigants may properly resort for guidance.” Transky v. Dep’t of Health & Human
+Services, 760 F.3d 307, 314 n.7 (3d Cir. 2014) (citation omitted); see also
+Berckeley Inv. Group, Ltd. v. Colkitt, 455 F.3d 195, 221 n.24 (3d Cir. 2006)
+(agency enforcement actions can function as interpretive rulings). Finally, the
+Commission has made clear in formally approved testimony to Congress that it
+deems inadequate data security to be a potentially unfair practice.1
+These administrative materials not only supply fair notice to potential
+defendants, 2 but also provide guidance to district courts for use in their
+1
+
+Prepared Statement of the Federal Trade Commission before the Senate
+Committee on the Judiciary (Feb. 4, 2014) at 3 (https://www.ftc.gov/system/files
+/documents/public_ statements/prepared-statement-federal-trade-commissionprivacy-digital-age-preventing-data-breaches-combating/140204datasecurity
+cybercrime.pdf); Prepared Statement of the Federal Trade Commission before the
+Senate Committee on Science, Commerce, and Transportation (July 27, 2010) at 6
+(https://www.ftc.gov/sites/default/files/documents/public_ statements/preparedstatement-federal-trade-commission-consumer-privacy/100727consumer
+privacy.pdf). Written testimony presented by a commissioner is voted on by the
+full Commission and represents the agency’s official position.
+2
+
+This memorandum solely addresses the questions posed in this Court’s February
+20 letter; it does not rebrief the distinct “fair notice” issues the FTC has already
+addressed in its principal brief (at 40-52). Nonetheless, the Commission has stated
+3
+
+determinations of liability in particular cases. For example, the BJ’s Wholesale
+Club complaint charged unfair practices where the defendant had “failed to employ
+reasonable and appropriate security measures to protect personal information”—
+specifically, it had not encrypted data, changed default passwords, detected
+reasonably detectable intrusions, or conducted reasonable security investigations.
+140 F.T.C. 465, 467 (Sept. 20, 2005); see FTC Br. at 45-47 (discussing this and
+other complaints). The district court can look to this and other FTC materials as it
+assesses whether, in violation of Section 5(n), Wyndham’s similar security
+practices caused substantial harm to consumers that they could not reasonably
+avoid and that is not outweighed by countervailing benefits.
+In any event, this case would be an appropriate use of Section 13(b) even if
+the Commission had not adopted this prior body of administrative determinations.
+As discussed in the next section, Congress gave the Commission discretion to
+choose a judicial forum for the resolution of Section 5 disputes, and it did not
+condition the availability of that forum on the Commission’s prior use of an
+administrative forum in similar cases.
+for more than a decade that it will pursue inadequate data security under
+Section 5’s unfairness prong, and these complaints are an independent basis for
+finding such notice. FTC Br. 45-49. Similarly, the 2007 Business Guide (FTC Br.
+49-52) provided notice that the FTC could take action against the very types of
+inadequate data-security measures alleged here. Industry participants are charged
+with knowledge of such agency guidance because “[i]t is a vital part of [their]
+business to be knowledgeable in [their] field.” Omnipoint Corp. v. FCC, 78 F.3d
+620, 630 (D.C. Cir. 1996) (citation omitted).
+4
+
+II.
+
+THIS IS A “PROPER CASE”
+At argument, the panel asked whether this case is a “proper case” within the
+
+meaning of Section 13(b). As discussed below, it is.
+As a threshold matter, that issue is not properly presented here because
+Wyndham waived it. Wyndham never asked either the district court or this Court
+to dismiss the case on “proper case” grounds, and it readily conceded at argument
+that this is a “proper case.” Arg. Trx. 26:24–27:19. As Wyndham further pointed
+out, resolution of this issue is unnecessary to establish jurisdiction because the
+district court independently has jurisdiction under 28 U.S.C. §§ 1331, 1337, and
+1345. 3 Any challenge to the suit under Section 13(b) thus can be and has been
+waived. See Steel Co. v. Citizens for a Better Environment, 523 U.S. 83, 90
+(1988).
+In any event, this case is “proper” under Section 13(b), much like hundreds
+of other consumer-protection and antitrust cases the Commission has brought
+under that provision. Section 13(b) states in pertinent part that “[w]henever the
+Commission has reason to believe that any … corporation is violating … any
+provision of law enforced by the Federal Trade Commission … the Commission
+3
+
+Section 1331 grants the district court “original jurisdiction of all civil actions
+arising under the … laws … of the United States”; 28 U.S.C. § 1337 grants it
+“original jurisdiction of any civil action or proceeding arising under any Act of
+Congress regulating commerce”; and 28 U.S.C. § 1345 grants it “original
+jurisdiction of all civil actions, suits or proceedings commenced by … any agency”
+of the United States. In contrast, the second proviso of Section 13(b) authorizes
+the FTC to sue and specifies the remedial powers of the court.
+5
+
+… may bring suit in a district court of the United States to enjoin any such act or
+practice.” 15 U.S.C. § 53(b). The statute confirms that the Commission may use
+this authority to obtain either (1) “preliminary” equitable relief in aid of an
+administrative proceeding or (2) “permanent” equitable relief in a stand-alone
+federal court proceeding. The latter option is the subject of the “second proviso” in
+Section 13(b): “[p]rovided further, [t]hat in proper cases the Commission may
+seek, and after proper proof, the court may issue, a permanent injunction.” Id.
+Read as a whole, Section 13(b) thus authorizes the agency to invoke federal court
+jurisdiction for the violation of “any provision of law enforced by the Federal
+Trade Commission,” which necessarily includes “unfair acts or practices” under
+Sections 5(a) and 5(n) of the FTC Act. See FTC v. H.N. Singer, Inc., 668 F.2d
+1107, 1111 (9th Cir. 1982); FTC v. United States Oil & Gas Corp., 748 F.2d 1431,
+1434 (11th Cir. 1984); FTC v. World Travel Vacation Brokers, Inc., 861 F.2d
+1020, 1028 (7th Cir. 1988).
+As courts have consistently concluded, see Section III, infra, the “proper
+cases” language does not further limit the cases in which the Commission may
+“seek” permanent equitable relief. Instead, it leaves to the FTC’s discretion the
+cases in which it wishes to invoke judicial rather than administrative enforcement.
+The word “proper,” used repeatedly throughout Section 13(b), simply means
+“appropriate” or “suitable.” See American Heritage Dictionary of the English
+
+6
+
+Language at 1452 (3d ed. 1992). A proper case is any case in which a permanent
+injunction would be appropriate: i.e., any case, as Section 13(b) indicates at the
+start, in which a law enforced by the FTC has been violated and equitable remedies
+are needed for consumers. Congress has often used the term “proper case” in
+similar ways—as a grant, not a limitation, of authority. 4 If Congress had meant to
+limit the availability of district court proceedings to “routine fraud” cases or to
+subjects the Commission had already addressed at some particular level of
+specificity, it would have said so directly. It would not have used a term
+(“proper”) with such a broad and permissive meaning.
+At argument, the Court asked whether the legislative history might support a
+narrower interpretation of “proper case” that encompasses only “routine fraud”
+cases. Arg. Trx. 35:8-23. The short answer is no. As an initial matter, snippets of
+legislative history cannot supply limitations that are absent from the statutory text.
+See, e.g., Graham Cty. Soil & Water Cons. Dist. V. U.S. ex rel. Wilson, 559 U.S.
+280, 291-92 (2010); American Tobacco Co. v. Patterson, 456 U.S. 63, 75 (1982).
+
+4
+
+See 9 U.S.C. § 7 (arbitrator may “in a proper case” require production of
+documentary evidence); 48 U.S.C. § 872 (district courts in Puerto Rico “may grant
+writs of mandamus in all proper cases”); 28 U.S.C. § 1605(c) (“Nothing shall
+preclude the plaintiff in any proper case from seeking relief in personam in the
+same action brought to enforce a maritime lien ….”); Fed. R. Civ. P. 19(a)(2) (“A
+person who refuses to join as a plaintiff may be made …, in a proper case, an
+involuntary plaintiff.”).
+7
+
+In any event, nothing in this legislative history supports a “routine fraud” limitation
+in the first place.
+In the passage read by the Court at argument, the Senate Report identifies, as
+an example of when the FTC might choose to proceed directly in court, “the
+routine fraud case … in which [the FTC] does not desire to further expand upon
+the prohibitions of the Federal Trade Commission Act through the issuance of a
+cease-and-desist order.” S. Rep. 93-151 at 31 (emphasis added). But this passage
+identifies only the obvious case in which, as Congress understood, the Commission
+would not “desire” to conduct an administrative adjudication but would prefer to
+pursue the broader remedies, such as equitable monetary relief, available under
+Section 13(b). The passage does not suggest a constraint on the Commission’s
+discretion; instead, it confirms that Congress intended to enable the Commission to
+choose Section 13(b) remedies, as it “desire[d],” id., for any case within its
+jurisdiction. Indeed, the same Report confirms that the law was meant to establish
+“expanded powers for a revitalized Federal Trade Commission, to enable it to
+protect consumers … [more] effectively,” by, inter alia, “permit[ting] the
+commission to obtain” a permanent judicial injunction “against any act or practice
+which is unfair or deceptive to a consumer.” S. Rep. 93-151 at 9, 30 (emphasis
+added). In Senate debate, Senator Hart explained that the law “provides the
+Federal Trade Commission with vital antitrust … enforcement powers—the power
+
+8
+
+to … seek preliminary and permanent injunctions where necessary.” 119 Cong.
+Rec. 23,620 (daily ed. July 12, 1973) (Statement of Sen. Philip Hart).
+At argument, the Court also referred to a 1995 FTC opinion authored by
+Commissioner Starek, see Arg. Trx. at 36:12-19, but that opinion also interprets
+Section 13(b) in the same broad way. The opinion noted that the Commission may
+invoke the second proviso of Section 13(b) where it “concludes that a case presents
+no issues warranting detailed administrative consideration,” but it did not say it
+could invoke Section 13(b) only in such cases. Rather, the Commission
+emphasized that Congress left the “choice whether to request such relief … solely
+within the Commission’s discretion.” R.R. Donnelley & Sons Co., 120 F.T.C. 36,
+147 n.23 (1995) (emphasis added).
+Finally, there is nothing at all unusual about Congress’s decision to give the
+Commission a choice between administrative and judicial litigation for violations
+of Section 5. As Congress understood, district courts often resolve very similar
+cases in other contexts and are well-equipped to do so. For example, district courts
+routinely resolve the difficult and novel legal and factual issues that arise in patent
+litigation about evolving technologies and in personal injury cases involving
+conflicting medical evidence and disputed standards of care. The questions
+presented in this case are certainly no more challenging for a district court to
+address. Indeed, if the evidence confirms the complaint’s allegations that
+
+9
+
+Wyndham failed to use reasonable security measures, such as changing default
+passwords and encrypting consumer data, this case will be easier to resolve than
+many other types of cases commonly filed in district court.
+III.
+
+ANY NEW SUBJECT-MATTER LIMITATION ON SECTION 13(b) ACTIONS
+WOULD CONTRADICT YEARS OF ANTITRUST AND CONSUMERPROTECTION CASE LAW
+Consistent judicial precedent confirms that the “proper cases” language does
+
+not limit the Commission’s authority to invoke Section 13(b) to redress violations
+of Section 5 to subjects the Commission has already addressed. Numerous courts
+have held that a “proper case” is any case that the Commission chooses to bring
+directly in court for violation of an FTC-enforced statute. See, e.g., FTC v. Evans
+Products Co., 775 F.2d 1084, 1087 (9th Cir. 1985); H.N. Singer, Inc., 668 F.2d at
+1113; World Travel Vacation Brokers, 861 F.2d at 1028; FTC v. Mylan Labs., Inc.,
+62 F. Supp. 2d 25, 36 (D.D.C. 1999); FTC v. Virginia Homes Mfg. Co., 509 F.
+Supp. 51, 54 (D. Md. 1981), aff’d mem., 661 F.2d 920 (4th Cir. 1981); FTC v.
+Ameridebt, 373 F. Supp. 2d 558 (D. Md. 2005). No court has dismissed an FTC
+complaint on the ground that it was not “proper” under Section 13(b). Nor has
+Congress amended Section 13(b) to counteract that unanimous precedent, even
+though it has repeatedly amended the FTC Act over the four decades since Section
+13(b) was enacted. See, e.g., FTC Br. 5 (discussing 1994 amendments).
+With similar consistency, courts have repudiated “attempt[s] to limit § 13(b)
+
+10
+
+to cases involving ‘routine fraud’ or violations of previously established FTC
+rules.” Evans Products, 775 F.2d at 1087 (citing H.N. Singer, 668 F.2d at 1111).
+In Evans, for example, the Ninth Circuit rejected that argument and held instead
+that “Congress … gave the district court authority to grant a permanent injunction
+against violations of any provisions of law enforced by the Commission.” Id. In
+another case, the Seventh Circuit noted the consensus of “several other courts” that
+Section 13(b) “permits the FTC to proceed under the last proviso of section 13(b)
+for any violation of a statute administered by the FTC,” although it did not need to
+reach that issue because Section 13(b) would have covered the case before it under
+any interpretation. World Travel Vacation Brokers, 861 F.2d at 1028.
+Several district courts have also adopted that same consensus position. As
+one court explained, in rejecting the argument that Section 13(b) does not apply to
+complex antitrust cases: “Although the permanent injunction proviso speaks of
+‘proper cases,’ there is nothing in the statute, regulations or case law restricting the
+statutory term ‘proper cases’ to per se violations of the antitrust laws.” The court
+held that the second proviso “may be used to enjoin violations of ‘any provision of
+law’ enforced by the FTC.” Mylan Labs., 62 F. Supp. 2d at 36; accord Virginia
+Homes, 509 F. Supp. at 54 (Section 13(b) “by its very terms applies to violations of
+‘any provision of law enforced by the FTC.’”); Ameridebt, 373 F. Supp. 2d 558.
+That proposition has now become such settled black-letter law that it is
+
+11
+
+rarely, if ever, litigated, and Section 13(b) has become an integral component of
+the FTC’s enforcement activities. Invoking Section 13(b), the FTC commonly
+files non-“routine” consumer protection cases that involve new legal theories,
+complex facts, and expert testimony. In addition to the Neovi and Accusearch
+cases discussed in the FTC’s brief and at oral argument (FTC Br. 28-29; Arg. Trx.
+31:5-32:25), many district courts have heard FTC cases presenting novel
+applications of Section 5 without a prior Commission administrative adjudication. 5
+5
+
+In Ameridebt, for example, the court explicitly found “proper” a case presenting
+“novel and difficult legal issues” in which the Commission alleged violations of
+Section 5 in the marketing of debt management services against a purported nonprofit entity. 373 F. Supp. 2d at 562. In FTC v. Seismic Entertainment
+Productions, Inc., 2004 WL 2403124 at *3 (D. N.H. 2004) (unreported), the court
+issued preliminary relief without questioning whether the case was proper. That
+case involved the “new arena of internet advertising” in which the defendant
+remotely placed “adware” on consumers’ computers that did “not necessarily fit
+easily into the traditional concepts of unfair and deceptive acts and practices”). In
+many other cases, the Commission has filed and settled complaints involving novel
+issues and neither the courts nor the parties questioned whether the cases were
+“proper.” E.g., FTC v. D Squared Solutions, LLC, No. 03-cv-3018 (D. Md. Oct.
+2003) (Commission’s first case alleging unfair practice to use a computer program
+to barrage consumers with pop-up ads); FTC v. Certified Merchant Servs., Ltd, No.
+4:02-cv-44 (E.D. Tex. Feb. 2002) (Commission’s first case alleging unfairness
+against a payment processor that debited customer accounts without authorization);
+FTC v. Cornerstone & Co., LLC, No. 14-cv-01479 (D.D.C. Aug. 2014)
+(Commission alleged for first time that a debt broker’s failure to take adequate
+measures to prevent disclosure of consumers’ sensitive personal information
+without consent is an unfair practice); U.S. v. ChoicePoint, Inc., No. 1-06-CV0198
+(N.D. Ga. Jan. 2006) (Commission authorized Department of Justice to seek
+injunction and civil penalties pursuant to Sections 5 and 13(b) alleging for first
+time that consumer reporting agency’s failure to employ adequate measures to
+authenticate the identities of prospective subscribers or monitor unauthorized
+subscriber activity was unfair); FTC v. Pricewert, LLC, No. 09-CV-2407 (N.D.
+12
+
+And many district courts have likewise adjudicated consumer-protection cases that
+turn on non-routine issues, such as the level of scientific evidence needed to
+substantiate advertising claims in particular contexts. See, e.g., FTC v. Direct
+Mktg. Concepts, Inc., 569 F. Supp. 2d 285, 303 (D. Mass. 2008), aff’d, 624 F.3d 1
+(1st Cir. 2010); FTC v. QT, Inc., 448 F. Supp. 2d 908, 938-48 (N.D. Ill. 2006),
+aff’d, 512 F.3d 858 (7th Cir. 2008).
+In addition, although this happens to be a consumer-protection case, many
+Section 13(b) cases arise under the Commission’s parallel antitrust authority to
+combat “unfair methods of competition.” These antitrust cases often involve
+singularly non-“routine” issues of law and economics. For example, the Supreme
+Court recently decided a Section 13(b) case that involved the complex interplay of
+antitrust and patent law and, in particular, the antitrust dimensions of settlements of
+pharmaceutical patent infringement law suits that resulted in “reverse payments”
+from plaintiffs to defendants. FTC v. Actavis, Inc., 133 S. Ct. 2223 (2013). If
+Section 13(b) applied only to “routine” cases or “fraud” cases, Actavis should
+never have reached the Supreme Court, let alone been decided by it.
+Cal. June 2009) (Commission’s first case alleging unfair practice to host a website
+that distributes malicious and illegal content including spyware and spam); FTC v.
+Zuccarini, No. 01-CV-4854 (E.D. Pa. 2001) (Commission’s first case alleging
+unfair practice to “mousetrap” unsuspecting consumers' web browsers to
+defendant’s website to deliver a series of pop-up advertisements); FTC v.
+Amazon.com, Inc., No. 2:14-cv-01038 (W.D. Wash. July 2014) (Commission
+alleges unfair to bill account-holder parents for charges incurred by their children
+without account holder consent).
+13
+
+If this Court were to part with its sister courts and impose new subjectmatter limitations on Section 13(b), its ruling would cast doubt on a substantial
+portion of the FTC’s enforcement program for antitrust as well as consumerprotection cases. At a minimum, such a ruling would trigger threshold litigation as
+to whether an alleged violation is sufficiently “routine” for the Commission to
+proceed to federal court without an administrative adjudication, and there would be
+no clear standards for resolving that issue.
+Finally, any ruling that non-“routine” cases must be handled
+administratively, while other matters may be heard in federal court, could lead to
+wasteful piecemeal proceedings. For example, the FTC often couples an
+unfairness count with other counts charging deception or regulatory violations
+arising out of the same conduct; indeed, it has done so in this very case. 6 If this
+Court were to rule that certain types of cases may be brought under Section 13(b)
+only if they are “routine” in some undefined sense, the FTC would be forced to
+conduct administrative proceedings on one theory of liability and litigate a parallel
+Section 13(b) case in order to obtain otherwise unavailable equitable remedies.
+Such claim-splitting would result in wastefully duplicative proceedings in two
+tribunals hearing the same facts. The FTC could avoid that irrational result only by
+abandoning either (1) the claim consigned to the administrative process or (2) the
+6
+
+The deception count remains pending before the district court. See Arg. Trx.
+7:19-8:3.
+14
+
+remedies that are available only under Section 13(b). Congress could not have
+intended such aberrant outcomes when it gave the FTC discretion to choose
+between administrative and judicial proceedings to redress violations of Section 5.
+That is further confirmation that Congress intended the permissible subject matter
+of Section 13(b) cases to extend as far as the permissible subject matter of FTC
+administrative adjudications.
+Respectfully submitted,
+/s/ Joel Marcus
+JONATHAN E. NUECHTERLEIN
+General Counsel
+Of Counsel:
+
+DAVID C. SHONKA
+Principal Deputy General Counsel
+
+KEVIN H. MORIARTY
+JAMES A. TRILLING
+KATHERINE E. MCCARRON
+Attorneys
+Bureau of Consumer Protection
+
+JOEL MARCUS (D.C. BAR NO. 428680)
+DAVID SIERADZKI
+Attorneys
+FEDERAL TRADE COMMISSION
+600 Pennsylvania Avenue, N.W.
+Washington, D.C. 20580
+(202) 326-3350
+
+March 27, 2015
+
+15
+
+CERTIFICATE OF SERVICE
+I Certify that on March 27, 2015, I electronically filed the foregoing
+Supplemental Memorandum with the clerk of the Court for the United States Court
+of Appeals for the Third Circuit by using the appellate CM/ECF system. All
+parties to this case will be served by the CM/ECF system.
+/s/ Joel Marcus
+
+CERTIFICATE OF PERFORMANCE OF VIRUS CHECK
+I certify that on March 27, 2015, I performed a virus check on the
+electronically filed copy of this Supplemental Memorandum using Symantec
+Endpoint Protection version 12.1.4112.4516 (last updated March 26, 2015). No
+virus was detected.
+/s/ Joel Marcus
+
+CERTIFICATE OF IDENTICAL COMPLIANCE
+I certify that the text of the electronically filed Supplemental Memorandum
+is identical to the text of the copies that were sent on March 27, 2015, to the Clerk
+of the Court of the United States Court of Appeals for the Third Circuit.
+/s/ Joel Marcus
+
+CERTIFICATE OF COMPLIANCE WITH TYPEFACE
+AND TYPE STYLE REQUIREMENTS
+This Supplemental Memorandum complies with the typeface requirements
+of Fed. R. App. P. 32(a)(5) and the type style requirements of Fed. R. App. P.
+32(a)(6) because this Supplemental Memorandum has been prepared in a
+proportionally spaced typeface using Microsoft Word 2010, in 14-point Times
+New Roman.
+/s/ Joel Marcus
+
+

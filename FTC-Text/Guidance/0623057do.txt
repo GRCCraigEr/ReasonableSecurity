@@ -1,0 +1,232 @@
+062 3057
+UNITED STATES OF AMERICA
+BEFORE FEDERAL TRADE COMMISSION
+COMMISSIONERS:
+
+Deborah Platt Majoras, Chairman
+Pamela Jones Harbour
+Jon Leibowitz
+William E. Kovacic
+J. Thomas Rosch
+
+In the Matter of
+GUIDANCE SOFTWARE, INC.,
+a corporation.
+
+)
+)
+)
+)
+)
+)
+
+DOCKET NO. C-4187
+DECISION AND ORDER
+
+The Federal Trade Commission having initiated an investigation of certain acts and practices of the
+Respondent named in the caption hereof, and the Respondent having been furnished thereafter with
+a copy of a draft Complaint that the Bureau of Consumer Protection proposed to present to the
+Commission for its consideration and which, if issued by the Commission, would charge the
+Respondent with violation of the Federal Trade Commission Act, 15 U.S.C. § 45 et seq;
+The Respondent, its attorney, and counsel for the Commission having thereafter executed an
+Agreement Containing Consent Order (“Consent Agreement”), an admission by the Respondent of
+all the jurisdictional facts set forth in the aforesaid draft Complaint, a statement that the signing of
+said Consent Agreement is for settlement purposes only and does not constitute an admission by
+Respondent that the law has been violated as alleged in such Complaint, or that the facts as alleged
+in such Complaint, other than jurisdictional facts, are true, and waivers and other provisions as
+required by the Commission's Rules; and
+The Commission having thereafter considered the matter and having determined that it has reason
+to believe that the Respondent has violated the said Act, and that a Complaint should issue stating
+its charges in that respect, and having thereupon accepted the executed Consent Agreement and
+placed such Consent Agreement on the public record for a period of thirty (30) days, and having duly
+considered the comments filed thereafter by interested persons pursuant to Section 2.34 of its Rules,
+now in further conformity with the procedure described in Section 2.34 of its Rules, the Commission
+
+Page 1 of 6
+
+hereby issues its Complaint, makes the following jurisdictional findings and enters the following
+Order:
+1.
+Proposed respondent Guidance Software, Inc. is a California corporation with its
+principal office or place of business at 215 N. Marengo Avenue, Pasadena, California, 91101.
+2
+The Federal Trade Commission has jurisdiction of the subject matter of this
+proceeding and of the Respondent, and the proceeding is in the public interest.
+ORDER
+DEFINITIONS
+For purposes of this order, the following definitions shall apply:
+1.
+“Personal information” shall mean individually identifiable information from or
+about a consumer including, but not limited to: (a) a first and last name; (b) a home or other physical
+address, including street name and name of city or town; (c) an email address or other online contact
+information, such as an instant messaging user identifier or a screen name that reveals a consumer’s
+email address; (d) a telephone number; (e) a Social Security number; (f) credit or debit card
+information, including card number, expiration date, and numerical security code; (g) a persistent
+identifier, such as a customer number held in a “cookie” or processor serial number, that is combined
+with other available data that identifies a consumer; or (h) any other information from or about a
+consumer that is combined with (a) through (g) above.
+2.
+Unless otherwise specified, “respondent” shall mean Guidance Software, Inc. and its
+successors and assigns, officers, agents, representatives, and employees.
+3.
+“Commerce” shall mean as defined in Section 4 of the Federal Trade Commission
+Act, 15 U.S.C. § 44.
+
+I.
+IT IS ORDERED that respondent, directly or through any corporation, subsidiary, division,
+or other device, in connection with the online advertising, marketing, promotion, offering for sale,
+or sale of any product or service, in or affecting commerce, shall not misrepresent in any manner,
+expressly or by implication, the extent to which respondent maintains and protects the privacy,
+confidentiality, security, or integrity of any personal information collected from or about consumers.
+II.
+IT IS ORDERED that respondent, directly or through any corporation, subsidiary, division,
+Page 2 of 6
+
+or other device, in connection with the advertising, marketing, promotion, offering for sale, or sale
+of any product or service, in or affecting commerce, shall, no later than the date of service of this
+order, establish and implement, and thereafter maintain, a comprehensive information security
+program that is reasonably designed to protect the security, confidentiality, and integrity of personal
+information collected from or about consumers. Such program, the content and implementation of
+which must be fully documented in writing, shall contain administrative, technical, and physical
+safeguards appropriate to respondent’s size and complexity, the nature and scope of respondent’s
+activities, and the sensitivity of the personal information collected from or about consumers,
+including:
+A.
+the designation of an employee or employees to coordinate and be accountable for
+the information security program.
+B.
+the identification of material internal and external risks to the security,
+confidentiality, and integrity of personal information that could result in the unauthorized
+disclosure, misuse, loss, alteration, destruction, or other compromise of such information,
+and assessment of the sufficiency of any safeguards in place to control these risks. At a
+minimum, this risk assessment should include consideration of risks in each area of relevant
+operation, including, but not limited to: (1) employee training and management; (2)
+information systems, including network and software design, information processing,
+storage, transmission, and disposal; and (3) prevention, detection, and response to attacks,
+intrusions, or other systems failures.
+C.
+the design and implementation of reasonable safeguards to control the risks identified
+through risk assessment, and regular testing or monitoring of the effectiveness of the
+safeguards’ key controls, systems, and procedures.
+D.
+the development and use of reasonable steps to retain service providers capable of
+appropriately safeguarding personal information they receive from respondent, requiring
+service providers by contract to implement and maintain appropriate safeguards, and
+monitoring their safeguarding of personal information.
+E.
+the evaluation and adjustment of respondent’s information security program in light
+of the results of the testing and monitoring required by subparagraph C, any material changes
+to respondent’s operations or business arrangements, or any other circumstances that
+respondent knows or has reason to know may have a material impact on the effectiveness of
+its information security program.
+III.
+IT IS FURTHER ORDERED that, in connection with its compliance with Paragraph II of
+this order, respondent shall obtain initial and biennial assessments and reports (“Assessments”) from
+a qualified, objective, independent third-party professional, using procedures and standards generally
+Page 3 of 6
+
+accepted in the profession. The reporting period for the Assessments shall cover: (1) the first one
+hundred and eighty (180) days after service of the order for the initial Assessment, and (2) each two
+(2) year period thereafter for ten (10) years after service of the order for the biennial Assessments.
+Each Assessment shall:
+A.
+set forth the specific administrative, technical, and physical safeguards that
+respondent has implemented and maintained during the reporting period;
+B.
+explain how such safeguards are appropriate to respondent’s size and complexity, the
+nature and scope of respondent’s activities, and the sensitivity of the personal information
+collected from or about consumers;
+C.
+explain how the safeguards that have been implemented meet or exceed the
+protections required by Paragraph II of this order; and
+D.
+certify that respondent’s security program is operating with sufficient effectiveness
+to provide reasonable assurance that the security, confidentiality, and integrity of personal
+information is protected and has so operated throughout the reporting period.
+Each Assessment shall be prepared and completed within sixty (60) days after the end of the
+reporting period to which the Assessment applies by a person qualified as a Certified Information
+System Security Professional (CISSP) or as a Certified Information Systems Auditor (CISA); a
+person holding Global Information Assurance Certification (GIAC) from the SysAdmin, Audit,
+Network, Security (SANS) Institute; or a similarly qualified person or organization approved by the
+Associate Director for Enforcement, Bureau of Consumer Protection, Federal Trade Commission,
+Washington, D.C. 20580.
+Respondent shall provide the initial Assessment, as well as all: plans, reports, studies, reviews,
+audits, audit trails, policies, training materials, and assessments, whether prepared by or on behalf
+of respondent, relied upon to prepare such Assessment to the Associate Director for Enforcement,
+Bureau of Consumer Protection, Federal Trade Commission, Washington, D.C. 20580, within ten
+(10) days after the Assessment has been prepared. All subsequent biennial Assessments shall be
+retained by respondent until the order is terminated and provided to the Associate Director of
+Enforcement within ten (10) days of request.
+IV.
+IT IS FURTHER ORDERED that respondent shall maintain, and upon request make
+available to the Federal Trade Commission for inspection and copying, a print or electronic copy of
+each document relating to compliance, including but not limited to:
+A.
+for a period of five (5) years: any documents, whether prepared by or on behalf of
+respondent, that contradict, qualify, or call into question respondent’s compliance with this
+Page 4 of 6
+
+order; and
+B.
+for a period of three (3) years after the date of preparation of each biennial
+Assessment required under Paragraph III of this order: all plans, reports, studies, reviews,
+audits, audit trails, policies, training materials, and assessments, whether prepared by or on
+behalf of respondent, relating to respondent’s compliance with Paragraphs II and III of this
+order for the compliance period covered by such biennial Assessment.
+V.
+IT IS FURTHER ORDERED that respondent shall deliver a copy of this order to all current
+and future principals, officers, directors, and managers, and to all current and future employees,
+agents, and representatives having managerial responsibilities relating to the subject matter of this
+order. Respondent shall deliver this order to such current personnel within thirty (30) days after
+service of this order, and to such future personnel within thirty (30) days after the person assumes
+such position or responsibilities.
+VI.
+IT IS FURTHER ORDERED that respondent shall notify the Commission at least thirty
+(30) days prior to any change in the corporation that may affect compliance obligations arising under
+this order, including, but not limited to, a dissolution, assignment, sale, merger, or other action that
+would result in the emergence of a successor corporation; the creation or dissolution of a subsidiary,
+parent, or affiliate that engages in any acts or practices subject to this order; the proposed filing of
+a bankruptcy petition; or a change in either corporate name or address. Provided, however, that, with
+respect to any proposed change in the corporation about which respondent learns less than thirty (30)
+days prior to the date such action is to take place, respondent shall notify the Commission as soon
+as is practicable after obtaining such knowledge. All notices required by this Paragraph shall be sent
+by certified mail to the Associate Director, Division of Enforcement, Bureau of Consumer
+Protection, Federal Trade Commission, Washington, D.C. 20580.
+VII.
+IT IS FURTHER ORDERED that respondent shall, within one hundred and eighty (180)
+days after service of this order, and at such other times as the Commission may require, file with the
+Commission an initial report, in writing, setting forth in detail the manner and form in which it has
+complied with this order.
+VIII.
+This order will terminate on March 30th, 2027, or twenty (20) years from the most recent date
+that the United States or the Federal Trade Commission files a complaint (with or without an
+accompanying consent decree) in federal court alleging any violation of the order, whichever comes
+Page 5 of 6
+
+later; provided, however, that the filing of such a complaint will not affect the duration of:
+A.
+
+any Paragraph in this order that terminates in less than twenty (20) years;
+
+B.
+this order’s application to any respondent that is not named as a defendant in such
+complaint; and
+C.
+this order if such complaint is filed after the order has terminated pursuant to this
+Paragraph.
+Provided, further, that if such complaint is dismissed or a federal court rules that respondent did not
+violate any provision of the order, and the dismissal or ruling is either not appealed or upheld on
+appeal, then the order will terminate according to this Paragraph as though the complaint had never
+been filed, except that the order will not terminate between the date such complaint is filed and the
+later of the deadline for appealing such dismissal or ruling and the date such dismissal or ruling is
+upheld on appeal.
+By the Commission.
+
+Donald S. Clark
+Secretary
+SEAL:
+ISSUED: March 30th , 2007
+
+Page 6 of 6
+
+

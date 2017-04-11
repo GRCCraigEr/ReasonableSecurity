@@ -1,0 +1,902 @@
+Exhibit A
+
+Understanding TRUSTe's Privacy Requirements
+
+http:// www. truste.c om/privacy-program-requirements/
+
+Events
+
+Blog
+
+Newsletter
+
+T RUSTe
+
+e
+Privacy Program Requirements
+Home
+
+Pri Vc:~cy
+
+Program Requfrements
+
+Understanding Program Requirements
+
+TRUSTe Program Requirements
+I. Structure
+TRUSTed Websites requires compliance with the <ollowing prog'am recu·tremerts. Upon sat1sfacto:y certification
+TRUSTe provides companies with a TRUSTe Privacy Seal as evidence o< compliance - certified compan:es must
+display this sea! on their website privacy policy page and may elect to place tt:e seal on addi!iona! webpages as we!l.
+
+TRUSTe Products
+TRUSTed Websites
+For eComrP.erce and content
+websites
+EU Safe Harbor
+Global reach with EU Sa!e Harbor
+
+II. Definitions
+The following definit;ons shall apply t:erein:
+
+A. "Behavioral Targeting" is the collection and use of information on an Individual's Online activity over a period of
+time for the purpose of developing and using predictive models to determine potential future behavior or
+
+Children's Privacy
+For web sites who market to chi'dren
+Mobile Privacy
+Certify your mobile apps and
+websites
+
+interests
+B. "Clear and Conspicuous" means a notice that is reasonably easy to find, and easily understandable in terms of
+content and style to the average reader.
+C. "Expressed Consent" means the affirmative consent (opt-in) to a practice by the Individual, after being provided
+notice, but prior to implementing the practice,
+
+TRUSTed Email
+Achieve email privacy certification
+TRUSTed Ads
+Ad privacy compliance just got easier
+
+D. "Foreign Language Privacy Statement" is the Participant's Privacy Statement translated into a language other
+than English.
+E. "Gee-location Data" is information obtained through an Individual's use of a Mobile Device and is used to
+identify or describe the Individual's actual physical location at a given point in time.
+F. "Individual" means the discrete person to whom the collected information pertains.
+G "Inferred Consent" means consent which is implied by an Individual, regarding the collection, use, disclosure,
+distribution of Pll after notice and opportunity to withdraw consent ( opt-out) is given by Participant, but not
+taken by the Individual.
+H. "Material Change" means degradation in the rights or obligations regarding the collection, use, or disclosure of
+Pll for an Individual. This usually includes changes to Participant's:
+1
+
+Practices regard ing notice, collection, use, and disclosure of Pll and/or Third Pa rty Personally
+Identifiable Information;
+
+2. Practices regard ing user choice and consent to how Pll and/or Third Party Personally Identifiable
+Information is used and shared; or
+3. Measures for information security, integrity, access, or individual redress
+"Mobile Device" is a portable electronic gee-location enabled device which allows the user to process, receive,
+and send data without being limited to a specific geographical location.
+"Online" is the state where an Individual is connected by computer or Mobile Device to one or more other
+compL1ers, Mobile Devices, or networks, as through a commercial electronic information service or the internet.
+K. "Participant" means the entity that has entered into an agreement with TRUSTe to participate in the TRUSTe
+program(s) and agreed to comply with the program requirements included therein.
+
+L. "Personally Identifiable Information ~PII]" means any information or combination of information that can be used
+to :dentify, contact, or locate a discrete Individual.
+M. "Primary Purpose" means use of Pll that is reasonably expected by the Individual (i) at tl1e point of collection;
+and (ii) including compatible uses in features and services to the Individual that do not materially change
+expectations of user control and third party sharing. Such use may be at least those uses described in the
+Participant's terms of service governing the Participant's products or services which give rise to the Individual's
+!nteraction with the Participant.
+N. "Privacy Statement" shall mean the statements of Participant's information collection and usage practices, as
+st.:ch pr actices are updated from time to time. Participant's Privacy Statement includes, but is not limited to:
+1. A single, comprehensive statement of all the Participant's i!1formation practices ("Comprehensive Privacy
+
+1 of 12
+
+TRUSTed Downloads
+Certify your downloads to be safe
+
+Understanding TRUSTe's Privacy Requirements
+
+http: Ilwww.truste.com!pri vacy-program-requirements/
+
+Statement");
+2. A summary notice tlghlighting the Participant's informa:ion practices ("Short Notice"); or
+3. Disclosure of specific ir.format:on practices posted at the point of irJormation coliec!ion ("Just in Time
+t-k>tice'').
+0 . "Pl.blicly Available Information :PAl)" means any 'rtormat:on reasonably believed to be lawfully made ava~ab'e
+to the general puolic from:
+1. Federal, state or toea: governr.1ent •ecords;
+2. Widely available source(s) haV:ng no additional prohibition around onward trar.sfer or ~se ; or
+3. Disclosures to the general pubiic that are required to be made by federal, state or roca: law.
+P. Recipient" means t'le Ind ividual who receives an Email Message.
+
+Q . "Retargeting" is a form of behavioral advertising by which o~lir;e advertising is delivered to an Individual based
+upon the Individual's previous online actions.
+
+R. "Search Engine" is a publicly facing service that conects and organizes content from across the internet for the
+primary purpose of responding to a search request. Such service may not retain information beyond caching or
+ether service enhancing techniques, or use the irlormatfon to create a persistent profile of the Individual for
+purposes other than enhancing search techniques.
+S. "Secondary Ptrpose" is the use of Pll in a way that is not reasonably expected by the Individual relative to the
+transactions or ongoing services provided to the Individual by Participant or the Participant's Service Provider.
+Such p trpose may or rr.ay not be described by Participant's tenns of service governing Participant's products
+or services which give rise to the Individual's interaction w ith t he Participant
+
+T. "Service Pr ovider" is anyone other than the Participant or the Individual that performs, or assists in the
+performance of, a function or activity which may involve the use or disclosure of Pll or Third Party Pll. Such use
+must only be on behalf of Participant or Individual and only for the purpose of performing or assisting in that
+specific function or activity as agreed to by the Participant and Individual.
+U. "Social Network" is an online service that offers the following features:
+1. A platform that enables the interaction between two or more Individuals for the purpose of creating
+social or business relationships, and sharing of information;
+2. Functionality that enables Individuals to create a profile that Includes information of their own choosing
+such as photos, and links to personal pages of other connected Individuals (e.g. friends, business
+contacts):
+3. Mechanisms to communicate w ith other Individuals such as instant messenger, email, or posting to a
+p rofile or newsfeed; and
+4. Search functional ~y that enables Individuals t o search for other Individuals that is based ~on that
+Individual's preferences.
+
+V. "Third Party(le s)" ts an entity (ies) o ther than the Participant or the Individual which is not directly affiliated with
+the Partic ipant; and, if aff~iated w it h the Participant, where such affiliation Is not r easonably known t o the
+Individual.
+W
+
+'T hird Party Personally Identifiable Information [Third Party Pll]" means Pll t hat is collected by Participant from
+an entity other than t he Individual
+
+lit. Minimum Program Requirements
+A. All Participants wanting to be certified that their Online information collection and use practices compiy with
+
+TRUSTe's Privacy Program Requ'rements must comply with the foi owing requirements:
+B. PartiCipant
+
+Accountab~ity
+
+1 . Participant shall have processes in place to comply with these Program Requirements
+2. Qooperation with TRUSTe
+a. Provide, at no charge to TRUSTe or its r epresentatives, fl~l access to the Online properties (i.e.,
+ir.cluding password access to premium or members on:y areas) for the ptrpose of conducting
+reviews to ensure that Participant's Privacy Statement(s) is consistent w ith actual practices.
+b. Provide, upor. TRUSTe's reasonable request. information regarding how PII gathered from andlor
+tracked through Partic ipant's O~line properties is used.
+
+2 of12
+
+http: Ilwww. truste. com/privacy-program-requirements/
+
+Understanding TRUSTe's Privacy Requirements
+
+3. Ann :.:aI Reclillili_!;.<!.ti.o.D
+a. Partic;pant shall t:ndergo re-certification to veri~ ongoing compliance with t'lese Program
+Requi~emer~ts
+
+ar.nua::y.
+
+4. Termination for Material Breach
+a. In the evert TRUSTe reasonab:'y believes !he Participant !-.as rr.aterially breact:ed these Program
+Requiremerots). TRUSTe rP.ay terminat e the Participant's participation in tflis program upon twenty
+(20) business days' prior writter notice ("Notice of Termir.a!lQn") :~rress the breach is correc!ed
+w~hin
+
+the same twenty (20) btJSiness day period
+
+("C:~re
+
+Period").
+
+b. Materia~ breaches of these Progra~ Req~irements inci:Jde b:i. are not limited to:
+1 . Participant's conti.,ual. in!er~t:onal. and material failure to adhere to these Program
+Requirements;
+2. Participant's material faii:Jre to perm~ or cooperate with a TRUSTe !nvestigation or rev!ew
+of Participant's Online properties or practices pursuant to the Program Requirer1ents;
+3. Participant's continou-ai, ir.tentiona:, and r:1aterial fai!ure to comply with any Suspension
+Obligat:ons;
+4 . Participant's material failu'e to cooperate with TRUSTe regarding an avd~. complaint or the
+compliance monitoring activities of TRUSTe; or
+5. Any deceptive trade practices by the Participant
+
+5. Suspension Status
+a. In the event TRUSTe reasonably believes that Participant has materially violated these Program
+Requirements, Participant may be placed on suspension.
+1. Notice will be provided with a mutually agreed upon description of the violation and any
+remedial actions that TRUSTe will require Participant to take during the Suspension Period
+("Su~ension
+
+0 bliqations").
+
+2. Participant will be considered to be on Suspension immediately upon receiving notice from
+TRUSTe. Suspension shall last until such time as the Participant has corrected the material
+breach or Program Requirements violation to TRUSTe's satisfaction, but not for a period of
+greater than six (6) months ("Suspension Period") LJ'lless mutually agreed by the Parties.
+3. Suspension Obligations may include, but are not limited to:
+a. Compliance wrth additional Program Requirements;
+b. Cooperation with heightened compliance monitoring by TRUSTe: and
+c. Payment to TRUSTe of mutually agreed additional amol.f'lts as compensation for
+TRUSTe's additional compliance momorinq_
+d. Participant shall comply w ithal! Suspension Obligations.
+4. D\.l'inq the Suspension Period, Participant's status may be indicated via a TRUSTe
+Validation webpage or TRUSTe may require Participant to cease using the TRUSTe
+trustmarks.
+5. At the end of the Suspension Period. TRUSTe will, In its discretion. either:
+a. Determine that Participant has complied with Participant's Suspension Obligations,
+thereby satisfying TRUSTe's concerns;
+b. Extend the Suspension Period by mutual agreement with the Participant; or
+c. Determine that Participant has failed to comply with Participant's Suspension
+Obligations and immediately terminate Participant for cause.
+
+C. Privacy Practices
+
+The following requirements apply if the Participant collects PII :
+1. Col:ection Limitation
+a. Participant shall only collect Pll where sue~ collection :S:
+1. Limited to infocmation reasonably usefu! for the purpose for which it was coliected and in
+accordance wi:h tr.e Participant's Privacy Statement in effect at tr.e time of collection; or
+2. With notice to and consent of the Individual
+
+2.~
+
+3 ofl2
+
+http: Ilwww. truste. corn!pri vacy-program-requirements/
+
+Understanding TRUSTe's Privacy Requirements
+
+a. Participant shall use Pll in the provision of those services advertised or provided for, and in
+accordance with their posted Privacy Stateme!'l! in effect at the t!~ of collection, or wit'1 notice
+and consent as described in !hese Progra'Tl Reqlirements.
+b. l ntormatio!'! collected by the Participant or the Participant's Sel"i.ce Provider may be LtSed to taler
+the l ndivic!l;al's experience o~ the Participant's Onlire property.
+
+3. Choice
+a. Particioant shaDoffer the Individual centro: ove~ their collected Persona::y ldentif~abie Information
+as ror nws·
+' . Participant must pr ovide the l ndividua: an opport~nity to withdraw conse~t to having PII
+used by the Participant for a Secondary
+
+P~rpose .
+
+2. Participant rr.ust provide tre lndivid~a : a Just in Time Notice and the opportunity to
+withdraw consent to hav'ng Pll disclosed or distributed to
+
+Thi~d
+
+Parties, other
+
+t~an
+
+Service
+
+Providers. at the time PII is collected;
+3. Participant shal: honor and maintain the Individual's choice se!ection In a persistent manner
+until such time the Individual
+
+cha~es
+
+u·.at choice se:ectlon; and
+
+4. Participant shall provide a means by which the Individual may change their choice seleclio!'l.
+b. Consent is not necessary where the use, disclosure or distribution of Pll is required by iaw, court
+order, o r other valid legal process.
+c. Express Consent roost be obtained from the Individual prior to the transfer o f Pll to Third Parties
+other than Service Providers if an ~.muthorized use or disclosure or that information wo\Jd be
+likely to cause financial, physical, or reputational harm to an Individual.
+d. Privacy Statement shall state when the Individual can exercise control over the use and sharing of
+their Pll and how to exercise that control
+e. Such mechanism shall be easy to use and offered at no cost to the Individual
+4. Collection and Use of Third Party PII
+a. Participant shall use Third Party PII collected solely to facilitate the one-time completion of the
+transaction that is the Primary Purpose for which the information was collected by the Participant
+except as allowed in Section III.C.4.d regarding Search Services.
+b. Participant must obtain Express Consent from the Individual to whom such Third Party Pll pertains
+before such Third Party Pll may be used, disclosed, or distributed by the Participant for any
+purpose other than the Primary Ptxpose for which such information was collected by the
+Participant, except as allowed in Section III .C.4.d regarding Search Services.
+1 Participant may use Third Party Pll to send a one-time email message to the Individual to
+solicit their Express Consent.
+c. Regarding Thir d Party Pll t he Privacy Statement shall state:
+1. The types of the entity{ies) collecting Third Party PI I;
+2 What kind of Third Party Pll is collected, either through active or passive means;
+3. 1-bw collected Third Party Pll is used al"dlor disclosed;
+4. What types of additional Third Parties if any, including Service Providers, collected Third
+Party PII is shared with.
+d. Search Services
+
+4 of 12
+
+Understanding TRUSTe's Privacy Requirements
+
+http://www. truste. com/privacy-program-requirements/
+
+1 . A search Engine may provide search results cort.aining T tird Party Pll ,
+
+w~hout
+
+the nctice
+
+and choice req:.Jire ments noted above, providing:
+a. The results w ere obta'ned from public or pub!!shed sources or. the internet;
+b. The information is not used to create a persister.! proti:S of the Individual outside the
+scope of enhancing Search Engine techn!ques;
+c. Participan! shal! have a mechar.ism for the Individual to request removal from
+displayed search results if the disp:ay
+
+o~
+
+such res;Jtts will:
+
+I Cause pnysica ~ harm to the lndMduai; or
+Interfere w ith the safeguarding of irnoortant cour.te~iling p ublic interests,
+inc:uding national security, defer.se,
+d. Privacy stater.1er.t shaii state 'low
+
+o~
+
+public
+
+l ndivid~al
+
+can
+
+secu~ ity.
+
+req~est
+
+removal from displayed
+
+searc~ results.
+
+2 . A Participant that compiles informatior. abol..t Individuals, who are :1either custot:"IE!rs of or
+registered users o f, that Participant's services: and ! hen set;s access to tt·at inforonation to
+Third Parties may provide search res~.;~ts containing Third Pa'iy PI! without the notice and
+cr.oice req:.:irements noted above. providing:
+a. Information obtai~ed about t he Individual is from public or published sources which
+have no prohibition around onward transfer or use associated ·with the information;
+b. The Participant shall provide the lndlvldt;al a mechanism to stop haVing their
+information displayed in search
+
+resu~s:
+
+I Such mechanism shall be easily accessible to the Individual; and
+Privacy Statement shan state how the Individual can stop having their
+information displayed in search results.
+c. T his does not include srtuations where Participant disclosed Third Party PII back to
+an entity that has rights to such Information.
+
+5. Access
+a. Participant mJSt implement reasonable and appropriate mechanisms to allow the Individual to
+correct or l4)date inaccurate PI I.
+b. Participant mJSt implement reasonable mechanisms to allow the Individual to request deletion of
+Pll or that collected PII no longer be used.
+c. Such mecha nism should be consistent with how the Individual normally interacts or communicates
+with the Participant
+d. S uch mechanism or process shall be clear. conspicuous, and easy to use
+e. Such mechanism or process shall confirm to the Individual inaccuracies have been corrected; and
+f. Participant's privacy statement shall state how access is provided.
+g. Participant is not re quired to permit Individual access to Pe rsonally Identifiable Information to the
+extent that:
+1. Such access would prejudice the confidentiality necessary to comply with regulatory
+requirements, or breach Participant's confidential information or the confidential information
+of others;
+2. The burden or cost of providing access would be ciisproporl!onate or the legitimate rights or
+interests of others would be violated. However, Participant may not deny access on the
+basis of cost i~ the Individual offers t o pay the costs of access: or
+3. The requested Pll is derived from pubi:C records or :s Publicly Available Information and is
+not combined with non-public record or non- publicly available information.
+h. If Participant denies access to Pll, Participant must orovide the Individual with an explanation of
+why a::cess was de nied and contact information ~or further inquiries regarding the denial of
+access.
+6. P~ol"!'lOtiona! a r.d Newsletter Email CommlSlications
+a. AR rteWsletters and promotional email messages that Participant sends to the Individual must
+include Participant's postal address and a functional unsubscribe mechanism.
+b. The location and instructions concerning the unsubscribe mechanism must be Clear and
+
+5 of l 2
+
+http://www.truste.com/privacy-program-requirements/
+
+Understanding TRUSTe's Privacy Requirements
+
+Conspicuous, and the rTlE!CI'.an:Sm itself
+follcwi~
+
+~ust
+
+be functio~i for no fewer l.,an t hirty (30) days
+
+the sending of the r.ewsletter or promotio;al ema" message.
+
+c. Participant must hono~ the lndividuars request to urrsubscribe from a r.ewsiette ~ or promotional
+e:naii message beginning or. the tenth(~ 0) b~,;5iness day after the Participam receives the
+unsubscribe request, ~nless the Individual subsequentiy requests to re ceive newsletters or
+pro:notiona~
+
+emai' messages fro:n Partic'pant.
+
+d. An U"IS~scribe mecr.anism is r.ot reqt.ired for admi:"!istrative or customer service-related email
+messages (e.g. acco:.:nt management or provisioning of requested services, warranty or recall
+informat'o'l, safety or security annour.cements).
+
+7. Pt>biic Disclos~
+a A Participant may allow a user to post PII in an o~line forum, chat ro om, blog or other public
+forum, where t~e Pll being displayed was placed there by a user who is also t~e Individual.
+~.
+
+If appropriate ar.d commercial'y reasonable, provide a process or mechanism to aliow the
+lndivid:;al to request timely removal of any publicly displayed Pll where it r.as been lega'iy
+and rightfuiiy shared; ar.d
+
+2. State in tile Privacy Statement how the Individual can request removal of p ublicly displayed
+Pll.
+b. The Privacy Statement shall state information posted by Individuals in online forums, chat rooms,
+blogs, or other public forum may be displayed publicly.
+c. The Privacy Statement shall accurately describe the extent to w hich an Individual's displayed Pll is
+publicly available.
+d. If Participant provides a publicly accessible online directory or similar service, the Participant shall:
+
+1. Provide the Individual a reasonable and appropr iate mechanism to request removal of their
+Pll from the directory;
+2 . Ensure the mechanism is consistent with how the lndMdual nor mally interacts or
+
+communicates with the Participant
+3. State in the Privacy Statement how the l ndMdual can request removal; and
+4. Such mechanism to request removal of a listing where access to the online directory or
+
+similar service is limited to other registered Individuals may be contingent on the Individual
+no longer using that service.
+
+8. Material Changes
+a Participant must notify Individuals of any Material Changes to its Pll collection, use, or disclosure
+practices prior to making the change.
+
+b. Participant must obtain prior approval from TRUSTe
+1. For any Material Change in its Pll collection, use, or disclosure practices; and
+
+2. For method and notice to Individuals, such as ema~. "in product" messaging, etc.
+
+D. Privacy Statement
+1. Participant shall maintain and abide by an accurate up-to-date Privacy Statement appro ved by TRUSTe
+
+in its sole discretion that states Participant's information practices and is in conformance with these
+Program Requiremer:ts including, but not l:mited to:
+a. What informat:on is collected, either thro~ogh active or passive means, type of entity(ies), excluding
+Service Providers, coliecting the information, and how the collected information is used:
+b. Vvt.at types of Third Parties if any, incl uding SerV.ce Prov!clers, collected information is shared
+with:
+c. \Nhether Pil ls apper:ded with informat:on obtained f rom third party sources;
+d. How and when the lr.dlvidual can exercise choice as required in these Program Requirements;
+e. How the l ndiv:dual car~ request access to their information as required in these Program
+Requirements;
+f. \Nhat types of security measures are h ptace to pro tect collected information as requ red in these
+Program Requir ements;
+g. What tracking technolcgies are used by the Participant or Thir d Part:es including Service
+ProV:ders and the purpose for using those technologies;
+
+6 of12
+
+Understanding TRUSTe's Privacy Requirements
+
+http://www. truste.com/privacy-program-requirements/
+
+h. How the l ndividua! can contact the Participant. 'nciudir.g company name, email address or a link to
+an cnline form, and physical address;
+
+How the lndividuai wii! be notified of any Material Changes in the Participant's privacy practices;
+j. That co'lected informatio:'1 is slbject to disclost.:re plJ'suant lo judicial or other goverrrnent
+S:Jbpoe!"as, warran!s. orders. or if the Par!icipar:t <ne~gers w :th or is acqlirec by a Thrd Party, or
+goes bankn.:pt;
+k.
+
+E~ective
+
+date of Privacy Statement;
+
+if reqU:red, statement or participation if' the T RUSTe program and define participation scooe; and
+m. Information on how to contact TRUSTe to express cor.cerns regarding Participant's Privacy
+Staterr:e~t
+
+or privacy practices.
+
+2. At a minim~m. Participant shall link to a Comprehensive Privacy Statement !nat discloses the
+Participant's information practices.
+3. Access to the Privacy Statement shall be Clear ar.d Conspicuous.
+~-
+
+As commercially reasonable, Privacy statement must be available when the Individual engages w ith the
+Participar.t, st.:eh as through an app!ication. Web site honnepage or landing page.
+
+5. Privacy statement must be available at the point where the Individual provides Pll, or through a common
+footer.
+6. Participant shall treat all coRected information in accordance w ith the posted Privacy Statement in effect
+at the time of collection urless the Individual otherwise has given Express Consent.
+7. Short Notice
+a. If Participant chooses. they may provide a Short Notice highlighting their information practices
+including but not limited to:
+1. Summarize what information is collected by the Participant and how the Participant collects
+that information, either through active or passive means:
+2. Summarize how Participant uses collected information;
+3. Whether Participant shares PII with third parties, excluding Service Providers;
+4. How the Individual can exercise choice and request access pursuant to these Program
+Requirements; and
+5. How to contact the Participant including company name, email address or link to online
+form. and postal address
+b. Access to the Short Notice shall be Clear and Conspicuous.
+c. Short Notice shall link to Comprehensive Pr ivacy Statement.
+1 . Access to the Comprehensive Privacy Statement shall be Clear and Conspicuous.
+d. Any Short Notice shall be consistent with Comprehensive Privacy Statemert.
+8. Just in lime Notice
+a. If Participant c hooses to provide Just in lime Notice, the Just in lime Notice shall be consistent
+with Comprehensive Privacy statement.
+9. Foreign Language Privacy Statement.
+a. If Participant seeks TRUSTe certification of a Privacy Statement in a language other than English,
+TRUSTe shall use commerciany reasonable efforts to verify that Particioant's Foreign Language
+Privacy Statement is an accurate trans:ation of Participant's English lar.guage Privacy Statement.
+b. Participant st-all ensure that its privacy practices are the same, and that the Foreign Language
+Privacy Statement provides materially the same descript ior~ o'f Participant's privacy practices as
+Participant's Engish Language Privacy Stateme!'lt.
+c. Participant must notify TRUSTe of any M aterial Changes to its Foreign Language Privacy
+Stater.1ent and submit chaflges to TRUSTe for review and approval.
+
+E. Data G overnance
+1. Partie;pant shall implement controls and processes to manage and protect Pll witnin its controi including
+the one s listed in t his Section Ill. E.
+a. Such controls arxi processes shall be
+1. Appropriate to the size of the Participant's business; and
+
+7 of12
+
+http://www. truste. com/privacy-program-requirements/
+
+Understanding TRUSTe's Privacy Requirements
+
+2. Appropriate to the level of sens~ivity of the data col:ected and stored
+
+2 . Data Secu_it¥
+a. Participant must impler.1ent comMerciaily reasonable procedures to protect Pll with!n its control
+from unat.thorized access, ;JSe, allerat!on, d isc~osLKe, or dis!ribution.
+b. Participant sha~ maintair. and audit internal information tecmo:ogy systems w~h'n Partcipant's
+control such as:
+
+1. Regularly
+
+rr.on~or
+
+and repair systems inc!;;ding servers and desktops for know:-1
+
+v~lnerabilities;
+
+2. Ll~it access and use of Pll, or Third Party Pll, to personnel with a legitimate business
+need where inapprop~:ate access , use, or disclosure of such Pll , or Third Party Pll, couid
+cause financial, physical, or reputational harm tc the Individual;
+3. Implement protectio1 against ohishing, spa'l1, viruses, data !oss, and malware; and
+4. Use reasonable encryption methods for trarsmission of Information across wireless
+networks. and storage of information if !he inappropriate use or disclosure of that
+infomnation could cause financial, physical, or reputational harm to an individua:
+c. Participant shali utilize encryption
+
+sue~
+
+as Secure Socket Layer for the transmission of information
+
+if the inappropriate use or disdosLKe of that information could cause financia<, physical, or
+reputational harm to an individual.
+d. Access to Pll or Third Party Pll retained by Participant must be at least restricted by username
+and password if t he inappropr iate use or disclosure of that information could cause financial,
+physical. or reputational harm to an individual.
+e. P rivacy Statement shall state that security measures are in place to protect collected Pll and/or
+Third Party Pll.
+3 . Da t~
+
+a. Participant shall take commercially reasonable steps when collecting, creating , maintaining, using,
+diSClosing or distributing Pll to assure that the information is sufficiently accurate, complete,
+relevant, and timely for the purposes for which such information is to be used .
+b. If any information collected by the Participant about an Individual is disputed by that Individual and
+is found to be inaccLKate, incomplete, or cannot be verified. Participant shall promptly delete or
+modify that item of information, as appropriate, based
+
+on the resu~s of the investigation.
+
+4. Data Retention
+a. If a Participant receives and retains Pll or Third Party Pll, the Participant must ~mit tts retention to
+no longer than commercially useful to carry out its business pLKpose, or legally required; and must
+disclose in their Privacy Statement how long they w ill retain that information.
+b. Regardless of the time period of retention, so long as a Participant has Pll or Third Party PII in its
+possession or control, the requirements included herein shall apply to such information.
+5. Service Providers
+a. Participant must take commercially reasonable steps to ensure that rt's Service Providers with
+whom it shares Pll either:
+~.
+
+Abide by Participant's privacy pol:cies as reflected in Participant's P~ivacy Statement; or
+
+2. Abide by privacy policies that are substantially equivalent to Participant's privacy policies as
+reflected i~ Participant's Privacy Statement; and
+3. Abide by the r'ghts and obligatiors attached to the Pll by the Participant regarding the
+secur~y. confidentiality, 'ntegrity, use, and d:sclosure of the Pll.
+
+6. User Complaints and Feedback
+a. Participant shall provide users with reasonable, appropriate, simple and effective means to submit
+complaints, express concerns, or p~ovide feedback regarding Participant's privacy p~actices.
+b. Particip ant shall also cooperate with TRUSTe's efforts to investigate and resolve non-frivolous
+privacy complaints, questio:'lS and concer ns raised either by:
+~.
+
+User s t hrough TRUSTe's d isp~e resolution process; or
+
+2. TRUSTe .
+
+7. Data Breach
+
+8ofl2
+
+Understanding TRUSTe's Privacy Requirements
+
+http: //www. truste. cornlpri vacy-program-requi rements/
+
+a. Participant must notify an Individual of a data breach w ithin 45-days of a known breach as
+required by law or if the unauthorized disclosure of Pll can cause financial, physical, or
+reputat:onal harm to the Individual urJess otherwise required by law.
+b. Url~ss othelwise reqli~ed by law, notice to t!1e Individual must c:sclose t he foilowing:
+1. That a breach occurred;
+2. What type of Information was breached;
+3. When the breach happened;
+4. What steps lr:dividuais can take to protect t hemselves;
+5. What the actiors the Participar.t is taking regarding the oreach (e.g. ir.vestigat'o'1); and
+6. What steps tt:e Par.icipant 's taking to ensure the event does r,o t happen aga'n.
+c . Participant must notify TRUSTe when ~ believes a data breach occurred. Participar.t must provide
+TRUSTe a copy of the notce to be sent or sent to affected lndiv!dua!(s).
+
+F. Behavioral Targeting
+1. Participar.ts engaging in Behavio~al Targeting or Retargeting shall diSclose the following regarding
+Participant's Behavioral Targeting and/or Retargeting Practices in its Privacy Statement
+a. If information. collected either through active or passive means. is used by eitrer the Participant
+or Third Party(ies) for the purpose of Behavioral Targeting or Retargeting;
+b. If Pll collected by the Participant is lirked to information collected through Web usage activity
+from sources, e.g. Web sites other than Participant's, for the purpose of Behavioral Targeting or
+Retarge ting;
+c. Whether PII or Third Party PII is collected by, or shared with, additional Third Parties for the
+purposes of Behavioral Targef1ng or Retargeting; and
+
+d . How and when the Individual can exercise choice as required in this Section Ill. F.
+2. Participant shall provide instructions or link to a mechanism that enables the Individual to withdraw
+consent for the use of their information for the purposes of behavioral advertising.
+a. At a minimum, such instructions or link shall be made available in the Participant's Privacy
+Statement.
+3. Participant engaging in Behavior:al Targeting or Retargeting shall offer choice to the lndivklual as follows:
+a. An lndivklual must be provided an opportunity to withdraw consent to having Pll linked to
+information collected through web usage activity for the purpose of Behavioral Targeting or
+Retargeting;
+b. An Individual must be provided an opportunity to w ithdraw consent to having Pll shared with Third
+Parties, other than Service Providers, for the purpose of Behavioral Targeting or Retargeting at
+the time such Pll is collected; and
+c. Express Consent must be obtained prior to sharing Pll w ith Third Parties, other than Service
+Providers, for the purposes of Bel".avioral Targeting or Retargeting, ~ the unauthorized use or
+disclosure of that information could cause financial, or physical harm to an Individual.
+
+G. Social Networks
+1. Partlc:pants that enable users to network with other users of a community need to comply with the
+
+follow:ng:
+a. Express Consent with confirmation is required for an Individual to establish a profile.
+b. Provide a reasonable and appropriate mechanism to allow the Individual to manage their privacy
+settings.
+
+1. MeclhaniSm shoUd be consistent with how the Individual normally interacts
+
+o~
+
+commurj cates w~h the Participant
+2. Meclhanism sr.all be clear, conspicl.'Ous, and easy tc use
+3. Mechanism shall confirm to Individual that privacy settings have been set; and
+4. Privacy Statement shalt state how the Individual can update their privacy settings.
+c . Provide a reasonable and appropriate mechanism to allow the Individual reqo.Jest deletion or
+deactiva!ion of a profile.
+
+1. Mechanism
+
+9 of 12
+
+sho~ld
+
+be consistent with how the Individual normally interacts or
+
+http://www. trus te.com/privacy-program-requirements/
+
+Understanding TRUSTe's Privacy Requirements
+
+COr'"!mtr.icates with the Participant
+2. Mec'larism shal: be clear, conspicuous. and easy to use
+3. Mecharism shall confirm to lrdivid;Jal profi'e has bee"l deleted or deactivated; and
+4. Privacy Stateme:-t shalt s!ate how :he l'ldivia;Jal can •equest delet:on or deactivation cf
+their prof!le
+d. ProV:de a reasonable and appropriate mecha:lism to aliow the lndividt;a! to request remova' of an
+unauti·.vrized p;ofile.
+1. Mechanisr.1 should be consistent with how the lndividua! normaily i ~teracts or
+cor.-~mun:cates
+
+with the Participant
+
+2. Mechanism shall be clear, conspicuous, and easy to use
+3. Mechanisrr. shall confirm to Individual the unauthorized profile has been rer.10ved; and
+4. Privacy Staterr.ent shal! state how the Individual can req:.~est removal of an unauthorized
+profile.
+e. lndividvals between the ages 13-17 must provide Express COnsent to the co!iection. use,
+disclosf..l'e of either:
+1 . Pll pertaining to that Individual; or
+2. Third Party Pll pertaining to an Individual between the ages of 13- 17.
+f. If Participant enables users to import Third Party Pll from another source to their prof~e . the
+Participant must do the following:
+1. Treat all collected information as if it is Third Party Pll as outlined in Section III.C.4.
+a. Conected i nformation cannot be used to create a publishable profile unless the
+Participant obtains the Express Consent of the Individual.
+2. Provide Clear and Conspicuous notice to the user as to why they are providing a password
+or other access to their email account; and
+
+IV. US-EU and US-Swiss Safe Harbor Requirements
+A. Participants want to self-certify with the Department of Commerce (DOC) for compliance w ith the U.S.-E.U.
+Safe Harbor or Swiss Safe Harbor Frameworks and list TRUSTe as its third party dispute resolution
+mechanism must comply with the Mini'num Program Requirements and the following:
+1. Participant must provide an Individual with access to Pll within thirty (30) calendar days of request.
+a. If Participant does not provide an Individual the requested access within thirty (30) calendar days
+of the Individual's request, Participant must provide the Individual with a timeline establishing when
+the requested access will be provided.
+b. Privacy Statement shall disclose the timeline establishing when the Individual can expect a
+response to their request for access.
+2. Privacy Statement shall include the following statement: "[Participant] complies with the [E U.][Swiss]
+Safe Harbor Framework as set forth by the U.S. Department o f Commerce
+
+regardi~g
+
+the collection, use
+
+and retention of personal information from [the European Union][Switzerland]."
+a. The statement must include the following link to the Department of Commerce's Web site:
+http://export.gov/safeharbor
+
+V. Additional Email Requirements
+A . Participa~ts wanting to be certified for practices around t~ sending of commercia! and promotional email must
+comply with the Minimum Program Requirements and the following:
+1. Participants rrost ensf..l'e that the following disclosures are accessible from the point of email address
+collection except where email address is used only to authenticate an I ndlvidual for purposes of
+accessing that lndividuars account information:
+a. The nature of commercial or promotional email messages to be sent and the types of ent~ ies that
+w ill be providing content;
+b. Whether Participant sells, rents or otherwise shares Recipients' email address with Third Parties
+other than Service Providers; and
+c. If receiving commercial or promotional email messages is a requir!!ment to receive a service, a
+disclosure of such requirement.
+
+10 of 12
+
+http: II www. truste.cornlpri vacy-program-requirementsl
+
+Understanding TRUSTe's Privacy Requirements
+
+2. Prior t o sending comme•cial or promotional email messages the Recipien! must be provided the
+opportl:nity to w~ hdraw consent to having his/her email address added to a mailing !ist. Commercial or
+promotiona~
+
+email messages sent l.I!1Cer this form of consent rr.ust inci:.Jde Clear and Conspicuous
+
+iden!ificat'o~ that
+
+the message is an advertisement or solicitation.
+
+3. If Part'cipant has not co!:ected the
+
+Recipie~t's
+
+emai! address directly, the Participant must perform due
+
+diligence to ensure that Clear a~d Conspicuous notice was provided regarding the use and disciosure of
+the Recipient's email address, and that the lnd:V.dual had the
+
+opport~ni!y
+
+to withdraw consent.
+
+B . Particioant Accountabmtv. Pa!"'Jcipa"1t shall er:sure tha! the mail ir:frastructl.I'e used to send emailrr.essages is
+
+well maintained and operated
+
+1. Email address
+
+~st
+
+:r. a responsible manr.e~:
+
+maintenar.ce systems must be e ~ ployed !o reliabiy receive and process bo~.;~ces ar:d
+
+other ~eplies ~rom receiving retworks.
+
+2. The Participant's IP address(es) for outgoing emaii must have valid reverse DNS entries. The IP address
+of t~.e host name of the reverse DNS entry must match the I P address of the ser:ding maii server.
+
+3. Partidpant ml:st create and maintain the standard role ema:: accounts abuse@sender.comain and
+postmaster@sender.domain for all of its domains that send e!T!ail :r: order to facilitate handling
+comp!aints and other issues.
+
+4. Participant must comply with releva:1t internet standards such as the Network Working Group Request
+for Comment ("RFC") Nos. 2821 and 2822, which describe how Email Messages m:;st be formatted in
+order to be processed properly by receiving networks .
+
+C. TransparencY. Participant shall ensure that email messages are truthful and accurately identify the source of
+the message.
+1. The domain name or message headers must not be falsified or obscured In any way.
+
+2 . The stbject line and content of every email message must not be false or mis!eadlng.
+
+VI. Mobile Services
+A. Participants wanting to be certified for collecting PI! through an application on a Mobile Device or through a
+Web site optimized for a Mobile Device must comply
+
+w~h
+
+the Minimum Program Requirements and the
+
+following:
+B. Mobae Short Notice
+
+1. Participants will provide enhanced notice outside of the Privacy Statement by linking from a TRUSTe icon
+or text lili< to a TRUSTe-hosted Short Notice.
+2. The following disclosures will appear within the TRUSTe-hosted Short Notice:
+a. Whether gee-location data is collected and how gee-location data is used;
+b What types of information is collected and how it is used;
+c. Whether Participant shares Pll with Third Parties. including Service Providers:
+d. How the Individual can exercise choice and request access pursuant to these Program
+Requirements:
+e. What tracking technologies are used by the Participant or Third Parties including Service
+Providers and the purpose for using those technologies;
+f. What security measures are in place to protect collected information as required in these Program
+Requirements; and
+g. How the Individual ca!'l contact the Participant, including company name, email address or a lili< to
+an online form, and physical address.
+
+C . Gee-location Data
+1 . Participar.t must obtain Express Consent from the Individual the first time Geo-iocation Data is used by
+the Participant to provide services.
+2. Participant may provide additional notifications through a Just in Time Notice or a persistent icon. to
+remind Individuals that their Gee-location Data is being used by the Participant to provide a service.
+3. Participant must obtain Express Consem from the Individual prior to the sharing of Gee-location Data
+with Third Parties other than Service ProVIders.
+4. Participant must obtain Express Consent from the Individual prior to any use of Gee-location Data for
+Secondary Purposes.
+D. Privacy Statement shall state:
+
+11 of 12
+
+Understanding TRUSTe's Privacy Requirements
+
+http: II ww w. truste. comlpri vacy-program-requirements/
+
+1. What information is collected from an Individual's Mobile Device;
+2. VVhether dormation is shared w ith another application installed on the Individual's Mobile Device;
+3. How Geo-location Data is used;
+4. If Gee-location Data is used to c:-eate a profi'e about the Individual;
+5. How !ong Geo-locat:on Data is retair.ed;
+6. What !ype of Third Parties. includng Service ProV:ders is Geo-locatlon Data is shared w~r. and for wr.at
+p ~ rpose ;
+
+7. How the Individual can restrict the disclosll!'e o~ Geo-;ocation data to Third Parties; ar.d
+8. How tt:e lndiV:dt;ai can revoke consent to the Participant's collection and use of Geo-Locatior: Data.
+a. Such mechar.'sm shall be easy !o use.
+
+FOLLOW US
+
+AWARDS AND PRESS
+
+.About Us l Contact Us 1 Partner P~09fS m 1 Car~ers 1 Site Map
+
+PriVacy Polley 1 Terms of SeMce 1 Terms of Use
+
+e TRUST& ltrternet Privacy and Security for Bustnesses
+
+loading
+
+12 of 12
+
+

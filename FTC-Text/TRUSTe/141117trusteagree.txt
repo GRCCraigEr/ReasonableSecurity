@@ -1,0 +1,287 @@
+1323219
+UNITED STATES OF AMERICA
+FEDERAL TRADE COMMISSION
+____________________________________
+)
+)
+)
+TRUE ULTIMATE STANDARDS
+)
+EVERYWHERE, INC., a corporation,
+)
+d/b/a TRUSTe, Inc.
+)
+)
+____________________________________)
+In the Matter of
+
+AGREEMENT CONTAINING
+CONSENT ORDER
+DOCKET NO.
+
+The Federal Trade Commission (“Commission”) has conducted an investigation of
+certain acts and practices of True Ultimate Standards Everywhere, Inc., a corporation d/b/a
+TRUSTe, Inc. (“TRUSTe” or “proposed Respondent”). Proposed Respondent, having been
+represented by counsel, is willing to enter into an agreement containing a consent order resolving
+the allegations contained in the attached draft complaint. Therefore,
+IT IS HEREBY AGREED by and between True Ultimate Standards Everywhere, Inc.,
+and counsel for the Federal Trade Commission that:
+1. Proposed Respondent True Ultimate Standards Everywhere, Inc., also doing business as
+TRUSTe, Inc., is a privately-owned, Delaware corporation with its principal office or
+place of business at 835 Market Street, Suite 800, San Francisco, California 94103.
+2. Proposed Respondent admits all the jurisdictional facts set forth in the draft complaint.
+3. Proposed Respondent waives:
+A. Any further procedural steps;
+B. The requirement that the Commission’s decision contain a statement of findings
+of fact and conclusions of law; and
+C. All rights to seek judicial review or otherwise to challenge or contest the validity
+of the order entered pursuant to this agreement.
+4. This agreement shall not become part of the public record of the proceeding unless and
+until it is accepted by the Commission. If this agreement is accepted by the Commission,
+it, together with the draft complaint, will be placed on the public record for a period of
+thirty (30) days and information about it publicly released. The Commission thereafter
+may either withdraw its acceptance of this agreement and so notify proposed Respondent,
+in which event it will take such action as it may consider appropriate, or issue and serve
+1
+
+its complaint (in such form as the circumstances may require) and decision in disposition
+of the proceeding.
+5. This agreement is for settlement purposes only and does not constitute an admission by
+proposed Respondent that the law has been violated as alleged in the draft complaint, or
+that the facts as alleged in the draft complaint, other than the jurisdictional facts, are true.
+6. This agreement contemplates that, if it is accepted by the Commission, and if such
+acceptance is not subsequently withdrawn by the Commission pursuant to the provisions
+of Section 2.34 of the Commission’s Rules, the Commission may, without further notice
+to proposed Respondent, (1) issue its complaint corresponding in form and substance
+with the attached draft complaint and its decision containing the following order in
+disposition of the proceeding, and (2) make information about it public. When so
+entered, the order shall have the same force and effect and may be altered, modified, or
+set aside in the same manner and within the same time provided by statute for other
+orders. The order shall become final upon service. Delivery of the complaint and the
+decision and order to proposed Respondent’s addresses as stated in this agreement by any
+means specified in Section 4.4(a) of the Commission’s Rules shall constitute service.
+Proposed Respondent waives any right it may have to any other manner of service. The
+complaint may be used in construing the terms of the order. No agreement,
+understanding, representation, or interpretation not contained in the order or the
+agreement may be used to vary or contradict the terms of the order.
+7. Proposed Respondent has read the draft complaint and consent order. Proposed
+Respondent understands that it may be liable for civil penalties in the amount provided by
+law and other appropriate relief for each violation of the order after it becomes final.
+ORDER
+DEFINITIONS
+For purposes of this order, the following definitions shall apply:
+1. “Seal” shall mean any trustmark, logo, seal of approval, emblem, shield, or other insignia
+Respondent has offered or provided for placement on a company’s website, including,
+but not limited to TRUSTed Websites, COPPA/Children’s Privacy, EU Safe Harbor,
+TRUSTed Cloud, TRUSTed Apps, and TRUSTed Data.
+2. Unless otherwise specified, “Respondent” shall mean True Ultimate Standards
+Everywhere, Inc., and its successors and assigns.
+3. “Commerce” shall mean as defined in Section 4 of the Federal Trade Commission Act,
+15 U.S.C. § 44.
+4. “COPPA” shall mean the Federal Trade Commission’s Children’s Online Privacy
+Protection Rule, 16 C.F.R. Part 312.
+2
+
+5. “COPPA safe harbor program” shall mean any self-regulatory program [guidelines]
+established pursuant to 16 C.F.R. § 312.11 of the Federal Trade Commission’s Children’s
+Online Privacy Protection Rule and operated by Respondent.
+I.
+IT IS ORDERED that Respondent, directly or through any corporation, subsidiary,
+division, or other device, including franchisees, or licensees, in connection with the advertising,
+promotion, offering for sale, sale, or distribution of seals or certifications, or any other
+substantially similar product, in or affecting commerce, shall not misrepresent, in any manner,
+expressly or by implication:
+A. The steps it takes to evaluate, certify, review, or recertify a company’s privacy practices;
+B. The frequency with which Respondent conducts any such evaluation, certification,
+review, or recertification of a company’s privacy practices;
+C. The corporate status of Respondent and its independence; and
+D. The extent to which the person or entity is a member of, adheres to, complies with, is
+certified by, is endorsed by, or otherwise participates in any privacy program sponsored
+by Respondent.
+II.
+IT IS FURTHER ORDERED that Respondent, directly or through any corporation,
+subsidiary, division, or other device, including franchisees, or licensees, shall not provide to any
+person or entity the means and instrumentalities with which to make directly or by implication
+any misrepresentation prohibited by Part I of this order. For purposes of this Part, “means and
+instrumentalities” shall mean any information, including but not necessarily limited to, any
+required or model language, for use in any privacy policy or statement for display on a website
+or mobile application covered by any seal or certification provided by Respondent, or any other
+product or service covered under this order, in or affecting commerce.
+III.
+IT IS FURTHER ORDERED that Respondent for ten (10) years after the date of
+service of this order, as part of its annual report required to be submitted pursuant to 16 C.F.R.
+§312.11(d)(1) of the COPPA Rule, shall, in a sworn statement provide:
+A. The total number of new seals awarded to participants in any COPPA safe harbor
+program in the preceding reporting period;
+B. A detailed explanation of the mechanisms used by Respondent to assess the fitness of
+new applicants to any COPPA safe harbor program for membership in the program;
+3
+
+C. A detailed explanation of the mechanisms used by Respondent to assess the continuing
+fitness of an existing participant in any COPPA safe harbor program for membership in
+the program; and
+D. Any additional steps Respondent undertook to comply with the requirements of
+16 C.F.R. § 312.
+Unless otherwise directed by a representative of the Commission, all statements required by this
+Part shall be sent by overnight courier (not the U.S. Postal Service) to the Associate Director of
+Enforcement, Bureau of Consumer Protection, Federal Trade Commission, 600 Pennsylvania
+Avenue NW, Washington, D.C. 20580, with the subject line In the Matter of TRUSTe, Inc., FTC
+File No. 1323219. Provided, however, that in lieu of overnight courier, notices may be sent by
+first-class mail, but only if an electronic version of any such notice is contemporaneously sent to
+the Commission at Debrief@ftc.gov.
+IV.
+IT IS FURTHER ORDERED that Respondent shall maintain and upon request make
+available to the Federal Trade Commission for inspection and copying, a print or electronic copy
+of, for a period of ten (10) years from the date of preparation:
+A. A detailed explanation of assessments Respondent conducted during the preceding
+reporting period to determine the fitness of new applicants to any COPPA safe harbor
+program for membership in the program;
+B. A detailed explanation, including the frequency, of assessments Respondent conducted
+during the preceding reporting period to determine the continuing fitness of an existing
+participant in any COPPA safe harbor program for membership in the program;
+C. Any documents related to consumer complaints, received in the preceding reporting
+period, alleging violations of any COPPA safe harbor program by Respondent or by
+participants in any COPPA safe harbor program;
+D. Any documents related to records of disciplinary actions taken in the preceding reporting
+period against participants in any COPPA safe harbor program; and
+E. Any documents related to approvals of COPPA safe harbor program participants’ use of
+verifiable parental consent mechanism under 16 C.F.R. § 312.11(d)(1).
+
+V.
+IT IS FURTHER ORDERED that within five (5) days of the date of service of this
+order, Respondent shall pay $200,000 to the United States Treasury as disgorgement, as follows:
+
+4
+
+A. The payment shall be made by wire transfer to the Treasurer of the United States, in
+accordance with instructions provided by the Federal Trade Commission.
+B. In the event of any default in payment, interest shall accrue, computed pursuant to
+28 U.S.C. § 1961, from the date of default to the date of payment.
+C. Respondent relinquishes all dominion, control, and title to the funds paid to the fullest
+extent permitted by law. Respondent shall make no claim to or demand return of the
+funds, directly or indirectly, through counsel or otherwise.
+VI.
+IT IS FURTHER ORDERED that Respondent shall maintain and upon request make
+available to the Federal Trade Commission for inspection and copying, a print or electronic copy
+of, for a period of five (5) years from the date of preparation or dissemination, whichever is later,
+all documents, whether in written or electronic form, that relate to compliance with this order,
+including but not limited to:
+A. all advertisements and promotional materials containing any representations covered by
+this order, with all materials used or relied upon in making or disseminating the
+representation;
+B. consumer complaints (whether received directly, indirectly, or through any third party)
+that relate to Respondent’s activities as alleged in the draft Complaint and Respondent’s
+compliance with the provisions of this order; and any responses to such complaints;
+C. copies of all subpoenas and other communications with law enforcement entities or
+personnel, if such documents bear in any respect on Respondent’s activities as alleged in
+the draft Complaint and Respondent’s compliance with the provisions of this order; and
+D. any documents, whether prepared by or on behalf of Respondent, that call into question
+Respondent’s compliance with this order.
+VII.
+IT IS FURTHER ORDERED that Respondent shall deliver a copy of this order to all
+current and future subsidiaries, current and future principals, officers, directors, and managers
+having responsibilities relating to the subject matter of this order. Respondent shall deliver this
+order to such current subsidiaries and personnel within thirty (30) days after service of this order,
+and to such future subsidiaries and personnel within thirty (30) days after the person assumes
+such position or responsibilities. For any business entity resulting from any change in structure
+set forth in Part VIII, delivery shall be at least ten (10) days prior to the change in structure.
+Respondent must secure a signed and dated statement acknowledging receipt of this order, within
+thirty (30) days of delivery, from all persons receiving a copy of the order pursuant to this Part.
+
+5
+
+VIII.
+IT IS FURTHER ORDERED that Respondent shall notify the Commission at least
+thirty (30) days prior to any change in the corporation(s) that may affect compliance obligations
+arising under this order, including, but not limited to: a dissolution, assignment, sale, merger, or
+other action that would result in the emergence of a successor corporation; the creation or
+dissolution of a subsidiary, parent, or affiliate that engages in any acts or practices subject to this
+order; the proposed filing of a bankruptcy petition; or a change in the corporate name or address.
+Provided, however, that, with respect to any proposed change in the corporation(s) about which
+Respondent learns fewer than thirty (30) days prior to the date such action is to take place,
+Respondent shall notify the Commission as soon as is practicable after obtaining such
+knowledge. Unless otherwise directed by a representative of the Commission, all notices
+required by this Part shall be sent by overnight courier (not the U.S. Postal Service) to the
+Associate Director of Enforcement, Bureau of Consumer Protection, Federal Trade Commission,
+600 Pennsylvania Avenue NW, Washington, D.C. 20580, with the subject line In the matter of
+True Ultimate Standards Everywhere, Inc., FTC File No. 1323219. Provided, however, that in
+lieu of overnight courier, notices may be sent by first-class mail, but only if an electronic version
+of any such notice is contemporaneously sent to the Commission at Debrief@ftc.gov.
+IX.
+IT IS FURTHER ORDERED that Respondent, within one hundred twenty (120) days
+after the date of service of this order, shall file with the Commission a true and accurate report, in
+writing, setting forth in detail the manner and form of its compliance with this order. Within ten
+(10) days of receipt of written notice from a representative of the Commission, it shall submit an
+additional true and accurate written report.
+X.
+This order will terminate twenty (20) years from the date of its issuance, or twenty (20)
+years from the most recent date that the United States or the Commission files a complaint (with
+or without an accompanying consent decree) in federal court alleging any violation of the order,
+whichever comes later; provided, however, that the filing of such a complaint will not affect the
+duration of:
+A. Any Part in this order that terminates in fewer than twenty (20) years;
+B. This order’s application to any Respondent that is not named as a defendant in such
+complaint; and
+C. This order if such complaint is filed after the order has terminated pursuant to this Part.
+Provided, further, that if such complaint is dismissed or a federal court rules that Respondent did
+not violate any provision of the order, and the dismissal or ruling is either not appealed or upheld
+on appeal, then the order as to such Respondent will terminate according to this Part as though
+the complaint had never been filed, except that the order will not terminate between the date such
+6
+
+complaint is filed and the later of the deadline for appealing such dismissal or ruling and the date
+such dismissal or ruling is upheld on appeal.
+
+Signed this ________ day of __________, 2014.
+
+True Ultimate Standards Everywhere, Inc.
+d/b/a TRUSTe, Inc.
+
+Dated: _____
+
+By: ____________________________________
+CHRIS BABEL, Chief Executive Officer
+TRUSTe, Inc.
+
+Dated: _____
+
+By: ____________________________________
+D. REED FREEMAN JR., Esq.
+Morrison & Foerster, LLP
+2000 Pennsylvania Ave., N.W., Suite 6000
+Washington, DC 20006
+Attorney for Respondent
+FEDERAL TRADE COMMISSION
+
+Dated: _____
+
+By:_____________________________________
+JAMIE E. HINE
+Counsel for the Federal Trade Commission
+
+By:_____________________________________
+JESSICA LYON
+Counsel for the Federal Trade Commission
+
+APPROVED:
+
+_________________________________
+CHRISTOPHER OLSEN
+Assistant Director
+Division of Privacy and Identity Protection
+
+7
+
+_________________________________
+MANEESHA MITHAL
+Associate Director
+Division of Privacy and Identity Protection
+
+_________________________________
+JESSICA L. RICH
+Director
+Bureau of Consumer Protection
+
+8
+
+

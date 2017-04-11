@@ -1,0 +1,359 @@
+UNITED STATES OF AMERICA
+BEFORE THE FEDERAL TRADE COMMISSION
+COMMISSIONERS:
+
+Edith Ramirez, Chairwoman
+Maureen K. Ohlhausen
+Terrell McSweeny
+
+___________________________________
+)
+)
+)
+LabMD, Inc.,
+)
+a corporation
+)
+___________________________________ )
+In the Matter of
+
+DOCKET NO. 9357
+
+ORDER DENYING RESPONDENT LABMD, INC.’S APPLICATION
+FOR STAY OF FINAL ORDER PENDING REVIEW BY
+A UNITED STATES COURT OF APPEALS
+On August 30, 2016, Respondent LabMD, Inc. filed an application for a stay of the
+Commission’s Final Order in this proceeding pending review by the Eleventh Circuit Court of
+Appeals. Complaint Counsel opposes the application. 1 For the reasons stated below, we deny
+LabMD’s application.
+I.
+
+Background
+
+The Commission issued its Opinion and Final Order in this matter on July 28, 2016. We
+found that LabMD’s data security practices were unreasonable, lacking basic precautions to
+protect consumers’ sensitive personal information, including medical information, maintained on
+LabMD’s computer system. LabMD’s lax data security practices resulted in the installation of
+file-sharing software that made medical and other sensitive information of 9,300 consumers
+accessible on a widely used peer-to-peer network for eleven months. The exposed information
+was accessed by at least one unauthorized third-party. We thus held that LabMD’s data security
+practices constitute an unfair act or practice in violation of Section 5 of the Federal Trade
+Commission Act. Consequently, our Final Order directs LabMD to cease its inadequate data
+security practices by establishing a comprehensive information security program reasonably
+designed to protect the security and confidentiality of the personal consumer information in its
+possession and periodically to obtain independent assessments regarding its implementation of
+the program. The Final Order also requires that LabMD notify affected individuals concerning
+
+1
+
+In addition to the initial briefing submitted by the parties in connection with LabMD’s Application for Stay,
+Complaint Counsel moved for leave to file a Surreply, and LabMD submitted a Supplemental Declaration from its
+CEO and President, Michael Daugherty. We grant Complaint Counsel’s Motion for Leave to File a Surreply and
+have considered both the Surreply and Mr. Daugherty’s Supplemental Declaration.
+
+unauthorized disclosure of their personal information and imposes standard reporting
+requirements to ensure compliance with its substantive requirements.
+Section 5(g)(2) of the FTC Act, 15 U.S.C. § 45(g)(2), provides that the Commission’s
+Final Orders take effect “upon the sixtieth day after” their date of service, unless “stayed, in
+whole or in part and subject to such conditions as may be appropriate” by the Commission or
+“an appropriate court of appeals.” Absent a stay, the Final Order will become effective on
+September 30, 2016.
+II.
+
+Analysis
+
+In accordance with Commission Rule 3.56(c), we consider the following four factors:
+(1) “the likelihood of the applicant’s success on appeal”; (2) “whether the applicant will suffer
+irreparable harm if a stay is not granted”; (3) “the degree of injury to other parties if a stay is
+granted”; and (4) the public interest. It is the applicant’s burden to establish that a stay is
+warranted. Toys “R” Us, Inc., 126 F.T.C. 695, 698 (1998). We address each factor in turn.
+A.
+
+Likelihood of Success on Appeal
+
+In analyzing the likelihood of success on appeal factor, the Commission considers
+likelihood of success as well as the complexity of the case and legal questions raised. California
+Dental Ass’n, No. 9259, 1996 FTC LEXIS 277, at *9-10 (May 22, 1996). When appropriate, the
+Commission has stayed its orders pending judicial review. See, e.g., North Carolina Bd. of
+Dental Examiners, 2012 WL 588756 (FTC Feb. 10, 2012).
+LabMD first argues that this proceeding involves a complex factual record and important,
+unresolved legal questions and, consequently, that it has met the requisite standard for
+demonstrating a likelihood of success on appeal. While there is a sizeable factual record in this
+proceeding, the Commission’s adjudicatory proceedings often involve extensive and complex
+factual records. That alone does not suggest a likelihood of success on appeal. Here, the facts
+regarding LabMD’s computer network and data security practices are largely undisputed, and the
+mechanism by which consumers’ sensitive personal information was exposed is straightforward:
+LabMD made files containing that information freely available on a peer-to-peer network.
+Similarly, while this matter raises important legal questions, it involves the application of
+longstanding principles under Commission law that we believe we applied properly. In our
+view, the legal questions are not so difficult as to justify a stay when the equities cut against that
+result. “The necessary degree or level of possibility of success will generally vary according to
+an assessment of the other three factors.” California Dental Ass’n, 1996 FTC LEXIS 277, at
+*10. Thus, the movant must make a higher showing of likely success on the merits if the balance
+of the equities does not support a stay. North Carolina Bd. of Dental Examiners, 2012 WL
+588756, at *1.
+LabMD also offers a list of substantive and procedural arguments as reasons why the
+Commission’s decision will be overturned on appeal. None of them persuades us that LabMD is
+likely to prevail.
+2
+
+Many of LabMD’s contentions – including those it characterizes as matters of first
+impression – are mere repetition of issues already decided by the Commission. In previous
+opinions and orders the Commission has addressed LabMD’s claims regarding the FTC’s
+jurisdiction over data security; 2 the meaning and application of the FTC Act’s unfairness
+standard; 3 the reasonableness of LabMD’s data security practices; 4 the requirement under the
+unfairness standard that the injury to consumers not be “outweighed by countervailing benefits to
+consumers or to competition”; 5 the adequacy of notice to LabMD of the applicable standard, and
+the Commission’s determination to proceed by adjudication rather than by rulemaking; 6 and the
+purported infringement of LabMD’s Fourth Amendment rights. 7 For the reasons already
+explained in those prior orders, these arguments are without merit.
+LabMD next presents a series of challenges to our Final Order, claiming it is unlawful
+and unenforceable. None of these contentions is persuasive.
+First, LabMD claims that the Final Order exceeds the Commission’s authority because it
+does not simply direct LabMD to “cease and desist,” but instead requires affirmative actions
+such as the creation of a plan to protect the personal consumer information in its possession and
+notification to consumers whose information has been exposed. LabMD’s cramped reading of
+Section 5’s remedial authority is inconsistent with longstanding precedent. “[I]t is clear that the
+Commission has the power to shape remedies which go beyond the simple cease and desist
+order.” Warner-Lambert Co. v. FTC, 562 F.2d 749, 756-57 (D.C. Cir. 1977). Pursuant to its
+broad remedial authority, “the Commission may order affirmative acts.” Heater v. FTC, 503
+F.2d 321, 324 n.7 (9th Cir. 1974). Here, in order to stop the wrongful conduct – LabMD’s lax
+data security practices – our Final Order necessarily requires LabMD to take action. The
+requirements we have imposed are well within the “wide discretion” of the Commission to
+“determin[e] the type of order that is necessary to bring an end to the unfair practices found to
+exist.” See FTC v. Nat’l Lead Co., 352 U.S. 419, 428 (1957).
+
+2
+
+See, e.g., Order Denying Respondent LabMD’s Motion to Dismiss at 3-14 (Jan. 16, 2014).
+See, e.g., Opin. at 16-25. LabMD’s suggestion that the Commission ignored the ALJ’s assessment of witness
+credibility and demeanor at the evidentiary hearing is also misplaced. The ALJ’s determination that he was not
+persuaded by some of the testimony presented by Complaint Counsel’s experts was not a matter of demeanor.
+Where the ALJ did make a credibility finding, for instance in his conclusion that Tiversa CEO Robert Boback was
+“not a credible witness,” Initial Decision at 34 ¶ 167, the Commission factored that into its ruling. Opin. at 31.
+4
+See, e.g., Opin. at 11-16 (July 28, 2016). LabMD is incorrect in asserting that the Expert Opinion Declaration of
+Cliff Baker, attached as an exhibit to LabMD’s Application for Stay, is part of the record of this proceeding. See
+Respondent LabMD, Inc.’s Opposition to Complaint Counsel’s Motion for Leave to File Surreply at 9, citing
+Commission Rule 3.43(i). In fact, the ALJ rejected LabMD’s motion to admit this declaration into the record.
+Order on Respondent’s Motion to Admit Exhibits (July 15, 2015). Rule 3.43(i) provides for the retention of rejected
+exhibits merely to facilitate subsequent review of evidentiary rulings. Notably, LabMD did not raise the rejection of
+the exhibit at any point in the Commission’s consideration of Complaint Counsel’s appeal.
+5
+See, e.g., Opin. at 26-28.
+6
+See, e.g., id. at 28-31; Order Denying Respondent LabMD’s Motion to Dismiss at 14-17.
+7
+See, e.g., Opin. 31-32.
+3
+
+3
+
+The related contention that the Final Order’s notice requirement is invalid because the
+Commission lacks authority to order redress in an administrative proceeding is similarly without
+merit. Here we are merely requiring LabMD to notify affected consumers so that they may take
+appropriate action to mitigate any past harm and prevent any potential future harm from the
+disclosure of their personal information. Courts have routinely affirmed Commission
+administrative orders requiring notice to affected consumers. See, e.g., Daniel Chapter One,
+2009 WL 5160000 (FTC 2009) (Final Order ¶ V.B), aff’d, Daniel Chapter One v. FTC, 2010
+WL 5108600, at *2 (D.C. Cir. 2010) (rejecting religious objections to consumer notification
+requirement in Commission order); Removatron Int’l Corp. v. FTC, 884 F.2d 1489, 1500 (1st
+Cir. 1989) (“[t]he [order] requirement that notice be sent to all past purchasers . . . merely
+ensures full compliance with the spirit of the Commission’s order”).
+Nor is the Final Order invalid because it addresses practices that LabMD contends have
+been discontinued. Even though LabMD has apparently stopped accepting specimen samples
+and conducting tests, it continues to hold personal information for approximately 750,000
+consumers, continues to exist as a corporation, and has not ruled out resuming operations. Opin.
+at 36. Indeed, in his declaration in support of LabMD’s application for stay, LabMD CEO
+Michael Daugherty carefully avoids a conclusive statement that LabMD will never resume
+operations. See Daugherty Declaration In Support of LabMD Inc.’s Application for Stay ¶ 14.
+“It is well established that the Commission has authority to enter an order even where the
+challenged practices have been voluntarily abandoned or revised.” Am. Home Prods. Corp., 98
+FTC 136, 406 (1981) (citing Am. Med. Ass’n v. FTC, 638 F.2d 443(2d Cir. 1980)), aff’d, 695
+F.2d 681, 703 n.38 (3d Cir. 1982); accord Columbia Broadcasting Sys., Inc. v. FTC, 414 F.2d
+974, 982 (7th Cir. 1969) (refusing to strike portions of order directed at particular practice even
+though provisions establishing that practice had been deleted from all contracts).
+LabMD’s remaining challenge to the Final Order – that the Commission lacks authority
+to retroactively enforce HIPAA/HITECH notice obligations – fares no better. The requirement
+that LabMD provide notice to affected consumers is not an effort by the Commission to enforce
+HIPAA or HITECH. It is a provision to address LabMD’s violation of the FTC Act. The fact
+that the relief we ordered bears resemblance to other statutory obligations that apply to LabMD
+is of no moment. As noted above, the Commission has broad discretion in fashioning
+appropriate relief. The Commission often requires companies to provide notice to their
+customers in order to remedy Section 5 violations. See, e.g., Daniel Chapter One, 2009 WL
+5160000; Removatron Int’l Corp., 884 F.2d at 1500; see also Oracle Corp., No. 132-3115
+(March 29, 2016) (Decision and Order ¶ 3), available at https://www.ftc.gov/enforcement/casesproceedings/132-3115/oracle-corporation-matter.
+LabMD makes two final, broad arguments. First, it asserts that the Commission issued
+its administrative complaint to punish LabMD’s CEO for speaking out against the FTC’s
+investigation and argues that this claimed retaliation violates LabMD’s First Amendment rights.
+This assertion lacks any credible basis.
+Second and equally meritless is the contention that the combination of investigative,
+prosecutorial, and adjudicative functions within the FTC violates a respondent’s due process
+rights. This argument has been rejected repeatedly by the courts. See, e.g., FTC v. Cinderella
+4
+
+Career & Finishing Schools, Inc., 404 F.2d 1308, 1315 (D.C. Cir. 1968) (“It is well settled that a
+combination of investigative and judicial functions within an agency does not violate due
+process.”) (internal quotation omitted); Gibson v. FTC, 682 F.2d 554, 560 (5th Cir. 1982)
+(rejecting a claim that “the FTC system of prosecution–adjudication” infringed due process
+rights); Nat’l Harness Mfrs. Ass’n v. FTC, 268 F. 705, 707 (6th Cir. 1920) (deeming “[t]he
+criticism that the statute makes the commission both judge and prosecutor . . . too insubstantial to
+justify discussion”); cf. United States v. Litton Indus. Inc., 462 F.2d 14, 16-17 (9th Cir. 1972)
+(explaining that the Administrative Procedure Act prohibition against the same person
+investigating and rendering a decision in the same matter expressly does not apply to the
+members of the body comprising the agency). This due process claim is no more likely to
+succeed in this case than it has in the past.
+B.
+
+Irreparable Injury
+
+LabMD bears the burden of demonstrating with specificity that irreparable harm is “both
+substantial and likely to occur absent the stay.” N. Texas Specialty Physicians, 141 F.T.C. 456,
+460 (2006). Moreover, “[s]imple assertions of harm or conclusory statements based on
+unsupported assumptions will not suffice.” California Dental Ass’n, 1996 FTC LEXIS 277, at
+*6; see also Toys “R” Us, 126 F.T.C. at 698. LabMD has not met this burden.
+We are not persuaded by LabMD’s claim that the cost to comply with the Final Order is
+substantial. LabMD’s assertions about costs ignore the flexibility inherent in the Final Order.
+As explained in our opinion, we took LabMD’s current limited operations into account in our
+Order. Specifically, in Part I of the Order, we mandated the creation of a comprehensive
+information security program that provides “administrative, technical and physical safeguards
+that are appropriate for the nature and scope of LabMD’s activities.” Opin. at 36. Indeed, we
+acknowledged that a reasonable security program for LabMD’s current operations with a
+computer system that is not connected to the Internet will unquestionably differ from one were
+LabMD to resume more active operations.
+Nonetheless, Mr. Daugherty posits that if the Order is interpreted to require the
+rebuilding of LabMD’s computer network, his “understanding is that this will cost at least
+$10,000.00 plus maintenance fees,” (Daugherty Decl. ¶ 22(a)(v)), and that, even if that is not
+required, complying with Part I of the Order would still require LabMD to incur thousands of
+dollars in costs. See Supp. Daugherty Decl. ¶ 8. He also asserts that the independent assessment
+called for by Part II of the Order could cost over $250,000 (Daugherty Decl. ¶ 22(b)), and that
+the compliance reports required by Part VII would impose an additional expense of “about
+$20,000” (id. ¶ 22(d)).
+However, nothing in our Order would require the “rebuilding of LabMD’s computer
+network,” as LabMD speculates. Nor is there any reason to expect that the security program, the
+independent assessment, or the compliance reports will impose the level of costs or other
+burdens LabMD claims. The requirements ordered by the Commission necessarily depend on
+the nature and scope of LabMD’s operations. If its current operations are now as limited as
+LabMD asserts, the burden and cost of developing and implementing an acceptable security plan
+and submitting the required compliance reports should be limited. Moreover, while not
+5
+
+conclusively stating that LabMD will never resume full operations, Mr. Daugherty represents
+that he does not currently expect to restart the LabMD business or to reconnect LabMD’s
+computers to the Internet. Id. ¶¶ 14, 16. Accordingly, we conclude that creating a security
+program and preparing the required compliance reports would be nowhere nearly as costly as
+LabMD claims.
+LabMD also objects to Part III of the Final Order, which directs LabMD to notify the
+consumers whose sensitive medical and other sensitive personal information was disclosed.
+Because LabMD did not issue consumer notifications after it was informed that the personal
+information contained in the 1718 File had been exposed, our Order now requires LabMD to
+notify affected consumers to enable them to take appropriate steps to protect themselves from
+identity and medical identity theft.
+LabMD claims that the burdens and costs of complying with this provision would also be
+substantial. It estimates, for instance, that just the cost of stamps for the consumer notices will
+total $4,371. See id. ¶ 22(c)(v). Mr. Daugherty also asserts that he no longer has staff to prepare
+and mail the notices and would therefore have to hire others or “do this by [him]self.” Id. ¶
+22(c)(ii). More broadly, LabMD argues that it “does not wish to engage” in what amounts to
+“government-mandated speech.” Id. ¶¶ 23-24.
+These arguments are also unpersuasive. The notice contemplated by our Order is
+narrowly tailored and straightforward. LabMD has already provided similar notice to other
+consumers for a data breach LabMD experienced in 2010. Initial Decision at 39 ¶ 212. The cost
+of such notifications, while not trivial, is not sufficiently substantial to warrant a stay.
+LabMD’s First Amendment argument is also meritless. The authority LabMD cites in
+support, Int’l Dairy Foods Ass’n v. Amestoy, is inapposite. 8 Courts have rejected similar First
+Amendment challenges even where the speech being compelled was far more consequential and
+wide-ranging than the limited consumer notice provisions at issue here. See, e.g., Novartis
+Corp. v. FTC, 223 F.3d 783, 788-89 (D.C. Cir. 2000); cf. Sorrell, 272 F.3d at 113-16 (rejecting
+challenge to a labeling statute).
+LabMD also claims our Order will cause irreparable harm because the requirements to
+develop a comprehensive data security plan and to give notice to affected consumers are
+unconstitutionally vague. Neither provision, however, is vague; both describe what LabMD is
+required to do, but allow for flexibility as to how precisely to meet those requirements. That
+8
+
+In Amestoy, trade associations for dairy producers claimed that a state statute that required products from cows
+treated with growth hormones to be so labeled infringed their constitutional right not to speak. The Second Circuit
+held that, without some indication that the statute concerned “human health or safety” or could be justified “on the
+basis of ‘real’ harms,” compulsion based on nothing more than the “demand of [the state’s] citizenry for such
+information, . . . is inadequate.” Amestoy, 92 F.3d 67, 73 (2d Cir. 1996). Subsequently, in Nat’l Elec. Mfrs. Ass’n
+v. Sorrell, the Second Circuit explained Amestoy is “expressly limited to cases in which a state disclosure
+requirement is supported by no interest other than the gratification of ‘consumer curiosity.’” 272 F.3d 104, 115 n.6
+(2d Cir. 2001); see also N.Y. Rest. Ass’n v. N.Y.C. Bd. of Health, 556 F.3d 114, 132-34 (2d Cir. 2009) (concluding
+that laws mandating certain factual disclosures are permissible as long as there is a rational basis for such
+disclosures).
+
+6
+
+does not render the provisions unconstitutionally vague. See, e.g., S. Carolina Pub. Serv.
+Authority v. FERC, 762 F.3d 41, 91 (D.C. Cir. 2014). Rather, the touchstone of the Final
+Order’s requirements is reasonableness, making it a practical standard that inures to the benefit
+of LabMD. Further, as the Supreme Court has made clear, “economic regulation is subject to a
+less strict vagueness test,” and there is “greater tolerance of enactments with civil rather than
+criminal penalties.” Village of Hoffman Estates v. Flipside, Hoffman Estates, Inc., 455 U.S. 489,
+498-99 (1982). This case involves economic regulation subject to the less strict vagueness test,
+as well as civil rather than criminal penalties.
+Indeed, for more than a decade, provisions identical to the core provisions of our Order
+have been incorporated in numerous consent decrees resolving Commission allegations of unfair
+data security practices. See, e.g., BJ’s Wholesale Club, 140 F.T.C. 467, 471 (2005) (requiring
+respondent to develop “a comprehensive information security program that is reasonably
+designed to protect the security, confidentiality, and integrity of personal information collected
+from or about consumers”).
+Finally, LabMD asserts that our Order will cause it to suffer reputational harm and loss of
+good will. Daugherty Decl. ¶ 25. Reputational harm that might arise from knowledge of
+LabMD’s exposure of sensitive personal information is not a basis for denying affected
+consumers notification of what happened.
+In sum, while LabMD will face some costs in complying with the Order, it has failed to
+establish that it will suffer substantial irreparable harm if the stay is denied. In any case,
+LabMD’s costs must be weighed against the harm to other parties and the public interest.
+C.
+
+Harm to Other Parties and the Public Interest
+
+The remaining factors focus on whether the requested stay would harm other parties and
+whether it is in the public interest. The Commission considers these factors together because
+Complaint Counsel are responsible for representing the public interest by enforcing the law. See,
+e.g., Daniel Chapter One, 149 F.T.C. at 1600; California Dental Ass’n, 1996 FTC LEXIS 277,
+at ⃰ 8. We conclude that granting a stay would risk harm to consumers and therefore is not in the
+public interest.
+LabMD contends that “[a] stay will not harm anyone,” given the purported absence of
+consumer harm. Stay Application at 2. Because LabMD never notified any affected consumers
+of the breach, we do not know how many consumers may have suffered harm due, for example,
+to identity or medical identity theft. Without notification, affected consumers and their insurance
+companies can do little to reduce the risk of harm from identity and medical identity theft or to
+address harms that may already have occurred.
+LabMD further argues that granting the stay will not result in harm because it is no longer
+in business and its computers are not connected to the Internet. However, LabMD’s computer
+system still contains sensitive medical and financial information of more than 750,000
+consumers. Initial Decision at 20 ¶ 42. We believe these consumers will remain at risk until, as
+required by the Order, LabMD undergoes a third-party assessment and implements a data
+7
+
+security plan that is appropriate for the nature and scope of its activities, however limited they
+may currently be. 9
+In sum, the interests of consumers and the public interest strongly favor denying the stay.
+III.
+
+Conclusion
+
+Weighing the various factors, we conclude that a stay is not warranted. Although the
+case raises important legal questions, none of LabMD’s arguments suggests that it is likely to
+prevail on appeal. Moreover, LabMD has not shown that it will suffer substantial irreparable
+harm absent a stay. On the other hand, there is potential risk of harm to hundreds of thousands
+of consumers if the protections provided in the Final Order are stayed during the pendency of
+LabMD’s appeal. The equities thus cut strongly against granting the stay. Accordingly,
+IT IS ORDERED that Respondent LabMD’s Application for Stay of Order Pending
+Review by the Court of Appeals is DENIED.
+By the Commission.
+Donald S. Clark
+Secretary
+SEAL:
+ISSUED: September 29, 2016
+
+9
+
+Because electronic data may be moved from computer to computer via thumb drives or other devices, the mere fact
+that a given computer is not connected to the Internet protects against only one avenue of disclosure.
+
+8
+
+

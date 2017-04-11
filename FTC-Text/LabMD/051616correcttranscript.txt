@@ -1,0 +1,9461 @@
+UNITED STATES OF AMERICA
+BEFORE THE FEDERAL TRADE COMMISSION
+COMMISSIONERS:
+
+Edith Ramirez, Chairwoman
+Maureen K. Ohlhausen
+Terrell McSweeny
+
+)
+
+In the Matter of
+LabMD, Inc.,
+a corporation.
+
+)
+)
+)
+)
+
+Docket No. 9357
+PUBLIC
+
+ORDER CORRECTING ORAL ARGUMENT TRANSCRIPT
+On May 4, 2016, Complaint Counsel filed an unopposed Motion to correct the transcript
+of the Oral Argument held in this proceeding on March 8, 2016. The Motion states that
+Complaint Counsel conferred with counsel for Respondent in a good faith effort to stipulate to
+the desired corrections, as prescribed by Commission Rule 3.52(i), 16 C.F.R. § 3.52(i), and that
+while Respondent has declined to join the Motion, Respondent agrees to the proposed
+corrections and will not oppose the Motion. Accordingly,
+IT IS ORDERED THAT the Oral Argument Transcript be, and it hereby is, modified to
+adopt the two corrections requested by Complaint Counsel in the May 4 Motion, and to read as
+shown in the attached corrected copy.
+By the Commission.
+
+Donald S. Clark
+Secretary
+SEAL:
+ISSUED: May 16, 2016
+
+1
+1
+
+UNITED STATES OF AMERICA
+
+2
+
+BEFORE THE FEDERAL TRADE COMMISSION
+
+3
+4
+
+COMMISSIONERS:
+
+Edith Ramirez, Chairwoman
+
+5
+
+Maureen K. Ohlhausen
+
+6
+
+Terrell McSweeny
+
+7
+8
+
+In the Matter of
+
+)
+
+9
+10
+11
+
+) Docket No. 9357
+LabMD, Inc.,
+
+)
+
+a corporation.
+
+)
+
+12
+13
+
+March 8, 2016
+
+14
+
+1:00 p.m.
+
+15
+
+ORAL ARGUMENT
+
+16
+17
+
+Federal Trade Commission
+
+18
+
+600 Pennsylvania Avenue, N.W.
+
+19
+
+Washington, D.C.
+
+20
+21
+22
+23
+24
+25
+
+Reported by:
+
+Josett F. Whalen, Court Reporter
+
+2
+1
+
+APPEARANCES:
+
+2
+3
+
+ON BEHALF OF THE FEDERAL TRADE COMMISSION:
+
+4
+
+LAURA RIPOSO VANDRUFF, ESQ.
+
+5
+
+Federal Trade Commission
+
+6
+
+Bureau of Consumer Protection
+
+7
+
+Division of Privacy and Identity Protection
+
+8
+
+600 Pennsylvania Avenue, N.W.
+
+9
+
+Washington, D.C.
+
+10
+
+(202) 326-2999
+
+11
+
+lvandruff@ftc.gov
+
+20580
+
+12
+13
+
+ON BEHALF OF LABMD, INC.:
+
+14
+
+ALFRED J. LECHNER, JR., ESQ.
+
+15
+
+Cause of Action
+
+16
+
+1919 Pennsylvania Avenue, N.W.
+
+17
+
+Suite 650
+
+18
+
+Washington, D.C.
+
+19
+
+(202) 499-4231
+
+20
+
+JLechner@CauseOfAction.org
+
+21
+22
+23
+24
+25
+
+20006
+
+3
+1
+
+P R O C E E D I N G S
+
+2
+
+-
+
+3
+
+CHAIRWOMAN RAMIREZ:
+
+4
+
+The Commission is meeting today in open
+
+-
+
+-
+
+-
+
+-
+
+Good afternoon, everyone.
+
+5
+
+session to hear oral argument in the matter of LabMD,
+
+6
+
+Docket Number 9357, on the appeal of counsel supporting
+
+7
+
+the complaint from the initial decision issued by the
+
+8
+
+Administrative Law Judge.
+
+9
+
+Complaint counsel are represented by
+
+10
+
+Ms. Laura VanDruff, and the respondent is represented by
+
+11
+
+Mr. Alfred J. Lechner, Jr.
+
+12
+
+During this proceeding, each side will have
+
+13
+
+45 minutes to present their arguments.
+
+14
+
+Complaint counsel shall make the first presentation and
+
+15
+
+will be permitted to reserve time for rebuttal, and
+
+16
+
+then counsel for respondent will then make his
+
+17
+
+presentation.
+
+18
+
+argument with their rebuttal.
+
+19
+20
+21
+22
+
+Complaint counsel may conclude the
+
+Ms. VanDruff, do you wish to reserve any time
+for rebuttal?
+MS. VANDRUFF:
+Madam Chairwoman.
+
+I do.
+
+Thank you,
+
+Ten minutes, please.
+
+23
+
+CHAIRWOMAN RAMIREZ:
+
+You may begin.
+
+24
+
+MS. VANDRUFF:
+
+25
+
+Madam Chairwoman, and may it please the
+
+Thank you, Madam Chairwoman.
+
+4
+1
+2
+
+Commission.
+This is a case about a company whose very
+
+3
+
+business model depended on collecting and maintaining
+
+4
+
+hundreds of thousands of consumers' most sensitive
+
+5
+
+categories of personal information, including names,
+
+6
+
+dates of birth, Social Security numbers, health
+
+7
+
+insurance information and medical diagnoses, but LabMD
+
+8
+
+did not put in place even the most basic protections to
+
+9
+
+secure that information from unauthorized disclosure.
+
+10
+
+LabMD's multiple, systemic and serious failures
+
+11
+
+violated section 5 of the FTC Act because they
+
+12
+
+unlawfully caused or likely caused substantial consumer
+
+13
+
+injury that consumers could not avoid and that was not
+
+14
+
+outweighed by countervailing benefits to consumers or
+
+15
+
+competition.
+
+16
+
+Applying the settled law of the Commission, this
+
+17
+
+is not a close case for the Commission in its de novo
+
+18
+
+review of the record on appeal.
+
+19
+
+overwhelming evidence in this case, it's important to
+
+20
+
+first address the initial decision's three most
+
+21
+
+significant errors of law that complaint counsel is
+
+22
+
+challenging.
+
+23
+
+But before I review the
+
+First, the initial decision was wrong in
+
+24
+
+holding that an act or practice that raises a
+
+25
+
+significant risk of concrete harm does not cause
+
+5
+1
+2
+
+substantial consumer injury.
+This Commission has recognized that a practice
+
+3
+
+causes or likely causes substantial -- excuse me --
+
+4
+
+that -- this Commission has recognized that a practice
+
+5
+
+causes or is likely to cause substantial injury if it
+
+6
+
+raises a significant risk of concrete harm.
+
+7
+
+The Commission's holding is grounded in
+
+8
+
+Section 5(n), which codified the unfairness statement.
+
+9
+
+And the Commission's reasoning is affirmed by case law
+
+10
+
+applying primary sources.
+
+11
+
+with the Commission's broad mandate to prevent acts or
+
+12
+
+practices that injure the public.
+
+13
+
+The standard is consistent
+
+The initial decision's ruling to the contrary
+
+14
+
+cannot be reconciled with this authority, which is
+
+15
+
+controlling in this case and in any data security case
+
+16
+
+brought under the FTC's unfairness authority.
+
+17
+
+Second --
+
+18
+
+COMMISSIONER OHLHAUSEN:
+
+19
+
+you a question on that first prong, the
+
+20
+
+first “error,” that you're arguing?
+
+21
+
+MS. VANDRUFF:
+
+22
+
+COMMISSIONER OHLHAUSEN:
+
+Counsel, could I just ask
+
+Yes.
+Are you saying that
+
+23
+
+raising a significant risk of concrete harm equals
+
+24
+
+substantial injury, or that it is likely to cause
+
+25
+
+substantial injury?
+
+6
+1
+
+MS. VANDRUFF:
+
+Nothing about the law of
+
+2
+
+Section 5 has changed since the Commission issued its
+
+3
+
+opinion on the motion to dismiss in January of 2014.
+
+4
+
+And in that opinion, the Commission held that an act or
+
+5
+
+practice may cause substantial injury if it causes a
+
+6
+
+small harm to a large number of people or raises a
+
+7
+
+significant risk of concrete harm.
+
+8
+
+And to back up for a moment,
+
+9
+
+Commissioner Ohlhausen, the Commission's order on that
+
+10
+
+motion to dismiss also observed that actual, completed
+
+11
+
+economic harms are not necessary to substantiate that a
+
+12
+
+firm's data security activities caused or likely caused
+
+13
+
+consumer injury and thus constitute unfair acts or
+
+14
+
+practices.
+
+15
+
+Therefore, for data security practices to be
+
+16
+
+unfair without the occurrence of a breach, it must
+
+17
+
+follow that for -- that what makes poor data security
+
+18
+
+practices actionable under Section 5 is the risk of
+
+19
+
+concrete harm that they --
+
+20
+21
+
+CHAIRWOMAN RAMIREZ:
+
+Counsel, I want to
+
+spend a little bit of time here on the legal standard.
+
+22
+
+MS. VANDRUFF:
+
+Yes.
+
+23
+
+CHAIRWOMAN RAMIREZ:
+
+Can you tell me -- so
+
+24
+
+your position is that there was actual harm in
+
+25
+
+this case; correct?
+
+7
+1
+
+MS. VANDRUFF:
+
+That's correct.
+
+2
+
+CHAIRWOMAN RAMIREZ:
+
+And could you outline for
+
+3
+
+me what that actual harm was.
+
+4
+
+MS. VANDRUFF:
+
+So to go back to
+
+5
+
+Commissioner Ohlhausen's question, the actual harm was
+
+6
+
+the significant risk of concrete harm that was created
+
+7
+
+by the data security practices and the failures of
+
+8
+
+adequate security that LabMD undertook in not
+
+9
+
+safeguarding adequately the sensitive personal
+
+10
+
+information for 750,000 consumers.
+
+11
+
+CHAIRWOMAN RAMIREZ:
+
+Counsel, I'd like you
+
+12
+
+to answer the question -- what does the likely --
+
+13
+
+likelihood piece of the unfairness standard mean?
+
+14
+
+Respondent is arguing that, if one were
+
+15
+
+to accept your position, you're effectively reading
+
+16
+
+out of the statute the word "likely," so can you explain
+
+17
+
+to me then, what is the meaning of that second part
+
+18
+
+of the unfairness test?
+
+19
+
+MS. VANDRUFF:
+
+20
+
+"likely" moot at all.
+
+21
+
+remains cognizable also.
+
+22
+
+standard at all.
+
+23
+
+It doesn't -- it doesn't render
+A likely substantial injury
+There's no change to that
+
+CHAIRWOMAN RAMIREZ:
+
+So
+
+24
+
+again, I'm just trying to understand what "likely
+
+25
+
+to cause" means, and is that distinct
+
+8
+1
+
+from actual harm?
+
+Because you're arguing that risk -- a
+
+2
+
+significant risk of concrete harm -- constitutes actual
+
+3
+
+harm, correct?
+
+4
+
+MS. VANDRUFF:
+
+Yes.
+
+5
+
+CHAIRWOMAN RAMIREZ:
+
+So how distinct is the
+
+6
+
+"likely to cause substantial harm" prong of the
+
+7
+
+unfairness test?
+
+8
+
+anything different?
+
+9
+10
+11
+
+Does that mean
+
+MS. VANDRUFF:
+
+I want to make sure that I
+
+understand your question.
+A significant risk of concrete harm is itself
+
+12
+
+substantial injury.
+
+13
+
+that injury is occurring at present, if the acts or
+
+14
+
+practices of a company cause that injury to occur, then
+
+15
+
+that risk occurs at present.
+
+16
+
+If that injury is -- occurs -- if
+
+CHAIRWOMAN RAMIREZ:
+
+So let me frame it a
+
+17
+
+little bit differently.
+
+If your position is
+
+18
+
+that a significant risk of concrete harm is a completed
+
+19
+
+harm, tell me how you would go about establishing a
+
+20
+
+likelihood of substantial injury.
+
+21
+
+if there's a distinction there.
+
+I'm trying to see
+
+22
+
+MS. VANDRUFF:
+
+Right.
+
+23
+
+Well, I -- I want to --
+
+24
+
+CHAIRWOMAN RAMIREZ:
+
+25
+
+right, it means something different.
+
+It's a different standard,
+Does "actual harm"
+
+9
+1
+
+mean something different than "likely to cause
+
+2
+
+substantial injury"?
+
+3
+
+proof presumably under that piece of the --
+
+There's a different standard of
+
+4
+
+MS. VANDRUFF:
+
+The likely, yes.
+
+5
+
+CHAIRWOMAN RAMIREZ:
+
+6
+
+MS. VANDRUFF:
+
+Yes.
+
+So to show that something would
+
+7
+
+be “likely” would suggest that it would occur in the
+
+8
+
+future, and so -- so that is --
+
+9
+
+CHAIRWOMAN RAMIREZ:
+
+10
+
+MS. VANDRUFF:
+
+So a temporal distinction.
+
+It's a temporal distinction, as
+
+11
+
+we set forth in our briefing, that is correct,
+
+12
+
+Madam Chairwoman, yes.
+
+13
+
+If there are no further questions on that
+
+14
+
+subject, then what I would move on to is the second
+
+15
+
+error in the initial decision, and that is that the
+
+16
+
+initial decision was wrong in holding that
+
+17
+
+Section 5 requires proof of known identity theft.
+
+18
+
+Indeed, this Commission in this proceeding has
+
+19
+
+held that the FTC permits the Commission to challenge
+
+20
+
+multiple and systemic data security failures even where
+
+21
+
+no breach has occurred.
+
+22
+
+And finally, the initial decision was wrong --
+
+23
+
+COMMISSIONER OHLHAUSEN:
+
+24
+25
+
+that -MS. VANDRUFF:
+
+Yes.
+
+Counselor, can I ask, is
+
+10
+1
+
+COMMISSIONER OHLHAUSEN:
+
+2
+
+failures are likely to cause substantial
+
+3
+
+injury or that they themselves cause substantial
+
+4
+
+injury?
+
+5
+
+-- because systemic
+
+That is, complaint counsel doesn't have to show that
+
+6
+
+there's a breach because the failures are likely to
+
+7
+
+cause substantial injury?
+
+8
+9
+
+MS. VANDRUFF:
+
+Commissioner Ohlhausen, I
+
+believe that the reasoning for the Commission's
+
+10
+
+observation that complaint counsel need not show proof
+
+11
+
+of a breach is because a significant risk of concrete
+
+12
+
+harm is sufficient to show substantial injury, as I set
+
+13
+
+forth in response to your initial question.
+
+14
+
+And finally, the initial decision was wrong in
+
+15
+
+requiring complaint counsel to present expert testimony
+
+16
+
+quantifying the probability of injury.
+
+17
+
+Section 5 does not impose this requirement.
+
+18
+
+Rather, complaint counsel must present and did present
+
+19
+
+reasonably available evidence of the risk posed to
+
+20
+
+consumers by a company's poor data security practices.
+
+21
+
+LabMD's data security practices exemplify the
+
+22
+
+conduct against which the FTC Act protects consumers.
+
+23
+
+Its practices caused or were likely to cause significant
+
+24
+
+risk of the concrete harms of identity theft, medical
+
+11
+1
+
+identity theft, and the unauthorized disclosure for
+
+2
+
+hundreds of thousands of consumers, most of whom had
+
+3
+
+probably never heard of LabMD.
+
+4
+
+CHAIRWOMAN RAMIREZ:
+
+Was there any other actual
+
+5
+
+harm other than the significant risk that you've already
+
+6
+
+cited?
+
+7
+
+MS. VANDRUFF:
+
+So at the outset, that's correct,
+
+8
+
+Madam Chairwoman, that there was a significant risk
+
+9
+
+created for 750,000 consumers.
+
+10
+
+CHAIRWOMAN RAMIREZ:
+
+Okay.
+
+So putting that
+
+11
+
+aside, was there any other --
+
+12
+
+MS. VANDRUFF:
+
+13
+
+CHAIRWOMAN RAMIREZ:
+
+14
+
+evidence demonstrates, in your view?
+
+So putting that aside --- completed harm that the
+
+15
+
+MS. VANDRUFF:
+
+Right.
+
+16
+
+Putting aside the 750,000 consumers, that the
+
+17
+
+record shows that there was also a file of
+
+18
+
+9300 consumers that was exposed on the peer-to-peer
+
+19
+
+network.
+
+20
+
+CHAIRWOMAN RAMIREZ:
+
+So the exposure of the
+
+21
+
+1718 File itself is also actual, completed harm; is
+
+22
+
+that --
+
+23
+
+MS. VANDRUFF:
+
+That's correct.
+
+24
+
+CHAIRWOMAN RAMIREZ:
+
+25
+
+MS. VANDRUFF:
+
+And anything else?
+
+And in addition, there was a file
+
+12
+1
+
+containing the sensitive personal information of
+
+2
+
+approximately 600 consumers found in the hands of
+
+3
+
+identity thieves in Sacramento, California.
+
+4
+5
+6
+
+COMMISSIONER McSWEENY:
+
+Can I ask you a question
+
+about the Sacramento file?
+Do you agree with the ALJ's finding that there
+
+7
+
+is no evidence establishing that the Sacramento
+
+8
+
+documents were obtained from LabMD's computer network?
+
+9
+
+MS. VANDRUFF:
+
+So we are not conceding that the
+
+10
+
+Sacramento day sheets -- well, the evidence in the
+
+11
+
+record does not establish how the documents got from
+
+12
+
+LabMD to the identity thieves in Sacramento, but we
+
+13
+
+have established that they are LabMD documents containing
+
+14
+
+sensitive consumer information, and the fact that they
+
+15
+
+were obtained by identity thieves demonstrates exactly
+
+16
+
+the types of concrete injury that result from the
+
+17
+
+unauthorized disclosure of consumers' sensitive personal
+
+18
+
+information.
+
+19
+
+COMMISSIONER McSWEENY:
+
+I understood that
+
+20
+
+Dr. Hill's testimony basically asserted that he found that
+
+21
+
+the physical security at LabMD was reasonable, or was not
+
+22
+
+unreasonable.
+
+23
+24
+25
+
+So is that relevant here for establishing where
+these documents came from?
+MS. VANDRUFF:
+
+Well, as an initial matter, I
+
+13
+1
+
+would disagree with that characterization of
+
+2
+
+Professor Hill's opinion.
+
+3
+
+While the allegations of the complaint -- well,
+
+4
+
+first of all, Professor Hill's opinions do not relate to
+
+5
+
+physical security.
+
+6
+
+also relate primarily to failures of electronic
+
+7
+
+security, and those are the focus of Professor Hill's
+
+8
+
+opinions.
+
+9
+
+principles of her opinions are equally applicable to
+
+10
+11
+12
+13
+
+And the allegations of the complaint
+
+But the principles of the complaint and the
+
+physical security.
+So, for example, LabMD's failure to have a
+written security -CHAIRWOMAN RAMIREZ:
+
+Complaint Counsel, does
+
+14
+
+your complaint -- the allegations in the complaint, do
+
+15
+
+they relate to computer security or physical security?
+
+16
+
+The ALJ seemed to understand the
+
+17
+
+complaint to be and the allegations in the case to be
+
+18
+
+solely limited to computer security.
+
+19
+
+inaccurate?
+
+20
+
+MS. VANDRUFF:
+
+Is that
+
+The allegations of the complaint
+
+21
+
+relate to electronic security, but the principles are
+
+22
+
+equally applicable to physical security.
+
+23
+
+So, for example, Madam Chairwoman, the
+
+24
+
+allegations include a failure to have a written security
+
+25
+
+policy, and LabMD's failure to have a written security
+
+14
+1
+
+plan or to perform risk assessments created an
+
+2
+
+environment in which significant risks to physical
+
+3
+
+security were possible.
+
+4
+
+CHAIRWOMAN RAMIREZ:
+
+So I want to make very
+
+5
+
+clear, notwithstanding the fact that the complaint in
+
+6
+
+paragraph 10 focuses on computer security, are you
+
+7
+
+saying the charges here and the evidence showed that
+
+8
+
+there were also lapses in physical security?
+
+9
+
+what you're saying?
+
+10
+
+MS. VANDRUFF:
+
+Is that
+
+I'm saying there's nothing
+
+11
+
+inconsistent about our proofs to not -- to foreclose
+
+12
+
+conclusions about physical security.
+
+13
+
+CHAIRWOMAN RAMIREZ:
+
+Okay.
+
+So you're also
+
+14
+
+including physical security, that's part of –
+
+15
+
+notwithstanding the language that's used in the complaint,
+
+16
+
+you're including lapses of physical security in the
+
+17
+
+charges.
+
+18
+
+MS. VANDRUFF:
+
+That's right.
+
+The "Among other
+
+19
+
+things" paragraph, Madam Chairwoman, is not an
+
+20
+
+exhaustive list, and so certainly those are examples of
+
+21
+
+the kinds of failures, and as examples, they extend to
+
+22
+
+the kinds of things, including physical security, that's
+
+23
+
+correct.
+
+24
+
+CHAIRWOMAN RAMIREZ:
+
+25
+
+MS. VANDRUFF:
+
+Okay.
+
+So LabMD's data security
+
+15
+1
+
+practices exemplify the kinds of conduct against which
+
+2
+
+the FTC Act protects consumers, and its practices caused
+
+3
+
+or were likely to cause a significant risk of the kinds
+
+4
+
+of concrete harms like identity theft, medical identity
+
+5
+
+theft, and the unauthorized disclosure of sensitive
+
+6
+
+personal information.
+
+7
+
+And when a company's corporate network contains
+
+8
+
+hundreds of thousands of consumers' sensitive personal
+
+9
+
+information, Section 5 of the FTC Act requires a company
+
+10
+11
+12
+
+to take steps to protect it.
+CHAIRWOMAN RAMIREZ:
+
+Counsel, so going back to
+
+just focusing on the Sacramento documents --
+
+13
+
+MS. VANDRUFF:
+
+Yes.
+
+14
+
+CHAIRWOMAN RAMIREZ:
+
+-- as
+
+15
+
+the plaintiff in this matter, what obligation do you
+
+16
+
+have to establish a causal link between that exposure of
+
+17
+
+documents and the security practices of respondent, so
+
+18
+
+what amount of proof do you need to establish that
+
+19
+
+there's a link between that and the documents, and how
+
+20
+
+have you shown that?
+
+21
+
+MS. VANDRUFF:
+
+Right.
+
+22
+
+So we -- the record evidence, we have presented
+
+23
+
+evidence from the detectives in Sacramento that
+
+24
+
+demonstrate that the documents that came from LabMD
+
+25
+
+were found in the hands of identity thieves.
+
+16
+1
+
+And while we have not been able to establish
+
+2
+
+how those documents came to -- from LabMD to be in the
+
+3
+
+hands of identity thieves, we have demonstrated that the
+
+4
+
+kinds of information that LabMD maintains are the kinds
+
+5
+
+of information that identity thieves value, and so it is
+
+6
+
+very much a concrete harm that consumers will suffer if
+
+7
+
+information that LabMD maintains is exposed without
+
+8
+
+authorization.
+
+9
+10
+11
+
+COMMISSIONER OHLHAUSEN:
+
+I have a
+
+question that relates to that.
+In your appeal brief on page 7, you said that
+
+12
+
+LabMD created a significant risk of harm by collecting,
+
+13
+
+storing and transferring consumer data in large volumes
+
+14
+
+on a daily basis.
+
+15
+
+Under your theory, is that a significant risk
+
+16
+
+equal to a substantial injury, or does there need to be
+
+17
+
+something more?
+
+18
+
+sensitive health information, is that enough or does
+
+19
+
+there need to be more, if we're just looking at a
+
+20
+
+significant risk?
+
+21
+
+Just the fact that they collected
+
+MS. VANDRUFF:
+
+The collection alone does not
+
+22
+
+create a significant risk.
+
+It's the failure to
+
+23
+
+adequately protect that data, the failure to safeguard
+
+24
+
+that data from unauthorized disclosure, and that is the
+
+25
+
+record that we have established in this case.
+
+17
+1
+
+COMMISSIONER OHLHAUSEN:
+
+So that goes to
+
+2
+
+whether they took reasonable precautions; is that
+
+3
+
+right?
+
+4
+
+MS. VANDRUFF:
+
+That's correct.
+
+5
+
+COMMISSIONER OHLHAUSEN:
+
+6
+
+And so in the Wyndham case, they
+
+Reasonable precautions?
+
+7
+
+talk about a cost-benefit analysis that considers a
+
+8
+
+number of relevant factors, such as the -- I'm quoting
+
+9
+
+here -- "the probability and expected size of
+
+10
+
+reasonably unavoidable harms to consumers given a
+
+11
+
+certain level of cybersecurity and the costs to
+
+12
+
+consumers that would arise from an investment in
+
+13
+
+stronger cybersecurity."
+
+14
+
+So does your interpretation of 5(n) agree with
+
+15
+
+the Third Circuit's interpretation or does it differ in
+
+16
+
+some way?
+
+17
+
+MS. VANDRUFF:
+
+We are building on the
+
+18
+
+Commission's interpretation of Section 5(n), which I think is
+
+19
+
+entirely consistent with the unfairness statement.
+
+20
+
+COMMISSIONER OHLHAUSEN:
+
+And is that
+
+21
+
+interpretation you are relying on from Commissioner
+
+22
+
+Wright's decision denying respondent's motion to dismiss?
+
+23
+
+MS. VANDRUFF:
+
+That's correct,
+
+24
+
+Commissioner Ohlhausen, yes.
+
+18
+1
+2
+
+COMMISSIONER OHLHAUSEN:
+
+I have a question
+
+about that.
+
+3
+
+MS. VANDRUFF:
+
+Yes.
+
+4
+
+COMMISSIONER OHLHAUSEN:
+
+In that opinion, the
+
+5
+
+Commission says that occurrences of actual data security
+
+6
+
+breaches or actual, completed economic harms are not
+
+7
+
+necessary to substantiate that the firm's data security
+
+8
+
+activities caused or are likely to cause consumer
+
+9
+
+injury and thus constituted unfair acts or practices,
+
+10
+
+and then it cites the unfairness statement, which says
+
+11
+
+what is substantial injury: small harm to a large
+
+12
+
+number of people or raises a significant risk of
+
+13
+
+concrete harm.
+
+14
+
+So is it your contention that a
+
+15
+
+significant risk of concrete harm equals substantial
+
+16
+
+injury?
+
+That's correct?
+
+17
+
+MS. VANDRUFF:
+
+That's correct.
+
+18
+
+COMMISSIONER OHLHAUSEN:
+
+But is it also possible
+
+19
+
+that when Congress interpreted the unfairness statement
+
+20
+
+and recast it in Section 5(n) -- it moved things
+
+21
+
+around, it reversed the order of some of the
+
+22
+
+prongs -- that a significant risk became likely to cause
+
+23
+
+and concrete harm became substantial injury?
+
+24
+
+reading incorrect in some way or not in accord with what
+
+25
+
+Congress said about Section 5(n) or what the unfairness
+
+Is that
+
+19
+1
+
+statement said?
+
+2
+
+Do you see what I'm saying?
+
+3
+
+MS. VANDRUFF:
+
+4
+5
+
+No, I understand the question,
+
+Commissioner Ohlhausen.
+And what I would say is that we don't think
+
+6
+
+that the law has changed in any way since January of
+
+7
+
+2014 and since Commissioner Wright's opinion on behalf
+
+8
+
+of a unanimous Commission requiring the Commission to
+
+9
+
+change the law with respect to significant risk of
+
+10
+
+concrete harm, but the alternative formulation that you
+
+11
+
+suggest, which I think is that likely means significant
+
+12
+
+risk, would not affect the outcome in this case, as the
+
+13
+
+record demonstrates, because complaint counsel has shown
+
+14
+
+that LabMD's practices have caused a significant risk of
+
+15
+
+concrete harm whether you characterize that harm as
+
+16
+
+causing substantial injury or being likely to cause
+
+17
+
+substantial injury.
+
+18
+19
+20
+
+COMMISSIONER OHLHAUSEN:
+
+Thank you.
+
+And
+
+that leads us to another question.
+So assuming we're judging whether LabMD's
+
+21
+
+actions were likely to cause substantial injury, what
+
+22
+
+type and amount of evidence would meet this standard?
+
+23
+
+Is it a risk analysis, meaning that you need the
+
+24
+
+evidence of both probability of potential harm and
+
+25
+
+magnitude of potential harm, and does the record have
+
+20
+1
+2
+
+that kind of evidence?
+MS. VANDRUFF:
+
+So I think what you're asking is
+
+3
+
+keyed off of the briefing from respondent about what
+
+4
+
+likely --
+
+5
+
+COMMISSIONER OHLHAUSEN:
+
+Well, I'm just
+
+6
+
+trying to interpret if we have to apply likely
+
+7
+
+to cause substantial injury, which is the statutory
+
+8
+
+language --
+
+9
+10
+11
+
+MS. VANDRUFF:
+
+Yes.
+
+COMMISSIONER OHLHAUSEN:
+would meet that standard?
+
+12
+
+MS. VANDRUFF:
+
+13
+
+COMMISSIONER OHLHAUSEN:
+
+14
+
+-- what type of evidence
+
+Right.
+And where would
+
+we find that in the record?
+
+15
+
+MS. VANDRUFF:
+
+Right.
+
+16
+
+Well, the term "likely" I don't think there's
+
+17
+
+any question is ambiguous because it is open to multiple
+
+18
+
+interpretations.
+
+19
+
+you've offered, which again is not, in complaint
+
+20
+
+counsel's view, the better reading of the statute --
+
+21
+
+the better reading of the statute, as we've
+
+22
+
+offered in our briefing, is that significant --
+
+23
+
+And if given the interpretation that
+
+CHAIRWOMAN RAMIREZ:
+
+Counsel, let's just put
+
+24
+
+aside what "likely" means.
+
+Let's just take your
+
+25
+
+position that the data security practices in this
+
+21
+1
+
+case created some increased or undue risk of exposure of
+
+2
+
+sensitive information.
+
+3
+
+that, this concept of risk.
+
+Let's just -- just focus on
+
+4
+
+MS. VANDRUFF:
+
+Yes.
+
+5
+
+CHAIRWOMAN RAMIREZ:
+
+And just to
+
+6
+
+reframe the question so that you focus on what I
+
+7
+
+think we all care about --
+
+8
+
+MS. VANDRUFF:
+
+Okay.
+
+9
+
+CHAIRWOMAN RAMIREZ:
+
+-- so what evidence
+
+10
+
+establishes that the practice -- security
+
+11
+
+practices --were what created that enhanced risk
+
+12
+
+or increased risk?
+
+13
+14
+15
+16
+17
+18
+19
+
+MS. VANDRUFF:
+
+I'd be delighted to address that
+
+question.
+CHAIRWOMAN RAMIREZ:
+
+I believe that's what you
+
+were trying to get at.
+COMMISSIONER OHLHAUSEN:
+
+That is what I'm trying
+
+to get at.
+Putting aside the statute versus the
+
+20
+
+unfairness statement and how that may have been
+
+21
+
+one translated into the other, what evidence do
+
+22
+
+we have that --
+
+23
+
+MS. VANDRUFF:
+
+Well, we presented evidence of
+
+24
+
+multiple, systemic and serious failures of data security
+
+25
+
+at LabMD that exposed 750,000 consumers' --
+
+22
+1
+
+CHAIRWOMAN RAMIREZ:
+
+2
+
+top data security practices that --
+
+3
+
+MS. VANDRUFF:
+
+4
+
+CHAIRWOMAN RAMIREZ:
+
+5
+
+MS. VANDRUFF:
+
+6
+
+So walk us through just the
+
+I will.
+-- you think were --
+
+And can you put our first slide
+
+up on the screen.
+
+7
+
+CHAIRWOMAN RAMIREZ:
+
+And as you go through
+
+8
+
+those, I think one question that respondent has raised
+
+9
+
+is from what time frame should we even be looking at
+
+10
+
+this and against what benchmark are you comparing what
+
+11
+
+LabMD did as compared to what you would deem to be
+
+12
+
+reasonable and appropriate security measures.
+
+13
+
+MS. VANDRUFF:
+
+Right.
+
+14
+
+The testimony in this case and -- and the
+
+15
+
+record evidence I should say -- this is not limited
+
+16
+
+exclusively to our expert witness, but, rather, the
+
+17
+
+testimony in this case is that LabMD's failures spanned
+
+18
+
+really the period, and we're not limited in any way to
+
+19
+
+a narrow time period, as we addressed in our briefing.
+
+20
+
+A suggestion to the contrary is belied by the --
+
+21
+22
+23
+24
+25
+
+CHAIRWOMAN RAMIREZ:
+
+What's the relevant time
+
+frame?
+MS. VANDRUFF:
+
+The time period is from
+
+2005 really through the present.
+Now, some of the practices ended in 2010, as we
+
+23
+1
+
+address in our briefing and in our findings of fact,
+
+2
+
+but many continue through the present.
+
+3
+
+certainly contend that LabMD's unlawful data security
+
+4
+
+practices continue through the present and that relief
+
+5
+
+is necessary to protect consumers from harm.
+
+6
+7
+
+And we
+
+So because my time is limited, I'd like to
+address the top three data security failures.
+
+8
+
+And those would include, at the outset, first,
+
+9
+
+that LabMD did not implement any recognizable password
+
+10
+
+policy and for years permitted weak passwords on its
+
+11
+
+workstations, servers and computers in physician
+
+12
+
+offices.
+
+13
+
+And when I describe these passwords as weak, I'm
+
+14
+
+not splitting hairs between 12 and 14-character
+
+15
+
+passwords.
+
+16
+
+permitted many of its employees to use "LabMD" as their
+
+17
+
+password.
+
+18
+
+Instead, by way of an example, LabMD
+
+Even LabMD's former IT director acknowledges
+
+19
+
+that its password practices were poor.
+
+20
+
+testimony.
+
+21
+22
+23
+
+That's his
+
+The company could have checked for passwords,
+for strong passwords, and it chose not to.
+Second, LabMD did not use available measures to
+
+24
+
+prevent or detect unauthorized access to personal
+
+25
+
+information.
+
+24
+1
+
+Until at least late 2010, many employees had
+
+2
+
+the ability to download and install any software they
+
+3
+
+wanted to onto their work computers, including
+
+4
+
+unauthorized programs.
+
+5
+
+security is starkly demonstrated by the fact that an
+
+6
+
+employee downloaded LimeWire onto her workstation in
+
+7
+
+2005, but LabMD utterly failed to discover it for
+
+8
+
+years.
+
+9
+10
+
+The danger of this hole in
+
+COMMISSIONER McSWEENY:
+that for me?
+
+11
+
+MS. VANDRUFF:
+
+12
+
+COMMISSIONER McSWEENY:
+
+13
+
+program installed?
+
+Sure.
+
+MS. VANDRUFF:
+
+15
+
+COMMISSIONER McSWEENY:
+
+That's correct.
+
+MS. VANDRUFF:
+2008.
+
+COMMISSIONER McSWEENY:
+
+20
+
+MS. VANDRUFF:
+
+22
+
+And how long is
+
+It was not detected until May of
+
+19
+
+21
+
+Okay.
+
+complaint counsel alleging it remained undetected?
+
+17
+18
+
+When was the LimeWire
+
+In 2005?
+
+14
+
+16
+
+So can you just clarify
+
+And how was it detected?
+
+It was detected when LabMD
+
+received a phone call from Tiversa.
+COMMISSIONER McSWEENY:
+
+And was it detected, then,
+
+23
+
+because there were programs in place to monitor whether
+
+24
+
+outside software was installed on computers? Or was it
+
+25
+
+detected by a physical inspection?
+
+25
+1
+
+MS. VANDRUFF:
+
+It was -- no.
+
+It was
+
+2
+
+detected -- the testimony is that it was detected when
+
+3
+
+LabMD undertook to discover whether or not the reported
+
+4
+
+incidence of peer-to-peer software being installed on a
+
+5
+
+computer at LimeWire was in fact true -- excuse me -- at
+
+6
+
+LabMD was in fact true, and so they swept the
+
+7
+
+workstations and discovered that it was.
+
+8
+
+And if the security problem of allowing
+
+9
+
+employees to download software onto their workstations
+
+10
+
+from the Internet wasn't bad enough, LabMD explicitly
+
+11
+
+directed its employees to store copies of files
+
+12
+
+containing consumers' sensitive personal information
+
+13
+
+onto their workstations.
+
+14
+
+CHAIRWOMAN RAMIREZ:
+
+So, Counsel, just to go
+
+15
+
+back to my question about what the relevant benchmark to
+
+16
+
+use, so how should -- respondent raises an argument
+
+17
+
+about lack of appropriate notice about the standards
+
+18
+
+that they were required to maintain during the relevant
+
+19
+
+time frame.
+
+20
+
+to have strong passwords during this period, how should
+
+21
+
+they have known that they needed to have particular
+
+22
+
+mechanisms to ensure that a peer-to-peer program like
+
+23
+
+LimeWire would not be installed?
+
+24
+
+benchmark?
+
+25
+
+Explain to me how should they have known
+
+MS. VANDRUFF:
+
+What's the relevant
+
+Well, the relevant standard, of
+
+26
+1
+
+course, is Section 5(n) in terms of the legal standard
+
+2
+
+in terms of fair notice.
+
+3
+
+But if your question is how were their IT
+
+4
+
+professionals to have known that they could have used
+
+5
+
+the Windows function to lock down workstations to
+
+6
+
+prevent individuals from downloading software from the
+
+7
+
+Internet, the answer is training and if they had
+
+8
+
+permitted their IT professionals or really any
+
+9
+
+professionals in their system to have undertaken regular
+
+10
+
+training, and that is one of our failures.
+
+11
+
+CHAIRWOMAN RAMIREZ:
+
+But the concept of
+
+12
+
+reasonableness has to be measured against something,
+
+13
+
+right, so what's the benchmark?
+
+14
+
+So understanding that you want your employees to be
+
+15
+
+trained appropriately as to the appropriate standards.
+
+16
+
+Where do we get those standards, and where are they
+
+17
+
+reflected in the record?
+
+18
+
+MS. VANDRUFF:
+
+So in the record, our data
+
+19
+
+security expert, Professor Hill from Indiana University,
+
+20
+
+describes a number of free resources that were
+
+21
+
+available.
+
+22
+
+So, for example, written data security
+
+23
+
+policies, examples of those were available as early as
+
+24
+
+1997, and they were not used by LabMD until -- until
+
+25
+
+2010.
+
+27
+1
+
+And so that is but one example, but the record
+
+2
+
+is replete with examples throughout the time period of
+
+3
+
+LabMD failing to use available resources to secure its
+
+4
+
+network reasonably to protect the sensitive personal
+
+5
+
+information on its network from unauthorized
+
+6
+
+disclosure.
+
+7
+
+COMMISSIONER OHLHAUSEN:
+
+Counsel, assuming that they
+
+8
+
+failed to take these precautions, what evidence is in
+
+9
+
+the record about the probability of the harm or the
+
+10
+
+potential harm that consumers might suffer from these
+
+11
+
+failures and the magnitude of that harm?
+
+12
+
+MS. VANDRUFF:
+
+We presented -- I'm glad you
+
+13
+
+raise that question, Commissioner Ohlhausen, because I
+
+14
+
+would like to turn my attention, if I may, to the
+
+15
+
+evidence that complaint counsel presented of the -- the
+
+16
+
+record evidence that LabMD's failures caused or were
+
+17
+
+likely to cause substantial injury.
+
+18
+
+And the record evidence does establish that
+
+19
+
+LabMD's multiple, systemic and serious data security
+
+20
+
+failures caused a significant risk that sensitive
+
+21
+
+personal information over 750,000 consumers would be
+
+22
+
+disclosed without authorization.
+
+23
+24
+
+The record -- there are three discrete concrete
+harms that are at issue.
+
+28
+1
+
+First is identity theft.
+
+2
+
+The record establishes that consumers suffer
+
+3
+
+out-of-pocket losses and lost-time harms following
+
+4
+
+identity theft.
+
+5
+
+And this risk is not abstract, as I discussed
+
+6
+
+earlier this afternoon.
+
+7
+
+identity thieves in Sacramento make concrete that
+
+8
+
+identity thieves value the kind of information LabMD
+
+9
+
+collected.
+
+10
+11
+12
+
+The LabMD documents seized from
+
+The second risk of concrete harm is medical
+identity theft.
+The record establishes that consumers suffer a
+
+13
+
+wide variety of harms from medical identity theft, which
+
+14
+
+would burden consumers with financial costs and serious
+
+15
+
+threats to health.
+
+16
+
+theft, there's no central medical identity bureau where
+
+17
+
+a consumer can set a medical fraud alert, making
+
+18
+
+remediation difficult.
+
+19
+20
+21
+
+And in addition, unlike identity
+
+Third, a disclosure itself constitutes a
+concrete harm under Section 5.
+Sensitive health information is the type of
+
+22
+
+personal information the Commission has sought to
+
+23
+
+protect since its earliest data security case in 2002,
+
+24
+
+Eli Lilly, through its fiftieth data security settlement
+
+25
+
+in GMR Transcription Services.
+
+29
+1
+2
+
+COMMISSIONER McSWEENY:
+
+So can I ask a question
+
+about this?
+
+3
+
+MS. VANDRUFF:
+
+Yes.
+
+4
+
+COMMISSIONER McSWEENY:
+
+Are you saying that
+
+5
+
+there's injury from any exposure of any health
+
+6
+
+information?
+
+7
+
+MS. VANDRUFF:
+
+Not -- not necessarily, but the
+
+8
+
+kinds of information that could be stigmatizing.
+
+In
+
+9
+
+this case, there was information about testing for HIV,
+
+10
+
+testing for cancer, testing for other kinds of potentially
+
+11
+
+stigmatizing conditions.
+
+12
+
+I can imagine that there could be health
+
+13
+
+information that might be benign, but those aren't the
+
+14
+
+facts here.
+
+15
+
+in the record here are information that consumers would
+
+16
+
+necessarily want to be maintained as confidential.
+
+17
+
+There are facts here -- the facts that are
+
+COMMISSIONER OHLHAUSEN:
+
+Counsel, how does that
+
+18
+
+square with the unfairness statement, which talks about
+
+19
+
+substantial injury mainly involving monetary harm, but
+
+20
+
+emotional impact not ordinarily making a practice unfair?
+
+21
+
+How would you apply that to the disclosure of the medical
+
+22
+
+information that was disclosed in this case?
+
+23
+24
+
+MS. VANDRUFF:
+
+While I -- the unfairness
+
+statement certainly talks about the principal injury
+
+30
+1
+
+being economic, I think that it recognizes that there
+
+2
+
+would be narrow cases, again, not trivial or
+
+3
+
+speculative or emotional harms but -- but the kinds of
+
+4
+
+concrete harms where consumers, you know, again suffer
+
+5
+
+the kinds of harms that result from the disclosure of
+
+6
+
+the most sensitive kinds of information, like being
+
+7
+
+tested for HIV or cancer.
+
+8
+
+different in kind and again has been recognized in our
+
+9
+
+own cases before the Commission.
+
+10
+11
+12
+
+I do think that that is
+
+CHAIRWOMAN RAMIREZ:
+analogous case?
+
+What's the most closely
+
+You mentioned Eli Lilly.
+
+MS. VANDRUFF:
+
+GMR Transcription from 2014 I
+
+13
+
+believe it is, yeah, August 2014, which was our
+
+14
+
+fiftieth -- the Commission's fiftieth data security
+
+15
+
+settlement by unanimous Commission.
+
+16
+17
+18
+19
+20
+
+COMMISSIONER OHLHAUSEN:
+
+One other
+
+question.
+You talked about the evidence of the
+magnitude of the harm.
+What evidence do you have that these practices
+
+21
+
+would -- were likely to lead to these harms, that the
+
+22
+
+data security, if they had these kinds of practices,
+
+23
+
+how likely was it that consumers' information
+
+24
+
+would be exposed or released?
+
+25
+
+MS. VANDRUFF:
+
+Well, the -- it was -- the
+
+31
+1
+
+testimony -- well, I should say that our data security
+
+2
+
+expert, Professor Hill, demonstrated that the practices
+
+3
+
+of LabMD increased the risk of unauthorized disclosure
+
+4
+
+of information.
+
+5
+
+of our identity theft experts, we have established that
+
+6
+
+those harms -- that there was an increased risk of those
+
+7
+
+concrete harms.
+
+And paired together with the evidence
+
+8
+
+Now, respondent --
+
+9
+
+COMMISSIONER McSWEENY:
+
+Can I ask one more
+
+10
+
+question? I just want to clarify something about the data
+
+11
+
+security practices you identified here.
+
+12
+
+MS. VANDRUFF:
+
+Yes.
+
+13
+
+COMMISSIONER McSWEENY:
+
+To the extent that they
+
+14
+
+were tracking what was on employees' computers that
+
+15
+
+were attached to the network, were they doing that
+
+16
+
+through automated tools or were they doing that through
+
+17
+
+physical inspections or random inspections?
+
+18
+
+MS. VANDRUFF:
+
+The record is that through
+
+19
+
+2010 at least that the principal means of monitoring the
+
+20
+
+network and the software that appeared on employees'
+
+21
+
+computers was through what they called walk-around
+
+22
+
+inspections, and the record is further --
+
+23
+24
+
+COMMISSIONER McSWEENY:
+inspection?
+
+What is a walk-around
+
+32
+1
+
+MS. VANDRUFF:
+
+So -- and the record is further
+
+2
+
+that they would basically check in when computers
+
+3
+
+weren't working properly, and so if you had trouble
+
+4
+
+printing, you would call the person at the IT desk, and
+
+5
+
+he would come over and fix it.
+
+6
+
+of routinized process, so it was very reactive, if you
+
+7
+
+will.
+
+8
+9
+
+COMMISSIONER McSWEENY:
+
+And were -- I think you're
+
+out of time.
+
+10
+
+MS. VANDRUFF:
+
+11
+
+CHAIRWOMAN RAMIREZ:
+
+12
+
+But it wasn't any kind
+
+And I'm out of time.
+Go ahead.
+
+We can always go
+
+over a little bit.
+
+13
+
+COMMISSIONER McSWEENY:
+
+Were physicians who were
+
+14
+
+sending information in to the network doing
+
+15
+
+that without encryption tools or data security tools? Is
+
+16
+
+that right?
+
+17
+
+MS. VANDRUFF:
+
+The evidence is that it was over
+
+18
+
+a file transfer protocol and it is -- we don't contend
+
+19
+
+that it was unencrypted.
+
+20
+
+record is mixed about exactly how protected that was,
+
+21
+
+but that is not a contention that complaint counsel
+
+22
+
+makes.
+
+23
+
+It is -- there's -- the
+
+COMMISSIONER McSWEENY:
+
+So the use of the file
+
+24
+
+transfer protocol during this period of time isn't
+
+25
+
+alleged by you to be an unreasonable security practice.
+
+33
+1
+
+MS. VANDRUFF:
+
+There were vast quantities of
+
+2
+
+data being transferred, and there were issues about the
+
+3
+
+configuration of the firewall, but I don't think that
+
+4
+
+encryption is the concern.
+
+5
+
+COMMISSIONER McSWEENY:
+
+6
+
+CHAIRWOMAN RAMIREZ:
+
+Thank you.
+
+So just one more question
+
+7
+
+for you, so let me just go back to one of
+
+8
+
+Commissioner Ohlhausen's questions about what evidence
+
+9
+
+establishes the likelihood of harm or probability of
+
+10
+11
+
+harm, as she put it.
+The ALJ was very persuaded by the absence of a
+
+12
+
+concrete example of ID theft in the time that had
+
+13
+
+elapsed between both the discovery and exposure of the
+
+14
+
+1718 File as well as the Sacramento documents.
+
+15
+
+What role does this, what one could call as a
+
+16
+
+shorthand ex post evidence, have in the way that we
+
+17
+
+evaluate whether data practices were likely to cause
+
+18
+
+substantial injury?
+
+19
+20
+
+MS. VANDRUFF:
+
+I don't believe it has a role,
+
+Madam Chairwoman.
+
+21
+
+CHAIRWOMAN RAMIREZ:
+
+22
+
+MS. VANDRUFF:
+
+Is it relevant at all?
+
+I don't believe it is relevant,
+
+23
+
+particularly in the case of identity theft, because, of
+
+24
+
+course, the ability of a consumer to tie up the
+
+25
+
+incidence of a particular breach to a particular
+
+34
+1
+
+experience of identity theft is attenuated at best and
+
+2
+
+impossible in most circumstances, particularly here
+
+3
+
+where no consumer has received notice that the
+
+4
+
+information contained in the 1718 File was exposed on
+
+5
+
+the peer-to-peer network, so there's no ability
+
+6
+
+whatsoever for the 9300 consumers whose information was
+
+7
+
+contained -- was exposed on the peer-to-peer network for
+
+8
+
+eleven months to even know that there's a possibility
+
+9
+
+that --
+
+10
+
+CHAIRWOMAN RAMIREZ:
+
+Okay.
+
+Sure.
+
+And I think
+
+11
+
+what you're saying is that the ALJ -- that what he
+
+12
+
+required, which was showing that one of the 9300 people
+
+13
+
+who had been -- whose information had been exposed in
+
+14
+
+the 1718 File, for instance, the fact that there's no
+
+15
+
+evidence of one of those people having suffered medical
+
+16
+
+ID theft, that is of no relevance.
+
+17
+
+But the fact that there was the exposure of the
+
+18
+
+1718 File, the fact that the Sacramento documents were
+
+19
+
+found in the hands of identity thieves, of what
+
+20
+
+relevance is that to the analysis of whether or not the
+
+21
+
+data security practices were likely to cause substantial
+
+22
+
+injury?
+
+23
+
+Does that tell us anything about whether or not
+
+24
+
+the data security practices were reasonable or
+
+25
+
+unreasonable?
+
+35
+1
+
+MS. VANDRUFF:
+
+Right.
+
+I think that the fact of
+
+2
+
+those exposures does suggest that -- I mean, there were
+
+3
+
+incidents of unauthorized disclosure, and so I think
+
+4
+
+that that does point us to -- it shows that the
+
+5
+
+increased risk was further magnified and that the
+
+6
+
+consumers --
+
+7
+
+CHAIRWOMAN RAMIREZ:
+
+8
+
+MS. VANDRUFF:
+
+9
+
+I'm sorry.
+
+10
+11
+12
+
+So it is relevant.
+
+It is absolutely relevant, yes.
+
+I thought you were asking a
+
+different question, Madam Chairwoman.
+CHAIRWOMAN RAMIREZ:
+
+I probably made it too
+
+convoluted.
+
+13
+
+Anyone else?
+
+14
+
+COMMISSIONER McSWEENY:
+
+15
+
+Sorry, I have one more
+
+question.
+
+16
+
+MS. VANDRUFF:
+
+Yes.
+
+17
+
+COMMISSIONER McSWEENY:
+
+How do you respond to
+
+18
+
+LabMD's argument that this investigation was triggered
+
+19
+
+by the receipt of the 1718 File from Tiversa, but that
+
+20
+
+Tiversa's actions in obtaining the file were unlawful?
+
+21
+
+MS. VANDRUFF:
+
+Tiversa is a witness upon whom
+
+22
+
+complaint counsel does not rely in this appeal to the
+
+23
+
+Commission and upon whom complaint counsel did not rely
+
+24
+
+in its briefing, post-trial briefing before the
+
+25
+
+Administrative Law Judge.
+
+36
+1
+
+Its relevance in this appeal in the
+
+2
+
+Commission's de novo review is as a third party that
+
+3
+
+provided a tip to the Commission.
+
+4
+
+LabMD was disclosing sensitive personal information on a
+
+5
+
+peer-to-peer network, a tip that proved to be true.
+
+6
+
+The tip was that
+
+The Commission staff investigated that lead and
+
+7
+
+corroborated it with information provided by the
+
+8
+
+respondent.
+
+9
+
+COMMISSIONER McSWEENY:
+
+10
+
+MS. VANDRUFF:
+
+11
+
+COMMISSIONER McSWEENY:
+
+12
+
+Can I just ask --
+
+That is the end of the inquiry.
+Can I just follow up on
+
+this?
+
+13
+
+MS. VANDRUFF:
+
+Yes.
+
+14
+
+COMMISSIONER McSWEENY:
+
+Is it the exposure on the
+
+15
+
+peer-to-peer network of the LabMD file that I should be
+
+16
+
+weighing here? Or is it the presence of LimeWire on the
+
+17
+
+employee computer that went undetected for two-plus
+
+18
+
+years?
+
+19
+
+MS. VANDRUFF:
+
+20
+
+COMMISSIONER McSWEENY:
+
+21
+
+COMMISSIONER OHLHAUSEN:
+
+22
+
+Both, Madam Commissioner.
+Okay.
+I have a
+
+question about the peer-to-peer.
+
+23
+
+There's evidence that one entity
+
+24
+
+accessed or was able to access that file on the
+
+25
+
+peer-to-peer.
+
+37
+1
+2
+3
+
+Do we know whether anyone else was able to
+download or access the information?
+MS. VANDRUFF:
+
+The record evidence is from --
+
+4
+
+from LabMD's own witness, Richard Wallace, that he was
+
+5
+
+able to use an ordinary computer and an ordinary
+
+6
+
+peer-to-peer client and download the 1718 File.
+
+7
+
+downloaded it on behalf of his then employer, Tiversa,
+
+8
+
+who shared it with a researcher at Dartmouth University.
+
+9
+
+We don't have evidence of whether it was
+
+He
+
+10
+
+otherwise shared because the hard drive on which the
+
+11
+
+LimeWire software was installed and the file -- from
+
+12
+
+which the file was being shared was destroyed during a
+
+13
+
+LabMD forensic investigation, so that is information
+
+14
+
+that complaint counsel was not able to obtain during its
+
+15
+
+investigation.
+
+16
+
+COMMISSIONER OHLHAUSEN:
+
+So if I understand what
+
+17
+
+you're saying, we know it was capable of being accessed
+
+18
+
+that way and we know somebody did access it that way.
+
+19
+
+We don't know whether others did because the hard drive
+
+20
+
+had been damaged.
+
+21
+
+MS. VANDRUFF:
+
+Correct.
+
+22
+
+COMMISSIONER OHLHAUSEN:
+
+23
+
+CHAIRWOMAN RAMIREZ:
+
+24
+
+MS. VANDRUFF:
+
+25
+
+CHAIRWOMAN RAMIREZ:
+
+Okay.
+
+Thank you.
+
+Thank you, Counsel.
+
+Thank you.
+You may begin when you're
+
+38
+1
+
+ready, Mr. Lechner.
+
+2
+3
+
+MR. LECHNER:
+Commissioners.
+
+4
+5
+
+May it please the Chairwoman and
+
+I would like to start with just some basic
+information first.
+
+6
+
+Initially, Dr. Hill unequivocally testified that
+
+7
+
+the physical security at LabMD was adequate, so
+
+8
+
+statements to the contrary are not supported in the
+
+9
+
+record.
+
+10
+
+With regard to the Sacramento files, there is
+
+11
+
+absolutely no evidence that they came off of the LabMD
+
+12
+
+system, computer system, none at all, nothing to
+
+13
+
+support that.
+
+14
+
+raided because of a -- I believe it was utility theft,
+
+15
+
+and maybe it was electric or gas theft, and they found
+
+16
+
+these documents there by questionable individuals who
+
+17
+
+pleaded nolo contendere to a charge of identity theft,
+
+18
+
+but that's not established in the record either.
+
+19
+
+They were found in a house that was
+
+So there's nothing with regard to the
+
+20
+
+Sacramento documents to link it to the system.
+
+21
+
+simply no basis to suggest that that supports any
+
+22
+
+evidence of a --
+
+23
+
+CHAIRWOMAN RAMIREZ:
+
+There is
+
+So, Counsel, you heard
+
+24
+
+complaint counsel argue that the case is about more
+
+25
+
+than just electronic security and more than just
+
+39
+1
+
+computer security and also includes physical security.
+
+2
+
+I take it you take issue with that?
+
+3
+4
+
+MR. LECHNER:
+
+Well, sure, I do.
+
+There's nothing
+
+in the complaint that says that.
+
+5
+
+I mean, we've been looking at a situation here
+
+6
+
+that's been changing with the filing of that complaint
+
+7
+
+right to the very moment now.
+
+8
+
+there's been testimony that at least there's one period
+
+9
+
+of time from June of 2007 to May of 2008 is the relevant
+
+10
+
+period, then we were told I believe it was 2005 to 2010,
+
+11
+
+that six-year period, and now we're told it's a
+
+12
+
+twelve-year period from 2005 to 2016.
+
+13
+
+target.
+
+14
+
+Now we're told, although
+
+It's a moving
+
+Dr. Hill has testified unequivocally.
+
+She
+
+15
+
+offered no testimony beyond 2010.
+
+16
+
+suggest anything beyond 2010.
+
+17
+
+not supported in the record and argues off the record
+
+18
+
+and off the complaint.
+
+19
+
+CHAIRWOMAN RAMIREZ:
+
+There is nothing to
+
+To expand it is simply
+
+Is it possible that the
+
+20
+
+Sacramento documents came from any other source other
+
+21
+
+than LabMD?
+
+22
+
+MR. LECHNER:
+
+23
+
+from.
+
+24
+
+where they came from.
+
+25
+
+that.
+
+I don't know where they could come
+
+There's been no evidence.
+
+I can't speculate
+
+It's not my burden to disprove
+
+It's their burden to prove it, and they haven't
+
+40
+1
+
+offered any evidence, other than speculation, which
+
+2
+
+really I think is the key to their case.
+
+3
+
+speculation.
+
+4
+
+It's
+
+They -- I believe it was Commissioner Ohlhausen
+
+5
+
+who asked whether a likelihood of substantial injury, if
+
+6
+
+that's established, or a likelihood of raising a
+
+7
+
+concrete harm, the possibility of concrete harm, equals
+
+8
+
+an injury.
+
+9
+
+read it in the brief -- they argue it does.
+
+10
+
+That makes
+
+no sense.
+
+11
+12
+
+And if I heard correctly -- and I think I
+
+CHAIRWOMAN RAMIREZ:
+
+Okay.
+
+Tell us what the
+
+appropriate legal standard is.
+
+13
+
+MR. LECHNER:
+
+Well, I can tell you what the
+
+14
+
+statute says, and then we can talk about where they fell
+
+15
+
+short.
+
+16
+
+The statute is clear, Section 5(n) is clear that the
+
+17
+
+Commission cannot find something unreasonable unless --
+
+18
+
+that word "unless" is prominent -- it finds that there
+
+19
+
+was a harm that was caused in the past or likely that
+
+20
+
+the conduct would cause substantial injury.
+
+21
+
+“Likely to cause substantial injury” is
+
+22
+
+prospective - in the future.
+
+23
+
+There's no question about that.
+
+24
+25
+
+CHAIRWOMAN RAMIREZ:
+
+“Likely” equals probable.
+It is not ambiguous.
+
+Let me start with the
+
+actual harm prong of the unfairness standard.
+
+41
+1
+
+MR. LECHNER:
+
+2
+
+CHAIRWOMAN RAMIREZ:
+
+3
+
+here?
+
+Sure.
+Isn't there actual harm
+
+Isn't the exposure of the 1718 File itself harm?
+
+4
+
+MR. LECHNER:
+
+Exposure to whom?
+
+5
+
+CHAIRWOMAN RAMIREZ:
+
+6
+
+MR. LECHNER:
+
+To, at a minimum, Tiversa.
+
+Well, Tiversa stole it, and they
+
+7
+
+tried to monetize it and they lied.
+
+8
+
+question that the people from Tiversa lied, except for
+
+9
+
+Wallace, but the Commission has tried to backpedal
+
+10
+11
+12
+
+There's no
+
+away -CHAIRWOMAN RAMIREZ:
+
+Well, Tiversa didn't steal
+
+the document; correct?
+
+13
+
+MR. LECHNER:
+
+Well, they broke --
+
+14
+
+CHAIRWOMAN RAMIREZ:
+
+15
+
+MR. LECHNER:
+
+16
+
+CHAIRWOMAN RAMIREZ:
+
+Hold on.
+
+I'm sorry.
+Tiversa accessed the
+
+17
+
+document via a peer-to-peer program that permits sharing
+
+18
+
+of files; isn't that true?
+
+19
+
+MR. LECHNER:
+
+Well, I'm not sure about that.
+
+20
+
+They were talking about using their Eagle Eye (sic)
+
+21
+
+program to break into it, which is supposed to be a lot
+
+22
+
+more sophisticated than normal peer-to-peer.
+
+23
+
+But in any event, they were not authorized.
+
+24
+
+They broke into it, and they broke into it for one
+
+25
+
+purpose, to try to blackmail the people that they broke
+
+42
+1
+
+into, in this instance LabMD, to paying them money.
+
+2
+
+And when they didn't, then they partnered up with the
+
+3
+
+FTC and tried to have the FTC do their dirty work, as
+
+4
+
+Boback talked about, wait until you see what happens
+
+5
+
+next.
+
+6
+
+COMMISSIONER OHLHAUSEN:
+
+Counsel, let me ask
+
+7
+
+you, assume that we agree with you that Tiversa was a
+
+8
+
+bad actor.
+
+9
+
+MR. LECHNER:
+
+10
+
+Yes.
+
+COMMISSIONER OHLHAUSEN:
+
+How are we to evaluate
+
+11
+
+LabMD's data security practices that enabled this bad
+
+12
+
+actor to obtain sensitive information about patients?
+
+13
+
+MR. LECHNER:
+
+Well, there's no testimony, no
+
+14
+
+expert testimony, to establish that that in point of
+
+15
+
+fact is what happened.
+
+16
+
+You talk about many times, as the Chairwoman
+
+17
+
+mentioned, what is the standard.
+
+18
+
+as was pointed out, changes.
+
+19
+
+memorandum of law dismissing our motion to dismiss, you
+
+20
+
+pointed out that this is a rapidly changing technology.
+
+21
+
+Well, the standard,
+
+And in your own
+
+So when Dr. Hill testified, she did not offer
+
+22
+
+any testimony as to what the standard was from time to
+
+23
+
+time.
+
+24
+
+2005 to 2010, yet there was no basis, no benchmark, if
+
+25
+
+you will, as that term was used here this morning.
+
+And we know that these standards changed from
+
+But
+
+43
+1
+
+there has to be that in order to demonstrate, number
+
+2
+
+one --
+
+3
+
+CHAIRWOMAN RAMIREZ:
+
+So the use of strong
+
+4
+
+passwords, you don't think that that was established as
+
+5
+
+of 2005 or 2010?
+
+6
+
+Is that what your position is?
+
+MR. LECHNER:
+
+Well, I think we're looking at in
+
+7
+
+retrospect right now what we know eleven to twelve years
+
+8
+
+later as to the strength of these passwords.
+
+9
+
+you go on a commercial site and you open up a site -- if
+
+10
+
+And when
+
+I could just --
+
+11
+
+CHAIRWOMAN RAMIREZ:
+
+12
+
+MR. LECHNER:
+
+Go ahead.
+
+I'm sorry -- they sometimes open
+
+13
+
+back and say this is strong or this is weak, this
+
+14
+
+password.
+
+15
+
+can -- you could pick out one or two of these things and
+
+16
+
+say, in my view, this was not strong, but what
+
+17
+
+Professor Hill did not do is establish how that standard
+
+18
+
+was deviated from at the time in question from time to
+
+19
+
+time during that six-year period, and that's just one
+
+20
+
+instance there.
+
+21
+
+They did not do it back in 2005.
+
+But you
+
+They had the obligation to prove that.
+
+These --
+
+22
+
+these allegations here have to be proved by expert
+
+23
+
+testimony.
+
+24
+
+Commission that they see something that they don't
+
+25
+
+like, and therefore there's a problem, and therefore
+
+It can't be an ipse dixit from the
+
+44
+1
+
+there's a harm.
+
+2
+
+speculation.
+
+3
+
+This is speculation based upon
+
+COMMISSIONER OHLHAUSEN:
+
+So, Counsel, you're saying
+
+4
+
+that you looked at the standard of reasonableness at the
+
+5
+
+time that LabMD was operating under its various security
+
+6
+
+choices there, so you're not looking from the ten-year
+
+7
+
+vantage point back but at the time.
+
+8
+
+MR. LECHNER:
+
+Yes.
+
+9
+
+COMMISSIONER OHLHAUSEN:
+
+You're saying that
+
+10
+
+there's no expert testimony or no information about what
+
+11
+
+would have been reasonable data security practices in
+
+12
+
+2005; is that correct?
+
+13
+
+MR. LECHNER:
+
+With regard to --
+
+14
+
+COMMISSIONER OHLHAUSEN:
+
+15
+
+MR. LECHNER:
+
+16
+
+And another point, just as an aside for one
+
+Or 2005 to 2010.
+
+That's precisely what I'm saying.
+
+17
+
+moment just to support that, more than thirty times,
+
+18
+
+more than thirty times, Professor Hill was asked if she
+
+19
+
+formed an opinion about, for example, X or Y.
+
+20
+
+Professor Hill said, "Yes."
+
+21
+
+thirty times was:
+
+22
+
+responded, "My conclusion is."
+
+23
+
+incompetent and can't be considered.
+
+The next question more than
+
+"What was your conclusion?"
+
+She
+
+That testimony is
+
+45
+1
+
+Case law is clear that an expert cannot offer
+
+2
+
+legal conclusions.
+
+3
+
+was wrapped up at the end of this testimony when the
+
+4
+
+professor was asked, Based upon all -- on all of your
+
+5
+
+opinions, do you have a conclusion -- conclusion?
+
+6
+
+Excuse me.
+
+7
+
+then she offered that conclusion.
+
+8
+9
+10
+
+Yes.
+
+That is for the trier of fact.
+
+What was it?
+
+That
+
+My conclusion is, and
+
+That testimony, frankly, is wrong.
+
+The counsel
+
+was warned about that by the ALJ right in the middle of
+that testimony and continued along those lines.
+
+11
+
+But to go back to the absence of the standards
+
+12
+
+here, in not one place does Professor Hill talk about a
+
+13
+
+deviation from established standard and how that
+
+14
+
+standard changed from time to time to time, and we have
+
+15
+
+a six-year period when the standards are changing, as
+
+16
+
+was pointed out by the Commission in their order
+
+17
+
+dismissing the motion to dismiss.
+
+18
+
+there's no --
+
+19
+
+CHAIRWOMAN RAMIREZ:
+
+That's a given, yet
+
+Don't LabMD's own policies
+
+20
+
+with regard to its network security tell us something
+
+21
+
+about what was considered reasonable at the time?
+
+22
+
+MR. LECHNER:
+
+Well, yes.
+
+There was a policy
+
+23
+
+there that these computers were not to be used for
+
+24
+
+personal use basis.
+
+25
+
+ESPN.
+
+They couldn't go on and look at
+
+They couldn't go on and use it for --
+
+46
+1
+
+CHAIRWOMAN RAMIREZ:
+
+And you don't think it
+
+2
+
+would be reasonable for a company to have some form of
+
+3
+
+monitoring to ensure that those policies were followed?
+
+4
+
+MR. LECHNER:
+
+Well, there was testimony that
+
+5
+
+there was monitoring there, but that's the question,
+
+6
+
+why -- and there was no opinion as to what was wrong
+
+7
+
+with that monitoring compared to what the baseline was
+
+8
+
+from time to time to time.
+
+9
+
+There's just a broad brush.
+
+There's no attempt
+
+10
+
+to segregate this and look at it from period to period,
+
+11
+
+nor to look at it from whether paragraph 10(a) or right
+
+12
+
+through paragraph 10(g) and break it out seriatim as
+
+13
+
+each of those moved on from year to year to year.
+
+14
+
+COMMISSIONER McSWEENY:
+
+Let me just back up
+
+15
+
+because I am confused about this argument that there were
+
+16
+
+no standards in place during this period of time that
+
+17
+
+you could follow.
+
+18
+
+MR. LECHNER:
+
+I'm sorry?
+
+19
+
+COMMISSIONER McSWEENY:
+
+Aren’t we talking
+
+20
+
+about HIPAA-covered documents, medical records, and
+
+21
+
+hopefully state standards here as well?
+
+22
+
+MR. LECHNER:
+
+Well, that's just the point.
+
+23
+
+Professor Hill said she was not familiar with HIPAA.
+
+24
+
+Professor Hill did not link any standard to this industry
+
+25
+
+in particular or to this business in particular, and the
+
+47
+1
+
+reasonableness demands both.
+
+2
+
+You cannot use a broad brush with regard to the
+
+3
+
+industry in general.
+
+4
+
+security industry?
+
+5
+
+Or is it the industry of the accumulation of medical
+
+6
+
+data for legitimate purposes, as LabMD was involved in?
+
+7
+
+What industry would it be?
+
+The
+
+Would it be the computer industry?
+
+But that's another point that was not done
+
+8
+
+here.
+
+There are no base standards with regard to the
+
+9
+
+particular company involved.
+
+And as the Commission
+
+10
+
+pointed out, that's what has to be done in order to look
+
+11
+
+at what reasonableness is.
+
+12
+
+circumstances.
+
+13
+
+It's based upon the
+
+What are the circumstances?
+
+The company in
+
+14
+
+question, the size of it, what it does, how it does it,
+
+15
+
+what its business involved, and over what period of time
+
+16
+
+are we looking at it and how did those standards
+
+17
+
+change.
+
+18
+
+There was no testimony at even the basic
+
+19
+
+that the standards remained the same the whole time.
+
+20
+
+And I think it was acknowledged, again to go
+
+21
+
+back to your order on the motion to dismiss, that this
+
+22
+
+technology is rapidly changing, if not day to day, at
+
+23
+
+least much more quickly than one would expect.
+
+24
+25
+
+CHAIRWOMAN RAMIREZ:
+
+Well, what I think the
+
+Commission stated in its decision was that it's a
+
+48
+1
+
+company's obligation to be constantly evaluating its
+
+2
+
+risks and placing appropriate security measures in
+
+3
+
+order to protect the information that's contained, so
+
+4
+
+that's the question that we're trying to determine,
+
+5
+
+whether LabMD did that, correct, so --
+
+6
+
+MR. LECHNER:
+
+And my point is, Madam Chair, is
+
+7
+
+that that's not my obligation to prove.
+
+My obligation
+
+8
+
+is to disprove I had notice of it, but there's no
+
+9
+
+testimony establishing what the standard was that we
+
+10
+
+deviated from from time to time with regard to each of
+
+11
+
+these particulars.
+
+12
+
+was offered to each of these areas but not an opinion
+
+13
+
+based upon a reasonable degree of probability.
+
+14
+
+There was general conclusion that
+
+CHAIRWOMAN RAMIREZ:
+
+Can any conclusion be drawn
+
+15
+
+from the existence of LimeWire on the LabMD network?
+
+16
+
+Does that tell us anything about the reasonableness of
+
+17
+
+the data security practices?
+
+18
+
+MR. LECHNER:
+
+Well, it's interesting.
+
+The
+
+19
+
+position of this body was that P2P networking and
+
+20
+
+programs were neutral.
+
+21
+
+of a Congressional commission in July of 2007, that P2P
+
+22
+
+file sharing is neutral technology.
+
+23
+
+That was testified to in front
+
+After that, the FTC position didn't change until
+
+24
+
+after 2008, and the FTC didn't give any notice of
+
+25
+
+warning businesses about the so-called dangers of P2P
+
+49
+1
+
+until after it commenced the action against LabMD in
+
+2
+
+January 2010, so even the FTC's conduct here --
+
+3
+
+CHAIRWOMAN RAMIREZ:
+
+I've taken a look at that
+
+4
+
+testimony.
+
+5
+
+I understood that the agency in fact was educating both
+
+6
+
+consumers and businesses at that time about the risks,
+
+7
+
+the potential risks, of peer-to-peer technology, and
+
+8
+
+encouraged businesses to evaluate those risks.
+
+9
+10
+
+I don't read it the way that you do, and so
+
+COMMISSIONER McSWEENY:
+
+Let me frame that question
+
+slightly differently, if I may.
+
+11
+
+CHAIRWOMAN RAMIREZ:
+
+Go ahead.
+
+12
+
+COMMISSIONER McSWEENY:
+
+Is the existence of
+
+13
+
+unsanctioned, undetected software that was installed by
+
+14
+
+an employee on a computer something that we should take
+
+15
+
+into account in assessing whether reasonable security
+
+16
+
+practices were in place?
+
+17
+
+MR. LECHNER:
+
+By itself, no.
+
+It doesn't mean
+
+18
+
+anything.
+
+19
+
+has to be done here -- just for argument sake, let's
+
+20
+
+just take that proposition as a given.
+
+21
+
+then the question is:
+
+22
+
+answer is no here.
+
+23
+
+was caused.
+
+24
+
+cause substantial injury.
+
+25
+
+Because, number one, there's been no -- what
+
+All right?
+
+Did that cause any harm?
+
+But
+
+The
+
+There's no allegation that any harm
+
+The allegation is that it was likely to
+
+Now, there's no testimony with regard to the
+
+50
+1
+
+probability of that -- assume for argument position --
+
+2
+
+was likely to cause substantial injury.
+
+3
+
+Now, if you wanted to use the new standard that
+
+4
+
+they are trying to allege now after the fact that they
+
+5
+
+did not allege until after their post-trial briefing that
+
+6
+
+we should read likely to cause substantial injury as
+
+7
+
+likely to raise a substantial risk of -- risk of
+
+8
+
+substantial -- of a concrete harm, that's even more
+
+9
+
+difficult to prove, because then you need expert
+
+10
+
+testimony of the likelihood that it's going to cause it,
+
+11
+
+what -- what the risk is, how the risk increased from
+
+12
+
+what to what, and we --
+
+13
+
+CHAIRWOMAN RAMIREZ:
+
+Counsel, if I may, and
+
+14
+
+just going back to this issue of what one can infer
+
+15
+
+from just even the existence of the LimeWire program
+
+16
+
+being placed on a computer, there is testimony from
+
+17
+
+Mr. -- Dr. Shields about the ease with which someone
+
+18
+
+could access files that have been made accessible via
+
+19
+
+peer-to-peer programs.
+
+20
+
+showing that that creates a risk of exposure of
+
+21
+
+sensitive information?
+
+22
+23
+24
+25
+
+MR. LECHNER:
+
+Isn't that evidence
+
+Well, first of all, the LimeWire
+
+was taken off promptly, as you know, back in 2008.
+There's no testimony from him as to what period
+of time he's talking about.
+
+We are just using this block
+
+51
+1
+
+of time.
+
+2
+
+cannot look at this as a monolithic block with standards
+
+3
+
+not changing.
+
+4
+
+Again, I go back to the same position that you
+
+And third of all, it's speculative because
+
+5
+
+there's not one incident either from the Sacramento
+
+6
+
+documents nor one incident from the documents that were
+
+7
+
+taken by Tiversa without authority that anyone saw these
+
+8
+
+documents except Tiversa, and they gave it to this
+
+9
+
+professor and the FTC, who gave it to experts.
+
+10
+
+Nobody
+
+else saw this.
+
+11
+
+COMMISSIONER OHLHAUSEN:
+
+Counsel, we know that
+
+12
+
+Tiversa did access the file through peer-to-peer.
+
+13
+
+don't know whether anyone else did.
+
+14
+
+MR. LECHNER:
+
+We
+
+Is that correct?
+
+Well, we do know this, that LabMD
+
+15
+
+had two of its employees use their home computers and
+
+16
+
+tried repeatedly to use file-sharing programs and were
+
+17
+
+not able to locate it.
+
+18
+
+That's in the record.
+
+COMMISSIONER OHLHAUSEN:
+
+But can you explain
+
+19
+
+why they weren't able to determine that from the
+
+20
+
+hard drive with the forensic audit?
+
+21
+
+MR. LECHNER:
+
+I don't know.
+
+22
+
+burden.
+
+23
+
+that, which is again --
+
+24
+
+I simply don't know.
+
+CHAIRWOMAN RAMIREZ:
+
+That's not my
+
+I can't speculate as to
+
+What happened to that
+
+52
+1
+
+computer?
+
+It's unclear from the record what happened to
+
+2
+
+that computer.
+
+3
+
+MR. LECHNER:
+
+4
+
+CHAIRWOMAN RAMIREZ:
+
+5
+
+I have no idea.
+There's nothing in the
+
+record about --
+
+6
+
+MR. LECHNER:
+
+Not that I'm aware of.
+
+7
+
+COMMISSIONER McSWEENY:
+
+And it's also, I think, not
+
+8
+
+totally clear what other files might have been
+
+9
+
+accessible through LimeWire on the computer. Is that
+
+10
+11
+
+right?
+MR. LECHNER:
+
+Well, again, that's speculation.
+
+12
+
+You're correct.
+
+13
+
+factual testimony on that, no expert testimony on that,
+
+14
+
+rank speculation, yes, as far as that's concerned.
+
+15
+
+That's total speculation.
+
+There's no
+
+But to go back to the standard that's involved
+
+16
+
+here, we do have a migration of this right now from
+
+17
+
+likely to cause substantial injury to likely to raise a
+
+18
+
+significant risk of concrete harm.
+
+19
+
+that if you're going to use the second one, you need an
+
+20
+
+expert witness to opine as to what "likely" would mean,
+
+21
+
+what "substantial" and what "risk" means and what
+
+22
+
+"concrete harm" means.
+
+I suggest to you
+
+23
+
+Concrete harm certainly, as -- if you look at
+
+24
+
+the footnote in the fairness statement, does not mean
+
+25
+
+anything that could -- if somebody feels bad or has an
+
+53
+1
+
+emotional problem.
+
+"Concrete" means, what has been
+
+2
+
+decided in every case that's been brought so far, an
+
+3
+
+actual injury, monetary injury.
+
+4
+
+Now, I'm not suggesting that you have to have
+
+5
+
+an actual injury to have a violation of 5(n), but you
+
+6
+
+need to prove -- and it's in the disjunctive -- either
+
+7
+
+the actual injury causes or it's likely to cause
+
+8
+
+substantial risk of concrete harm or raise that, so you
+
+9
+
+need that benchmark in there.
+
+10
+
+COMMISSIONER OHLHAUSEN:
+
+So is it your position
+
+11
+
+then under Section 5(n) that complaint counsel has to
+
+12
+
+establish the precise calculable risk of injury?
+
+13
+
+MR. LECHNER:
+
+What counsel has to do, just like
+
+14
+
+in the tort field, as this Commission has recognized,
+
+15
+
+this is an evolving standard, as is done in -- for
+
+16
+
+contracts and for torts, likewise here, too, that even
+
+17
+
+though there are no articulated standards per se out
+
+18
+
+there, that there would be testimony that would be
+
+19
+
+offered that this is the standard, that there's a
+
+20
+
+deviation from the standard, as a result of that
+
+21
+
+deviation that harm has been caused.
+
+22
+
+day in medical malpractice cases.
+
+23
+
+COMMISSIONER OHLHAUSEN:
+
+You see that every
+
+So you're not saying that
+
+24
+
+complaint counsel would have to show that there was a
+
+25
+
+52.3 percent --
+
+54
+1
+
+MR. LECHNER:
+
+They have to show a probability.
+
+2
+
+No, I'm not suggesting it has to be numerical, but it
+
+3
+
+has to be probable.
+
+4
+5
+
+COMMISSIONER OHLHAUSEN:
+mean?
+
+And what would "probable"
+
+Would it mean --
+
+6
+
+MR. LECHNER:
+
+More likely than not.
+
+7
+
+COMMISSIONER OHLHAUSEN:
+
+So if a practice has a
+
+8
+
+25 percent probability of resulting in a loss of a
+
+9
+
+million dollars --
+
+10
+
+MR. LECHNER:
+
+11
+
+COMMISSIONER OHLHAUSEN:
+
+12
+
+-- that wouldn't be
+
+expected to be likely to cause substantial injury?
+
+13
+14
+
+That's not probable.
+
+MR. LECHNER:
+
+That would be possible.
+
+That
+
+would not be probable.
+
+15
+
+COMMISSIONER OHLHAUSEN:
+
+And then how does that
+
+16
+
+square with, say, for example, International Harvester,
+
+17
+
+where the Commission interpreted --
+
+18
+
+MR. LECHNER:
+
+Well, that case is
+
+19
+
+distinguishable.
+
+20
+
+case.
+
+21
+
+entirely different from this case where there are none.
+
+22
+
+There were actual injuries in that
+
+There were actual injuries in that case.
+
+That's
+
+In that case, there were actual injuries, and
+
+23
+
+they were talking about it in light of those actual
+
+24
+
+injuries there, so that probability was not required
+
+25
+
+there because you had an actual injury.
+
+55
+1
+2
+
+COMMISSIONER OHLHAUSEN:
+
+"likely" means has to be probable.
+
+3
+4
+
+MR. LECHNER:
+
+And that's what the case law says.
+
+Absolutely.
+
+5
+6
+
+COMMISSIONER OHLHAUSEN:
+
+MR. LECHNER:
+
+8
+
+COMMISSIONER OHLHAUSEN:
+
+No.
+
+MR. LECHNER:
+
+11
+
+of probable.
+
+12
+
+Eleventh Circuit --
+
+13
+
+Because likely is the equivalent
+
+You look up any case in the
+
+CHAIRWOMAN RAMIREZ:
+
+So what cases are you
+
+relying on?
+
+15
+
+MR. LECHNER:
+
+16
+
+CHAIRWOMAN RAMIREZ:
+
+17
+
+Then why doesn’t it say
+
+"probable"?
+
+10
+
+14
+
+But wouldn't you say that
+
+at least the statute is ambiguous on that?
+
+7
+
+9
+
+So you're saying that
+
+I'm sorry?
+What cases are you relying
+
+on when you say that --
+
+18
+
+MR. LECHNER:
+
+Oh, I can get you the cases.
+
+19
+
+can make that representation to you.
+
+20
+
+fact that likely is the substantial equivalent of
+
+21
+
+probable.
+
+22
+
+not.
+
+23
+
+impossible.
+
+24
+25
+
+I
+
+I know that as a
+
+Likely and probable means more likely than
+
+It does not mean possible.
+
+Possible means not
+
+Likely means more likely than not.
+
+And that's the question for the trier of fact,
+does it come to that?
+
+I am not suggesting that there
+
+56
+1
+
+must be a numerical grade attached to this.
+
+2
+
+expert has to testify that in her opinion, it's more
+
+3
+
+likely than not or probable that as a result of this
+
+4
+
+conduct, there is a chance of -- or, rather, a risk of
+
+5
+
+increased -- of substantial injury.
+
+6
+
+COMMISSIONER OHLHAUSEN:
+
+No.
+
+So what do we make of the
+
+7
+
+unfairness statement's discussion of avoiding
+
+8
+
+speculative injuries?
+
+9
+10
+
+MR. LECHNER:
+
+The
+
+Well, that's just it.
+
+That's why
+
+it has to be probable.
+
+11
+
+COMMISSIONER OHLHAUSEN:
+
+So you say that if
+
+12
+
+something is nonspeculative, it means it has to be --
+
+13
+
+have a greater than 50 percent chance of occurring.
+
+14
+
+MR. LECHNER:
+
+Yes.
+
+And that's what the case law
+
+15
+
+says.
+
+16
+
+about, whether it's medical malpractice, architectural
+
+17
+
+malpractice --
+
+18
+19
+20
+
+That's what every case law in negligence talks
+
+COMMISSIONER OHLHAUSEN:
+
+But we're not
+
+interpreting negligence torts here; right?
+MR. LECHNER:
+
+But my point is, you used the
+
+21
+
+example of this standard evolving the same way the
+
+22
+
+definition of negligence has evolved, the same way
+
+23
+
+negligence standards have evolved.
+
+24
+
+opinion in dismissing the motion to dismiss, that that
+
+25
+
+is an evolutionary process.
+
+That's part of your
+
+57
+1
+
+And because this Commission has not issued
+
+2
+
+standards -- and issuing standards is a long process.
+
+3
+
+There's public comment.
+
+4
+
+from the industry.
+
+5
+
+on.
+
+People read it.
+
+You get input
+
+People are aware of what's going
+
+6
+
+So the courts have allowed, in lieu of that, to
+
+7
+
+have this evolutionary process in the courts as to what
+
+8
+
+this would be, and that's what you have articulated in
+
+9
+
+the motion to dismiss.
+
+10
+11
+
+This is an evolutionary
+
+process.
+Now, to have that process move along absent
+
+12
+
+standards, there has to be some gradual
+
+13
+
+determination as to what happens from case to case
+
+14
+
+because, as you've said, it is a case-by-case
+
+15
+
+development.
+
+16
+
+In order to have that, there has to be the
+
+17
+
+establishment of standards for the period of time, for
+
+18
+
+the company in question, for the industry, and if that
+
+19
+
+period of time varies over a number of years, at least
+
+20
+
+the testimony that it's the same standard for all these
+
+21
+
+years or how it's changed, that there's a deviation from
+
+22
+
+that standard, and it's because of that deviation, as is
+
+23
+
+in this case, more likely than not or probable that that
+
+24
+
+conduct that has been called to be unreasonable has
+
+25
+
+increased the risk of substantial harm.
+
+58
+1
+
+COMMISSIONER McSWEENY:
+
+Can I focus on a period of
+
+2
+
+time here for just a second, because I am a little
+
+3
+
+confused about what period of time we're talking about.
+
+4
+
+In your brief, you focus, I think, on the 2007 to
+
+5
+
+2008 time frame.
+
+6
+
+2005 to 2010.
+
+7
+
+still have a lot of sensitive information and some
+
+8
+
+ongoing issues, in their view, surrounding how that
+
+9
+
+information is being protected.
+
+10
+
+Dr. Hill's testimony focuses on
+
+Complaint counsel has mentioned that you
+
+What steps is LabMD taking at this point
+
+11
+
+to ensure that highly sensitive information
+
+12
+
+is being protected? And in your view, what is the
+
+13
+
+relevant period of time that we should be considering?
+
+14
+
+MR. LECHNER:
+
+Well, it's my understanding that
+
+15
+
+LabMD is out of business now.
+
+16
+
+COMMISSIONER McSWEENY:
+
+17
+
+amount of patient information.
+
+18
+
+MR. LECHNER:
+
+But it still has a huge
+
+I don't know how much it has left,
+
+19
+
+but it's not doing business right now as a result of the
+
+20
+
+expense and the problems with this case.
+
+21
+
+That's one of the problems.
+
+You know, when the
+
+22
+
+Commission brings something like this, a lot of these
+
+23
+
+cases end up --
+
+24
+25
+
+COMMISSIONER McSWEENY:
+a second.
+
+Let's back up for just
+
+59
+1
+
+MR. LECHNER:
+
+2
+
+COMMISSIONER McSWEENY:
+
+3
+4
+
+I'm sorry?
+What is the relevant
+
+period of time?
+MR. LECHNER:
+
+The relevant period -- I'm sorry.
+
+5
+
+The relevant period of time I'd suggest to this body is
+
+6
+
+May of 2007 to -- June of 2007 to May of 2008.
+
+7
+
+I know that there's testimony offered to
+
+8
+
+through 2010, but there is absolutely nothing beyond
+
+9
+
+2010 other than rank speculation and argument.
+
+10
+
+At worst
+
+for us it's to 2010.
+
+11
+
+But more precisely, it's to 2008 because the
+
+12
+
+Sacramento documents are a red herring in this case.
+
+13
+
+And the only thing that we're talking about here is the
+
+14
+
+1718 File, which there is no testimony that it was
+
+15
+
+viewed by anybody other than Tiversa, Tiversa's
+
+16
+
+professor I think in Dartmouth, the FTC and the people
+
+17
+
+to whom the FTC gave it.
+
+18
+
+this case.
+
+19
+
+That's the only testimony in
+
+COMMISSIONER OHLHAUSEN:
+
+But doesn't that go back
+
+20
+
+to the idea that you have to show actual harm versus
+
+21
+
+likely harm?
+
+22
+
+MR. LECHNER:
+
+Yes.
+
+Well, that's the point.
+
+You
+
+23
+
+can either show actual harm, and if you can't show that,
+
+24
+
+we'll concede that the alternative, the "or" in the
+
+25
+
+disjunctive there, you know, that the alleged
+
+60
+1
+
+unreasonable conduct likely increased the risk of
+
+2
+
+substantial injury or they're trying to cause now
+
+3
+
+concrete injury.
+
+4
+
+COMMISSIONER OHLHAUSEN:
+
+And what about the idea
+
+5
+
+that exposing someone's private health information for a
+
+6
+
+stigmatizing condition is in itself a harm?
+
+7
+
+MR. LECHNER:
+
+8
+
+can't be.
+
+9
+
+in that.
+
+10
+
+That just can't be because there's no injury
+There's no substantial injury, as you talked
+
+about.
+
+11
+12
+
+You know, that by itself, that
+
+COMMISSIONER OHLHAUSEN:
+
+But going to the
+
+unfairness statement --
+
+13
+
+MR. LECHNER:
+
+Yes.
+
+14
+
+COMMISSIONER OHLHAUSEN:
+
+-- it says,
+
+15
+
+generally it's monetary harm, but there could
+
+16
+
+be in some circumstances the type of harm that would be
+
+17
+
+if you can show that it would lead to some sort
+
+18
+
+of actual injury.
+
+19
+
+MR. LECHNER:
+
+20
+
+COMMISSIONER OHLHAUSEN:
+
+21
+
+something like that.
+
+22
+
+MR. LECHNER:
+
+Right.
+
+And that's what they -Like harassment or
+
+That's what they would have to
+
+23
+
+show.
+
+They haven't showed anybody has even complained,
+
+24
+
+number one, about this, much more that anybody has
+
+25
+
+viewed these documents other than people I've mentioned,
+
+61
+1
+
+much more that anybody suffered any harassment or any
+
+2
+
+other type of soft injury.
+
+3
+
+Everything is total speculation.
+
+4
+
+There's been nothing here.
+
+COMMISSIONER OHLHAUSEN:
+
+But what if they showed
+
+5
+
+that exposing this type of information leads -- likely
+
+6
+
+leads to those kinds of harms?
+
+7
+
+MR. LECHNER:
+
+8
+
+Look at the expert testimony of Kam and
+
+9
+
+Van Dyke.
+
+But they haven't shown that.
+
+They used surveys five years after the fact
+
+10
+
+trying to extrapolate backwards, relying on Boback
+
+11
+
+testimony extensively.
+
+12
+
+wrong.
+
+13
+
+That methodology is completely
+
+That methodology can't be relied upon.
+There's nothing there to demonstrate, even on
+
+14
+
+the basis that you folks have established in some of
+
+15
+
+your cases, that the methodology is the first thing that
+
+16
+
+would have to be looked at.
+
+17
+
+by either Kam or Van Dyke.
+
+18
+
+There was none in this case
+
+And Professor Hill explicitly testified that she
+
+19
+
+was assuming harm.
+
+20
+
+was told to assume harm, so there's nothing from
+
+21
+
+Professor Hill on that either.
+
+22
+23
+24
+25
+
+She didn't opine as to harm.
+
+She
+
+There is an absence of proof in this case, an
+utter absence of proof in this case.
+COMMISSIONER McSWEENY:
+
+It's speculative.
+
+If more than Tiversa, the
+
+FTC and the various investigators had viewed the
+
+62
+1
+
+1718 File, would that be harm?
+
+2
+
+MR. LECHNER:
+
+Well, I don't know.
+
+It would
+
+3
+
+depend on the circumstances, as you point out.
+
+4
+
+circumstances in a particular case on a case-by-case
+
+5
+
+development have to be considered.
+
+6
+
+that the trial court would have had to consider, but in
+
+7
+
+this case there was nothing for him to consider.
+
+8
+
+pointed out, there was a total failure of proof in this
+
+9
+
+case.
+
+10
+
+Nobody else looked at it.
+
+All the
+
+And that's something
+
+As he
+
+After all these
+
+11
+
+years, after all of these years, not one person has come
+
+12
+
+forward.
+
+13
+
+and Mr. Van Dyke talked about, the percentages there,
+
+14
+
+not once after seven years has anybody come -- and they
+
+15
+
+were talking about that percentage of each of those
+
+16
+
+instances within twelve months.
+
+17
+
+COMMISSIONER OHLHAUSEN:
+
+Even taking what Professor Kam -- or Mr. Kam
+
+Counsel, does your
+
+18
+
+interpretation of Section 5(n) agree with the
+
+19
+
+Third Circuit's interpretation in Wyndham?
+
+20
+
+MR. LECHNER:
+
+Well, it seems to me that's
+
+21
+
+entirely different because there was concrete harm,
+
+22
+
+millions of dollars was run up, and they didn't really
+
+23
+
+focus on what we're focusing on here, so to say that
+
+24
+
+is --
+
+25
+
+COMMISSIONER OHLHAUSEN:
+
+But you're saying the
+
+63
+1
+
+facts are different, but I'm asking you whether their
+
+2
+
+interpretation of the statute is correct.
+
+3
+
+MR. LECHNER:
+
+I don't recall exactly what they
+
+4
+
+said, but I think they recognized that the FTC has the
+
+5
+
+obligation to prove, in the disjunctive, either actual
+
+6
+
+harm or likelihood of increased risk of concrete harm,
+
+7
+
+if you want to use that secondary standard, which is a
+
+8
+
+deviation from the statute, or likely to cause
+
+9
+
+substantial harm in the future.
+
+10
+
+COMMISSIONER OHLHAUSEN:
+
+So the Wyndham court
+
+11
+
+talks about the probability and expected size of
+
+12
+
+reasonably unavoidable harms to consumers given a
+
+13
+
+certain level of cybersecurity and the costs to
+
+14
+
+consumers that would arise from an investment in
+
+15
+
+stronger cybersecurity, so they're talking about the
+
+16
+
+cost-benefit analysis and considered a number
+
+17
+
+of factors.
+
+18
+19
+20
+
+So the probability and expected size, how
+does -MR. LECHNER:
+
+They're talking about
+
+21
+
+probabilities there and they're talking about looking at
+
+22
+
+all of the circumstances.
+
+23
+
+company, the timing, the variations from time to time,
+
+24
+
+all that is part of the circumstances.
+
+25
+
+COMMISSIONER OHLHAUSEN:
+
+All the circumstances, the
+
+But aren't you also
+
+64
+1
+
+saying that if there isn't a showing that there was an
+
+2
+
+actual harm that there's no violation?
+
+3
+
+MR. LECHNER:
+
+No, no, no, I'm not saying that at
+
+4
+
+all.
+
+5
+
+actual harm or they can show a likelihood that would
+
+6
+
+cause a substantial injury.
+
+7
+
+I'm saying it's in the disjunctive.
+
+COMMISSIONER OHLHAUSEN:
+
+They can show
+
+And if I recall
+
+8
+
+correctly, you're saying that that likelihood has to be
+
+9
+
+greater than 50 percent.
+
+10
+
+MR. LECHNER:
+
+Well, it has to be more probable
+
+11
+
+than not, yes.
+
+And by every definition that you've
+
+12
+
+looked at in every case, probability means more than
+
+13
+
+50 percent.
+
+14
+
+COMMISSIONER OHLHAUSEN:
+
+15
+
+MR. LECHNER:
+
+In unfairness cases?
+
+Well, if you're going to use the
+
+16
+
+word "probability," it can't -- you can't have a
+
+17
+
+10 percent chance of something happening and to say
+
+18
+
+that's probable, especially in light of the fact of the
+
+19
+
+recognition of this Commission that because those
+
+20
+
+standards were not issued, it's going to be a
+
+21
+
+case-by-case development, we're going to use the
+
+22
+
+protocol that's used in the case and in the courts of
+
+23
+
+this country, and invariably, in every single court, it
+
+24
+
+has never been sustained that the plaintiff has proved
+
+25
+
+his or her case without demonstrating a probability of
+
+65
+1
+
+a cause -- of the injury being caused by the defendant.
+
+2
+
+CHAIRWOMAN RAMIREZ:
+
+So, Counsel, just to make
+
+3
+
+sure that I'm clear as to your position, we do know
+
+4
+
+that the record does establish, the evidence does
+
+5
+
+establish, that LimeWire was on the computer in LabMD's
+
+6
+
+network from approximately 2005 through May of 2007;
+
+7
+
+correct?
+
+8
+
+MR. LECHNER:
+
+Yes.
+
+9
+
+CHAIRWOMAN RAMIREZ:
+
+And we do also know that
+
+10
+
+the 1718 File was within the files that were accessible
+
+11
+
+via this peer-to-peer program; correct?
+
+12
+
+MR. LECHNER:
+
+Well, I wonder --
+
+13
+
+CHAIRWOMAN RAMIREZ:
+
+14
+
+MR. LECHNER:
+
+Is that correct?
+
+Well, I just want to challenge
+
+15
+
+that.
+
+I'm not sure it's peer-to-peer.
+
+16
+
+Eagle Eye (sic) program.
+
+17
+
+without a difference.
+
+18
+
+It was their
+
+Maybe that's a distinction
+
+I don't know.
+
+COMMISSIONER McSWEENY:
+
+May I just clarify?
+
+19
+
+think it was on the computer until May of 2008.
+
+20
+
+correct?
+
+21
+
+MR. LECHNER:
+
+Yes.
+
+Yes, you're right.
+
+Yes.
+
+I
+
+Is that
+
+It was an eleven-month
+
+22
+
+period.
+
+June of 2007 to May of
+
+23
+
+2008, the eleven-month period, yes.
+
+24
+
+CHAIRWOMAN RAMIREZ:
+
+25
+
+MR. LECHNER:
+
+So that is correct; right?
+
+It was on there, yes.
+
+Yes.
+
+66
+1
+
+CHAIRWOMAN RAMIREZ:
+
+And are you saying that
+
+2
+
+the availability of Social Security information as well
+
+3
+
+as sensitive medical information on a peer-to-peer --
+
+4
+
+through a peer-to-peer program, that that itself is not
+
+5
+
+either actual harm or likely to cause substantial harm?
+
+6
+
+MR. LECHNER:
+
+That's absolutely what I'm saying,
+
+7
+
+because if that were the case, there would be no reason
+
+8
+
+for this trial.
+
+9
+
+Commission through its complaint counsel would have
+
+10
+
+There would be no reason.
+
+The
+
+moved for summary judgment.
+
+11
+
+As you recognized, there were issues here, there
+
+12
+
+were fact issues, there were issues with regard to the
+
+13
+
+expert testimony here.
+
+14
+
+there does not mean by definition it equals an injury.
+
+15
+
+If there's --
+
+16
+
+The mere fact that something is
+
+CHAIRWOMAN RAMIREZ:
+
+So in your view,
+
+17
+
+complaint counsel had to establish access, that someone
+
+18
+
+accessed that file other than Mr. Wallace, in order to
+
+19
+
+show -- to prevail and show liability here; is that
+
+20
+
+right?
+
+21
+
+MR. LECHNER:
+
+They would have had to
+
+22
+
+demonstrate through expert testimony that it was more
+
+23
+
+likely than not that that one incident itself was
+
+24
+
+unreasonable and therefore that it was likely to cause
+
+25
+
+substantial injury in the future, which they didn't do.
+
+67
+1
+
+CHAIRWOMAN RAMIREZ:
+
+2
+
+incident; right?
+
+3
+
+period of --
+
+4
+5
+
+Well, if you want to call that,
+
+The eleven-month period, yes.
+
+6
+
+CHAIRWOMAN RAMIREZ:
+
+7
+
+MR. LECHNER:
+
+8
+
+CHAIRWOMAN RAMIREZ:
+
+9
+
+Well, it's not an
+
+It's this file was available for a
+
+MR. LECHNER:
+yes.
+
+Okay.
+
+Yes.
+
+-- eleven months.
+I agree.
+Let me turn to the parts of
+
+the unfairness standard, and let's just assume for
+
+10
+
+purposes of argument -- I know that you take issue with
+
+11
+
+this -- that complaint counsel has established either
+
+12
+
+actual harm or a likelihood of substantial injury.
+
+13
+
+Tell me what your position is about the other
+
+14
+
+prongs of the unfairness standard, that is, whether such
+
+15
+
+harm was reasonably -- would have been reasonably
+
+16
+
+avoidable by consumers or whether it was outweighed by
+
+17
+
+countervailing benefits to either consumers or
+
+18
+
+competition.
+
+19
+
+MR. LECHNER:
+
+Well, as you know, in this case
+
+20
+
+it wasn't addressed because the judge found that there
+
+21
+
+was no injury established or -- and they did not
+
+22
+
+establish a likelihood of substantial injury in the
+
+23
+
+future.
+
+24
+
+under the statute under 5(n) those other two prongs
+
+25
+
+would have to be addressed.
+
+But if that were established, then clearly
+
+But those other two prongs
+
+68
+1
+
+are dependent upon the existence of a harm or the
+
+2
+
+likelihood of harm.
+
+3
+
+CHAIRWOMAN RAMIREZ:
+
+So the ALJ -- you're
+
+4
+
+correct, the ALJ did not address those issues in his
+
+5
+
+opinion, but are there -- is there anything in the
+
+6
+
+record on those points?
+
+7
+
+MR. LECHNER:
+
+8
+
+CHAIRWOMAN RAMIREZ:
+
+9
+
+Not that I -Is it your position that
+
+consumers could have done something to alleviate any
+
+10
+
+unreasonable data security practices on LabMD's
+
+11
+
+network?
+
+12
+13
+
+MR. LECHNER:
+
+I don't
+
+know.
+
+14
+15
+
+I can't address that.
+
+CHAIRWOMAN RAMIREZ:
+
+You don’t know, not one way or the
+
+other?
+
+16
+
+MR. LECHNER:
+
+No.
+
+17
+
+CHAIRWOMAN RAMIREZ:
+
+18
+
+MR. LECHNER:
+
+Anything further, Counsel?
+
+Well, let me just really quickly,
+
+19
+
+if I may, just look at my notes just to be sure that I
+
+20
+
+was able to cover the points I wanted to hit.
+
+21
+
+COMMISSIONER McSWEENY:
+
+I do want to circle back
+
+22
+
+on one aspect here -- I understand you
+
+23
+
+don't know what information the company currently has,
+
+24
+
+but should I be concerned about how we can
+
+25
+
+ensure, absent an order, that sensitive information is
+
+69
+1
+
+appropriately protected?
+
+2
+
+MR. LECHNER:
+
+3
+
+COMMISSIONER McSWEENY:
+
+4
+
+Well, you know, of course, the --
+
+the time frame that you put forward.
+
+5
+
+MR. LECHNER:
+
+6
+
+COMMISSIONER McSWEENY:
+
+7
+8
+
+Assuming I disagree with
+
+I'm sorry?
+I said, assuming that I
+
+disagree with the time frame that you put forward.
+MR. LECHNER:
+
+This Commission can offer
+
+9
+
+guidelines, can offer standards, can establish guides
+
+10
+
+along those lines here, but may I respectfully suggest
+
+11
+
+this is not the case to do it because there's not the
+
+12
+
+factual foundation to do it.
+
+13
+
+My colleague gave me -- if you want the cites to
+
+14
+
+the cases I talked about that likelihood is synonymous
+
+15
+
+with probability, I can give it to you.
+
+16
+
+CHAIRWOMAN RAMIREZ:
+
+17
+
+MR. LECHNER:
+
+Please.
+
+In re Terazosin Hydrochloride
+
+18
+
+Antitrust Litigation, 352 F.2d 1279, the word
+
+19
+
+"likelihood" is synonymous with "probability," citing
+
+20
+
+Shatel Corporation versus Mao Ta Lumber & Yacht,
+
+21
+
+697 F.2d 1352, Eleventh Circuit, 1983.
+
+22
+
+Again, in defining the word "probability," the
+
+23
+
+Eleventh Circuit has recognized that it is capable of
+
+24
+
+two definitions, a lower "reasonable probability"
+
+25
+
+standard or a higher "more likely than not" standard.
+
+70
+1
+
+But ultimately, the definition that is most often cited
+
+2
+
+in the Eleventh Circuit precedent is the "more likely
+
+3
+
+than not" standard.
+
+4
+
+cites the Mercantile Tex. Corporation, 638 F.2d 1255,
+
+5
+
+Fifth Circuit, 1981; U.S. v. Marine Bancorp,
+
+6
+
+418 U.S. 602 (1974).
+
+7
+
+And it talks about there that it deals in probabilities,
+
+8
+
+not ephemeral probabilities (sic), quoting Brown Shoe,
+
+9
+
+370 U.S. 292 at 1962.
+
+10
+
+And that goes back to Terazosin and
+
+That deals with the Clayton Act.
+
+In either incident, the trial counsel --
+
+11
+
+complaint counsel -- excuse me -- in this case has not
+
+12
+
+carried the burden.
+
+13
+
+COMMISSIONER McSWEENY:
+
+Just let me clarify.
+
+The
+
+14
+
+cases you were just citing are tort cases, a Clayton Act
+
+15
+
+case --
+
+16
+
+MR. LECHNER:
+
+I'm sorry?
+
+17
+
+COMMISSIONER McSWEENY:
+
+18
+
+MR. LECHNER:
+
+These are tort cases --
+
+Well, one is a tort case, the
+
+19
+
+other are commercial cases, so I've tried to cover both,
+
+20
+
+yes.
+
+21
+
+my understanding, yes, so...
+
+22
+
+One is antitrust, and the other are tort cases, to
+
+And I realize this is not a tort as we use that
+
+23
+
+word in medical malpractice or architectural
+
+24
+
+malpractice, but the concept is the same.
+
+25
+
+established standard, a deviation, both of which have to
+
+There's an
+
+71
+1
+
+be established on a basic -- on reasonable probability.
+
+2
+
+An expert cannot testify to speculation.
+
+3
+
+has to be an opinion that because of that deviation, an
+
+4
+
+injury or damage occurred, none of which have happened
+
+5
+
+in this case.
+
+6
+
+And then there
+
+Again, I go back to the fact that Dr. Hill only
+
+7
+
+testified with regard to her conclusion.
+
+She started
+
+8
+
+virtually every answer "It is my conclusion that."
+
+9
+
+That's simply not appropriate testimony, and I
+
+10
+
+respectfully suggest that it can't be considered as in
+
+11
+
+any way proof in this case.
+
+12
+
+If I could just have one second.
+
+13
+
+CHAIRWOMAN RAMIREZ:
+
+14
+
+(Pause in the proceedings.)
+
+15
+
+COMMISSIONER OHLHAUSEN:
+
+16
+
+Sure.
+
+question.
+
+17
+
+MR. LECHNER:
+
+18
+
+COMMISSIONER OHLHAUSEN:
+
+19
+
+Counsel, I have one more
+
+I'm sorry?
+I have another
+
+question.
+
+20
+
+MR. LECHNER:
+
+Sure.
+
+21
+
+COMMISSIONER OHLHAUSEN:
+
+So if complaint counsel
+
+22
+
+were to prove that or allege that the exposure of
+
+23
+
+medical information to an unauthorized third party was
+
+24
+
+substantial injury, so if they were to say that the
+
+25
+
+fact that LabMD's data security practices exposed the
+
+72
+1
+
+1718 File to an unauthorized third party, which I think
+
+2
+
+is shown in the record, why isn't that substantial
+
+3
+
+injury?
+
+4
+
+MR. LECHNER:
+
+Well, if you look at all the
+
+5
+
+circumstances, it was exposed to Tiversa, which is not
+
+6
+
+a -- I assume, and there's nothing in the record to
+
+7
+
+suggest that it is, that it is an identity theft user of
+
+8
+
+these files.
+
+9
+10
+
+Now, for argument sake, if we want to speculate
+that suppose there was proof that --
+
+11
+
+COMMISSIONER OHLHAUSEN:
+
+But let's say, for
+
+12
+
+example, even if it wasn't for identity theft, they
+
+13
+
+had the information about people's private medical
+
+14
+
+medical diagnoses.
+
+15
+
+itself?
+
+16
+
+Is that not an injury in
+
+MR. LECHNER:
+
+I don't see how it is.
+
+17
+
+it's a soft injury.
+
+18
+
+It's not a concrete harm.
+
+19
+
+I see that
+
+It's not a substantial injury.
+
+And the Commission through its counsel has been
+
+20
+
+arguing that the standard they want to look at now is
+
+21
+
+that it's likely that it raises the risk of concrete
+
+22
+
+harm.
+
+23
+
+somebody has looked at one of my documents.
+
+24
+
+mean to sound callous on that.
+
+25
+
+Concrete harm is not, gee, I feel bad because
+And I don't
+
+But to go back to what you had asked before,
+
+73
+1
+
+Commissioner, if there were proof that there were a
+
+2
+
+series of identity thieves that through their sites had
+
+3
+
+downloaded this, I think it might be a little bit more
+
+4
+
+easy with appropriate expert testimony to establish
+
+5
+
+that, but there is nothing here to suggest that.
+
+6
+
+Frankly, there's nothing here to suggest that
+
+7
+
+anyone read these documents other than the FTC and its
+
+8
+
+experts and perhaps that professor to whom Tiversa gave
+
+9
+
+it.
+
+10
+
+So to suggest this is really rank speculation on
+
+11
+
+rank speculation.
+
+12
+
+what we're constrained to look at right now.
+
+13
+14
+
+Based on the facts of this case is
+
+If there's nothing further, I thank you for your
+time.
+
+15
+
+CHAIRWOMAN RAMIREZ:
+
+16
+
+Ms. VanDruff, you used up all of your time, but
+
+17
+18
+19
+
+Thank you, Counsel.
+
+I know that you had reserved time for rebuttal, so -MS. VANDRUFF:
+
+How would you like me to proceed,
+
+Madam Chairwoman?
+
+20
+
+CHAIRWOMAN RAMIREZ:
+
+21
+
+MS. VANDRUFF:
+
+22
+
+Respondent's counsel raised a number of issues
+
+Okay.
+
+Why don't you go ahead.
+Thank you.
+
+23
+
+that I'd like to address in, unfortunately, no
+
+24
+
+particular order, if it pleases the Commission.
+
+25
+
+At the outset, respondent's counsel identified
+
+74
+1
+
+Eagle Vision as something that was of particular
+
+2
+
+interest because it was sophisticated technology.
+
+3
+
+would just observe that that is something that is not in
+
+4
+
+the record except through the testimony of Mr. Boback, a
+
+5
+
+witness that the Administrative Law Judge found not to
+
+6
+
+be credible and a witness upon whom complaint counsel is
+
+7
+
+not relying.
+
+8
+9
+
+And I
+
+And in fact, his testimony was contradicted by
+respondent's witness, Mr. Wallace, and that testimony
+
+10
+
+can be found at complaint counsel's finding of fact
+
+11
+
+1394.
+
+12
+
+1718 File using a stand-alone computer and ordinary P2P
+
+13
+
+software.
+
+14
+
+It was Mr. Wallace's testimony that he found the
+
+And you'll forgive me that -- one of you on the
+
+15
+
+panel -- and I -- forgive me for not remembering
+
+16
+
+which -- asked what happened to the computer, and it
+
+17
+
+was respondent's counsel's response that it was
+
+18
+
+speculation.
+
+19
+
+in response to the question, I would direct the panel
+
+20
+
+to complaint counsel's finding of fact 1409, which
+
+21
+
+relates to the testimony of Mr. Daugherty, which
+
+22
+
+describes a forensic examination performed by LabMD and
+
+23
+
+what happened there.
+
+24
+25
+
+But that's belied by the testimony.
+
+LabMD is effectively out of business.
+in fact true.
+
+And
+
+That is
+
+But I think it's important for a variety
+
+75
+1
+
+of reasons, including the relief that complaint counsel
+
+2
+
+is seeking, to note for the record that it intends to
+
+3
+
+resume operations -- it made that point clear in the
+
+4
+
+proceeding below -- and more importantly that when it
+
+5
+
+resumes operations, it intends to apply the same
+
+6
+
+protections to the data that it maintains for the
+
+7
+
+750,000 consumers.
+
+8
+
+finding of fact 61.
+
+9
+
+That is found at complaint counsel's
+
+And that relates also to the question of what
+
+10
+
+protections it has provided to data since 2010, a
+
+11
+
+question that came up repeatedly during respondent
+
+12
+
+counsel's presentation.
+
+13
+
+demonstrates that LabMD's unlawful conduct again
+
+14
+
+continued after July of 2010.
+
+15
+
+And the weight of the evidence
+
+I would direct the panel's consideration to
+
+16
+
+complaint counsel's responses to respondent's findings
+
+17
+
+of fact at paragraphs -- excuse me -- at findings 10(a)
+
+18
+
+and 11 but just as examples.
+
+19
+
+As recently as November of 2013, paper records
+
+20
+
+were stored in an unlocked, open garage at a personal
+
+21
+
+residence.
+
+22
+
+credentials, and critical vulnerabilities remained on
+
+23
+
+key servers after vulnerability scans were completed.
+
+24
+25
+
+Key personnel were using weak user
+
+Professor Hill's opinions don't support a
+contrary conclusion.
+
+76
+1
+
+CHAIRWOMAN RAMIREZ:
+
+So, Counsel, let me
+
+2
+
+interrupt you and just get to some -- again go back to
+
+3
+
+some of the issues we already discussed with you but to
+
+4
+
+hone in on certain of the positions articulated by
+
+5
+
+respondent.
+
+6
+
+Respondent, as you know, argues that there
+
+7
+
+really is no benchmark here, that Dr. Hill did
+
+8
+
+not establish an appropriate measure by which to
+
+9
+
+determine that the practices were reasonable or
+
+10
+
+unreasonable, so what in the record should we be
+
+11
+
+looking to in addition to -- you dispute that about
+
+12
+
+Dr. Hill I know, but what else should we be looking to
+
+13
+
+in the record to determine what the appropriate
+
+14
+
+standard to apply here to determine reasonableness of
+
+15
+
+LabMD's data security practices?
+
+16
+
+MS. VANDRUFF:
+
+Well, again, the legal standard,
+
+17
+
+of course, is Section 5(n).
+
+18
+
+CHAIRWOMAN RAMIREZ:
+
+19
+
+MS. VANDRUFF:
+
+So I understand that.
+
+So with respect to that
+
+20
+
+information security standard, in her expert report,
+
+21
+
+she cites to a number of things, including a NIST
+
+22
+
+guidance that goes back to 2002, which certainly
+
+23
+
+predates any of the conduct that's challenged in this
+
+24
+
+case.
+
+25
+
+CHAIRWOMAN RAMIREZ:
+
+So I understand that.
+
+77
+1
+
+MS. VANDRUFF:
+
+2
+
+CHAIRWOMAN RAMIREZ:
+
+3
+
+MS. VANDRUFF:
+
+4
+
+I’m not sure what else is cited in her report
+
+5
+
+standing here, but I do believe that in her testimony
+
+6
+
+and in her report she cites to other materials that were
+
+7
+
+widely available and understood in the information
+
+8
+
+security --
+
+9
+
+Yes.
+What else?
+
+Yes.
+
+CHAIRWOMAN RAMIREZ:
+
+So another argument that
+
+10
+
+respondent makes is that one needs to factor in the
+
+11
+
+size of the operations of respondent, and is there any
+
+12
+
+information about the cost of the reasonable security
+
+13
+
+measures that you contend should have been utilized by
+
+14
+
+LabMD?
+
+15
+
+MS. VANDRUFF:
+
+There is, yes.
+
+And
+
+16
+
+Professor Hill, her opinions and her testimony
+
+17
+
+addresses that.
+
+18
+
+recommends to safeguard the information that was at risk
+
+19
+
+of unauthorized disclosure were either at low or no cost
+
+20
+
+for LabMD to implement and would require low-cost
+
+21
+
+measures or staff time to have implemented.
+
+22
+
+And all of the measures that she
+
+So, for example, the failure of LabMD to have
+
+23
+
+locked down computers, to have prevented employees from
+
+24
+
+downloading software from the Internet, all that would
+
+25
+
+have required was limiting administrative access.
+
+78
+1
+
+That's something that is available -- that the IT staff
+
+2
+
+could have done using a function through Windows, and it
+
+3
+
+just would have required staff time to have enabled that
+
+4
+
+function through Windows.
+
+5
+6
+
+CHAIRWOMAN RAMIREZ:
+you.
+
+7
+
+MS. VANDRUFF:
+
+8
+
+CHAIRWOMAN RAMIREZ:
+
+9
+
+A couple more questions for
+
+Yes, Madam Chairwoman.
+Respondent also argues
+
+that there is no evidence in the record that addresses
+
+10
+
+the other elements of the unfairness standard aside
+
+11
+
+from the question of injury, so can you tell me what is
+
+12
+
+in the record on reasonable avoidance as well as
+
+13
+
+countervailing benefits?
+
+14
+15
+
+MS. VANDRUFF:
+
+Yes.
+
+I would be happy to address
+
+that.
+
+16
+
+The record establishes that consumers could not
+
+17
+
+have reasonably avoided the significant risk of
+
+18
+
+concrete harm that we have described at length this
+
+19
+
+afternoon.
+
+20
+
+knowing that LabMD would receive their personal
+
+21
+
+information, much less any way of knowing --
+
+22
+23
+24
+25
+
+In most cases, consumers had no way of
+
+CHAIRWOMAN RAMIREZ:
+this?
+
+And where do I look for
+
+Is this also in -MS. VANDRUFF:
+
+physician practices.
+
+Yes.
+
+The testimony of the
+
+I regret that I cannot cite them to
+
+79
+1
+
+you, but my colleague can (indicating).
+
+2
+
+No.
+
+This is the low-cost measures.
+
+Excuse me.
+
+3
+
+The testimony of the physician practices
+
+4
+
+demonstrates that consumers did not know that their
+
+5
+
+information was going to LabMD, that that was a
+
+6
+
+decision made by their physicians.
+
+7
+
+consumers had no reason to know of the data security
+
+8
+
+practices that LabMD undertook because they didn't even
+
+9
+
+know that their data was going to LabMD.
+
+10
+
+And moreover,
+
+And as suggested by your earlier question, the
+
+11
+
+fact that LabMD's data security failures could have been
+
+12
+
+remedied at little or no cost, their failures,
+
+13
+
+therefore, did not provide any countervailing benefits to
+
+14
+
+consumers or competition; therefore, the remaining
+
+15
+
+prongs of Section 5(n) are met.
+
+16
+17
+18
+
+CHAIRWOMAN RAMIREZ:
+
+One final question at my
+
+end that relates to the Sacramento documents.
+So respondent -- counsel for respondent argues
+
+19
+
+that we are limited to the allegations that are set
+
+20
+
+forth in the complaint.
+
+21
+
+paragraph 10 that outlines data security practices with
+
+22
+
+regards to LabMD's computer network.
+
+23
+
+In particular, I believe it's
+
+Tell me why counsel for respondent is incorrect
+
+24
+
+in that regard, that we're not limited to the
+
+25
+
+allegations in the complaint.
+
+80
+1
+
+MS. VANDRUFF:
+
+Well, the allegations in
+
+2
+
+paragraph 10, again, are among other things.
+
+3
+
+examples of failures of reasonable security, and so I
+
+4
+
+think that the unfairness count is the gravamen of
+
+5
+
+the --
+
+6
+
+CHAIRWOMAN RAMIREZ:
+
+They are
+
+Are there allegations in
+
+7
+
+the complaint that relate more broadly to physical
+
+8
+
+security in the complaint?
+
+9
+
+MS. VANDRUFF:
+
+No.
+
+But the allegations in
+
+10
+
+paragraph 10 are consistent with allegations of
+
+11
+
+physical security.
+
+12
+
+One point, before I move on from Sacramento,
+
+13
+
+Madam Chairwoman, the respondent's counsel did say that
+
+14
+
+it would be speculation about whether or not the
+
+15
+
+Sacramento documents were from LabMD.
+
+16
+
+of clarification, respondent's counsel earlier in the
+
+17
+
+litigation, before respondent -- before Mr. Lechner
+
+18
+
+joined the case, did stipulate that those documents were
+
+19
+
+in fact LabMD's documents, just as a matter of
+
+20
+
+clarification.
+
+21
+22
+
+COMMISSIONER OHLHAUSEN:
+
+Counsel, I have a
+
+question.
+
+23
+
+MS. VANDRUFF:
+
+24
+
+COMMISSIONER OHLHAUSEN:
+
+25
+
+Just as a matter
+
+Yes.
+So in the unfairness
+
+statement, mostly it talks about financial
+
+81
+1
+
+injury, but it also says, "In an extreme case, however,
+
+2
+
+where tangible injury could clearly be demonstrated,
+
+3
+
+emotional effects might possibly be considered as the
+
+4
+
+basis for a finding of unfairness."
+
+5
+
+So what evidence is in the record that the
+
+6
+
+exposure of medical information about perhaps a
+
+7
+
+stigmatizing condition to an unauthorized third party is
+
+8
+
+substantial injury that it might cause this kind of
+
+9
+
+tangible injury?
+
+10
+11
+
+MS. VANDRUFF:
+
+May I have permission to respond
+
+to Commissioner Ohlhausen's question?
+
+12
+
+CHAIRWOMAN RAMIREZ:
+
+13
+
+MS. VANDRUFF:
+
+Please.
+
+The testimony of Mr. Kam
+
+14
+
+addresses that question.
+
+He is an expert witness with
+
+15
+
+experience specifically in medical identity theft and
+
+16
+
+the harms that result from exposure of sensitive
+
+17
+
+medical information.
+
+18
+
+go to that question, and he describes the harms that
+
+19
+
+result from the exposure of sensitive medical
+
+20
+
+information and talks about exactly those kinds of
+
+21
+
+harms.
+
+And his report and his testimony
+
+22
+
+COMMISSIONER OHLHAUSEN:
+
+23
+
+MS. VANDRUFF:
+
+24
+
+CHAIRWOMAN RAMIREZ:
+
+25
+
+Okay.
+
+Thank you.
+
+You're welcome.
+Is it necessary for there
+
+to be actual harm for the information -- the medical
+
+82
+1
+
+information that's exposed -- to be something that would be
+
+2
+
+potentially something that could stigmatize an
+
+3
+
+individual?
+
+4
+
+So let's just say the exposure has to do with
+
+5
+
+just routine blood tests.
+
+6
+
+constitute actual harm?
+
+7
+8
+9
+
+In your mind, would that
+
+Or is that a question that we don't need to
+address?
+MS. VANDRUFF:
+
+Well, it's a question that we
+
+10
+
+don't need to address in this case.
+
+11
+
+In the -- because in this case the information that was
+
+12
+
+disclosed included potentially stigmatizing
+
+13
+
+information.
+
+14
+
+That is certain.
+
+In the GMR case, the Commission alleged that
+
+15
+
+the information that was disclosed, which included
+
+16
+
+narrative notes from -- from physicians, could be
+
+17
+
+misused to cause substantial injury such as identity
+
+18
+
+theft and unauthorized access by disclosing sensitive
+
+19
+
+private medical information.
+
+20
+
+all fours with GMR.
+
+21
+
+MR. LECHNER:
+
+22
+
+CHAIRWOMAN RAMIREZ:
+
+23
+
+MR. LECHNER:
+
+24
+25
+
+May I?
+
+We think that this is on
+
+I'm sorry.
+Counsel?
+
+May I have leave just to make one
+
+or two points?
+CHAIRWOMAN RAMIREZ:
+
+Well, this is really out of
+
+83
+1
+
+order, but given that we gave so much time to
+
+2
+
+Ms. VanDruff, I'll go ahead and allow you to make --
+
+3
+
+MR. LECHNER:
+
+Just two brief points.
+
+4
+
+CHAIRWOMAN RAMIREZ:
+
+5
+
+MS. VANDRUFF:
+
+6
+
+MR. LECHNER:
+
+Sure.
+
+Thank you, Madam Chairwoman.
+One point is that, to my
+
+7
+
+understanding, we did not stipulate that the Sacramento
+
+8
+
+documents came from our computer.
+
+9
+
+We did not.
+
+And secondly and the last point is, the Kam
+
+10
+
+opinion is bad based upon its bad methodology.
+
+11
+
+Those are the only two points.
+
+12
+
+CHAIRWOMAN RAMIREZ:
+
+13
+
+Thank you very much.
+
+14
+
+We are adjourned.
+
+15
+
+(Whereupon, the foregoing oral argument was
+
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+concluded at 2:37 p.m.)
+
+Thank you.
+
+Thank you, Counsel.
+
+Thank you.
+
+84
+1
+
+C E R T I F I C A T I O N
+
+O F
+
+R E P O R T E R
+
+2
+3
+
+DOCKET/FILE NUMBER:
+
+9357
+
+4
+
+CASE TITLE:
+
+5
+
+HEARING DATE: March 8, 2016
+
+LabMD, Inc.
+
+6
+7
+
+I HEREBY CERTIFY that the transcript contained
+
+8
+
+herein is a full and accurate transcript of the notes
+
+9
+
+taken by me at the hearing on the above cause before the
+
+10
+
+FEDERAL TRADE COMMISSION to the best of my knowledge and
+
+11
+
+belief.
+
+12
+13
+
+DATED:
+
+MARCH 10, 2016
+
+14
+15
+16
+
+JOSETT F. WHALEN, RMR
+
+17
+18
+19
+
+C E R T I F I C A T I O N
+
+O F
+
+P R O O F R E A D E R
+
+20
+21
+
+I HEREBY CERTIFY that I proofread the transcript
+
+22
+
+for accuracy in spelling, hyphenation, punctuation and
+
+23
+
+format.
+
+24
+25
+
+ELIZABETH M. FARRELL
+
+

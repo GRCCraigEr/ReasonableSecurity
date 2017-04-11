@@ -1,0 +1,649 @@
+Case 1:16-cv-02438 Document 1-9 Filed 12/14/16 Page 1 of 15
+
+UNITED STATES DISTRICT COURT
+FOR THE DISTRICT OF COLUMBIA
+
+FEDERAL TRADE COMMISSION
+600 Pennsylvania Avenue, N.W.
+Washington, D.C. 20580
+
+Civil Action No. ____________
+
+Plaintiff,
+v.
+RUBY CORP.
+20 Eglinton Avenue West
+Toronto, Ontario M4R 1K8,
+RUBY LIFE INC., also doing business as
+ASHLEYMADISON.COM
+20 Eglinton Avenue West
+Toronto, Ontario M4R 1K8,
+ADL MEDIA INC.
+1209 Orange Street
+Wilmington, Delaware 19801
+Defendants.
+
+STIPULATED ORDER FOR PERMANENT INJUNCTION AND
+OTHER EQUITABLE RELIEF
+Plaintiff, the Federal Trade Commission (“Commission” or “FTC”), filed its Complaint
+for Permanent Injunction and Other Equitable Relief (“Complaint”), pursuant to Section 13(b) of
+the Federal Trade Commission Act (“FTC Act”), 15 U.S.C. § 53(b). The Commission, and ruby
+Corp., formerly known as Avid Life Media Inc.; ruby Life Inc. also doing business as
+AshleyMadison.com, formerly known as Avid Dating Life Inc.; and ADL Media Inc.
+(collectively, “Defendants”), stipulate to the entry of this Stipulated Order for Permanent
+Injunction and Other Equitable Relief (“Order”) to resolve all matters in dispute in this action
+
+Case 1:16-cv-02438 Document 1-9 Filed 12/14/16 Page 2 of 15
+
+between them.
+THEREFORE, IT IS ORDERED as follows:
+FINDINGS
+1.
+
+This Court has jurisdiction over this matter.
+
+2.
+
+The Complaint charges that Defendants participated in deceptive and unfair acts
+
+or practices in violation of Section 5 of the FTC Act, 15 U.S.C. § 45, in connection with their
+marketing and sale of online dating services in the United States.
+3.
+
+Defendants neither admit nor deny any of the allegations in the Complaint, except
+
+as specifically stated in this Order. Only for purposes of this action, Defendants admit the facts
+necessary to establish jurisdiction.
+4.
+
+Defendants waive any claim that they may have under the Equal Access to Justice
+
+Act, 28 U.S.C. § 2412, concerning the prosecution of this action through the date of this Order,
+and agree to bear their own costs and attorney fees.
+5.
+
+Defendants and the Commission waive all rights to appeal or otherwise challenge
+
+or contest the validity of this Order.
+6.
+
+Defendants and the Commission acknowledge that this Order is being entered
+
+simultaneously with similar judgments in the States of Alaska, Arkansas, Hawaii, Louisiana,
+Maryland, Mississippi, North Dakota, Nebraska, New York, Oregon, Rhode Island, Tennessee,
+Vermont, and the District of Columbia. Defendants and the Commission intend to coordinate
+implementation of the terms of this Order with those referenced above.
+DEFINITIONS
+For purposes of this Order, the following definitions apply:
+1.
+
+“Defendants” means ruby Corp.; ruby Life Inc., also doing business as
+
+AshleyMadison.com; ADL Media Inc.; and by whatever other names each may be known, and
+
+2
+
+Case 1:16-cv-02438 Document 1-9 Filed 12/14/16 Page 3 of 15
+
+their successors, assigns, or subsidiaries (including but not limited to Cougar Life Inc.,
+Established Men, CL Media Inc., and EM Media Inc.) individually, collectively, or in any
+combination.
+2.
+
+“Engager profile” means an employee or agent-generated account that is not an
+
+account used by an actual customer.
+3.
+
+“Personal information” means individually identifiable information from or
+
+about an individual consumer, including, but not limited to: (1) first and last name; (2) home or
+other physical address, including street name and name of city or town; (3) email address or
+other online contact information, such as an instant messaging user identifier or a screen name;
+(4) telephone number; (5) date of birth; (6) government-issued identification number, such as a
+driver’s license, military identification, passport, or Social Security number, or other personal
+identification number; (7) payment card account numbers; (8) photographs of the consumer; and
+(9) sexual preferences.
+4.
+
+“Seal” means any trustmark, logo, seal of approval, emblem, shield, or other
+
+insignia offered for placement on Defendants’ websites and mobile applications.
+ORDER
+I.
+PROHIBITION AGAINST MISREPRESENTATIONS
+IT IS ORDERED that Defendants, and Defendants’ officers, agents, employees, and
+attorneys, and all other persons in active concert or participation with any of them, who receive
+actual notice of this Order, whether acting directly or indirectly, are permanently restrained and
+enjoined from misrepresenting, expressly or by implication, to U.S. consumer users of their
+online dating sites and mobile applications:
+A.
+
+the extent to which Defendants collect, use, or maintain personal information, or
+
+3
+
+Case 1:16-cv-02438 Document 1-9 Filed 12/14/16 Page 4 of 15
+
+protect the privacy, confidentiality, security, or integrity of personal information, including the
+extent to which consumers may exercise control over the collection, use, or disclosure of
+personal information;
+B.
+
+the extent to which Defendants use or display engager profiles;
+
+C.
+
+whether the profiles that appear on Defendants’ dating websites or mobile
+
+applications were created by Defendants;
+D.
+
+the number of actual users of Defendants’ dating websites or mobile applications,
+
+or actual women users of their dating websites or mobile applications;
+E.
+
+the terms and conditions for deleting user accounts or profiles;
+
+F.
+
+the extent to which Defendants received awards or seals from third parties; or
+
+G.
+
+the extent to which Defendants are members of, adhere to, comply with, are
+
+certified by, are endorsed by, or otherwise participate in any privacy or security program
+sponsored by a third party.
+II.
+MANDATED DATA SECURITY PROGRAM
+IT IS FURTHER ORDERED that Defendants, must, no later than the effective date of
+this Order, establish and implement, and thereafter maintain, a comprehensive information
+security program that is reasonably designed to protect the security, confidentiality, and integrity
+of personal information collected from or about U.S. consumers of their online dating websites
+and mobile applications. Such program, the content and implementation of which must be fully
+documented in writing, shall contain administrative, technical, and physical safeguards
+appropriate to Defendants’ size and complexity, the nature and scope of Defendants’ activities,
+and the sensitivity of the personal information collected from or about consumers, including:
+
+4
+
+Case 1:16-cv-02438 Document 1-9 Filed 12/14/16 Page 5 of 15
+
+A.
+
+the designation of an employee or employees to coordinate and be responsible for
+
+the information security program;
+B.
+
+the identification of internal and external risks to the security, confidentiality, and
+
+integrity of personal information that could result in the unauthorized disclosure, misuse, loss,
+alteration, destruction, or other compromise of such information, and assessment of the
+sufficiency of any safeguards in place to control these risks. At a minimum, this risk assessment
+must include consideration of risks in each area of relevant operation, including, but not limited
+to: (1) employee training and management; (2) information systems, such as network and
+software design, information processing, storage, transmission, and disposal; and (3) prevention,
+detection, and response to attacks, intrusions, or other systems failures;
+C.
+
+the design and implementation of reasonable safeguards to control the risks
+
+identified through risk assessment, and regular testing or monitoring of the effectiveness of the
+safeguards’ key controls, systems, and procedures;
+D.
+
+the development and use of reasonable steps to select and retain service providers
+
+capable of appropriately safeguarding personal information they receive from Defendants, and
+requiring service providers, by contract, to implement and maintain appropriate safeguards; and
+E.
+
+the evaluation and adjustment of the information security program in light of the
+
+results of the testing and monitoring required by sub-Section C, any material changes to
+Defendants’ operations or business arrangements, or any other circumstances that Defendants
+know or have reason to know may have an impact on the effectiveness of the information
+security program.
+
+5
+
+Case 1:16-cv-02438 Document 1-9 Filed 12/14/16 Page 6 of 15
+
+III.
+DATA SECURITY ASSESSMENTS BY A THIRD PARTY
+IT IS FURTHER ORDERED that, in connection with compliance with the Section of
+this Order titled Mandated Data Security Program, Defendants must obtain initial and biennial
+assessments (“Assessments”):
+A.
+
+The Assessments must be obtained from a qualified, objective, independent third-
+
+party professional, who uses procedures and standards generally accepted in the profession. A
+professional qualified to prepare such Assessments must be: an individual qualified as a
+Certified Information System Security Professional (CISSP) or as a Certified Information
+Systems Auditor (CISA); an individual holding Global Information Assurance Certification
+(GIAC) from the SANS Institute; or a qualified individual or entity approved by the Associate
+Director for Enforcement, Bureau of Consumer Protection, Federal Trade Commission.
+B.
+
+The reporting period for the Assessments must cover: (1) the first 180 days after
+
+the issuance date of the Order for the initial Assessment; and (2) each 2-year period thereafter for
+20 years after issuance of the Order for the biennial Assessments. Each Assessment must:
+(1)
+
+set forth the specific administrative, technical, and physical safeguards
+
+that Defendants have implemented and maintained during the reporting period;
+(2)
+
+explain how such safeguards are appropriate to Defendants’ size and
+
+complexity, the nature and scope of Defendants’ activities, and the sensitivity of the
+personal information collected from or about consumers;
+(3)
+
+explain how the safeguards that have been implemented meet or exceed
+
+the protections required by the Section of this Order titled Mandated Data Security
+Program; and
+
+6
+
+Case 1:16-cv-02438 Document 1-9 Filed 12/14/16 Page 7 of 15
+
+(4)
+
+certify that the security program is operating with sufficient effectiveness
+
+to provide reasonable assurance that the security, confidentiality, and integrity of
+personal information is protected and has so operated throughout the reporting period.
+C.
+
+Each Assessment must be completed within sixty (60) days after the end of the
+
+reporting period to which the Assessment applies. Defendants must submit the initial
+Assessment to the Commission within ten (10) days after the Assessment has been completed.
+Defendants must retain all subsequent biennial Assessments, at least until the Order terminates.
+Defendants must submit any biennial Assessments to the Commission within 10 days of a
+request from a representative of the Commission.
+IV.
+MONETARY JUDGMENT AND PARTIAL SUSPENSION
+IT IS FURTHER ORDERED that:
+A.
+
+Judgment in the amount of Eight Million, Seven Hundred and Fifty Thousand
+
+Dollars ($8,750,000) is entered in favor of the Commission against Defendants, jointly and
+severally, as equitable monetary relief.
+B.
+
+In partial satisfaction of the judgment against Defendants:
+(1)
+
+Defendants are ordered to pay to the Commission Eight Hundred and
+
+Twenty-Eight Thousand, Five Hundred Dollars ($828,500), which, as Defendants
+stipulate, their undersigned counsel holds in escrow for no purpose other than payment to
+the Commission. Such payment must be made within seven (7) days of entry of this
+Order by electronic fund transfer in accordance with instructions previously provided by
+a representative of the Commission.
+(2)
+
+Defendants are ordered to promptly remit to the Commission any funds
+
+7
+
+Case 1:16-cv-02438 Document 1-9 Filed 12/14/16 Page 8 of 15
+
+received from the ALM’s Directors’ and Officers’ Trust (“Trust”) entered into on
+September 3, 2015, and amended on May 3, 2016, upon termination of the Trust, which
+can be triggered by the Trust’s Section 7.1(b)(ii) one (1) year after the date on which all
+liability and maintenance claims made against the Trust’s beneficiaries have been
+satisfied or resolved.
+Upon such payment and remittance described above in Subsections IV. B.(1) and (2), the
+remainder of the judgment is suspended, subject to Subsections IV.C-E. below.
+C.
+
+The Commission’s agreement to the suspension of part of the judgment is
+
+expressly premised upon the truthfulness, accuracy, and completeness of Defendants’ sworn
+financial statements and related documents (collectively, “financial representations”) submitted
+to the Commission, dated September 30, 2016, October 17, 2016, and October 19, 2016.
+D.
+
+The suspension of the judgment will be lifted as to Defendants if, upon motion by
+
+the Commission, the Court finds that Defendants failed to disclose any material asset, materially
+misstated the value of any asset, or made any other material misstatement or omission in the
+financial representations identified in Subsection IV.C. above.
+E.
+
+If the suspension of the judgment is lifted, the judgment becomes immediately
+
+due as to Defendants in the amount specified in Subsection IV.A. above (which the parties
+stipulate only for purposes of this Section represents the consumer injury alleged in the
+Complaint), less any payment previously made pursuant to this Section, plus interest computed
+from the date of entry of this Order.
+
+8
+
+Case 1:16-cv-02438 Document 1-9 Filed 12/14/16 Page 9 of 15
+
+V.
+ADDITIONAL MONETARY PROVISIONS
+IT IS FURTHER ORDERED that:
+A.
+
+Defendants relinquish dominion and all legal and equitable right, title, and interest
+
+in all assets transferred pursuant to this Order and may not seek the return of any assets.
+B.
+
+The facts alleged in the Complaint will be taken as true, without further proof, in
+
+any subsequent civil litigation by or on behalf of the Commission, including in a proceeding to
+enforce its rights to any payment or monetary judgment pursuant to this Order, such as a
+nondischargeability complaint in any bankruptcy case.
+C.
+
+The facts alleged in the Complaint establish all elements necessary to sustain an
+
+action by the Commission pursuant to Section 523(a)(2)(A) of the Bankruptcy Code, 11 U.S.C. §
+523(a)(2)(A), and this Order will have collateral estoppel effect for such purposes.
+D.
+
+Defendants acknowledge that their Taxpayer Identification Numbers (Employer
+
+Identification Numbers) may be used for collecting and reporting on any delinquent amount
+arising out of this Order, in accordance with 31 U.S.C. § 7701.
+E.
+
+All money paid to the Commission pursuant to this Order may be deposited into a
+
+fund administered by the Commission or its designee to be used for equitable relief, including
+consumer redress and any attendant expenses for the administration of any redress fund. If a
+representative of the Commission decides that direct redress to consumers is wholly or partially
+impracticable or money remains after redress is completed, the Commission may apply any
+remaining money for such other equitable relief (including consumer information remedies) as it
+determines to be reasonably related to Defendants’ practices alleged in the Complaint. Any
+money not used for such equitable relief is to be deposited to the U.S. Treasury as disgorgement.
+
+9
+
+Case 1:16-cv-02438 Document 1-9 Filed 12/14/16 Page 10 of 15
+
+Defendants have no right to challenge any actions the Commission or its representatives may
+take pursuant to this Subsection.
+VI.
+CUSTOMER INFORMATION
+IT IS FURTHER ORDERED that Defendants, Defendants’ officers, agents, servants,
+employees, and attorneys, and all other persons in active concert or participation with any of
+them, who receive actual notice of this Order, are permanently restrained and enjoined from
+directly or indirectly:
+A.
+
+failing to provide sufficient customer information to enable the Commission to
+
+efficiently administer consumer redress. If a representative of the Commission requests in
+writing any information related to redress, Defendants must provide it, in the form prescribed by
+the Commission, within fourteen (14) days; and
+B.
+
+disclosing, using, or benefitting from personal information of their online dating
+
+sites or mobile applications, including the name, address, telephone number, email address,
+social security number, other identifying information, or any data that enables access to a
+customer’s account (including a credit card, bank account, or other financial account), that
+Defendants obtained prior to entry of this Order in connection with the advertising, marketing,
+promoting, offering for sale, or selling of online dating services. Provided, however, that
+Defendants may use personal information for any current customer if Defendants comply with
+Section I of this Order.
+VII.
+ORDER ACKNOWLEDGMENTS
+IT IS FURTHER ORDERED that Defendants obtain acknowledgments of receipt of
+
+10
+
+Case 1:16-cv-02438 Document 1-9 Filed 12/14/16 Page 11 of 15
+
+this Order:
+A.
+
+Defendants, within seven (7) days of entry of this Order, must submit to the
+
+Commission an acknowledgment of receipt of this Order sworn under penalty of perjury.
+B.
+
+For five (5) years after entry of this Order, Defendants must deliver a copy of this
+
+Order to: (1) all principals, officers, directors, and LLC managers and members; (2) all
+employees, agents, and representatives having supervisory responsibilities who participate in
+conduct related to the subject matters of the Order; and (3) any business entity resulting from any
+change in structure as set forth in the Section titled Compliance Reporting. Delivery must occur
+within seven (7) days of entry of this Order for current personnel. For all others, delivery must
+occur before they assume their responsibilities.
+C.
+
+From each individual or entity to which Defendants delivered a copy of this
+
+Order, Defendants must obtain, within thirty (30) days, a signed and dated acknowledgment of
+receipt of this Order.
+VIII.
+COMPLIANCE REPORTING
+IT IS FURTHER ORDERED that Defendants make timely submissions to the
+Commission:
+A.
+
+One (1) year after entry of this Order, Defendants must submit a compliance
+
+report, sworn under penalty of perjury, in which Defendants must: (1) identify the primary
+physical, postal, and email address and telephone number, as designated points of contact, which
+representatives of the Commission, may use to communicate with Defendants; (2) identify all of
+Defendants’ businesses by all of their names, telephone numbers, and physical, postal, email, and
+Internet addresses; (3) describe the activities of each business, including the goods and services
+
+11
+
+Case 1:16-cv-02438 Document 1-9 Filed 12/14/16 Page 12 of 15
+
+offered, the means of advertising, marketing, and sales; (4) describe in detail whether and how
+Defendants are in compliance with each Section of this Order; and (5) provide a copy of each
+Order Acknowledgment obtained pursuant to this Order, unless previously submitted to the
+Commission.
+B.
+
+For twenty (20) years after entry of this Order, Defendants must submit a
+
+compliance notice, sworn under penalty of perjury, within fourteen (14) days of any change in
+the following: (1) any designated point of contact; or (2) the structure of any entity doing
+business in the United States that Defendants have any ownership interest in or control directly
+or indirectly that may affect compliance obligations arising under this Order, including:
+creation, merger, sale, or dissolution of the entity or any subsidiary, parent, or affiliate that
+engages in any acts or practices subject to this Order.
+C.
+
+Defendants must submit to the Commission notice of the filing of any bankruptcy
+
+petition, insolvency proceeding, or similar proceeding by or against Defendants within fourteen
+(14) days of its filing.
+D.
+
+Any submission to the Commission required by this Order to be sworn under
+
+penalty of perjury must be true and accurate and comply with 28 U.S.C. § 1746, such as by
+concluding: “I declare under penalty of perjury under the laws of the United States of America
+that the foregoing is true and correct. Executed on: _____” and supplying the date, signatory’s
+full name, title (if applicable), and signature.
+E.
+
+Unless otherwise directed by a Commission representative in writing, all
+
+submissions to the Commission pursuant to this Order must be emailed to DEbrief@ftc.gov or
+sent by overnight courier (not the U.S. Postal Service) to: Associate Director for Enforcement,
+Bureau of Consumer Protection, Federal Trade Commission, 600 Pennsylvania Avenue NW,
+
+12
+
+Case 1:16-cv-02438 Document 1-9 Filed 12/14/16 Page 13 of 15
+
+Washington, D.C. 20580. The subject line must begin: FTC v. ruby Corp. et al., FTC Matter
+No. 1523284.
+IX.
+RECORDKEEPING
+IT IS FURTHER ORDERED that Defendants must create certain records for twenty
+(20) years after entry of the Order, and retain each such record for five (5) years. Specifically,
+Defendants must create and retain the following records from their online dating websites and
+mobile applications, and any successor to those websites and mobile applications:
+A.
+
+accounting records showing the revenues from all goods or services sold;
+
+B.
+
+personnel records, showing, for each person providing services relating to the
+
+subject matters of the Order, whether as an employee or otherwise, that person’s: name;
+addresses; telephone numbers; job title or position; dates of service; and (if applicable) the
+reason for termination;
+C.
+
+records of all consumer complaints and refund requests, whether received directly
+
+or indirectly, such as through a third party, and any response;
+D.
+
+all records necessary to demonstrate full compliance with each Section of this
+
+Order, including all submissions to the Commission; and
+E.
+
+a copy of every materially different advertisement or other marketing material.
+X.
+COMPLIANCE MONITORING
+
+IT IS FURTHER ORDERED that, for the purpose of monitoring Defendants’
+compliance with this Order, including the financial representations upon which part of the
+judgment was suspended, and any failure to transfer any assets as required by this Order:
+
+13
+
+Case 1:16-cv-02438 Document 1-9 Filed 12/14/16 Page 14 of 15
+
+A.
+
+Within fourteen (14) days of receipt of a written request from a representative of
+
+the Commission, Defendants must: submit additional compliance reports or other requested
+information, which must be sworn under penalty of perjury; appear for depositions; and produce
+documents for inspection and copying. The Commission is also authorized to obtain discovery,
+without further leave of court, using any of the procedures prescribed by Federal Rules of Civil
+Procedure 29, 30 (including telephonic depositions), 31, 33, 34, 36, 45, and 69.
+B.
+
+For matters concerning this Order, the Commission is authorized to communicate
+
+directly with Defendants. Defendants must permit representatives of the Commission to
+interview any employee or other person affiliated with Defendants who has agreed to such an
+interview. The person interviewed may have counsel present.
+C.
+
+The Commission may use all other lawful means, including posing, through its
+
+representatives as consumers, suppliers, or other individuals or entities, to Defendants or any
+individual or entity affiliated with Defendants, without the necessity of identification or prior
+notice. Nothing in this Order limits the Commission’s lawful use of compulsory process,
+pursuant to Sections 9 and 20 of the FTC Act, 15 U.S.C. §§ 49, 57b-1.
+XI.
+RETENTION OF JURISDICTION
+IT IS FURTHER ORDERED that this Court retains jurisdiction of this matter for
+purposes of construction, modification, and enforcement of this Order.
+SO ORDERED this ___ day of _______________, 201_.
+
+UNITED STATES DISTRICT JUDGE
+
+14
+
+Case 1:16-cv-02438 Document 1-9 Filed 12/14/16 Page 15 of 15
+
+SO STlPULA'? CJJA~D AGREE!):
+
+FOR PLA l~TJFF:
+Jl'El>F:RAl. TllADE COMMISSIO!'i
+.
+
+. •
+
+~
+
+-~-;_,____
+
+. ll 110 /~Df\d
+_______. ______
+
+Date: --~r.J. '
+
+··
+
+LA.MF AL. W.l\1-.KER
+
+D.C. Bar. ;~o. 49189 1·
+AND.REA V. AJUAS
+D.C BfU· Nl.l. l(l(J4270
+Fedewt Tr~d..: C0nHni;;•:ion
+
+60l) Pelill::i/lv:-.maAvenue, N.W.
+\X-'ashingfo,.1, D.C 1058'0
+21>2-320-2570 {\Valk~r)
+2Cl2-32n-27l5 (Arrn8) .
+
+.Attorney~ for Plaintiff
+FFDh.RAL TRADE COM~HSSION
+
+·- - - - -·-.. .:. . - - ··· .··· -··
+
+J:\J\H!S IlAL1 1iJRT
+
+,.
+
+_ __ -- ------
+
+11/ 10/ 2016
+
+Date; - ·-·--- -- - - ------- - -
+
+lJ.C. Bar Ne·. 4.Hth4
+
+'l ARA ~WAMlNA"L1:1A
+D:C. B::.;,r J\1;. 9~~0269
+nr
+..J. ' T' ;P"" ·T'.....,i;o
+j
+
+•I~ .
+
+.\
+
+~'
+
+5001~1ghtl !
+
+..
+
+Strt'.! t, r·.f.W.
+
+W4shitigt0;!. D.C. ?0004
+202-799-4441 mafocri)
+.
+,
+202- 7~9-4~23 ~SV\r:nuin•1thi,)
+Att(:rn<.:ys for Dd~r~c..111ts
+KURY COR.;""., Rl"iJY :.ffE e~C., ant! l\DL
+\ if( DlA 11"C.
+
+15
+
+

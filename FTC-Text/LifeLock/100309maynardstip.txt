@@ -1,0 +1,802 @@
+UNITED STATES DISTRICT COURT
+DISTRICT OF ARIZONA
+
+Federal Trade Commission,
+
+)
+)
+
+Plaintiff,
+
+)
+)
+
+)
+
+~
+
+)
+LifeLock, Inc.
+)
+a corporation; Robert J. Maynard, Jr.,
+)
+individually and as an officer of LifeLock,)
+Inc.; and
+)
+Richard Todd Davis,
+)
+)
+individually and as an officer of
+LifeLock, Inc.,
+)
+)
+Defendants.
+)
+
+Civil No.
+STIPULATED FINAL JUDGMENT AND
+
+ORDER FOR PERMANENT
+INJUNCTION AND OTHER
+EQUITABLE RELIEF AS TO
+DEFENDANT MAYNARD
+
+STIPULATED FINAL JUDGMENT AND ORDER FOR PERMANENT INJUNCTION
+AND OTHER EQUITABLE RELIEF AS TO DEFENDANT MAYNARD
+Plaintiff, the Federal Trade Commission ("FTC" or "Commission"), has concurrently
+filed its Complaint, which alleges that Defendants LifeLock, Inc. ("LifeLock"), Robert 1.
+Maynard, Jr. ("Maynard"), and Richard Todd Davis ("Davis") have engaged in violations of
+Section 5 of the FTC Act, 15 V.S.c. § 45. The Commission and Defendant Maynard ("Settling
+to
+Other
+
+to
+
+without trial or adjudication of
+admitting the truth
+
+or
+
+m
+
+Settling Defendant
+
+or liability for, any of the matters alleged in the Complaint. Settling
+
+Defendant has waived service of the Summons and Complaint.
+
+Page 1 of 19
+
+THEREFORE, IT IS HEREBY ORDERED, ADJUDGED, AND DECREED as
+
+follows:
+FINDINGS
+
+1.
+
+This Court has jurisdiction over the subject matter of this case and over Settling
+
+Defendant Maynard.
+2.
+
+Venue in this district is proper under 28 U.S.c. § 1391(b) and (c), and 15 U.S.C.
+
+§ 53(b).
+3.
+
+The acts and practices of Settling Defendant are in or affecting commerce, as
+
+"commerce" is defined in Section 4 of the Federal Trade Commission Act, 15 U.S.C. § 44.
+4.
+
+The Complaint states claims upon which relief may be granted against Settling
+
+Defendant under Sections 5 and 13(b) of the FTC Act, 15 U.S.C. §§ 45 and 53(b).
+5.
+
+Settling Defendant makes no admission to the allegations in the Complaint, other
+
+than the jurisdictional facts.
+6.
+
+Settling Defendant waives: (a) all rights to seek appellate review or otherwise
+
+challenge or contest the validity of this Order; (b) any claim he may have against the
+Commission, its employees, representatives, or agents that relate to the matter stated herein; (c)
+all claims under the Equal Justice Act, 28 U.S.C. § 2412, as amended by Pub. L 104-121, 110
+
+7.
+
+U'-'LUHjll",
+
+acknowledges that he
+8.
+
+Defendant has entered into this Order
+
+and without coercion, and he
+
+read the provisions of this Order and is prepared to abide by them.
+
+Entry of this Order is in the public interest.
+DEFINITIONS
+
+Page 2 of 19
+
+1.
+
+"Settling Defendant" shall mean Robert 1. Maynard Jr.
+
+2.
+
+"Personal information" shall mean individually identifiable information from or
+
+about an individual consumer including, but not limited to: (a) a first and last name; (b) a home
+or other physical address, including street name and name of city or to\vTI: (c) an email address
+or other online contact information, such as an instant messaging user identifier or a screen
+name, that reveals an individual's email address; (d) a telephone number; (e) a Social Security
+number; (f) credit or debit card information, including card number, expiration date, and/or data
+stored on the magnetic strip of a credit or debit card; (g) checking account infomlation, including
+the ABA routing number, account number, and/or check number; (h) a driver's license, military,
+or state identification number; (i) a persistent identifier, such as a customer number held in a
+"cookie" or processor serial number, that is combined with other available data that identifies an
+individual consumer; or G) any information that is combined with any of (a) through (i) above.
+
+ORDER
+I.
+
+PROHIBITED BUSINESS ACTIVITIES
+
+IT IS ORDERED that Settling Defendant and his officers, agents, servants, and
+employees and all persons in active concert or participation with them, who receive actual notice
+of this Order by personal service or otherwise, whether acting directly or through any sole
+
+or
+
+, are
+in connection
+
+sale of any product,
+
+the advertising, distributing, promoting, offering for sale, or
+or program designed for the purpose of preventing, mitigating, or
+
+recovering from any form of identity theft as defined in 18 U.S.C. § 1028, misrepresenting in
+any manner, expressly or by implication:
+Page 3 of 19
+
+1.
+
+that such product, service, or program provides complete protection
+against all forms of identity theft by making customers' personal
+information useless to identity thieves;
+that such product, service, or program prevents unauthorized changes to
+customers' address information;
+
+3.
+
+that such product, service, or program constantly monitors activity on each
+of its customers' consumer reports;
+
+4.
+
+that such product, service, or program ensures that a customer will always
+receive a phone call from a potential creditor before a new credit account
+is opened in the customer's name;
+
+5.
+
+the means, methods, procedures, effects, effectiveness, coverage, or scope
+of such product, service, or program;
+
+6.
+
+the risk of identity theft to consumers;
+
+7.
+
+whether a particular consumer has become or is likely to become a victim
+of identity theft; and/or
+
+8.
+
+the opinions, beliefs, findings, or experiences of an individual or group of
+consumers related in any way to any such product, service, or program.
+
+on
+for
+guarantees of any
+
+B.
+
+products,
+
+personal data, identity theft protection for minors, and
+or programs.
+
+misrepresenting in any manner, expressly or by implication, the manner or extent
+
+to which they maintain and protect the privacy, confidentiality, or security of any personal
+Page 4 of 19
+
+information collected from or about consumers.
+
+II. INFORMATION SECURITY PROGRAM
+IT IS FURTHER ORDERED that any business entity that Settling Defendant controls,
+directly or indirectly, which collects, maintains, or stores personal information from or about
+consumers, shall, upon operation of this business, establish and implement, and thereafter
+maintain, a comprehensive information security program that is designed to protect the security,
+confidentiality, and integrity of personal information collected from or about consumers. Such
+program, the content and implementation of which must be fully documented in ·writing, shall
+contain administrative, technical, and physical safeguards appropriate to the entity's size and
+complexity, the nature and scope of the entity's activities, and the sensitivity of the personal
+information collected from or about consumers, including:
+A.
+
+the designation of an employee or employees to coordinate and be accountable for
+
+the information security program;
+B.
+
+the identification of material internal and external risks to the security,
+
+confidentiality, and integrity of personal information that could result in the unauthorized
+disclosure, misuse, loss, alteration, destruction, or other compromise of such information, and
+assessment of the sufficiency of any safeguards in place to control these risks. At a minimum,
+
+not
+
+(1)
+
+including network and software design, information processing, storage, transmission, and
+disposal, and (3) prevention, detection, and response to attacks, intrusions, or other
+
+"U<'TP1Ti
+
+tailure;
+
+c.
+
+the design and implementation of reasonable safeguards to control the
+Page 5 of 19
+
+identified through risk assessment, and regular testing or monitoring of the effectiveness of the
+safeguards' key controls, system, and procedures;
+D.
+
+the development and use of reasonable steps to retain service providers capable of
+
+appropriately safeguarding personal information received from Settling Defendant and requiring
+service providers by contract to implement and maintain appropriate safeguards; and
+E.
+
+the evaluation and adjustment of Settling Defendant's information security
+
+program in light of the results of the testing and monitoring required by Subsection C of this
+Section, any material changes to Settling Defendant's operations or business arrangements, or
+any other circumstances that Settling Defendant knows or has reason to know may have a
+material impact on the effectiveness of their information security program.
+III.
+A.
+
+BIENNIAL ASSESSMENT REQUIREMENTS
+
+IT IS FURTHER ORDERED that any business entity that Settling Defendant
+
+controls, directly or indirectly, which collects, maintains, or stores personal information from or
+about consumers, shall, in connection with their compliance with Section II of this Order, obtain
+initial and biennial assessments and reports ("Assessments") from a qualified, objective,
+independent third-party professional, who uses procedures and standards generally accepted in
+the profession. The reporting period for the Assessments shall cover: (1) the first one hundred
+
+Each
+shall:
+1.
+
+set forth the specific administrative, technical, and physical safeguards
+
+implemented and maintained during the reporting period;
+2.
+
+explain how such safeguards are appropriate to the business entity's size
+Page 6 of 19
+
+and complexity, the nature and scope of the business entity's activities, and the sensitivity of the
+personal information collected from or about consumers:
+3.
+
+explain how the safeguards that have been implemented meet or exceed
+
+the protections required by Section II of this Order; and
+4.
+
+certifY that the business entity's security program is operating with
+
+sufficient effectiveness to provide reasonable assurance that the security, confidentiality, and
+integrity of personal information is protected and has so operated throughout the reporting
+period.
+B.
+
+Each Assessment shall be prepared and completed within sixty (60) days after the
+
+end of the reporting period to which the Assessment applies by a person qualified as a Certified
+Information System Security Professional (CISSP) or as a Certified Information Systems
+Auditor (CISA); a person holding Global Information Assurance Certification (GIAC) from the
+SysAdmin, Audit, Network, Security (SANS) Institute; or a similarly qualified person or
+organization approved by the Associate Director for Enforcement, Bureau of Consumer
+Protection, Federal Trade Commission, Washington, D.C. 20580.
+C.
+
+Settling Defendant shall provide the initial Assessment within ten (I 0) days after
+
+the Assessment has been prepared. All subsequent biennial Assessments shall be retained by
+
+IV. MONETARY RELIEF
+IT IS FURTHER ORDERED that:
+A.
+
+Judgment in the amount of $35,000,000.00 is hereby entered jointly and severally
+
+against Settling Defendant, Defendant LifeLock, Inc., and Defendant Richard Todd Davis. Full
+Page 7 of 19
+
+payment for the foregoing judgment is suspended subject to the provisions of the Section titled
+"Right to Reopen as to Monetary Judgment."
+B.
+
+All funds paid to or received by the Commission shall be deposited into a fund
+
+administered by the Commission or its agent to be used for equitable relief, including, but not
+limited to, consumer redress and any attendant expenses for the administration of any redress
+fund. In the event that direct redress to consumers is wholly or partially impracticable or funds
+remain after redress is completed, the Commission may apply any remaining funds for such
+equitable relief (including consumer information remedies), as it determines to be reasonably
+related to Settling Defendant's practices as alleged in the Complaint. Any funds not used for
+such equitable relief will be deposited with the United States Treasury as disgorgement. Settling
+Defendant shall have no right to challenge the Commission's choice of remedies under this
+Section. Settling Defendant shall have no right to contest the manner of distribution chosen by
+the Commission.
+C.
+
+Settling Defendant relinquishes all dominion, control, and title to the funds paid
+
+to the fullest extent permitted by law. Settling Defendant shall make no claim to or demand for
+return of the funds, directly or indirectly, through counselor otherwise.
+D.
+
+Settling Defendant agrees that the facts as alleged in the Complaint filed in this
+
+the
+
+,-"VULL'U00HJU
+
+to
+
+enl:Of(~e
+
+pursuant to this Order, including but not limited to a
+
+yv:,,'1'V),pnT
+
+HV,UUJ"JvJlH.Ui",,,",UUJU
+
+bankruptcy case. Settling Defendant further stipulates and
+
+or
+
+complaint in any
+
+that the facts alleged in the
+
+Complaint establish all elements necessary to sustain an action pursuant to, and that this Order
+shall have collateral estoppcl effect for purposes of Section 523(a)(2)(A) of the Bankruptcy
+Page 8 of 19
+
+Code, 11 U.S.c. § 523(a)(2)(A)
+
+V. RIGHT TO REOPEN AS TO MONETARY JUDGMENT
+IT IS FURTHER ORDERED that the Commission's agreement to this Order is
+expressly premised upon the truthfulness, accuracy and completeness of Settling Defendant's
+swom financial statements and supporting documents submitted to the Commission, which
+include material information upon which the Commission relied in negotiating and agreeing to
+this Order. If, upon motion by the Commission, this Court finds that Settling Defendant has
+failed to disclose any material asset, or materially misstated the value of any asset in the
+financial statements and information submitted to the Commission, or has made any other
+material misstatement or omission in the financial statements and related documents described
+above, then this Order shall be reopened and suspension of the judgment against the Settling
+Defendant shall be lifted for the purpose of requiring payment in the full amount of the judgment
+($35,000,000) less payments made by Defendant LifeLock, Inc., and Defendant Richard Todd
+Davis. Provided, however, that in all other respects this Order shall remain in full force and
+effect, unless otherwise ordered by the Court.
+
+VI. COMPLIANCE MONITORING
+IT IS FURTHER ORDERED that, for the purpose of (i) monitoring and investigating
+
+statements
+
+to
+
+Order is
+
+expressly premised:
+A.
+
+Within ten (10) days of receipt of written notice from a representative of the
+
+Commission, Settling Defendant shall submit additional written reports, which are true and
+accurate and sworn to under penalty of perjury; produce documents for inspection and copying;
+Page 9 of 19
+
+appear for deposition; and provide entry during nonnal business hours to any business location
+in Settling Defendant's possession or direct or indirect control to inspect the business operation:
+B.
+
+In addition, the Commission is authorized to use all other lawful means, including
+
+but not limited to:
+1.
+
+obtaining discovery from any person, without further leave of court, using
+
+the procedures prescribed by Fed. R. Civ. P. 30,31,33,34,36,45 and 69;
+2.
+
+posing as consumers and suppliers to Settling Defendant, his employees,
+
+or any other entity managed or controlled in whole or in part by Settling Defendant, without the
+necessity of identification of prior notice; and
+C.
+
+Settling Defendant shall pennit representatives of the Commission to interview
+
+any employer, consultant, independent contractor, representative, agent, or employee who has
+agreed to such an interview, relating in any way to any conduct subject to this Order. The person
+interviewed may have counsel present.
+
+Provided however, that nothing in this Order shall limit the Commission's lawful use of
+compulsory process, pursuant to Sections 9 and 20 of the FTC Act, 15 U.S.C. § § 49, 57b-l, to
+obtain any documentary material, tangible things, testimony, or infonnation relevant to unfair or
+deceptive acts or practices in or affecting commerce (within the meaning of 15 U.S.c.
+
+VII. COMPLIANCE REPORTING
+IT IS FURTHER ORDERED that, in order that compliance with the provisions of this
+Order
+
+be monitored:
+A.
+
+For a period of three (3) years from the date of entry of this Order.
+1.
+
+Settling Defendant shall notify the Commission of the following:
+Page 10 of 19
+
+a.
+
+Any changes in Settling Defendant's residence, mailing addresses,
+and telephone numbers, within ten (10) days of the date of the
+change;
+
+b.
+
+Any changes in Settling Defendant's employment status (including
+self-employment), and any change in Settling Defendant's
+ownership in any business entity, within ten (10) days of the date
+of such change. Such notice shall include the name and address of
+each business that Settling Defendant is affiliated with, employed
+by, creates or forms, or performs services for; a detailed
+description of the nature of the business; and a detailed description
+of Settling Defendant's duties and responsibilities in connection
+with the business or employment; and
+
+c.
+
+Any changes in Settling Defendant's name or use of any aliases or
+fictitious names.
+
+2.
+
+Settling Defendant shall notifY the Commission of any changes in
+
+business entity that Settling Defendant directly or indirectly controls, or has ownership interest
+in, that may affect compliance obligations under this Order, including but not limited to:
+
+or
+
+acts or
+
+ofa
+
+subject to this Order; or a change
+
+the business name or address, at least thirty (30) days prior
+
+to such change, provided that, with respect to
+
+proposed change in the business entity which
+
+Settling Defendant learns less than thirty (30) days prior to the date such action is to take place,
+Settling Defendant shall notifY the Commission as soon as practicable after obtaining such
+11 of 19
+
+knowledge.
+
+B.
+
+(180) days after
+
+One hundred
+
+thereafter for a period of three (3)
+
+date of entry of this Order and annually
+
+Settling Defendant shall provide a wTitten report to the
+
+FTC, which is true and accurate and sworn to under penalty of perjury, setting forth in detail the
+manner and form in which he has complied and is complying with this Order. This report shall
+include, but not be limited to:
+1.
+
+Settling Defendant's then-current residence address, mailing address, and
+
+telephone numbers;
+2.
+
+Settling Defendant's then-current employment status (including self-
+
+employment), including the name, addresses, and telephone numbers of each business that
+Settling Defendant is affiliated with, employed by, or performs services for; a detailed
+description of the nature of the business; and a detailed description of Settling Defendant's
+duties and responsibilities in connection with the business or employment;
+3.
+
+A copy of each acknowledgment of receipt of this Order, obtained
+
+pursuant to the Section titled "Distribution of Order;" and
+4.
+
+Any other changes required to be reported under Subsection A of this
+
+Section.
+
+fifteen (1
+
+D.
+
+t'\ll'or\ACPC
+
+ofthis Order, Settling Defendant shall,
+
+directed
+
+authorized representatives, send by overnight courier all reports and
+notifications required by this Order to the Commission, to the following address:
+Associate Director for Enforcement
+Page 12 of 19
+
+Federal Trade Commission
+600 Pennsylvania Avenue, N.W., Room NJ-2122
+Washington, D.C. 20580
+RE: FTC v. LifeLock, Inc.
+Provided that, in lieu of overnight courier, Settling Defendant may send such reports or
+
+notifications by first-class mail, but only if Settling Defendant contemporaneously send an
+electronic version of such report or notification to the Commission at: DEBrief(ipftc.gov.
+E.
+
+For purposes of the compliance reporting and monitoring required by this Order,
+
+the Commission is authorized to communicate directly with Settling Defendant.
+
+VIII. RECORD KEEPING PROVISIONS
+IT IS FURTHER ORDERED that Settling Defendant for any business for which he is
+the majority owner or directly or indirectly controls, which collects, maintains, or stores personal
+information from or about consumers, is hereby restrained and enjoined from failing to create
+and retain the following records for the following periods:
+A.
+
+For a period of six (6) years from the date of entry of this Order:
+1.
+
+Accounting records that reflect the cost of goods or services sold,
+revenues generated, and the disbursement of such revenues;
+
+2.
+
+Personnel records accurately reflecting: the name, address, and telephone
+number of each person employed in any
+including as an independent contractor; that person's job title or position;
+the date upon which the person commenced work; and the date and reason
+for the person's termination, if applicable;
+
+3.
+
+Customer files containing the names, addresses, phone numbers, dollar
+amounts paid, quantity of items or services purchased, and description of
+
+Page 13 of 19
+
+items or services purchased, to the extent such iniormation is obtained in
+the ordinary course of business;
+4.
+
+Complaints and refund requests (whether received directly, indirectly, or
+through any third party) and any responses to those complaints or
+requests;
+
+5.
+
+Copies of all sales scripts, training materials, advertisements, or other
+marketing materials;
+
+6.
+
+Any documents, whether prepared by or on behalf of Settling Defendant,
+that contradict, qualify, or call into question Settling Defendant's
+compliance with Sections I, II, and III of this Order; and
+
+7.
+
+All records and documents necessary to demonstrate full compliance with
+each provision ofthis Order, including but not limited to, copies of
+acknowledgments of receipt of this Order required by the Sections titled
+"Distribution of Order" and "Acknowledgment of Receipt of Order" and
+all reports submitted to the FTC pursuant to the Section titled
+"Compliance Reporting;"
+
+B.
+
+to
+
+For a period of three (3) years after the date of preparation of each Assessment
+
+n1'p·1"I(>1'?>
+
+including but not limited to all plans, l'PY\fYMtc
+
+<u'-<.''-"J, rpV1PUJQ
+
+audits, audit trails, policies,
+
+training materials, and assessments, and any other materials relating to Settling Defendant's
+compliance with the Section titled "Biennial Assessment Requirements."
+
+IX. DISTRIBUTION OF ORDER
+Page 14 of 19
+
+IT IS FURTHER ORDERED that for a period of three (3) years from the date of entry
+of this Order, Settling Defendant shall deliver copies of the Order as directed below:
+A.
+
+Settling Defendant as Control Person: For any business that Settling Defendant
+
+controls, directly or indirectly, or in which Settling Defendant has a majority ownership interest,
+Settling Defendant must deliver a copy ofthis Order to (1) all principals, offIcers, directors, and
+managers of that business; (2) all employees, agents, and representatives of that business who
+engage in conduct related to the subject matter of the Order; and (3) any business entity resulting
+from any change in structure set forth in Subsection A.2 of the Section titled "Compliance
+Reporting." For current personnel, delivery shall be within five (5) days of service of this Order
+upon Settling Defendant. For new personnel, delivery shall occur prior to them assuming their
+responsibilities. For any business entity resulting from any change in structure set forth in
+Subsection A.2 of the Section titled "Compliance Reporting," delivery shall be at least ten (10)
+days prior to the change in structure.
+
+B.
+
+Settling Defendant as employee or non-control person: For any business where
+
+Settling Defendant is not a controlling person of a business but otherwise engages in conduct
+related to the subject matter of this Order, Settling Defendant must deliver a copy of this Order
+to all principals and managers of such business before engaging in such conduct.
+
+all
+
+a
+
+Order pursuant to
+
+X. ACKNOWLEDGMENT OF RECEIPT OF THIS ORDER
+IT IS FURTHER ORDERED that Settling Defendant, within five (5) business days of
+receipt of this Order as entered by the Court, must submit to the Commission a truthful sworn
+Page 15 of 19
+
+statement acknowledging receipt of this Order.
+
+XI. COOPERATION WITH COMMISSION COUNSEL
+IT IS FURTHER ORDERED that the Settling Defendant shall, in connection with this
+action or any subsequent investigation related to or associated with the transaction or the
+occurrences that are the subject of the Complaint, cooperate in good faith with the Commission
+and appear at such places and times as the Commission shall reasonably request, after written
+notice, for interviews, conferences, pretrial discovery, review of documents, and for such other
+matters as may be reasonably requested by the Commission. If requested in writing by the
+Commission, the Settling Defendant shall appear or cause his officers, employees,
+representatives or agents to appear, and provide truthful testimony in any trial, deposition, or
+other proceeding related to or associated with the transactions or the occurrences that are the
+subject of the Complaint, without the service of a subpoena.
+
+XII. RETENTION OF JURISDICTION
+IT IS FURTHER ORDERED that this Court shall retain jurisdiction of this matter for
+purposes of construction, modification, and enforcement of this Order.
+
+XIII. COSTS AND ATTORNEYS' FEES
+IT IS FURTHER ORDERED that each party shall bear its own costs and attorneys'
+
+Page 16 of 19
+
+XIV. NOTICE OF ENTRY OF ORDER
+IT IS FURTHER ORDERED that entry in the docket of this Order by the Clerk of
+Court shall constitute notice to Settling Defendant of the tenns and conditions of this Order, and
+that Settling Defendant waives all rights to contest in any future proceeding whether Settling
+Defendant was properly served with this Order.
+The parties hereby stipulate to the entry of the foregoing Order, which shall constitute a
+final Order in this action.
+
+IT IS SO ORDERED:
+
+Page 17 of 19
+
+Feb 26 10 12:06p
+
+6023547719
+
+FROM THE DESK OF TAMMY MA
+
+STrpULATED AND AGREED TO BY:
+
+FOR DEFE~f)ANT ROBERT J. MAY],;ARD, JR.:
+
+Robert 1. Maynard, Jr.
+
+David Medine
+
+Wilmer "Hale
+Counsel for Robert J. Maynard. Jr.
+1875 Pennsylvania Avenue NW
+Washington, D.C. 20006
+(202) 663-6220
+david.medinertpi.vilmerhale.com
+jennifer. 0> connoflwwilmerhale.com
+
+18ofJ?
+
+p.18
+
+STIPULATED AND AGREED TO BY:
+FOR DEFENDANT ROBERT J. MAYNARD, JR.:
+
+Robert 1. Maynard, Jr.
+
+David Medine
+Wilmer Hale
+Counsel for Robert 1. Maynard, Jr.
+1875 Pennsylvania Avenue NW
+Washington, D.C. 20006
+(202) 663-6220
+david.medine@wilmerhale.com
+j ennifer.o' connor@wilmerhale.com
+
+18 of 19
+
+FOR PLAINTIFF FEDERAL TRADE COMMISSION
+
+Willard K. Tom
+General Counsel
+
+Maneesha Mithal
+Associate Director
+Division of Privacy and Identity Protection
+
+David Lincicum
+Burke Kappler
+Federal Trade Commission
+600 Pennsylvania Avenue, NW
+Mail Stop NJ-8122
+Washington, DC 20580
+(202) 326-3224 (general)
+(202) 326-2773 (Lincicum)
+(202) 326-3768 (facsimile)
+
+Page 19 of 19
+
+

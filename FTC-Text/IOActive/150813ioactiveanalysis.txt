@@ -1,0 +1,55 @@
+ANALYSIS OF PROPOSED CONSENT ORDER TO
+AID PUBLIC COMMENT
+In the Matter of IOActive, Inc., File No. 152 3187
+The Federal Trade Commission ("FTC" or "Commission") has accepted, subject
+to final approval, a consent agreement applicable to IOActive, Inc. (“IOActive”).
+The proposed consent order has been placed on the public record for thirty (30)
+days for receipt of comments by interested persons. Comments received during this
+period will become part of the public record. After thirty (30) days, the Commission will
+again review the agreement and the comments received, and will decide whether it
+should withdraw from the agreement and take appropriate action or make final the
+agreement's proposed order.
+This matter concerns alleged false or misleading representations that the company
+made to consumers concerning its participation in the Safe Harbor privacy Framework
+agreed upon by the U.S. and the European Union ("EU") ("U.S.-EU Safe Harbor
+Framework"). The U.S.-EU Safe Harbor Framework allows U.S. companies to transfer
+data outside the EU consistent with EU law. To join the U.S.-EU Safe Harbor
+Framework, a company must self-certify to the U.S. Department of Commerce
+("Commerce") that it complies with a set of principles and related requirements that have
+been deemed by the European Commission as providing “adequate” privacy protection.
+These principles include notice, choice, onward transfer, security, data integrity, access,
+and enforcement. Commerce maintains a public website, www.export.gov/safeharbor,
+where it posts the names of companies that have self-certified to the Safe Harbor
+Framework. The listing of companies indicates whether their self-certification is
+“current” or “not current.” Companies are required to re-certify every year in order to
+retain their status as current members of the Safe Harbor Framework.
+IOActive provides security consulting services. According to the Commission's
+complaint, the company has set forth on its website, www.ioactive.com/privacypolicy.html, privacy policies and statements about its practices, including statements
+related to its participation in the U.S-EU Safe Harbor Framework.
+The Commission's complaint alleges that IOActive falsely represented that it was
+a current participant in the U.S.-EU Safe Harbor Framework when, in fact, from May 2012
+until May 2015, IOActive was not a “current” participant in the U.S.-EU Safe Harbor
+Framework. The Commission’s complaint alleges that in May 2009, IOActive submitted
+self-certification to the U.S.-EU Safe Harbor Framework and and its status was changed to
+“current” on Commerce’s website. IOActive did not renew its self-certification in May
+2012 and Commerce subsequently updated IOActive’s status to “not current” on its public
+website.
+Part I of the proposed order prohibits IOActive from making misrepresentations
+about its membership in any privacy or security program sponsored by the government
+or any self-regulatory or standard-setting organization, including, but not limited to,
+the U.S.-EU Safe Harbor Framework.
+
+Parts II through VI of the proposed order are reporting and compliance
+provisions. Part II requires IOActive to retain documents relating to its compliance
+with the order for a five-year period. Part III requires dissemination of the order now
+and in the future to persons with responsibilities relating to the subject matter of the
+order. Part IV ensures notification to the
+FTC of changes in corporate status. Part V mandates that IOActive submit an initial
+compliance report to the FTC, and make available to the FTC subsequent reports. Part
+VI is a provision “sunsetting” the order after twenty (20) years, with certain
+exceptions.
+The purpose of this analysis is to facilitate public comment on the proposed
+order. It is not intended to constitute an official interpretation of the proposed
+complaint or order or to modify the order’s terms in any way.
+
+
